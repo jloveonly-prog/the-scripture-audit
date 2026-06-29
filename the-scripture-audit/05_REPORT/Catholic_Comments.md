@@ -1,6 +1,12 @@
 # Catholic Doctrine Comment Debate Transcript
 
-> **Note**: This document is a record of a YouTube comment debate on a Catholic channel, and it includes comments (expected) not only from Catholics but also from 'liberal theologians' active in Catholic spaces. Please do not misunderstand.
+> [!WARNING]
+> **[Disclaimer and Legal Notice]**
+> This document is a personal record created to research and verify religious and theological doctrines from an academic and biblical perspective.
+> 1. The Catholic arguments presented in this document are **simulations (examples)** reconstructed based on comment debates from public videos. There is absolutely no intention to target, demean, or defame any specific individual, organization, or actual YouTube channel.
+> 2. This was written for the purpose of sound doctrinal verification within the boundaries of freedom of religion and expression, and the contents of this document cannot be used as grounds for any legal dispute. Please keep this in mind upon any external disclosure.
+>
+> **Note**: This document records a public debate related to Catholicism. It includes (anticipated) comments not only from Catholic believers but also from 'liberal theologians' active in Catholic spaces. Please do not misunderstand.
 
 > **Format Guide**: The 🔵 **Catholic Comment** section is an **(example)** referencing actual debates, not the original text.
 > It is not identical to the actual comments and is reconstructed to help understand the context of the debate.

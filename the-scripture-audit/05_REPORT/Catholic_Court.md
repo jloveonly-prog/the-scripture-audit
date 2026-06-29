@@ -2,7 +2,13 @@
 > ## ⚖️ BVCAP 2.0 — Forensic Theological Court FULL VERSION
 >
 
-> **Note**: The original debate that served as the basis for this document comes from YouTube comments on a Catholic channel, and this includes arguments (anticipated) not only from Catholics but also from 'liberal theologians' active in Catholic spaces. Please do not misunderstand.
+> [!WARNING]
+> **[Disclaimer and Legal Notice]**
+> This document is a personal record created to research and verify religious and theological doctrines from an academic and biblical perspective.
+> 1. The Catholic arguments presented in this document are **simulations (examples)** reconstructed based on comment debates from public videos. There is absolutely no intention to target, demean, or defame any specific individual, organization, or actual YouTube channel.
+> 2. This was written for the purpose of sound doctrinal verification within the boundaries of freedom of religion and expression, and the contents of this document cannot be used as grounds for any legal dispute. Please keep this in mind upon any external disclosure.
+>
+> **Note**: This document records a public debate related to Catholicism. It includes (anticipated) comments not only from Catholic believers but also from 'liberal theologians' active in Catholic spaces. Please do not misunderstand.
 > **Case Name**: TheScriptureMaster (Protestant Apologetics Team) VS Catholic (Catholic Apologetics Team)
 > **Court Mode**: ⚔️ MODE B — Forensic Court Mode
 > **Premise**: Both sides agree to the absolute premise that **"The Bible is 100% truth"**, and use the Bible as the supreme code of law to derive doctrinal conclusions.

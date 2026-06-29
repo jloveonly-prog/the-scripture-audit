@@ -1,6 +1,12 @@
 # Biblical Apologetics Report on Catholic Doctrines
 
-> **Note**: The materials that formed the basis of this document are from YouTube comment debates on a Catholic channel, and they include arguments (expected) not only from Catholic believers but also from 'liberal theologians' active in Catholic spaces. Please do not misunderstand.
+> [!WARNING]
+> **[Disclaimer and Legal Notice]**
+> This document is a personal record created to research and verify religious and theological doctrines from an academic and biblical perspective.
+> 1. The Catholic arguments presented in this document are **simulations (examples)** reconstructed based on comment debates from public videos. There is absolutely no intention to target, demean, or defame any specific individual, organization, or actual YouTube channel.
+> 2. This was written for the purpose of sound doctrinal verification within the boundaries of freedom of religion and expression, and the contents of this document cannot be used as grounds for any legal dispute. Please keep this in mind upon any external disclosure.
+>
+> **Note**: This document records a public debate related to Catholicism. It includes (anticipated) comments not only from Catholic believers but also from 'liberal theologians' active in Catholic spaces. Please do not misunderstand.
 
 > **Purpose of this Document**
 > This document verifies major doctrines of Catholicism against the light of the Bible,
