@@ -69,12 +69,12 @@ the-scripture-audit/
 ├── ⚖️ BVCAP_GHQ.md                  ← Hybrid Engine (GHQ - Mode/Verdict Criteria)
 ├── 🧠 BVCAP_Pipeline.md       ← Tactical Pipeline (Execution Procedures)
 │
-├── 🕊️ 01_MANDATE(작전명령)/                ← [Phase 1] Preparation — Persona + Philosophy Injection
+├── 🕊️ 01_MANDATE/                ← [Phase 1] Preparation — Persona + Philosophy Injection
 │   ├── IDENTITY_Scribe42.md         (Who am I? — 42nd Scribe + Integrity Philosophy)
 │   ├── CREED_Override.md            (Quarantine academic consensus into H0)
 │   └── MANDATE_Agent.md             (Agent mandate and core rules)
 │
-├── 📖 02_TACTICS(전술)/               ← [Phase 2] Tactics Training — Rules before using weapons
+├── 📖 02_TACTICS/               ← [Phase 2] Tactics Training — Rules before using weapons
 │   │  "He teacheth my hands to war" — Psalm 18:34
 │   ├── HERMENEUTICS_Hillel_7.md     (Hermeneutical Constitution — Hillel's 7 Rules)
 │   ├── ANCHOR_ThirdData.md          (3rd Anchor Collection Rule — The key to reverse calculation)
@@ -82,10 +82,10 @@ the-scripture-audit/
 │   ├── LEXICON_Bible.md             (Biblical Names/Locations/Aliases Identifier Dictionary)
 │   └── ANALOGY_Modern.md            (Analogy Creation — 1-second understanding technique)
 │
-├── 📚 03_WAR_LOG(전투기록)/              ← [Phase 3] Audiovisual Education — Past Battle Records
+├── 📚 03_WAR_LOG/              ← [Phase 3] Audiovisual Education — Past Battle Records
 │   (See the Precedents Index Table below for details)
 │
-├── 🏹 04_QUIVER(무기고)/               ← [Phase 4] Weapons for the Battlefield (QUIVER TYPEs)
+├── 🏹 04_QUIVER/               ← [Phase 4] Weapons for the Battlefield (QUIVER TYPEs)
 │   ├── TYPE-A_Chronological.md      (Chronological Serial Dismantling)
 │   ├── TYPE-B_Sequential.md         (Event Sequential Parallel Integration)
 │   ├── TYPE-B-pi_PerceptionFilter.md (Perception Filter)
@@ -131,11 +131,11 @@ the-scripture-audit/
 │   ├── TYPE-AP_SpeechActTheory.md     (Speech Act Theory)
 │   └── TYPE-AQ_AudienceCriticism.md   (Audience Criticism)
 │
-├── 📥 _INBOX(작전목표)/              ← [Input] Target list for biblical verification/defense
+├── 📥 _INBOX/              ← [Input] Target list for biblical verification/defense
 │   ├── Bible_Defense_List.md        (30 Dilemmas + TYPE Mapping)
 │   └── Shabir_Ally_101_Contradictions.md (Islam's 101 Contradiction Attacks)
 │
-└── 📁 05_REPORT(전과보고서)/             ← [Output] Completed Audit Report Repository
+└── 📁 05_REPORT/             ← [Output] Completed Audit Report Repository
     └── (Saved in REPORT_[DilemmaName].md format)
 ```
 
@@ -371,7 +371,7 @@ Handling Method:
 **CASE-MULTI Mandatory Complex Weapons:**
 `TYPE-B` + `TYPE-B-ψ` + `TYPE-B-π` + `TYPE-C` + `DE-OVERLAP`
 
-**Reference Precedent (S-Grade):** `03_WAR_LOG(전투기록)/[B]_TombIncident_ResurrectionMorning.md`
+**Reference Precedent (S-Grade):** `03_WAR_LOG/[B]_TombIncident_ResurrectionMorning.md`
 
 ---
 

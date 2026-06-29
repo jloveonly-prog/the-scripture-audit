@@ -1,3 +1,5 @@
+> 🇰🇷 **Korean Repository(한국어 전용 저장소)**: [the-scripture-audit-ko](https://github.com/jloveonly-prog/the-scripture-audit-ko)
+
 # License & Free Use Policy
 
 All materials provided here are free to use.

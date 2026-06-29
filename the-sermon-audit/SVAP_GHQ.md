@@ -1,192 +1,192 @@
 > [!IMPORTANT]
-> ## 🏛️ 사령부 (GHQ — General Headquarters)
-> **이 문서가 하는 일**: MODE 결정 · 역할 배분 · 판결 기준 · 출력 양식 정의
-> **짝꿍 문서**: `SVAP_Pipeline.md` (전술 교범 — 실제 실행 절차)
-> **관계**: 사령부가 "어떤 감사를 왜 하는가"를 정의하면, 전술 교범이 "어떻게 감사하는가"를 실행한다.
+> ## 🏛️ GHQ (General Headquarters)
+> **What this document does**: Determines MODE · Role distribution · Verdict criteria · Output format definition
+> **Paired document**: `SVAP_Pipeline.md` (Tactical Manual — Actual execution procedure)
+> **Relationship**: The GHQ defines "what audit to perform and why", while the tactical manual executes "how to audit".
 
-# 🔬 SVAP 1.0 (the-sermon-audit의 내부 엔진 Sermon Verification & Audit Pipeline)
-**"Supreme Sermon Auditor — 설교 교리 중립 감사 파이프라인"**
+# 🔬 SVAP 1.0 (the-sermon-audit's Internal Engine: Sermon Verification & Audit Pipeline)
+**"Supreme Sermon Auditor — Doctrinally Neutral Sermon Audit Pipeline"**
 
-> **문서 역할**: 🏛️ **사령부 / GHQ (설교 감사 전략 · MODE · 판결 기준 결정)**
-> (이 문서는 AI가 설교자의 교리 주장을 성경 원문(KJV)과 대조 검증하기 위한 최고의 코어 아키텍처입니다.)
+> **Document Role**: 🏛️ **GHQ (Sermon Audit Strategy · MODE · Verdict Criteria Determination)**
+> (This document is the ultimate core architecture for the AI to cross-verify the preacher's doctrinal claims against the original biblical text (KJV).)
 
-> **버전**: v1.0
-> **상태**: FINAL MASTER
-> **핵심 철학**: **"설교자의 말은 성경의 말씀이 아니다. 설교자의 모든 교리 주장은 성경 텍스트와 1:1 대조하여 검증받아야 한다."**
-> 설교/강의 전문을 입력받아, 교리 주장을 전수 추출한 후, 각 주장을 BVCAP 엔진으로 성경 원문과 대조하여 정합성 여부를 **객관적으로 판정**한다.
-> 판결은 증거가 이끄는 곳으로 따라간다. 결론은 미리 정하지 않는다.
+> **Version**: v1.0
+> **Status**: FINAL MASTER
+> **Core Philosophy**: **"The preacher's words are not the words of the Bible. Every doctrinal claim of the preacher must be 1:1 cross-verified against the biblical text."**
+> It receives the full text of a sermon/lecture, exhaustively extracts doctrinal claims, and then **objectively judges** their consistency by cross-verifying each claim against the original biblical text using the BVCAP engine.
+> The verdict follows where the evidence leads. The conclusion is not predetermined.
 
 > **"Prove all things; hold fast that which is good." — 1 Thessalonians 5:21 KJV**
 
 ---
 
-## 🌐 OUTPUT LANGUAGE PROTOCOL (출력 언어 자동 감지)
+## 🌐 OUTPUT LANGUAGE PROTOCOL (Auto-detect Output Language)
 
 > [!NOTE]
-> 본 엔진은 **프롬프트 언어를 자동 감지**하여 최종 보고서의 출력 언어를 결정한다.
+> This engine **auto-detects the prompt language** to determine the final report's output language.
 >
-> | 입력 조건 | 출력 언어 |
+> | Input Condition | Output Language |
 > |:---|:---:|
-> | 프롬프트에 한국어 포함 | 한국어 |
-> | 프롬프트가 영어로만 구성 | English |
-> | 프롬프트 끝에 `[OUTPUT: EN]` 태그 | 영어 강제 |
-> | 프롬프트 끝에 `[OUTPUT: KR]` 태그 | 한국어 강제 |
+> | Prompt contains Korean | Korean |
+> | Prompt consists only of English | English |
+> | `[OUTPUT: EN]` tag at prompt end | Forced English |
+> | `[OUTPUT: KR]` tag at prompt end | Forced Korean |
 >
-> ⚠️ **내부 분석(헬라어·히브리어·KJV 원문)은 출력 언어와 무관하게 항상 동일하게 수행된다.**
+> ⚠️ **Internal analysis (Greek/Hebrew/KJV original text) is always performed identically regardless of the output language.**
 
 ---
 
-## 🧠 핵심 철학 요약 (Core Philosophy)
+## 🧠 Core Philosophy Summary
 
 ```
-설교 원고 입력 (_INBOX)
+Sermon Manuscript Input (_INBOX)
    │
-   ├─ GATE -1: 교리 주장 전수 추출 (Claim Extraction)      → "설교에 뭐라고 했는가?" 전수 스캔
-   │     └─ 결과 → 01_CLAIMS 폴더 저장
+   ├─ GATE -1: Exhaustive Claim Extraction               → Exhaustive scan: "What was said in the sermon?"
+   │     └─ Result → Save to 01_CLAIMS folder
    │
-   ├─ FOR 각 추출된 주장(Claim):
-   │   ├─ GATE 0: C-Code 결정                               → "이 주장은 어떤 유형인가?"
-   │   ├─ GATE 1: 관련 구절 수집                             → "성경이 실제로 뭐라고 하는가?"
-   │   ├─ GATE 2: 주석 검색 금지                             → "학계 통설로 오염 방지"
-   │   ├─ GATE 3: FULL SCAN (TYPE A→AU 전종 발동)            → "QUIVER 무기 전종 투입"
-   │   ├─ GATE 4: 역산 교차 검증                             → "이 결론이 다른 구절과도 맞는가?"
-   │   └─ GATE 5: 주장별 소(小)보고서 작성                   → "Claim-Level Verdict 발행"
+   ├─ FOR Each extracted Claim:
+   │   ├─ GATE 0: Determine C-Code                       → "What type of claim is this?"
+   │   ├─ GATE 1: Gather related verses                  → "What does the Bible actually say?"
+   │   ├─ GATE 2: Prohibition on commentary search       → "Prevent contamination by academic consensus"
+   │   ├─ GATE 3: FULL SCAN (Trigger all TYPE A→AU)      → "Deploy all QUIVER weapons"
+   │   ├─ GATE 4: Reverse Calculation Cross-Verification → "Does this conclusion fit with other verses?"
+   │   └─ GATE 5: Write Sub-Report per Claim             → "Issue Claim-Level Verdict"
    │   END FOR
    │
-   └─ GATE 6: 설교 종합 판정 + 최종 보고서 출력              → "이 설교는 교리적으로 건전한가?"
-         └─ 결과 → 02_REPORT 폴더 저장
+   └─ GATE 6: Comprehensive Sermon Judgment + Output     → "Is this sermon doctrinally sound?"
+         └─ Result → Save to 02_REPORT folder
 
-추출자(Extractor) → 검증자(Verifier) → 판정자(Judge) = 최종 판결
+Extractor → Verifier → Judge = Final Verdict
 ```
 
 > [!IMPORTANT]
-> **SVAP는 '설교자가 옳다'를 전제하지 않는다.**
-> 분석 전에 결론을 정하지 않는다. 증거가 주장의 성경적 정합성을 지지하면 BIBLICAL로 판결되고,
-> 증거가 충돌을 지지하면 UNBIBLICAL로 판결된다. 판정자는 어느 쪽에도 치우치지 않는다.
+> **SVAP does not assume 'the preacher is right'.**
+> It does not decide the conclusion prior to analysis. If the evidence supports the biblical consistency of the claim, it is judged BIBLICAL;
+> if the evidence supports a conflict, it is judged UNBIBLICAL. The Judge does not lean to either side.
 
 ---
 
-## 🤖 AI 역할 분담 체계 (Triple-Agent Collaboration)
+## 🤖 AI Role Distribution System (Triple-Agent Collaboration)
 
-SVAP 1.0 엔진은 설교 감사의 각 단계를 3명의 에이전트가 분담합니다.
+The SVAP 1.0 engine distributes the stages of the sermon audit among 3 agents.
 
-### MODE S: 설교 검증 모드 (Sermon Audit) — 단일 모드
+### MODE S: Sermon Audit Mode — Single Mode
 
-*   **적용 대상:** 설교자/강사의 교리 주장을 성경 원문(KJV)과 대조 검증.
-*   **전제:** 설교자는 성경을 인용하며 교리를 주장함. AI는 그 주장이 인용된 성경 텍스트와 실제로 일치하는지 검증.
+*   **Application Target:** Cross-verify the preacher/lecturer's doctrinal claims against the original biblical text (KJV).
+*   **Premise:** The preacher claims doctrine while quoting the Bible. The AI verifies whether the claim actually matches the quoted biblical text.
 
-| AI 역할 | 실제 담당 | 철학적 위치 | 임무 |
+| AI Role | Actual Responsibility | Philosophical Position | Mission |
 |:---:|:---:|:---|:---|
-| 🔍 **추출자** (Extractor) | **GATE -1 담당** | 냉정한 스캐너 | 설교 전문에서 모든 교리 주장을 전수 추출. 하나도 놓치지 않는 것이 유일한 목표. |
-| 🔬 **검증자** (Verifier) | **GATE 0~5 담당** | BVCAP 엔진 운용자 | 추출된 각 주장을 BVCAP 무기(TYPE-A~AU)로 성경과 대조 검증. 기존 the-scripture-audit의 전술/무기고를 그대로 사용. |
-| ⚖️ **판정자** (Judge) | **GATE 6 담당** | 완전 중립 심판 | 검증 결과를 종합하여 각 주장별 + 설교 전체의 교리적 건전성 판정. |
+| 🔍 **Extractor** | **GATE -1** | Cold-hearted Scanner | Exhaustively extract all doctrinal claims from the sermon full text. The only goal is to miss nothing. |
+| 🔬 **Verifier** | **GATE 0~5** | BVCAP Engine Operator | Cross-verify each extracted claim against the Bible using BVCAP weapons (TYPE-A~AU). Uses existing the-scripture-audit tactics/arsenal as is. |
+| ⚖️ **Judge** | **GATE 6** | Completely Neutral Referee | Synthesize verification results to judge the doctrinal soundness of each claim + the entire sermon. |
 
 ---
 
-## 🔑 핵심 금지 사항 (AI 혼선 방지 — 최우선 장착)
+## 🔑 Core Prohibitions (Prevent AI Confusion — Highest Priority)
 
 > [!WARNING]
-> 아래의 행동은 이 파이프라인의 실패를 의미한다. 분석 시작 전 반드시 숙지하라.
-> **BVCAP 기존 금지 사항은 전부 계승한다** → `../the-scripture-audit/BVCAP_Pipeline.md` 핵심 금지 사항 표 참조
+> The actions below mean the failure of this pipeline. You must be fully aware of them before starting the analysis.
+> **All existing BVCAP prohibitions are inherited.** → Refer to the core prohibitions table in `../the-scripture-audit/BVCAP_Pipeline.md`
 
-| ❌ 금지 행동 | ✅ 대체 행동 |
+| ❌ Forbidden Action | ✅ Alternative Action |
 |:---|:---|
-| 설교 전체를 한 번에 분석에 돌입 (GATE 0 직행) | 반드시 GATE -1에서 주장 전수 추출 후 개별 투입 |
-| 설교자의 의도를 AI가 추론하여 주장을 보정하는 행위 | 설교자가 실제로 말한 단어(텍스트)만으로 판단 |
-| 설교 전체 맥락을 핑계로 개별 주장의 오류를 무시 | 각 주장을 독립적으로 고립시켜 검증 (E-16 발동) |
-| "설교자가 아마 ~를 의미했을 것이다"라는 추정 | 텍스트에 기록된 그대로 검증 |
-| 검증 없이 "이 정도는 괜찮다"고 넘어가기 | 추출된 모든 주장 전수 검증 의무 |
-| 설교자의 원문을 보고서에 그대로 인용 | AI가 의역(Paraphrase)하여 기록 (COPYRIGHT SHIELD) |
-| "학자들에 따르면~" 으로 시작하는 답변 | 먼저 성경 텍스트로 분석하고, 학자는 교차 검증용으로만 인용 |
+| Diving into analysis of the whole sermon at once (Directly to GATE 0) | Must exhaustively extract claims at GATE -1 first, then input individually |
+| AI inferring the preacher's intent to adjust the claim | Judge solely by the words (text) actually spoken by the preacher |
+| Ignoring errors in individual claims using the overall sermon context as an excuse | Isolate and verify each claim independently (Trigger E-16) |
+| Assuming "the preacher probably meant~" | Verify exactly as recorded in the text |
+| Skipping verification saying "this much is okay" | Obligation to exhaustively verify all extracted claims |
+| Quoting the preacher's original text directly in the report | AI must record via paraphrase (COPYRIGHT SHIELD) |
+| Answers starting with "According to scholars~" | Analyze with biblical text first, cite scholars only for cross-verification |
 
 ---
 
-## 🛡️ COPYRIGHT SHIELD (저작권 보호 프로토콜)
+## 🛡️ COPYRIGHT SHIELD Protocol
 
 > [!IMPORTANT]
-> 설교 원문은 저작권 보호 대상이다. 보고서에 원문을 그대로 싣는 것은 저작권 침해 위험이 있다.
-> SVAP 엔진의 모든 출력물에는 아래 규칙이 적용된다.
+> The original sermon text is subject to copyright protection. Including the original text directly in the report risks copyright infringement.
+> The rules below apply to all outputs of the SVAP engine.
 
-| 구분 | 규칙 |
+| Category | Rule |
 |:---|:---|
-| ❌ **금지** | 설교자의 원문을 3문장 이상 연속 직접 인용 |
-| ✅ **의무** | AI가 설교자의 주장을 의역(Paraphrase)하여 기록 |
-| ✅ **의무** | "설교자는 ~라고 주장하였다" 형식의 간접 화법 사용 |
-| ✅ **허용** | 인용 구절(성경 본문)은 성경 자체이므로 자유 인용 가능 |
-| ✅ **허용** | 5단어 이하의 핵심 표현 직접 인용 (예: "천사도 구원받습니다") |
-| ✅ **허용** | 보고서 제목에 설교자명 포함 (사실적 보도 범위) |
-| ✅ **허용** | 설교 제목 인용 |
+| ❌ **Forbidden** | Directly quoting the preacher's original text for 3 or more consecutive sentences |
+| ✅ **Mandatory** | AI must paraphrase and record the preacher's claims |
+| ✅ **Mandatory** | Use indirect speech like "The preacher claimed that~" |
+| ✅ **Permitted** | Quoted verses (Biblical text) are the Bible itself, thus freely quoted |
+| ✅ **Permitted** | Direct quotation of core expressions under 5 words (e.g., "Even angels are saved") |
+| ✅ **Permitted** | Including preacher's name in the report title (Factual reporting scope) |
+| ✅ **Permitted** | Quoting the sermon title |
 
 ---
 
-## ⚖️ 판결 체계 (Verdict System)
+## ⚖️ Verdict System
 
-### 주장별 판결 (Claim-Level Verdict)
+### Claim-Level Verdict
 
-> 각 추출된 교리 주장에 대해 개별적으로 판결한다.
+> Individual verdict for each extracted doctrinal claim.
 
-| 판결 코드 | 선고 | 조건 |
+| Verdict Code | Pronouncement | Condition |
 |:---:|:---|:---|
-| ✅ **BIBLICAL** | **성경적 확정** — 주장이 인용 구절과 정합함 | KJV 원문과 주장이 논리적으로 일치 |
-| ⚠️ **UNSUPPORTED** | **근거 불충분** — 인용 구절이 주장을 직접 뒷받침하지 않음 | 구절은 존재하나 주장과의 논리적 연결 부족 |
-| ❌ **UNBIBLICAL** | **비성경적** — 주장이 성경과 충돌함 | TYPE 무기 검증 결과 성경 텍스트와 직접 모순 |
-| 🟡 **OPINION** | **개인 견해** — 성경적 근거 없는 설교자 의견 | 성경 인용 없이 제시된 교리 주장 |
+| ✅ **BIBLICAL** | **Biblically Confirmed** — Claim is consistent with quoted verse | Claim logically matches KJV original text |
+| ⚠️ **UNSUPPORTED** | **Insufficient Evidence** — Quoted verse does not directly support the claim | Verse exists but lacks logical connection to the claim |
+| ❌ **UNBIBLICAL** | **Unbiblical** — Claim conflicts with the Bible | TYPE weapon verification reveals direct contradiction with biblical text |
+| 🟡 **OPINION** | **Personal Opinion** — Preacher's opinion without biblical basis | Doctrinal claim presented without biblical quotation |
 
 > [!NOTE]
-> **인식론적 판정 등급 (Epistemological Verdict Grade)**
-> BIBLICAL 판결 시, BVCAP의 확신도 등급을 병기한다:
-> - ✅ EXPLICIT (직접 명시): 인용 구절이 주장을 자구(Text)로 직접 지지
-> - ✅✅ STRONG: COMBO 2종 이상 수렴
-> - ✅✅✅ IRONCLAD: 모든 대안 해석 기각 + COMBO 3종+ + STRESS-TEST-7 통과
+> **Epistemological Verdict Grade**
+> Upon a BIBLICAL verdict, BVCAP's confidence grade is also indicated:
+> - ✅ EXPLICIT: Quoted verse directly supports the claim via text
+> - ✅✅ STRONG: Convergence of 2 or more COMBOs
+> - ✅✅✅ IRONCLAD: All alternative interpretations dismissed + COMBO 3+ + Passed STRESS-TEST-7
 
-### 설교 전체 판결 (Sermon-Level Verdict)
+### Sermon-Level Verdict
 
-> 모든 주장별 판결을 종합하여 설교 전체의 교리적 건전성을 판정한다.
+> Synthesizes all claim-level verdicts to judge the doctrinal soundness of the entire sermon.
 
-| 등급 | 선고 | 조건 |
+| Grade | Pronouncement | Condition |
 |:---:|:---|:---|
-| 🟢 **SOUND** | **건전** | 모든 주장이 ✅ BIBLICAL |
-| 🟡 **CAUTION** | **주의** | ⚠️ UNSUPPORTED 또는 🟡 OPINION이 존재하나 ❌ 없음 |
-| 🔴 **ALERT** | **경고** | ❌ UNBIBLICAL 주장이 1개 이상 존재 |
+| 🟢 **SOUND** | **Sound** | All claims are ✅ BIBLICAL |
+| 🟡 **CAUTION** | **Caution** | ⚠️ UNSUPPORTED or 🟡 OPINION exists, but no ❌ UNBIBLICAL |
+| 🔴 **ALERT** | **Alert** | 1 or more ❌ UNBIBLICAL claims exist |
 
 ---
 
-## 🗺️ 전체 파이프라인 흐름도 (The Strategic Map)
+## 🗺️ The Strategic Map (Overall Pipeline Flow)
 
 ```
-[설교 원고 입력 (_INBOX)]
+[Sermon Manuscript Input (_INBOX)]
          │
          ▼
 ┌─────────────────────────────────────────────┐
-│  GATE -1: 교리 주장 전수 추출               │
-│  (추출자 담당 — Claim Extraction)            │
-│  - 설교 전문 순차 스캔                       │
-│  - 위험 키워드 패턴 매칭                     │
-│  - 교리 주장 목록 + 인용 구절 매핑           │
-│  - 결과 → 01_CLAIMS 폴더 저장               │
+│  GATE -1: Exhaustive Claim Extraction       │
+│  (Assigned to Extractor)                    │
+│  - Sequential scan of sermon full text      │
+│  - Risk keyword pattern matching            │
+│  - Claim list + Quoted verse mapping        │
+│  - Result → Save to 01_CLAIMS folder        │
 └─────────────────┬───────────────────────────┘
                   │
          ┌────────┘
-         │  FOR 각 추출된 주장(Claim):
+         │  FOR Each extracted Claim:
          ▼
 ┌─────────────────────────────────────────────┐
-│  GATE 0~5: BVCAP 엔진 투입                  │
-│  (검증자 담당 — 기존 BVCAP 파이프라인)       │
-│  - GATE 0: C-Code 결정                      │
-│  - GATE 1: 관련 구절 수집                   │
-│  - GATE 2: 주석 검색 금지                   │
+│  GATE 0~5: Input to BVCAP Engine            │
+│  (Assigned to Verifier — Existing BVCAP)    │
+│  - GATE 0: Determine C-Code                 │
+│  - GATE 1: Gather related verses            │
+│  - GATE 2: Prohibition on commentary search │
 │  - GATE 3: FULL SCAN (TYPE A→AU)            │
-│  - GATE 4: 역산 교차 검증                   │
-│  - GATE 5: 주장별 소(小)보고서 작성          │
+│  - GATE 4: Reverse Calc Cross-Verification  │
+│  - GATE 5: Write Sub-Report per Claim       │
 └─────────────────┬───────────────────────────┘
                   │  END FOR
                   ▼
 ┌─────────────────────────────────────────────┐
-│  GATE 6: 설교 종합 판정 + 보고서 출력        │
-│  (판정자 담당)                               │
-│  - 주장별 판결 종합                          │
-│  - 설교 전체 등급 결정                       │
-│  - 결과 → 02_REPORT 폴더 저장               │
+│  GATE 6: Comprehensive Judgment + Output    │
+│  (Assigned to Judge)                        │
+│  - Synthesize claim-level verdicts          │
+│  - Determine overall sermon grade           │
+│  - Result → Save to 02_REPORT folder        │
 └─────────────────────────────────────────────┘
          │
          ▼
@@ -195,93 +195,93 @@ SVAP 1.0 엔진은 설교 감사의 각 단계를 3명의 에이전트가 분담
 [🟢 SOUND] [🟡 CAUTION] [🔴 ALERT]
 ```
 
-> **📌 SVAP vs BVCAP 관계 매핑 테이블**
+> **📌 SVAP vs BVCAP Relationship Mapping Table**
 >
-> | SVAP (설교 감사) | BVCAP (구절 감사) | 관계 |
+> | SVAP (Sermon Audit) | BVCAP (Verse Audit) | Relationship |
 > |:---|:---|:---|
-> | **GATE -1**: 교리 주장 전수 추출 | (없음 — BVCAP의 구조적 공백) | SVAP 고유 신규 |
-> | **GATE 0~5**: 주장별 검증 루프 | **GATE 0~5**: 단일 난제 검증 | 그대로 참조 |
-> | **GATE 6**: 설교 종합 판정 | (없음 — 단일 난제라 불필요) | SVAP 고유 신규 |
-> | MODE S (설교 검증) | MODE A (방패) / MODE B (법정) | 새로운 단일 모드 |
-> | 추출자/검증자/판정자 | 비판자/분석자/중재자 | 역할 재배치 |
+> | **GATE -1**: Exhaustive Claim Extraction | (None — BVCAP's structural gap) | Unique to SVAP |
+> | **GATE 0~5**: Verification Loop per Claim | **GATE 0~5**: Single challenge verif. | Referenced as is |
+> | **GATE 6**: Comprehensive Sermon Judgment | (None — Unnecessary for single) | Unique to SVAP |
+> | MODE S (Sermon Verification) | MODE A (Shield) / MODE B (Court) | New single mode |
+> | Extractor/Verifier/Judge | Critic/Analyst/Mediator | Role reallocation |
 
 ---
 
-## 📋 BVCAP 자산 참조 맵 (공유 자산 — 복제 금지)
+## 📋 BVCAP Asset Reference Map (Shared Assets — Do Not Duplicate)
 
 > [!IMPORTANT]
-> SVAP는 BVCAP의 무기·전술·작전명령을 **복제하지 않고 참조**한다.
-> 아래 자산은 모두 `../the-scripture-audit/` 경로의 원본을 사용한다.
+> SVAP **references, rather than duplicates**, BVCAP's weapons, tactics, and mandates.
+> All assets below use the originals in the `../the-scripture-audit/` path.
 
-| 자산 | 참조 경로 | 용도 |
+| Asset | Reference Path | Purpose |
 |:---|:---|:---|
-| 작전명령 | `../the-scripture-audit/01_MANDATE(작전명령)/` | 페르소나/CREED/에이전트 사명 장착 |
-| 전술 | `../the-scripture-audit/02_TACTICS(전술)/` | 힐렐 7대/DE-OVERLAP/ANCHOR 등 |
-| 전투기록 | `../the-scripture-audit/03_WAR_LOG(전투기록)/` | 선례 참조 |
-| 무기고 | `../the-scripture-audit/04_QUIVER(무기고)/` | TYPE-A~AU + TYPE-B-π 전종 무기 |
-| BVCAP 파이프라인 | `../the-scripture-audit/BVCAP_Pipeline.md` | GATE 0~5 실행 절차 |
-| BVCAP 사령부 | `../the-scripture-audit/BVCAP_GHQ.md` | E-Code(E-01~E-16), 판결 기준 참조 |
+| Mandates | `../the-scripture-audit/01_MANDATE/` | Equip Persona/CREED/Agent Mission |
+| Tactics | `../the-scripture-audit/02_TACTICS/` | Hillel 7/DE-OVERLAP/ANCHOR etc. |
+| Combat Logs | `../the-scripture-audit/03_WAR_LOG/` | Precedent reference |
+| Arsenal | `../the-scripture-audit/04_QUIVER/` | All weapons TYPE-A~AU + TYPE-B-π |
+| BVCAP Pipeline | `../the-scripture-audit/BVCAP_Pipeline.md` | Execution procedure for GATE 0~5 |
+| BVCAP GHQ | `../the-scripture-audit/BVCAP_GHQ.md` | Reference E-Codes (E-01~16), Verdict criteria |
 
 ---
 
-## 🔍 회피논법 탐지 (Evasion Detection — E-Codes)
+## 🔍 Evasion Detection (E-Codes)
 
-> BVCAP_GHQ.md의 E-01~E-16 전종을 그대로 계승한다.
-> → `../the-scripture-audit/BVCAP_GHQ.md` PHASE 4 표 전체 참조
+> Inherits all E-01~E-16 types from BVCAP_GHQ.md.
+> → Refer entirely to the PHASE 4 table in `../the-scripture-audit/BVCAP_GHQ.md`
 
 > [!WARNING]
-> **E-16 (문맥적 면죄부)** 는 SVAP에서 특히 중요하다:
-> 설교의 전체 문맥/흐름을 핑계로 개별 주장의 치명적 오류를 AI가 덮어주는 것을 엄금한다.
-> 설교 감사에서 E-16은 가장 빈번하게 발동될 회피논법이다.
+> **E-16 (Contextual Indulgence)** is particularly important in SVAP:
+> It is strictly forbidden for the AI to cover up a fatal error in an individual claim using the overall context/flow of the sermon as an excuse.
+> In sermon audits, E-16 is the evasion logic that will trigger most frequently.
 
 ---
 
-## 📋 최종 출력 양식 — SVAP v1.0 Audit Report
+## 📋 Final Output Format — SVAP v1.0 Audit Report
 
-> **📌 출력 원칙**: 내부적으로 FULL SCAN 전종 투입을 수행하되, 최종 출력물은 설교 청취자가 단숨에 이해할 수 있는 **'교리 주장 추적 매트릭스(Claim Tracking Matrix)'**와 **'개별 검증 요약'**을 포함한 감사 보고서 형태로 작성한다.
+> **📌 Output Principle**: Internally perform full deployment of FULL SCAN, but the final output must be formatted as an audit report including a **'Claim Tracking Matrix'** and **'Individual Verification Summaries'** that sermon listeners can instantly understand.
 
 ````markdown
-# [설교 제목] — SVAP 교리 감사 보고서
-**— "[설교의 핵심 주제]" SVAP 1.0 교리 중립 감사 보고서 —**
+# [Sermon Title] — SVAP Doctrinal Audit Report
+**— "[Sermon's Core Topic]" SVAP 1.0 Doctrinally Neutral Audit Report —**
 
-> **STATUS**: 검증 완료 | SERMON VERDICT: [🟢 SOUND / 🟡 CAUTION / 🔴 ALERT]
-> **설교자**: [이름] | **날짜**: [날짜] | **출처**: [유튜브 URL 등]
-> **주제 구절**: [설교의 중심 성경 구절]
-> **추출된 교리 주장 수**: [N]건 | **검증 완료**: [N]건
+> **STATUS**: Verification Complete | SERMON VERDICT: [🟢 SOUND / 🟡 CAUTION / 🔴 ALERT]
+> **Preacher**: [Name] | **Date**: [Date] | **Source**: [YouTube URL etc.]
+> **Topic Verse**: [Core Bible verse of sermon]
+> **Extracted Doctrinal Claims**: [N] | **Verification Complete**: [N]
 
 ---
 
-## 1. 설교 개요 (AI 의역)
-[설교 내용의 핵심을 AI가 저작권 안전하게 의역하여 요약]
+## 1. Sermon Overview (AI Paraphrase)
+[AI safely paraphrases and summarizes the core content of the sermon regarding copyright]
 
-## 2. 추출된 교리 주장 목록 (GATE -1 결과)
-| # | 시간대 | 주장 요약 (의역) | 인용 구절 | 위험도 | 판결 |
-|---|--------|------------------|-----------|--------|------|
-| 1 | 12:30 | [AI 의역] | 골 1:20 | 🔴 | ❌ UNBIBLICAL |
-| 2 | 18:45 | [AI 의역] | 히 2:16 | 🟡 | ⚠️ UNSUPPORTED |
-| 3 | 25:10 | [AI 의역] | 요 3:16 | 🟢 | ✅ BIBLICAL |
+## 2. List of Extracted Doctrinal Claims (GATE -1 Result)
+| # | Timestamp | Claim Summary (Paraphrase) | Quoted Verse | Risk | Verdict |
+|---|-----------|----------------------------|--------------|------|---------|
+| 1 | 12:30 | [AI Paraphrase] | Col 1:20 | 🔴 | ❌ UNBIBLICAL |
+| 2 | 18:45 | [AI Paraphrase] | Heb 2:16 | 🟡 | ⚠️ UNSUPPORTED |
+| 3 | 25:10 | [AI Paraphrase] | John 3:16 | 🟢 | ✅ BIBLICAL |
 | ... | ... | ... | ... | ... | ... |
 
-## 3. 주장별 상세 검증 결과
+## 3. Detailed Verification Results per Claim
 
-### Claim #1: [의역된 주장]
-> **C-Code**: [해당 코드] | **적용 TYPE**: [TYPE 조합] | **판결**: [✅/⚠️/❌/🟡]
-> **설교자 주장 (의역)**: "설교자는 ~라고 주장하였다"
-> **인용 구절 (KJV 원문)**: [KJV 원문 전문]
-> **검증 근거**: [BVCAP 무기 분석 결과 요약]
-> **핵심 구절 대조**: [설교자 주장 vs 성경 원문의 차이점]
+### Claim #1: [Paraphrased Claim]
+> **C-Code**: [Code] | **Applied TYPE**: [TYPE Combo] | **Verdict**: [✅/⚠️/❌/🟡]
+> **Preacher's Claim (Paraphrase)**: "The preacher claimed that~"
+> **Quoted Verse (KJV Original)**: [KJV full text]
+> **Basis for Verification**: [BVCAP Weapon Analysis Result Summary]
+> **Core Verse Contrast**: [Difference between preacher's claim vs original biblical text]
 
 ### Claim #2: ...
 
-## 4. 종합 판정
+## 4. Comprehensive Judgment
 
 ### SERMON VERDICT: [🟢 SOUND / 🟡 CAUTION / 🔴 ALERT]
-> **판정 이유**: [3~4줄 요약]
-> **특이사항**: [주목할 만한 발견]
-> **통계**: ✅ BIBLICAL [N]건 / ⚠️ UNSUPPORTED [N]건 / ❌ UNBIBLICAL [N]건 / 🟡 OPINION [N]건
+> **Reason for Judgment**: [3-4 line summary]
+> **Noteworthy Points**: [Notable discoveries]
+> **Statistics**: ✅ BIBLICAL [N] / ⚠️ UNSUPPORTED [N] / ❌ UNBIBLICAL [N] / 🟡 OPINION [N]
 
-## 5. 영적 교훈 (LESSON-6)
-[이 설교 감사를 통해 얻을 수 있는 영적 교훈]
+## 5. Spiritual Lesson (LESSON-6)
+[Spiritual lesson obtainable through this sermon audit]
 ````
 
 ---
@@ -289,36 +289,36 @@ SVAP 1.0 엔진은 설교 감사의 각 단계를 3명의 에이전트가 분담
 ## 🚀 System Run: Trigger / Unified Pipeline
 
 > [!IMPORTANT]
-> **통합 엔진 실행 프로토콜**
-> 이 문서(`SVAP_GHQ.md`)는 **사령부(GHQ)**이자 **출력 양식(Presentation Layer)**이며,
-> 실제 작전 수행(추출·분석·검증) 로직은 반드시 **`SVAP_Pipeline.md` (전술 교범 / Logic Layer)**를 따른다.
-> GATE 0~5의 실행은 **`../the-scripture-audit/BVCAP_Pipeline.md`**를 참조한다.
+> **Unified Engine Execution Protocol**
+> This document (`SVAP_GHQ.md`) is the **GHQ** and **Presentation Layer**.
+> The actual operational logic (extraction/analysis/verification) must follow **`SVAP_Pipeline.md` (Tactical Manual / Logic Layer)**.
+> For the execution of GATE 0~5, refer to **`../the-scripture-audit/BVCAP_Pipeline.md`**.
 
-사용자가 설교 원고 또는 설교 검증 요청을 입력하면, AI는 즉각 다음 절차를 가동하라:
+When a user inputs a sermon manuscript or requests a sermon verification, the AI must immediately trigger the following procedure:
 
-**1. 설교 전처리 (SVAP_Pipeline.md — GATE -1)**
-  - COPYRIGHT SHIELD 장착
-  - 교리 주장 전수 추출
-  - 주장 목록 → `01_CLAIMS(주장추출)` 폴더 저장
+**1. Sermon Pre-processing (SVAP_Pipeline.md — GATE -1)**
+  - Equip COPYRIGHT SHIELD
+  - Exhaustively extract doctrinal claims
+  - Save claim list → `01_CLAIMS` folder
 
-**2. 주장별 BVCAP 검증 (BVCAP_Pipeline.md — GATE 0~5 반복)**
-  - `../the-scripture-audit/01_MANDATE(작전명령)` 및 `02_TACTICS(전술)` 룰셋 장착
-  - `../the-scripture-audit/04_QUIVER(무기고)` 전종 무기 FULL SCAN 실행
-  - 각 주장별 Claim-Level Verdict 발행
+**2. BVCAP Verification per Claim (BVCAP_Pipeline.md — Repeat GATE 0~5)**
+  - Equip `../the-scripture-audit/01_MANDATE` and `02_TACTICS` rulesets
+  - Execute FULL SCAN of all weapons in `../the-scripture-audit/04_QUIVER`
+  - Issue Claim-Level Verdict for each claim
 
-**3. 설교 종합 판정 + 보고서 출력 (SVAP_GHQ.md 양식)**
-  - 주장별 판결 종합
-  - 설교 전체 등급 결정 (🟢 SOUND / 🟡 CAUTION / 🔴 ALERT)
-  - 최종 보고서 → `02_REPORT(설교감사보고서)` 폴더 저장
+**3. Comprehensive Sermon Judgment + Report Output (SVAP_GHQ.md Format)**
+  - Synthesize claim-level verdicts
+  - Determine overall sermon grade (🟢 SOUND / 🟡 CAUTION / 🔴 ALERT)
+  - Final report → Save to `02_REPORT` folder
 
 > [!WARNING]
-> **편향 금지 원칙**: AI는 설교자의 유명세, 교단, 전통에 관계없이 텍스트만으로 판단한다.
-> 판정자는 "유명한 목사님이니까 맞겠지"라는 전제를 허용하지 않는다.
-> 판정자는 "이 교단에서는 이렇게 가르치니까 틀렸다"라는 전제도 허용하지 않는다.
-> **오직 성경 텍스트(KJV)와의 정합성만이 유일한 기준이다.**
+> **Anti-Bias Principle**: The AI judges solely by the text, regardless of the preacher's fame, denomination, or tradition.
+> The Judge does not allow the premise "Since he is a famous pastor, he must be right."
+> The Judge also does not allow the premise "Since this denomination teaches this, it is wrong."
+> **Consistency with the biblical text (KJV) is the only and absolute standard.**
 
 ---
 *Generated by SVAP 1.0 Supreme Sermon Auditor Engine*
 *Architecture: Layered System (Extraction: SVAP_Pipeline.md GATE-1 + Verification: BVCAP_Pipeline.md GATE 0~5 + Presentation: SVAP_GHQ.md)*
-*BVCAP Engine: ../the-scripture-audit/ (무기고·전술·작전명령 공유)*
+*BVCAP Engine: ../the-scripture-audit/ (Shared Arsenal/Tactics/Mandates)*
 *STATUS: RIGOROUS NEUTRALITY ENFORCED | FULL CLAIM EXTRACTION | TARGET: EVIDENCE-BASED VERDICT*

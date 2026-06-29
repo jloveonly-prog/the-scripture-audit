@@ -1,6 +1,7 @@
 # ⚖️ TheScriptureAudit
 **Official Home: [TheScripture.org](https://TheScripture.org)**  
-**GitHub: [jloveonly-prog/the-scripture-audit](https://github.com/jloveonly-prog/the-scripture-audit)**  
+**GitHub en: [jloveonly-prog/the-scripture-audit](https://github.com/jloveonly-prog/the-scripture-audit)**  
+**GitHub ko: [jloveonly-prog/the-scripture-audit-ko](https://github.com/jloveonly-prog/the-scripture-audit-ko)**  
 **Core Engine: `the-scripture-audit`**
 
 > **"For the word of the LORD is right; and all his works are done in truth." (Psalm 33:4)**  
