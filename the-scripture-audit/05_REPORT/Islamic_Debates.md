@@ -316,9 +316,9 @@ If you claim that the angels inferred it... you will shake Islamic doctrine even
 
 ### [Debate B-1] Family Ties vs. Distancing from Disbelievers — The Clash Between Hadith and Quran
 
-> When a member in the room shared a conflict with non-Muslim family members, Sena (Islam 2) shared a Hadith regarding family ties as a form of comfort. TheScriptureMaster read that Hadith and posted an argument pointing out its contradiction with the Quran.
+> When a member in the room shared a conflict with non-Muslim family members,  (Islam 2) shared a Hadith regarding family ties as a form of comfort. TheScriptureMaster read that Hadith and posted an argument pointing out its contradiction with the Quran.
 
-**Hadith Shared by Sena (Islam 2):**
+**Hadith Shared by  (Islam 2):**
 
 **Bukhari 5991** — "The person who perfectly maintains the ties of kinship is not the one who does it because he gets recompensed by his relatives (for being kind and good to them), but the one who truly maintains the bonds of kinship is he who persists in doing so even though the latter has severed the ties of kinship with him."
 
