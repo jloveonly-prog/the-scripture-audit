@@ -80,5 +80,5 @@ This index provides quick access to the most critical "Masterpiece" verdicts and
 
 ## 13. 🕌 Islamic Doctrine Debate Forensics Report
 * **Summary:** A record of the Islamic debate in the Kakao open chat room. Summarizes key issues such as the optical illusion design responsibility theory, the 600-year gap, internal contradictions in the Quran, and the reliability of the Hadith.
-* **Forensic Report (52KB):** [`Islam_Comments.md`](./the-scripture-audit/05_REPORT/Islam_Comments.md)
+* **Forensic Report (52KB):** [`Islamic_Debates.md`](./the-scripture-audit/05_REPORT/Islamic_Debates.md)
 
