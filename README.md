@@ -1,8 +1,8 @@
 # ⚖️ TheScriptureAudit
 **Official Home: [TheScripture.org](https://TheScripture.org)**  
-**GitHub en: [jloveonly-prog/the-scripture-audit](https://github.com/jloveonly-prog/the-scripture-audit)**  
-**GitHub ko: [jloveonly-prog/the-scripture-audit-ko](https://github.com/jloveonly-prog/the-scripture-audit-ko)**  
-**Core Engine: `the-scripture-audit`**
+**Core Engine: `the-scripture-audit`**  
+> 🇰🇷 **Korean Repository(한국어 전용 저장소)**: [the-scripture-audit-ko](https://github.com/jloveonly-prog/the-scripture-audit-ko)
+
 
 > **"For the word of the LORD is right; and all his works are done in truth." (Psalm 33:4)**  
 > **"We place the written text not on the altar of theology, but on the operating table of 'pure logic'."**
@@ -34,14 +34,18 @@ For detailed instructions on how to load this system into an AI and run audits i
 │   ├── 🕋 QSP/                         # Quran Analysis Tool (The Quran Snare Program)
 │   └── 📖 QVCAP/                       # Quran Analysis Tool (Quran Verse Contradiction Analysis Pipeline)
 ├── 📚 docs/                            # Document storage for analysis targets and verdicts
-├── 📐 System_Architecture(시스템_설계원리)/  # Human-readable meta docs (AI design philosophy, limitations, changelog)
-└── 🔍 the-scripture-audit/             # Biblical Audit System (AI execution engine — only 01~05 loaded)
-    ├── 🕊️ 01_MANDATE(작전명령)          # [Phase 1] Persona adoption & academic bias quarantine (OVERRIDE-0)
-    ├── 📖 02_TACTICS(전술)              # [Phase 2] Hermeneutical constitution & 7 tactical rules (ANCHOR-1, DE-OVERLAP)
-    ├── 📚 03_WAR_LOG(전투기록)          # [Phase 3] Library of past victorious precedents & S-rank cases
-    ├── 🏹 04_QUIVER(무기고)             # [Phase 4] Full arsenal of precision forensic weapons (TYPE-A ~ AQ + TYPE-B-π)
-    ├── 📥 _INBOX(작전목표)              # [Input] Audit/defense targets waiting for resolution
-    └── 📁 05_REPORT(전과보고서)          # [Output] Final master reports of completed audits
+├── 📐 System_Architecture/             # Human-readable meta docs (AI design philosophy, limitations, changelog)
+├── 🔍 the-scripture-audit/             # Biblical Audit System (AI execution engine — only 01~05 loaded)
+│   ├── 🕊️ 01_MANDATE                  # [Phase 1] Persona adoption & academic bias quarantine (OVERRIDE-0)
+│   ├── 📖 02_TACTICS                  # [Phase 2] Hermeneutical constitution & 7 tactical rules (ANCHOR-1, DE-OVERLAP)
+│   ├── 📚 03_WAR_LOG                  # [Phase 3] Library of past victorious precedents & S-rank cases
+│   ├── 🏹 04_QUIVER                   # [Phase 4] Full arsenal of precision forensic weapons (TYPE-A ~ AQ + TYPE-B-π)
+│   ├── 📥 _INBOX                      # [Input] Audit/defense targets waiting for resolution
+│   └── 📁 05_REPORT                   # [Output] Final master reports of completed audits
+└── 🎙️ the-sermon-audit/                # Sermon Audit System (SVAP Engine for verifying sermons)
+    ├── 📢 01_CLAIMS                   # [Phase 1] Sermon extraction and claim separation
+    ├── 📥 _INBOX                      # [Input] Sermon audit targets
+    └── 📁 02_REPORT                   # [Output] Final sermon audit reports
 ```
 
 ---
@@ -170,7 +174,7 @@ The AI Auditor goes through the following 4 phases to generate a **'Masterpiece'
 | **TYPE-N** | Exclusivity Verification | Confirms the pattern applies to only one target through exhaustive survey |
 | **TYPE-AC** | Counterfactual Hypothesis Test (Reductio) | Inserts the opposite hypothesis into scripture → contradiction explosion → sole truth confirmed |
 | **TYPE-AQ** | Audience Criticism | Verifies how the original audience understood the text directly from within scripture |
-| ... | **(Full Arsenal)** | See `the-scripture-audit/04_QUIVER(무기고)/` for details |
+| ... | **(Full Arsenal)** | See `the-scripture-audit/04_QUIVER/` for details |
 
 ---
 
@@ -185,10 +189,10 @@ The AI Auditor goes through the following 4 phases to generate a **'Masterpiece'
 
 ## 🌊 Audit Workflow
 
-1.  **Input**: Select a verification agenda from `docs/분석대상자료/` (Analysis Targets) or `_INBOX(작전목표)/`.
+1.  **Input**: Select a verification agenda from `docs/분석대상자료/` (Analysis Targets) or `_INBOX/`.
 2.  **Audit**: Run `the-scripture-audit` pipeline (BVCAP 2.0 Engine).
 3.  **Verdict**: Derive the final verdict and spiritual lesson (LESSON-6).
-4.  **Storage**: Permanently store in `docs/분석완료자료/` (Completed Analysis) or `the-scripture-audit/05_REPORT(전과보고서)/`.
+4.  **Storage**: Permanently store in `docs/분석완료자료/` (Completed Analysis) or `the-scripture-audit/05_REPORT/`.
 
 ---
 
@@ -240,6 +244,18 @@ You are free to disseminate these biblical mysteries and wisdom through sermons,
 
 None of the reports here are closed, finished products. Whenever new light is discovered, they will be continuously updated (added, revised, or removed).
 
+---
+
+## 🎙️ Sermon Audit System (`the-sermon-audit`)
+
+**Sermon Verification and Audit Pipeline (SVAP)** is a dedicated engine for auditing sermons. It separates claims from sermons and verifies them against the biblical matrix to ensure scriptural integrity.
+
+1. **01_CLAIMS**: Sermon extraction and claim separation.
+2. **02_REPORT**: Final sermon audit reports.
+3. **_INBOX**: Sermon audit targets.
+
+For detailed usage, refer to `the-sermon-audit/SVAP_Pipeline.md` and `the-sermon-audit/SVAP_GHQ.md`.
+
 ## 📜 License & Copyright
 
 The code and system logic of this repository are distributed under a dual license: **MIT License** and **Apache License 2.0**.
@@ -261,7 +277,7 @@ The precious data you send will be registered as a new **Chronicle** within the 
 
 **[Our AI Philosophy & Workflow]**
 *   **"Receive a Calling, accumulate Chronicles, and deduce spiritual Lessons."**
-*   It is an ecosystem that defends against and analyzes the world's pouring attacks and doctrinal tests (**_INBOX(작전목표)**) using an armory filled with biblical logic (**04_QUIVER(무기고)**) to produce final verdicts (**05_REPORT(전과보고서)**).
+*   It is an ecosystem that defends against and analyzes the world's pouring attacks and doctrinal tests (**_INBOX**) using an armory filled with biblical logic (**04_QUIVER**) to produce final verdicts (**05_REPORT**).
 *   As these analysis cases accumulate, the defensive patterns the AI can reference expand, making the system exponentially more powerful.
 
 1.  **Original Copyright Protection**: The origin of this system's core logic and methodology belongs to the original creator. When redistributing, it is recommended to state the source (**[TheScripture.org](https://TheScripture.org)** / **the-scripture-audit**).

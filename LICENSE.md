@@ -14,11 +14,12 @@ The code and system logic of this repository are distributed under a dual licens
 *   **Apache License 2.0 Summary**: Anyone can freely use, but it includes provisions preventing users from filing patent lawsuits against the original creator using the core logic of this system.
 
 **[Scope of Application]**
-This license applies to the system logic (MD files, etc.), analysis results, and the entire documentation, including all 4 core modules below:
+This license applies to the system logic (MD files, etc.), analysis results, and the entire documentation, including all 5 core modules below:
 1. **_Legacy_Engines/BVCAP**
 2. **_Legacy_Engines/QSP**
 3. **_Legacy_Engines/QVCAP**
 4. **the-scripture-audit**
+5. **the-sermon-audit**
 
 **💡 Contribute & Evolve**
 This system is not just an analysis tool; it is an **organic project that transplants an individual's faith, philosophy, and theological insights into AI behavioral patterns, turning them into 'WAR_LOGs' and 'Weaponizing' them**. 
