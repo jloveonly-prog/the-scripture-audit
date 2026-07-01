@@ -924,3 +924,48 @@ Spirits also have bodies, and their glories all differ. There are common people 
 | **Limitations of the Nations of the Millennium** | Being of human lineage, they are ruled by kings, harbor dissatisfaction, and being flesh, require healing. Ultimately, they are deceived by Satan. | 🟢 **Valid** | Rev 20:7-9, Isa 65:20, Rev 22:2 (leaves for healing). The innate limitations of the people who enter the Kingdom in unresurrected flesh. |
 | **Female Resurrection Identity** | Women created in the second world retain their female identity even after resurrection. Matt 22:30 signifies the inability to reproduce. | 🟢 **Valid** | The order of 'male and female' created by God (Gen 1:27). They simply do not marry/give in marriage like angels; it is a reasonable consistency that their inherent ego and gender identity are preserved. |
 
+
+### 📖 Follow-up Research Documents
+
+
+> **[Reasons Why the Sons of God in Genesis 6 Are Not Angels](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/05_REPORT/REPORT_Genesis6_SonsOfGod_DeepLog.md)**
+
+Main topics covered in this document: Determining whether the sons of God in Genesis 6 are fallen angels or not.
+
+
+> **[Practical Case: TheScriptureMaster VS Researcher](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/05_REPORT/REPORT_TheScriptureMaster_VS_Researcher.md)**
+
+
+Main topics covered in this document: The core contradiction between "longsuffering" in 1 Pet 3:20 vs "spared not" in 2 Pet 2:4, refutation of the 120-year angelic probation theory,
+
+
+> **[Melchizedek Identity Verification](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/05_REPORT/REPORT_Melchizedek_IdentityVerification_Masterpiece.md)**
+
+Main topics covered in this document: You can find out who Melchizedek is.
+
+
+> **[Melchizedek — The First World and the Formation of Nations](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/03_WAR_LOG/[AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md)**
+
+
+Main topics covered in this document:
+
+| Topic | Core Question |
+|:---|:---|
+| **Re-creation (Gap Theory)** | What happened between Gen 1:1 and Gen 1:2? Are "without form, and void" original conditions or the result of judgment? |
+| **Create (Bara) vs Make (Asah/Yatsar)** | How do we distinguish between what God directly created and what He delegated to His sons to make? |
+| **Nations, Cities, and Kingdoms of the First World** | Who are the kingdoms, cities, and peoples recorded in Isa 14:12-17 and Ezek 28:14-19? |
+| **Sons of God vs Angels** | Are the "sons of God" in Job 38:7 and the "ministering spirits (angels)" in Heb 1:14 the same or different beings? |
+| **The "First Estate (ἀρχή)" in Jude 1:6** | What is the "first estate" lost by the fallen sons, and how does this relate to Melchizedek's status? |
+| **Spirits in Prison in 1 Pet 3:19** | Are the "spirits in prison" angels, or the dead humans from the first world? |
+| **The 3 Stages of Light** | How do the light of the first world (Gen 1:3) → the light of the second world (Gen 1:14) → the light of the new heaven and new earth (Rev 21:23) differ? |
+
+> If you find the conclusions of this report persuasive, we encourage you to verify the **complete picture of the first world** through the follow-up documents. Melchizedek is but **one piece** of that massive picture, and it becomes much clearer when you view the whole.
+
+---
+
+
+### 📖 Cross-verifying the above documents with newly discovered findings (Adding what Jesus proclaimed to the spirits)
+
+> **[Genesis 6 Sons of God Argument Cross-Verification](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/05_REPORT/REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md)**
+
+

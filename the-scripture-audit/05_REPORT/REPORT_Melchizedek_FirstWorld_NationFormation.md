@@ -998,7 +998,6 @@ graph TD
         F0["Matt 25:41 Armageddon — Devils+angels+powers to eternal fire"]
         F1["Rev 20:2 Only Satan bound — Millennial Kingdom"]
         F2["Rev 20:7 Only Satan released temporarily — Little Season"]
-```
         F3["Rev 20:10 Satan to Lake of Fire"]
         F0 --> F1 --> F2 --> F3
     end

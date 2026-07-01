@@ -913,6 +913,11 @@ Main topics covered in this document: Determining whether the sons of God in Gen
 Main topics covered in this document: The core contradiction between "longsuffering" in 1 Pet 3:20 vs "spared not" in 2 Pet 2:4, refutation of the 120-year angelic probation theory,
 
 
+> **[Melchizedek Identity Verification](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/05_REPORT/REPORT_Melchizedek_IdentityVerification_Masterpiece.md)**
+
+Main topics covered in this document: You can find out who Melchizedek is.
+
+
 > **[Melchizedek — The First World and the Formation of Nations](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/03_WAR_LOG/[AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md)**
 
 
@@ -931,4 +936,10 @@ Main topics covered in this document:
 > If you find the conclusions of this report persuasive, we encourage you to verify the **complete picture of the first world** through the follow-up documents. Melchizedek is but **one piece** of that massive picture, and it becomes much clearer when you view the whole.
 
 ---
+
+
+### 📖 Cross-verifying the above documents with newly discovered findings (Adding what Jesus proclaimed to the spirits)
+
+> **[Genesis 6 Sons of God Argument Cross-Verification](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/05_REPORT/REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md)**
+
 
