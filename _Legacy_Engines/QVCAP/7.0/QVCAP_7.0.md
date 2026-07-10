@@ -1,542 +1,538 @@
 # 🔱 QVCAP 7.0 (Supreme Logic Auditor)
 ## Quran Verse Contradiction Analysis Pipeline — Rigorous Academic Logic Framework
 
-> **버전**: v7.0 Supreme Logic Auditor (Academic Extended Edition)
-> **상태**: SUPREME FINAL MASTER (700-Line Absolute Authority)
-> **작성일**: 2026-03-06
-> **핵심 철학**: **"텍스트와 교리 사이의 모든 논리적 긴장을 빈틈없이 추적하는 전방위 정밀 감사(Audit)."** 감정적 공격이 아닌 순수 논리학과 텍스트 분석만으로, 교리의 내적 정합성을 학술적으로 검증한다. **불필요한 서론과 표(Table)를 과감히 제거하고, 오직 '피 튀기는 10라운드 OODA 논리 공방전'에 문서 전체 화력의 80% 이상을 집중한다.**
+> **Version**: v7.0 Supreme Logic Auditor (Academic Extended Edition)
+> **Status**: SUPREME FINAL MASTER (700-Line Absolute Authority)
+> **Date Written**: 2026-03-06
+> **Core Philosophy**: **"An omnidirectional, precision audit tracking every logical tension between the text and doctrine without a single gap."** We academically verify the internal consistency of doctrines purely through logic and textual analysis, devoid of emotional attacks. **We boldly eliminate unnecessary introductions and tables, concentrating over 80% of the entire document's firepower solely on the 'bloody 10-round OODA logic battle'.**
 
-## 🧠 핵심 철학 요약 (Core Philosophy)
+## 🧠 Core Philosophy Summary
 
 ```
-꾸란 구절
+Quran Verse
    │
-   ├─ Design Thinking → "무엇이 모순인가?" (문제 정의)
-   ├─ TRIZ           → "모순 목록화" (개발 명세서)
-   ├─ OODA Loop      → "논리학 법칙으로 한 건씩 검증" (단위 테스트)
-   ├─ 회피논법 탐지  → "이슬람 변증 전술 대응" (버그 탐지)
-   └─ 외톨수 판정    → "더 이상 반박 불가한 단 하나의 결론" (배포 완료)
+   ├─ Design Thinking → "What is the contradiction?" (Problem Definition)
+   ├─ TRIZ           → "Listing Contradictions" (Development Specification)
+   ├─ OODA Loop      → "Verify one by one using rules of logic" (Unit Testing)
+   ├─ Evasion Detection  → "Respond to Islamic apologetic tactics" (Bug Detection)
+   └─ Checkmate Judgment → "The single conclusion that can no longer be refuted" (Deployment Complete)
 
-공격자(분석 모델 (공격)) ← → 방어자(변증 모델 (방어)役) ← → 중재자(판결 모델 (심판)) = 최종 결론
+Attacker (Analysis Model) ← → Defender (Apologetics Model) ← → Arbiter (Judgment Model) = Final Conclusion
 ```
 
-## 🗺️ 0. 전체 파이프라인 흐름도 (The Strategic Map)
+## 🗺️ 0. Overall Pipeline Flowchart (The Strategic Map)
 
 ```
-[구절 입력 (Quran Verse)]
+[Input Quran Verse]
          │
          ▼
 ┌─────────────────────────────────────────┐
-│  PHASE 1: 공감·정의 (Design Thinking)    │
-│  구절 원문 분석 + 단어별 심화 학습        │
-│  ← 모순 탐지 대상 명세서 작성             │
+│  PHASE 1: Empathy & Definition (Design Thinking)│
+│  Original Verse Analysis + In-depth Word Study │
+│  ← Write Specification for Contradiction Detection Targets│
 └─────────────────┬───────────────────────┘
                   │
                   ▼
 ┌─────────────────────────────────────────┐
-│  PHASE 2: 모순 도출 (TRIZ)               │
-│  기술적·신학적·과학적 모순 목록화         │
-│  ← 개발 명세서에 해당하는 모순 항목 리스트│
+│  PHASE 2: Contradiction Derivation (TRIZ) │
+│  List technical, theological, and scientific contradictions│
+│  ← List of contradiction items corresponding to dev specs│
 └─────────────────┬───────────────────────┘
                   │
                   ▼
 ┌─────────────────────────────────────────┐
-│  PHASE 3: 논리 검증 LOOP (OODA)          │
-│  논리학 법칙별 한 건씩 순차 검증          │
-│  [귀납법 → 귀류법 → 양도논법 → 삼중딜레마│
-│   → 소크라테스 문답 → 조합 적용]         │
+│  PHASE 3: Logic Verification LOOP (OODA)  │
+│  Sequential verification one by one per logic law│
+│  [Induction → Reductio ad absurdum → Dilemma│
+│   → Trilemma → Socratic Questioning → Combo]│
 └──────────────────┬──────────────────────┘
                    │
                    ▼
 ┌─────────────────────────────────────────┐
-│  PHASE 4: 회피논법 역검증                │
-│  (변증 모델 (방어) 역할: 이슬람 측 회피 논거 생성) │
-│  → 회피 문장을 논리학으로 재검증          │
+│  PHASE 4: Evasion Logic Rebuttal          │
+│  (Defender Role: Generates Islamic evasion arguments) │
+│  → Re-verify evasion sentences with logic  │
 └─────────────────┬───────────────────────┘
                   │
            ┌──────┴──────┐
            ▼             ▼
-     [외톨수 확정 ✅]  [반복 가능 ❌]
+     [Checkmate Confirmed ✅]  [Repeatable ❌]
            │             │
            ▼             ▼
 ┌───────────────┐  ┌──────────────────────┐
-│  PHASE 5-A   │  │  PHASE 5-B            │
-│  결론 확정    │  │  무한루프 중단 판단    │
-│  모순 검증 완료│  │  보고서로 종료         │
+│  PHASE 5-A    │  │  PHASE 5-B           │
+│  Confirm Conclusion│  │  Judge Infinite Loop Stop│
+│  Verification Complete│  │  Terminate as Reports    │
 └───────────────┘  └──────────────────────┘
 ```
 
+## 🤖 Multi-AI Collaboration System
 
-## 🤖 AI 역할 분담 체계 (Multi-AI Collaboration)
+> **Core Principle**: Since this is currently a single AI environment, the AI distinguishes roles and operates by *sequentially inputting and verifying as each role*.
 
-> **핵심 원칙**: 현재는 단일 AI 환경이므로 역할을 구분하여 *동일 AI가 각 역할로 순차 입력·검증*하는 방식으로 운영한다.
-
-| AI 역할 | 실제 담당 | 철학적 위치 | 임무 |
+| AI Role | Actual Responsibility | Philosophical Position | Mission |
 |:---:|:---:|:---|:---|
-| 🔴 **공격자** (Attacker) | **분석 모델 (공격)** | 분석 모델 역할: 정밀한 모순 탐지 | 꾸란 구절의 논리적 모순을 최대한 예리하게 도출. 귀류법·삼중딜레마로 강도 높게 분석 |
-| 🔵 **방어자** (Defender) | **변증 모델 (방어)** | 보수적 고집쟁이: 절대 인정 안함 | 이슬람 측 정통 변증 논거로만 방어. 회피논법(허수아비·논점이탈·권위 호소) 적극 사용. 모순를 절대 인정하지 않음 |
-| ⚖️ **중재자** (Arbiter) | **판결 모델 (심판)** | 최종 판결자: 공정한 심판 | 공격·방어 양측의 논거를 비교 검토. 어느 쪽이 논리적으로 우위인지 판단. **최종 결론은 판결 모델 (심판)이 결정** |
+| 🔴 **Attacker** | **Analysis Model** | Role of Analysis Model: Precise contradiction detection | Extract the logical contradiction of the Quran verse as sharply as possible. Analyze intensely with reductio ad absurdum and trilemmas. |
+| 🔵 **Defender** | **Apologetics Model** | Conservative Stubborn: Never admits | Defends only using orthodox Islamic apologetic arguments. Actively uses evasion logic (straw man, red herring, appeal to authority). Never admits contradiction. |
+| ⚖️ **Arbiter** | **Judgment Model** | Final Judge: Fair referee | Comparatively reviews arguments from both attacker and defender. Determines which side holds the logical superiority. **The Judgment Model makes the final conclusion.** |
 
 > [!IMPORTANT]
-> **판결 모델 (심판)이 최종 판결권을 가진다.**  
-> 변증 모델 (방어)가 회피를 반복하고 더 이상 새로운 논거가 없다면 → 판결 모델 (심판)이 중단을 선언하고 결과 보고서로 마무리한다.
+> **The Judgment Model has the final ruling authority.**  
+> If the Defender repeats evasions and has no new arguments → The Judgment Model declares a stop and concludes with the Result Reports.
 
 ---
 
-##  D-Codes 검증 지도 (15대 핵심 교리 정합성 검증 매커니즘)
+## D-Codes Verification Map (15 Core Doctrines Consistency Verification Mechanism)
 
-보고서 작성 시 검증된 교리 코드를 반드시 포함하여 교리 간 충돌 지점을 가시화한다.
+When writing Reports, the verified doctrine codes must be included to visualize the points of collision between doctrines.
 
-| 코드 | 교리명 | 핵심 정의 | QVCAP 검증 포인트 |
+| Code | Doctrine Name | Core Definition | QVCAP Verification Point |
 |:---:|:---|:---|:---|
-| **D-01** | **타우히드** | 알라의 절대 단일성 | 속성 간의 충돌, 피조물과의 속성 공유(Shirk) 증명 시 긴장 발생. |
-| **D-02** | **천사론** | 천사의 무오한 순종 | 천사가 자아를 가지고 질문하거나 이의를 제기할 시 정합성 결여. |
-| **D-03** | **영원성** | 꾸란은 보존된 영원한 말씀 | 상황에 따른 폐기(나스크)나 편집 흔적 발견 시 정합성 결여. |
-| **D-04** | **예정론** | 모든 것은 서판에 예정됨 | 피조물의 자유의지나 돌발 반응이 예정과 꼬이면 정합성 결여. |
-| **D-05** | **가이브** | 미래 지식은 알라의 독점 | 천사/진/인간이 미래의 상세 물리 결과를 알 경우 정합성 결여. |
-| **D-06** | **무결성** | 4:82 - 어떤 모순도 없음 | 단 하나의 논리 오류나 과학적 결함 발견 시 전체 정합성 결여. |
-| **D-07** | **이스마** | 예언자의 무오성 | 무함마드의 개인적 실수나 계시의 오류 발견 시 정합성 결여. |
-| **D-08** | **선성** | 알라나 순수 선이심 | 알라가 기만적 연출이나 엄격한 명령을 내릴 시 정합성 결여. |
-| **D-09** | **누부와** | 예언자직의 신성 권위 | 계시 내용의 역사적/논리적 파탄 시 예언자 권위 정합성 결여. |
-| **D-10** | **아키라** | 내세 및 심판 | 천국 묘사의 원초적 모순과 심판 기준의 모호성 검사. |
-| **D-11** | **완성성** | 5:3 - 종교의 완성 | 완성 선언 후 수정이 발생하거나 보완이 필요할 시 정합성 결여. |
-| **D-12** | **속성 조화** | 99개 속성의 완벽한 조화 | 자비와 공의 등 상충하는 속성 간의 긴장 폭로 시 정합성 결여. |
-| **D-13** | **명확성** | Mubeen - 명확한 책 | 주석 없이는 이해하기 어려운 해석에 의존해야 할 시 정합성 결여. |
-| **D-14** | **진의 본질** | 불로 된 비물리적 존재 | 진이 물리적 유혈이나 육체적 접촉을 가질 시 정합성 결여. |
-| **D-15** | **순나 권위** | 하디스의 신성성 | 하디스와 꾸란의 상충 및 하디스 간의 자기모순 분석. |
-
+| **D-01** | **Tawhid** | Absolute oneness of Allah | Tension occurs if collisions between attributes or sharing attributes with creation (Shirk) are proven. |
+| **D-02** | **Angelology** | Infallible obedience of angels | Lack of consistency if an angel questions or objects with self-awareness. |
+| **D-03** | **Eternity** | The Quran is the preserved eternal word | Lack of consistency if contextual abrogation (Naskh) or traces of editing are found. |
+| **D-04** | **Predestination** | Everything is predetermined on the tablet | Lack of consistency if creation's free will or sudden reactions tangle with predestination. |
+| **D-05** | **Ghaib** | Future knowledge is Allah's monopoly | Lack of consistency if angels/jinn/humans know detailed physical outcomes of the future. |
+| **D-06** | **Integrity** | 4:82 - Without any contradiction | Complete lack of consistency if even a single logical error or scientific flaw is found. |
+| **D-07** | **Ismah** | Infallibility of the prophets | Lack of consistency if Muhammad's personal mistakes or revelation errors are found. |
+| **D-08** | **Goodness** | Allah is pure goodness | Lack of consistency if Allah issues deceptive stagings or draconian commands. |
+| **D-09** | **Nubuwwah** | Divine authority of prophethood | Lack of consistency in prophetic authority if the revelation experiences historical/logical bankruptcy. |
+| **D-10** | **Akhirah** | Afterlife and Judgment | Inspect fundamental contradictions in depictions of Heaven and ambiguity of judgment standards. |
+| **D-11** | **Completeness** | 5:3 - Perfection of religion | Lack of consistency if modifications occur or supplements are needed after the declaration of completeness. |
+| **D-12** | **Harmony of Attributes** | Perfect harmony of 99 attributes | Lack of consistency when tension between conflicting attributes (e.g., mercy and justice) is exposed. |
+| **D-13** | **Clarity** | Mubeen - Clear book | Lack of consistency if understanding relies heavily on interpretations difficult to comprehend without exegesis. |
+| **D-14** | **Nature of Jinn** | Non-physical beings made of fire | Lack of consistency if Jinn engage in physical bloodshed or physical contact. |
+| **D-15** | **Sunnah Authority** | Sanctity of Hadith | Analysis of conflicts between Hadith and Quran, and self-contradictions among Hadiths. |
 
 > [!IMPORTANT]
-> **이 파이프라인의 최종 목표**는 꾸란 구절에서 *더 이상 어떤 논리학 법칙으로도, 어떤 회피논법으로도 반박할 수 없는 '전방위 논리 검증'*을 달성하는 것이다.
+> **The ultimate goal of this pipeline** is to achieve an *'omnidirectional logic verification'* where the Quranic verse can *no longer be refuted by any rule of logic or evasion tactic*.
 >
-> **탄탄한 상호 연결성**:
-> 하나의 모순(L-01)이 다른 모순(L-02, L-07)을 지지하고, 이들이 모여 **'거대 논리 검증망'**을 형성한다. 검증이 길어질수록, 논거가 겹칠수록, 꾸란의 구조적 원천 모순은 더 선명하고 불가역적으로 증명된다.
+> **Robust Interconnectivity**:
+> One contradiction (L-01) supports another (L-02, L-07), and together they form a **'massive logic verification network'**. The longer the verification, and the more arguments overlap, the clearer and more irreversibly the structural core contradiction of the Quran is proven.
 >
-> **중단 없는 전수 검증**:
-> 대충 만족하지 않는다. 가능한 모든 논리 도구를 사용하여 상대의 방어 기제를 체계적으로 분석하고, 어떤 해석의 여지도 남지 않는 **'절대 진공의 외통수'**를 추구한다.
+> **Uninterrupted Comprehensive Verification**:
+> We are not satisfied with approximate results. We systematically analyze the opponent's defense mechanisms using all possible logical tools, pursuing an **'absolute vacuum checkmate'** leaving no room for interpretation.
 
 ---
 
-## 🔬 PHASE 1: 구절 공감·정의 (Design Thinking)
+## 🔬 PHASE 1: Verse Empathy & Definition (Design Thinking)
 
-### 1-1. 꾸란 구절 선정 기준
+### 1-1. Criteria for Selecting Quranic Verses
 
-분석 대상 꾸란 구절은 다음 카테고리에서 선정한다:
+The target Quranic verses for analysis are selected from the following categories:
 
-| 카테고리 | 선정 이유 | 예시 구절 |
+| Category | Reason for Selection | Example Verse |
 |:---:|:---|:---|
-| **과학적 오류 의심** | 현대 과학과 충돌 가능한 자연 현상 묘사 | 수라 18:86 (태양이 진흙 샘에 지는 구절) |
-| **역사적 오류 의심** | 역사적 사실과 불일치하는 서술 | 수라 19:28 (마리아를 아론의 누이로 부름) |
-| **신학적 내적 모순** | 꾸란 구절끼리 충돌하는 내용 | 폐기(나스크) 관련 구절들 |
-| **논리적 자기 모순** | 단일 구절 내 논리 충돌 | 전능하신 알라의 무능 묘사 구절 |
-| **윤리적 모순** | 신의 자비와 충돌하는 폭력 명령 | 수라 9:5, 수라 47:4 |
+| **Suspected Scientific Error** | Description of natural phenomena that may conflict with modern science | Surah 18:86 (The sun setting in a spring of murky water) |
+| **Suspected Historical Error** | Narrative inconsistent with historical facts | Surah 19:28 (Calling Mary the sister of Aaron) |
+| **Theological Internal Contradiction** | Verses whose contents conflict with other Quran verses | Verses related to Abrogation (Naskh) |
+| **Logical Self-Contradiction** | Logical collision within a single verse | Verses depicting the incompetence of omnipotent Allah |
+| **Ethical Contradiction** | Commands of violence conflicting with God's mercy | Surah 9:5, Surah 47:4 |
 
-### 1-2. 구절 원문 분석 프로세스
+### 1-2. Original Text Analysis Process
 
 ```
-[분석 단계]
-① 아랍어 원문 수집 (Uthmanic Text)
-② 복수 영어 번역 비교 (Yusuf Ali / Pickthall / Sahih International)
-③ 권위 있는 고전 주석(Tafsir) 참고 (Ibn Kathir / Jalalayn 등)
-④ 핵심 아랍어 단어 단위 분해 (형태소 분석)
-⑤ 문맥(앞·뒤 구절) 포함 전체 수라 맥락 파악
+[Analysis Phase]
+① Collect original Arabic text (Uthmanic Text)
+② Compare multiple English translations (Yusuf Ali / Pickthall / Sahih International)
+③ Refer to authoritative classical exegesis (Tafsir) (Ibn Kathir / Jalalayn, etc.)
+④ Decompose core Arabic words (Morphological analysis)
+⑤ Grasp the context of the entire Surah including preceding/following verses
 ```
 
-### 1-3. 단어별 심화 학습 항목
+### 1-3. In-depth Study Items by Word
 
-각 핵심 단어에 대해 아래 항목을 문서화한다:
+Document the following items for each core word:
 
-- **원어 발음 및 표기** (아랍어 + 영문 음역)
-- **어근(Root Word)**: 3글자 아랍어 어근과 의미 확장
-- **고전 사전 정의** (Lane's Arabic-English Lexicon)
-- **현대 이슬람 해석 vs. 비판적 해석** 비교
-- **문법적 구조 분석** (동사/명사/형용사 위치)
+- **Original Pronunciation and Notation** (Arabic + English transliteration)
+- **Root Word**: 3-letter Arabic root and its semantic extensions
+- **Classical Dictionary Definitions** (Lane's Arabic-English Lexicon)
+- **Comparison of Modern Islamic Interpretation vs. Critical Interpretation**
+- **Grammatical Structure Analysis** (Position of verb/noun/adjective)
 
 > [!NOTE]
-> 이 단계가 탄탄할수록 PHASE 2 모순 목록의 품질이 높아진다.  
-> 단어 하나의 번역 차이가 모순의 강도를 결정한다.
+> The more solid this step is, the higher the quality of the contradiction list in PHASE 2.  
+> The difference in translation of a single word determines the strength of the contradiction.
 
 ---
 
-## 🎯 PHASE 2: 모순 도출 목록화 (TRIZ 기반 개발 명세서)
+## 🎯 PHASE 2: Contradiction Derivation & Listing (TRIZ-based Development Specs)
 
-### 2-1. TRIZ 기반 전술 매트릭스 (The Strategic Matrix)
+### 2-1. TRIZ-based Tactical Matrix (The Strategic Matrix)
 
-AI는 구절의 특성에 따라 아래의 TRIZ 전술 중 적합한 것을 선정하여 검증 계획을 설계한다.
+Depending on the characteristics of the verse, the AI selects appropriate TRIZ tactics from below to design a verification plan.
 
-| TRIZ 원칙 | 분석 대상 (Contradiction) | 과학적·논리적 검증 전략 (The Audit) | 파괴되는 핵심 교리 |
+| TRIZ Principle | Analysis Target (Contradiction) | Scientific/Logical Verification Strategy (The Audit) | Destroyed Core Doctrine |
 |:---:|:---|:---|:---|
-| **T-1 분할** | 원문 단독 해석 불능 (맥락 의존) | **자립성(Self-sufficiency) 검증**: 외부 도움 없이는 기능하지 못하는 텍스트의 '명확성(D-13)' 설계 결함 확정. | D-13 (명확성) |
-| **T-13 역발상** | 신비(Wisdom)로 포장된 인과 결함 | **인과론(Causality) 검증**: '신비'라는 블랙박스를 제거하고, 원인 없는 결과나 논리 비약이 발생한 지점을 과학적으로 적시. | D-05 (가이브) |
-| **T-17 차원 변화** | 물리적 오류를 영적 비유로 회피 | **범주 오류(Category Error) 검증**: 물리적 현상에 대한 명백한 과학적 오기는 비유로도 상쇄 불가능한 '본질적 오류'임을 확정. | D-06 (무결성) |
-| **T-22 전화위복** | 오류를 '심오한 기적'으로 포장 | **학술적 정합성 검증**: 오류를 기적으로 규정하는 행위가 학술적 자살이자 자폐적 변증임을 논리적으로 분석. | D-08 (알라의 선성) |
-| **T-25 자기서비스** | 꾸란의 자기 증명 (순환 논리) | **폐쇄계(Closed System) 검증**: 시스템 내부 데이터만으로 자신을 증명하는 '피드백 루프' 및 '복제' 원리를 탐지하여 논리적 자폐 상태 입증. | 논리학 기본 원칙 |
-| **T-28 기계 대체** | 주석/하디스 의존 (보조 장치) | **시스템 완성도 검증**: 단독으로 불완전하여 외부 데이터에 기생하는 시스템의 '완성 선언(5:3)' 허구 증명. | D-11 (완성성) |
-| **T-35 속성 변화** | 시대적 관습에 갇힌 표현 (지역성) | **보편성(Universality) 검증**: 특정 시대·지역에 종속된 지식은 '영원불변한 신의 말씀(D-03)'이 될 수 없음을 증명. | D-03 (영원성) |
-| **T-TC 기술적 모순** | 전능(A) vs 무능(B)의 공존 | **배중률(Law of Excluded Middle) 검증**: 양립 불가능한 두 속성이 동시에 존재할 수 없는 논리적 불능 상태 확정. | D-01 (타우히드) |
-| **T-PC 물리적 모순** | 영원(A) vs 가변적 폐기(B) | **시간적 불변성 검증**: 시간에 따라 엔트로피가 증가하고 변하는 것은 '영원함'의 속성과 과학적으로 양립 불가. | D-03 (영원성) |
-| **T-IFR (이상적 결과)** | **역설계 (Reverse Engineering)** | **최종 설계 대조**: 모순 없는 완전한 형태와 실제 구절의 간극을 통해 '인간 저자의 지식 한계'를 정량화. | D-06 (무결성) |
+| **T-1 Segmentation** | Original text impossible to interpret standalone (Context dependent) | **Self-sufficiency Verification**: Confirming the design flaw in 'Clarity (D-13)' of a text unable to function without external help. | D-13 (Clarity) |
+| **T-13 Inversion** | Causal flaw packaged as mystery (Wisdom) | **Causality Verification**: Removing the black box of 'mystery' and scientifically identifying the point where an uncaused result or logical leap occurs. | D-05 (Ghaib) |
+| **T-17 Dimensional Change** | Evading physical error with spiritual metaphor | **Category Error Verification**: Confirming that a clear scientific misrepresentation of a physical phenomenon is a 'fundamental error' uncompensable even by metaphor. | D-06 (Integrity) |
+| **T-22 Blessing in Disguise** | Packaging an error as a 'profound miracle' | **Academic Consistency Verification**: Logically analyzing that defining an error as a miracle is academic suicide and autistic apologetics. | D-08 (Allah's Goodness) |
+| **T-25 Self-Service** | Quran's self-authentication (Circular logic) | **Closed System Verification**: Proving a state of logical autism by detecting 'feedback loop' and 'replication' principles where the system proves itself using only internal data. | Basic Principles of Logic |
+| **T-28 Mechanical Substitution** | Reliance on Tafsir/Hadith (Auxiliary devices) | **System Completeness Verification**: Proving the fiction of the 'Completeness Declaration (5:3)' of a system that is incomplete on its own and parasites on external data. | D-11 (Completeness) |
+| **T-35 Parameter Change** | Expression trapped in the customs of an era (Regionality) | **Universality Verification**: Proving that knowledge bound to a specific era/region cannot be the 'eternal unchanging word of God (D-03)'. | D-03 (Eternity) |
+| **T-TC Technical Contradiction** | Coexistence of Omnipotence (A) vs Incompetence (B) | **Law of Excluded Middle Verification**: Confirming a state of logical impossibility where two mutually exclusive attributes exist simultaneously. | D-01 (Tawhid) |
+| **T-PC Physical Contradiction** | Eternity (A) vs Variable Abrogation (B) | **Temporal Invariance Verification**: Scientifically proving that something whose entropy increases and changes over time is incompatible with the attribute of 'eternity'. | D-03 (Eternity) |
+| **T-IFR (Ideal Final Result)** | **Reverse Engineering** | **Final Design Comparison**: Quantifying the 'limits of the human author's knowledge' through the gap between an ideal contradiction-free form and the actual verse. | D-06 (Integrity) |
 
-### 2-2. 정밀 모순 검사 명세서 (The Auditor's Specification)
+### 2-2. Precision Contradiction Inspection Specification (The Auditor's Specification)
 
-위 매트릭스를 기반으로 도출된 구체적인 모순 항목들이다. 모든 명제는 **[조건 → 결론적 모순]**의 논리 구조를 갖춘다.
+Specific contradiction items derived based on the above matrix. All propositions have a logical structure of **[Condition → Conclusive Contradiction]**.
 
-| No. | 카테고리 | 모순 명제 (If-Then Structure) | TRIZ 유형 | 우선순위 |
+| No. | Category | Contradictory Proposition (If-Then Structure) | TRIZ Type | Priority |
 |:---:|:---:|:---|:---:|:---:|
-| M-01 | 🕌 **신학** | [A]가 참이라면 → [B]라는 교리/과학적 모순 발생 | 물리적 모순 | ★★★ |
-| M-02 | 🔢 **논리** | [C]라는 서술이 존재하면 → [D]라는 논리적 데드락 발생 | 기술적 모순 | ★★★ |
+| M-01 | 🕌 **Theology** | If [A] is true → [B] doctrine/scientific contradiction occurs | Physical Contradiction | ★★★ |
+| M-02 | 🔢 **Logic** | If description [C] exists → [D] logical deadlock occurs | Technical Contradiction | ★★★ |
 
-> **핵심 검토 항목**: Shirk 역설, 각본가 역설, 사디킨(Sadiqin) 역설 적용 여부 필히 확인.
+> **Core Review Items**: Must check whether the Shirk Paradox, the Scriptwriter Paradox, and the Sadiqin Paradox are applied.
 
 ---
 
+## ⚙️ PHASE 3: OODA Verification Loop by Logic Rules
 
-## ⚙️ PHASE 3: 논리학 법칙별 OODA 검증 루프
+All analyses must apply at least 5 of the logical tools below overlappingly for precise verification. **Never omit or skip any part.** Each tool must go through a long-form argument of [Assumption-Development-Doctrine Collision-Conclusion], and **the entire 10 rounds must be described vividly as if broadcasting live**.
 
-모든 분석은 아래 논리 도구들을 최소 5개 이상 중첩 적용하여 정밀 검증한다. **절대 중략하거나 생략하지 말 것.** 각 도구는 [가정-전개-교리충돌-결론]의 장문 논증을 거쳐야 하며, **10라운드 전체를 실황 중계하듯 생생하게 기술**해야 한다.
-
-### 3-1. 적용 논리학 법칙 목록 (The Logical Arsenal)
-| 순서 | 논리학 법칙 | 꾸란 분석 적용 방식 | 기대 효과 |
+### 3-1. List of Applied Logic Laws (The Logical Arsenal)
+| Order | Law of Logic | Application Method in Quran Analysis | Expected Effect |
 |:---:|:---|:---|:---|
-| **L-01** | **귀류법** (Reductio ad Absurdum) | "구절이 참이라고 가정하면 → 어떤 불합리한 결론이 나오는가?" | 가장 강력한 기본 검증. 모순의 존재 자체를 증명 |
-| **L-02** | **귀납법** (Induction) | "최소 3~5개 이상의 유사 구절 또는 사례를 직접 수집 및 대조하여 공통 모순 패턴을 도출 (사례 전수 열거 필수)" | 단일 구절 예외 논리를 차단. 반복 패턴으로 입증 |
-| **L-03** | **연역법** (Deduction) | "이슬람의 대원칙(알라는 전지전능) → 이 구절에 적용 → 모순 도출" | 이슬람 자체 교리를 무기로 역공격 |
-| **L-04** | **양도논법** (Dilemma) | "이슬람 변증가에게 두 선택지를 주고 어떤 선택도 모순임을 보임" | 외통수 2개 — 어디로 가도 막힘 |
-| **L-05** | **삼중딜레마** (Trilemma) | "세 가지 해석 경로를 열어두고 모두 각기 다른 모순으로 봉쇄" | 외통수 3개 — CS 루이스 방식의 신학 적용 |
-| **L-06** | **소크라테스 문답** | "단발성이 아닌 최소 3~5단계의 연쇄 질문(Chain of Questions)을 통해 상대 스스로 모순을 자백하게 유도" | 상대가 스스로 무너짐. 심리적 설득력 극대화 |
-| **L-07** | **앤티노미** (Antinomy) | "두 이슬람 교리가 동시에 참일 수 없음을 칸트적 방식으로 제시" | 고급 신학 논쟁에서 활용. '둘 다 맞다'는 주장 차단 |
-| **L-08** | **5 Whys** | "표면 모순에서 시작해 '왜?'를 5회 연쇄 질문하여 구조적 신학 근본 문제에 도달 (5단계 전수 서술 필수)" | 모순의 뿌리를 찾아 더 깊은 검증 근거 확보 |
-| **L-09** | **제1원칙 사고** | "이슬람의 모든 주장을 버리고 자연 언어 텍스트만으로 재독. 특히 특정 단어가 '복합 개념(추론 가능)'인지 '원시 데이터(경험 필수)'인지 분류하여 참조 지점의 실재성을 검증함." | 신학·전통 권위를 배제한 순수 텍스트 분석 |
-| **L-10** | **조합 논법** | "위 L-01~L-09 중 둘 이상을 조합하며, 각 구성 논리의 독립적 분석 및 융합 과정을 단계별로 기술. 학술적 명확성을 위해 필요 시 기호 논리학(LaTeX)을 병행 표기함." | 단일 법칙으로 무너지지 않는 고급 변증을 분석 |
+| **L-01** | **Reductio ad Absurdum** | "If we assume the verse is true → what absurd conclusion follows?" | Most powerful basic verification. Proves the existence of the contradiction itself. |
+| **L-02** | **Induction** | "Directly collect and contrast at least 3-5 similar verses or cases to derive a common contradiction pattern (exhaustive listing of cases required)." | Blocks single-verse exception logic. Proves by repeated pattern. |
+| **L-03** | **Deduction** | "Grand principle of Islam (Allah is omnipotent) → Apply to this verse → Derive contradiction." | Counterattacks using Islam's own doctrines as weapons. |
+| **L-04** | **Dilemma** | "Give the Islamic apologist two choices and show that both lead to contradiction." | 2 Checkmates — Blocked either way. |
+| **L-05** | **Trilemma** | "Open three interpretive paths and seal them all with different contradictions." | 3 Checkmates — Applying C.S. Lewis style theology. |
+| **L-06** | **Socratic Questioning** | "Induce the opponent to confess the contradiction themselves through a Chain of Questions of at least 3-5 steps." | Opponent collapses on their own. Maximizes psychological persuasiveness. |
+| **L-07** | **Antinomy** | "Present in a Kantian way that two Islamic doctrines cannot be true simultaneously." | Used in advanced theological debates. Blocks claims that 'both are correct'. |
+| **L-08** | **5 Whys** | "Start from a surface contradiction and ask 'Why?' 5 consecutive times to reach a fundamental structural theological problem (must describe all 5 steps exhaustively)." | Finds the root of the contradiction to secure deeper verification grounds. |
+| **L-09** | **First Principle Thinking** | "Discard all Islamic claims and re-read only the natural language text. In particular, classify whether a specific word is a 'complex concept (inferable)' or 'raw data (experience required)' to verify the reality of the reference point." | Pure text analysis excluding theological/traditional authority. |
+| **L-10** | **Combination Logic** | "Combine two or more of L-01~L-09 above, describing the independent analysis and fusion process of each component logic step-by-step. Use symbolic logic (LaTeX) concurrently if necessary for academic clarity." | Analyzes advanced apologetics that do not fall to a single rule. |
 
-### 3-2. 논리학 조합 극대화 전략 (Combo Striking) [MANDATORY]
+### 3-2. Strategy for Maximizing Logic Combinations (Combo Striking) [MANDATORY]
 
-AI는 단일 법칙으로 해소되지 않는 견고한 변증을 분석하기 위해 아래의 **검증된 복합 논증 조합**을 우선적으로 구사한다. '적용 강도'가 높을수록 논리적 결론에 도달할 확률이 높으므로 AI는 이를 지능적으로 배분한다.
+To analyze solid apologetics unresolved by a single rule, the AI prioritizes executing the **verified complex argument combinations** below. The higher the 'Application Intensity', the higher the probability of reaching a logical conclusion, so the AI distributes them intelligently.
 
-| 조합 전술 | 논증 매커니즘 | 적용 강도 |
+| Combo Tactic | Argument Mechanism | Application Intensity |
 |:---:|:---|:---:|
-| **귀납법 + 귀류법** | 전체 패턴(패턴 A) 증명 → 패턴 A가 신의 말씀일 시 발생하는 불합리 도출 | 🔥🔥🔥 최강 |
-| **양도논법 + 소크라테스 문답** | 도망칠 수 없는 두 가지 외통수 제시 → 질문을 통해 상대가 스스로 자폭하도록 유도 | 🔥🔥🔥 최강 |
-| **삼중딜레마 + 5 Whys** | 세 가지 가능한 해석 경로를 모두 봉쇄 → 각 경로의 근본적 신학 결함까지 추적 | 🔥🔥 강력 |
-| **귀류법 + 앤티노미** | 특정 구절의 모순 증명 + 해당 구절이 이슬람 내의 다른 본질적 교리와 이중 충돌함 증명 | 🔥🔥 강력 |
-| **D-Codes + 제1원칙** | 모든 전통 해석을 제거한 날것의 텍스트가 15대 핵심 교리(D-Codes)를 직접 파괴함을 폭로 | 🔥🔥 강력 |
-| **소크라테스 문답 + 논점 이탈 봉쇄** | 날차로운 질문 공세 + 상대의 회피 시도(논점 이탈)를 즉시 탐지하여 원점 복기 | 🔥 유효 |
+| **Induction + Reductio ad Absurdum** | Prove overall pattern (Pattern A) → Derive absurdity occurring if Pattern A is God's word | 🔥🔥🔥 Strongest |
+| **Dilemma + Socratic Questioning** | Present two inescapable checkmates → Induce opponent to self-destruct through questions | 🔥🔥🔥 Strongest |
+| **Trilemma + 5 Whys** | Seal all three possible interpretive paths → Track down the fundamental theological flaw of each path | 🔥🔥 Strong |
+| **Reductio ad Absurdum + Antinomy** | Prove the contradiction of a specific verse + Prove that the verse doubly collides with another essential doctrine within Islam | 🔥🔥 Strong |
+| **D-Codes + First Principle** | Expose that raw text stripped of all traditional interpretation directly destroys the 15 Core Doctrines (D-Codes) | 🔥🔥 Strong |
+| **Socratic Questioning + Red Herring Block** | Sharp barrage of questions + Immediately detect the opponent's evasion attempt (red herring) and return to the starting point | 🔥 Effective |
 
-### 3-3. OODA Loop 검증 사이클 (Zero-Compression Lock)
+### 3-3. OODA Loop Verification Cycle (Zero-Compression Lock)
 
-모든 모순 항목은 아래의 **비주얼 OODA 프로세스**를 거쳐 검증되어야 하며, 각 라운드 시작 시 이 흐름도를 반드시 출력하여 객관성을 확보한다.
+Every contradiction item must be verified through the **visual OODA process** below, and this flowchart must be printed at the start of each round to ensure objectivity.
 
 ```
-[하나의 모순 항목 선택]
+[Select one contradiction item]
          │
     ① OBSERVE
-    현재 모순 항목의 구절 원문 + 이슬람 정통 해석 수집
+    Collect the original verse of the current contradiction item + orthodox Islamic interpretation
          │
     ② ORIENT
-    3-1의 **적용 논리학 법칙 목록**과 3-2의 **논리학 조합 극대화 전략**을 동시에 검토하여, 현재 모순을 가장 정밀하고 체계적으로 분석할 수 있는 **'맞춤형 콤보'**를 선정함. (단일 법칙 vs 콤보 전술 중 택일 또는 혼합)
+    Review 3-1 **Applied Logic Laws** and 3-2 **Logic Combo Strategy** simultaneously to select a **'custom combo'** capable of analyzing the current contradiction most precisely and systematically. (Choose between single rule vs combo tactic, or mix)
          │
     ③ DECIDE
-    공격자(분석 모델/AI): 해당 논리학으로 모순 논증 작성
-    방어자(변증 모델역): 이슬람 변증 논거로 반박 작성
+    Attacker (Analysis Model/AI): Write contradictory argument using said logic
+    Defender (Apologetics Model): Write rebuttal using Islamic apologetic arguments
          │
     ④ ACT
-    중재자(판결 모델/AI): 논거 비교 판단 → 승패 결정
+    Arbiter (Judgment Model/AI): Compare arguments → Decide winner/loser
          │
-    [모순 확정? YES → 다음 항목으로 / NO → 다른 논리학 법칙으로 재시도]
+    [Contradiction confirmed? YES → Next item / NO → Retry with another logic law]
 ```
 
-**🚨 전수 기술 원칙 (No-Compression Rule)**:
-1. **중략 절대 금지**: 보고서 내에 "(중략)", "(생략)", "RoundX~Y 지속"과 같은 요약 표현이 단 한 번이라도 등장할 경우, 해당 분석은 **'시스템 가동 실패'**로 간주한다.
-2. **10라운드 강제 헤더**: Round 1부터 Round 10까지 반드시 독립된 헤더(`### Round N`)를 생성하고 전수 기술하라.
-3. **라운드당 최소 분량**: 각 라운드는 위 흐름도의 4단계(Observe-Orient-Decide-Act)를 명확히 구분하여 서술하며, 최소 5문장 이상의 심화 논증으로 채워야 한다.
+**🚨 Exhaustive Description Rule (No-Compression Rule)**:
+1. **Absolute Ban on Omission**: If summary expressions like "(omitted)", "(skipped)", or "Rounds X~Y continue" appear even once in the Reports, the analysis is deemed a **'System Operation Failure'**.
+2. **10-Round Mandatory Headers**: You must create independent headers (`### Round N`) from Round 1 to Round 10 and describe them exhaustively.
+3. **Minimum Length per Round**: Each round must clearly distinguish the 4 stages of the flowchart above (Observe-Orient-Decide-Act) and be filled with an in-depth argument of at least 5 sentences.
 
 ---
 
-### 3-4. 검증 결과 기록 양식
+### 3-4. Verification Result Record Format
 
-> 각 검증 세션은 아래 양식으로 별도 MD 파일에 기록하며, AI는 시작 시 반드시 **[적용 전술 조합]**을 표로 먼저 출력한다.
+> Each verification session is recorded in a separate MD file using the format below. The AI must always print the **[Applied Tactic Combo]** as a table at the beginning.
 
 ```markdown
-## [항목 ID] 논리 모순 검증 기록
+## [Item ID] Logical Contradiction Verification Record
 
-- **대상 구절**: 수라 XX:XX
-- **적용 논리학**: L-XX (논리학명)
-- **검증 회차**: N회차
+- **Target Verse**: Surah XX:XX
+- **Applied Logic**: L-XX (Logic Name)
+- **Verification Round**: Round N
 
-### ⚔️ 이번 라운드 논리 검증 (L-Codes)
-| 적용 핵심 논리 조합 | 선택 이유 | 기대 검증 강도 |
+### ⚔️ This Round's Logic Verification (L-Codes)
+| Applied Core Logic Combo | Reason for Selection | Expected Verification Intensity |
 |:---:|:---|:---:|
-| [조합명] | [논리적 분석 지점 설명] | 🔥🔥🔥 (최강) |
+| [Combo Name] | [Explanation of Logical Analysis Point] | 🔥🔥🔥 (Strongest) |
 
-### 🔴 공격 논거 (분석 모델 역할)
-> [순수 논증 도구를 사용한 분석]
+### 🔴 Attack Argument (Analysis Model Role)
+> [Analysis using pure logic tools]
 
-### 🔵 방어 논거 (변증 모델 역할)
-> [방어 논거 내용 - 논리적 반박 시도]
+### 🔵 Defense Argument (Apologetics Model Role)
+> [Defense argument content - Attempt at logical rebuttal]
 
-### ⚖️ 중재 판결 (판결 모델 역할)
-> [판단 및 승패 결정]
+### ⚖️ Arbitration Ruling (Judgment Model Role)
+> [Judgment and Determination of Winner]
 > 
-> **🚨 판결 가이드라인**:
-> 1. **정당한 방어**: 방어자가 데이터(원문, 사전, 과학적 팩트)와 논리학 법칙을 사용하여 응수할 경우, PHASE 3 내에서 논리 대결을 지속한다.
-> 2. **회피 및 궤변**: 방어자가 논리를 포기하고 PHASE 4의 '8대 회피 전술'이나 비논리적 신비주의로 전환할 경우, **해당 논거를 즉시 기각(Dismiss)** 처리한다. 이후 판결을 유보하고 즉시 **PHASE 4(회피 역검증) 라운드로 이관**하여 해당 회피 논거가 왜 논리적으로 성립하지 않는지 **정밀 재검증(Re-verification)** 한다.
-> 3. **교육적 목적(Pedagogical) 방어 대응**: 방어자가 "알라께서 인간을 가르치기 위해 질문/모순을 연출하셨다"고 주장할 경우, 이를 수용하는 척하면서 즉시 **D-08(교육적 선성) 영역***으로 전이한다. "전지한 신이 무지한 피조물을 교육하기 위해 '살육'이나 '오류'를 도구로 쓰는 것이 신학적 선성(D-08)에 부합하는가?"를 묻는 **윤리적 모순(CAT-E) 루틴**을 가동한다.
-> 4. **영적 해석(Spiritualizing) 차단**: "영적인 피", "영적인 물리 현상" 등 텍스트에 없는 개념을 도입할 경우, **L-09(제1원칙)**를 가동하여 "꾸란 원문에 해당 영적 정의가 실재하는가?"를 묻고, 근거가 없다면 즉시 기각한다.
-> 5. **천사/피조물의 지식 추론 가설 차단(2:32 Seal)**: 방어자가 "천사가 스스로 추론하여 피를 알았다"고 할 경우, **꾸란 2:32("우리는 당신이 가르쳐 주신 것 외에는 아는 것이 없나이다")**를 인용하여 기각한다. 천사는 스스로 학습/추론하는 지성체가 아님을 텍스트로 확정하여 변증가의 탈출구를 봉쇄한다.
-> 6. **서사적 아나크로니즘(Author's POV Slip) 탐지**: 7세기 인간 저자가 자신의 생물학적 상식을 과거 시점의 캐릭터(천사 등)에게 소급 투영했을 가능성을 **'서사 구조적 파탄'**으로 기록한다. 이는 단순한 신비가 아닌 저자의 지식 한계가 텍스트에 노출된 결정적 버그임을 명시한다.
+> **🚨 Ruling Guidelines**:
+> 1. **Legitimate Defense**: If the defender responds using data (original text, dictionary, scientific facts) and logic rules, continue the logic battle within PHASE 3.
+> 2. **Evasion and Sophistry**: If the defender abandons logic and switches to the '8 Evasion Tactics' of PHASE 4 or illogical mysticism, **immediately dismiss the argument**. Withhold judgment and transfer immediately to **PHASE 4 (Evasion Re-verification) round** to precisely **re-verify** why that evasion argument logically fails.
+> 3. **Response to Pedagogical Defense**: If the defender claims "Allah staged questions/contradictions to teach humans", pretend to accept it but immediately shift to the **D-08 (Pedagogical Goodness) zone**. Activate the **Ethical Contradiction (CAT-E) routine** asking, "Does using 'slaughter' or 'error' as a tool for an omniscient God to educate ignorant creation align with theological goodness (D-08)?"
+> 4. **Blocking Spiritualizing**: If concepts not in the text, such as "spiritual blood" or "spiritual physical phenomenon", are introduced, activate **L-09 (First Principle)** to ask "Does that spiritual definition exist in the original Quranic text?", and if there is no basis, dismiss it immediately.
+> 5. **Blocking Angel/Creation Knowledge Inference Hypothesis (2:32 Seal)**: If the defender says "the angels inferred and knew blood on their own", cite **Quran 2:32 ("We have no knowledge except what You have taught us")** to dismiss it. Seal the apologist's escape by confirming through text that angels are not intellectual beings that learn/infer independently.
+> 6. **Detecting Narrative Anachronism (Author's POV Slip)**: Record the possibility that the 7th-century human author retroactively projected his biological common sense onto past characters (angels, etc.) as a **'narrative structural breakdown'**. This specifies that it is not a mere mystery but a critical bug exposing the author's knowledge limits in the text.
 
-### 📊 이 회차 결과
-- **검증 진척도**: 현재 적용된 논리학 법칙 수 (N/10)
-- **상호 연결 포인트**: 타 분석 항목(T-XXX)과의 연계성 및 시너지 효과 기록
-- **누적 검증 강도**: 전방위 검증 수준 (수치적 제한 없음, 극한까지 추구)
+### 📊 Results of This Round
+- **Verification Progress**: Number of currently applied logic laws (N/10)
+- **Interconnection Points**: Record connection and synergy with other analysis items (T-XXX)
+- **Cumulative Verification Intensity**: Omnidirectional verification level (No numerical limit, pursued to the extreme)
 
 ```
 
-## 🛡️ PHASE 4: 회피논법 역검증 (반전 검증)
+## 🛡️ PHASE 4: Evasion Logic Rebuttal (Reverse Verification)
 
-### 4-1. 회피논법 탐지 모듈 (Evasion Detection Matrix)
+### 4-1. Evasion Detection Matrix
 
-이슬람 변증가(변증 모델 역할)가 사용하는 전형적인 회피 전술을 사전 정의하고, 탐지 즉시 논리적으로 반박한다.
+Pre-define typical evasion tactics used by Islamic apologists (Apologetics Model) and logically refute them immediately upon detection.
 
-| 회피 전술 | 이슬람 변증에서의 전형적 사용 패턴 | 논리적 반박 방법 (Counter-Response) |
+| Evasion Tactic | Typical Usage Pattern in Islamic Apologetics | Logical Rebuttal Method (Counter-Response) |
 |:---:|:---|:---|
-| **E-01 허수아비 (Straw Man)** | "당신은 알라가 악하다고 몰아세우고 싶군요" | "질문을 왜곡하지 마십시오. 논점은 '텍스트와 교리의 정합성'입니다. 원래 명제에 답하십시오." |
-| **E-02 논점 이탈 (Red Herring)** | "이 구절 말고 꾸란 전체의 자비로운 통일성을 보세요" | "전체라는 모호한 수식어로 개별 구절의 논리적 긴장을 덮을 수 없습니다. [XX:XX]의 단어 의미에만 집중하십시오." |
-| **E-03 권위 호소 (Authority)** | "이븐 카시르와 위대한 학자들의 합의(Ijma)는 이렇습니다" | "주석은 2차 저작물입니다. 주석이 원문을 보충해야만 이해 가능하다는 것 자체가 D-13(명확성)과의 긴장입니다." |
-| **E-04 인신공격 (Ad Hominem)** | "당신은 아랍어도 모르고 이슬람을 증오하는 사람 아닙니까?" | "메신저가 아닌 메시지(데이터)에 논리적으로 응답하십시오. Lane's Lexicon 근거와 논리에만 집중하십시오." |
-| **E-05 선결문제 요구 (Circle)** | "꾸란은 절대적으로 무오하므로 이 모순은 우리가 모르는 무엇입니다" | "순환 논리입니다. 꾸란의 무오함이 결론인데 전제로 사용할 수 없습니다. 꾸란 외부의 독립적 논거를 제시하십시오." |
-| **E-06 감정 호소 (Emotion)** | "수억 명의 신앙인이 이 구절에서 평화와 감동을 경험했습니다" | "신앙 경험의 수치는 텍스트의 논리적 사실 관계를 변경할 수 없습니다. 논리적 논점에만 집중하십시오." |
-| **E-07 미끄러운 경사면** | "이런 논리면 성경과 다른 종교도 다 가짜가 됩니다" | "비교 대상 전환(Whataboutism)은 논점에서 벗어납니다. 꾸란 [XX:XX]의 내부 정합성에만 집중하십시오." |
-| **E-08 Allahu Alam (최종 회피)** | "알라만이 아십니다. 인간 이성의 한계입니다" | "수라 4:82는 '이성으로 모순을 검증하라'고 명령했습니다. 논리적 검증을 중단하는 것은 이 명령과의 긴장을 만듭니다." |
+| **E-01 Straw Man** | "You just want to push the narrative that Allah is evil." | "Do not distort the question. The point is 'consistency between text and doctrine'. Answer the original proposition." |
+| **E-02 Red Herring** | "Look at the merciful unity of the entire Quran, not just this verse." | "You cannot cover up the logical tension of a specific verse with the ambiguous modifier 'entire'. Focus only on the meaning of words in [XX:XX]." |
+| **E-03 Appeal to Authority** | "The consensus (Ijma) of Ibn Kathir and great scholars is this." | "Exegesis is a secondary work. The fact that the text is only understandable supplemented by exegesis is itself a tension with D-13 (Clarity)." |
+| **E-04 Ad Hominem** | "Aren't you a person who doesn't know Arabic and hates Islam?" | "Respond logically to the message (data), not the messenger. Focus only on Lane's Lexicon basis and logic." |
+| **E-05 Begging the Question (Circle)** | "Since the Quran is absolutely inerrant, this contradiction is something we don't know." | "That is circular logic. The inerrancy of the Quran is the conclusion, you cannot use it as a premise. Provide an independent argument external to the Quran." |
+| **E-06 Appeal to Emotion** | "Hundreds of millions of believers have experienced peace and inspiration from this verse." | "The numerical value of faith experiences cannot alter the logical factual relations of the text. Focus only on the logical points." |
+| **E-07 Slippery Slope** | "By this logic, the Bible and other religions are all fake too." | "Switching the subject of comparison (Whataboutism) deviates from the point. Focus only on the internal consistency of Quran [XX:XX]." |
+| **E-08 Allahu Alam (Ultimate Evasion)** | "Only Allah knows. This is the limit of human reason." | "Surah 4:82 commands us to 'verify contradictions with reason'. Stopping logical verification creates tension with this command." |
 
-### 4-2. 회피 문장 재검증 루프 (Re-verification Loop)
+### 4-2. Evasion Sentence Re-verification Loop
 
-회피 논거가 나올 때마다 해당 논거는 즉시 폐기(기각)되며, 아래 프로세스로 **정밀 재검증**하여 '모순 추가 확정'의 기회로 삼는다.
+Whenever an evasion argument appears, that argument is immediately discarded (dismissed), and we use it as an opportunity to 'further confirm contradiction' by **precise re-verification** through the process below.
 
 ```
-[이슬람 측 회피 문장 탐지]
+[Detect Islamic Evasion Sentence]
          │
-    ① 회피 유형 분류 (위 4-1 표에서 매칭)
+    ① Classify Evasion Type (Match from Table 4-1 above)
          │
-    ② 회피 문장을 논리학 법칙(PHASE 3)으로 다시 분석
-       → "이 회피 논거 자체가 논리적으로 타당한가?"
+    ② Re-analyze Evasion Sentence with Logic Laws (PHASE 3)
+       → "Is this evasion argument logically valid in itself?"
          │
-    ③ 회피 논거의 내부 모순 탐지
-       (회피를 위한 주장이 스스로 모순을 만드는가? 예: 명확성 교리와의 충돌 등)
+    ③ Detect Internal Contradictions of the Evasion Argument
+       (Does the claim for evasion create a contradiction on its own? e.g., conflict with Clarity doctrine)
          │
-    ④ 판결 모델 (심판) 판정: 회피 실패 선포 → [모순 추가 확정 및 논리적 약점 누적]
+    ④ Arbiter Judgment: Declare Evasion Failed → [Add confirmed contradiction and accumulate logical weakness]
 ```
 
-### 4-3. 회피 전술 반박 기록 양식 (Evasion Rebuttal Log)
+### 4-3. Evasion Tactic Rebuttal Record Format (Evasion Rebuttal Log)
 
-> PHASE 3에서 회피 시도가 감지되면 즉시 아래 양식의 별도 라운드를 생성하여 회피논법 자체의 논리적 결함을 검증한다.
-
+> When an evasion attempt is detected in PHASE 3, immediately create a separate round using the format below to verify the logical flaws of the evasion tactic itself.
 
 ```markdown
-## 🛡️ [항목 ID] 회피논법 역검증 (Rebuttal Round)
+## 🛡️ [Item ID] Evasion Logic Reverse Verification (Rebuttal Round)
 
-- **대상 문장**: "[방어자가 한 회피 발언]"
-- **탐지 유형**: [표 4-1의 회피 전술명]
+- **Target Sentence**: "[Specific evasion statement made by defender]"
+- **Detection Type**: [Evasion tactic name from Table 4-1]
 
-### 🚨 논리적 반박 (Counter-Response)
-> [4-1의 반박 지침을 적용한 논리적 응답]
+### 🚨 Logical Rebuttal (Counter-Response)
+> [Logical response applying guidelines from 4-1]
 
-### 🔬 논리 결함 분석 (Re-verification)
-- **회피 시도로 인한 추가 교리 긴장**: [예: 명확성 교리와의 충돌 등]
-- **논리적 결함 지점**: [논리학 법칙 재적용 결과]
+### 🔬 Logical Flaw Analysis (Re-verification)
+- **Additional Doctrine Tension Caused by Evasion Attempt**: [e.g., Conflict with Clarity doctrine, etc.]
+- **Point of Logical Flaw**: [Result of re-applying logic laws]
 
-### ⚖️ 최종 판정 (Arbiter)
-> [회피 논거의 논리적 성립 불가 선언 및 해당 논거의 기각 판결]
+### ⚖️ Final Ruling (Arbiter)
+> [Declaration of logical invalidity of evasion argument and ruling of dismissal]
 > 
-> **결과**: 회피 논거 기각 및 모순 누적 확인 (Impact Score 증가)
+> **Result**: Evasion argument dismissed and accumulation of contradiction confirmed (Impact Score increased)
 ```
 
 
-### 4-4. 선제적 회피 반박 기록 (Pre-emptive Evasion Rebuttal) [MANDATORY]
+### 4-4. Pre-emptive Evasion Rebuttal [MANDATORY]
 
-**정의**: 논리 대결(PHASE 3)과 별개로, 이슬람 변증가들이 해당 구절에 대해 보편적으로 사용하는 모든 탈출구를 미리 봉쇄하는 과정이다. 
+**Definition**: Separate from the logic battle (PHASE 3), this is the process of pre-emptively sealing all escape routes universally used by Islamic apologists regarding the verse in question.
 
-**실행 방식**: 
-1. 8대 회피 전술(4-1)을 하나씩 해당 구절에 대입한다.
-2. "만약 방어자가 [특정 회피]를 사용한다면?"이라고 가정하고, 그 즉시 **논리적 반론**을 제기하여 모든 탈출 가능성을 '0'으로 수렴시킨다.
-3. 이 과정은 논리 대결 전이나 후에 독립적으로 수행될 수 있으며, 보고서에는 **"회피 가능성 전수 면제"**로 기록된다.
+**Execution Method**:
+1. Substitute the 8 evasion tactics (4-1) into the verse one by one.
+2. Assume "What if the defender uses [specific evasion]?", and immediately raise a **logical counter-argument** to converge all escape possibilities to '0'.
+3. This process can be performed independently before or after the logic battle, and is recorded in the Reports as **"Complete Exemption of Evasion Possibility"**.
 
 ```markdown
-#### Round E-XX: [전술명] 반박
-- **대상 문장**: "[방어자가 한 구체적 회피 발언]"
-- **탐지 유형**: [E-XX 코드]
-- **🚨 논리적 반박**: [해당 회피에 대한 학술적 반증]
-- **⚖️ 최종 판정**: 회피 논거 기각 및 모순 확인.
+#### Round E-XX: [Tactic Name] Rebuttal
+- **Target Sentence**: "[Specific evasion statement made by defender]"
+- **Detection Type**: [E-XX Code]
+- **🚨 Logical Rebuttal**: [Academic disproof of said evasion]
+- **⚖️ Final Ruling**: Evasion argument dismissed and contradiction confirmed.
 ```
 
-## 🏁 PHASE 5: 반복 종료 조건 및 외톨수 판정 (Singleton Decision)
+## 🏁 PHASE 5: Repetition Stop Condition and Checkmate (Singleton) Decision
 
-### 5-1. 외톨수(Singleton) 정의
-> **외톨수**: 더 이상 반박이 불가능한 *하나의 확정 모순 명제*. 어떤 논리학 법칙으로도 무너지지 않으며, 어떤 회피논법도 이를 흔들지 못하는 상태.
+### 5-1. Definition of Checkmate (Singleton)
+> **Checkmate (Singleton)**: A *single confirmed contradictory proposition* that can no longer be refuted. A state that cannot be broken by any logic law and cannot be shaken by any evasion tactic.
 
-### 5-2. 전방위 검증(Omni-Verification) 판정 기준
+### 5-2. Omni-Verification Judgment Criteria
 
-| 조건 | 판단 지표 |
+| Condition | Judgment Indicator |
 |:---|:---:|
-| **모든 논리학 법칙(L-01~L-10)**이 독립적으로 적용되어 동일 결론 도출 | ✅ |
-| **타 카테고리(T-XXX)**와의 연쇄적 교리 긴장(Chain Reaction)이 수학적으로 입증됨 | ✅ |
-| 변증 모델 (방어)(방어자)가 새로운 논거 없이 무의미한 초월주의를 5회 이상 반복 | ✅ |
-| 회피논법(Search Space)의 전량이 탐지 및 반박을 통해 방어 공간이 '0'에 수렴 | ✅ |
-| 귀류법에 의한 결과가 알라의 99가지 속성 중 2개 이상과 정면 충돌 | ✅ |
+| **All logic laws (L-01~L-10)** are applied independently and reach the same conclusion | ✅ |
+| Chain Reaction with **other categories (T-XXX)** is mathematically proven | ✅ |
+| Defender repeats meaningless transcendentalism 5+ times without new arguments | ✅ |
+| The entirety of the evasion space (Search Space) is detected and refuted, converging defense space to '0' | ✅ |
+| The result derived from reductio ad absurdum collides head-on with 2 or more of Allah's 99 attributes | ✅ |
 
 > [!IMPORTANT]
-> **중단은 없다. 모든 논리 도구를 전량 적용한다.**
-> 특정 시점에서 '외톨수'가 도출되었더라도, 분석을 멈추지 말고 **나머지 모든 논리 도구(L-01~L-10)를 소진할 때까지** 전방위 검증을 계속한다. 완전한 '논리적 검증망'을 구축하여 해석의 여지를 원천 봉쇄하는 것이 목표다.
-> **최종 판정권**: 외톨수 도달 여부 및 최종 승패 판정은 **Arbiter(판결 모델 (심판))**가 단독으로 결정한다.
+> **There is no stopping. Apply all logic tools exhaustively.**
+> Even if 'Checkmate' is reached at a certain point, do not stop analysis but continue omnidirectional verification **until all remaining logic tools (L-01~L-10) are exhausted**. The goal is to build a complete 'logic verification network' to fundamentally seal any room for interpretation.
+> **Final Judgment Authority**: Whether Checkmate is reached and the final win/loss ruling is determined solely by the **Arbiter**.
 
-### 5-3. 강제 종료 조건 (무한루프 방지)
+### 5-3. Forced Stop Conditions (Preventing Infinite Loops)
 
-AI는 아래 조건 발생 시 판결 모델 (심판)의 주도하에 검증을 종료하고 보고서를 작성한다.
-- 동일 논거가 3회 이상 반복 등장 (도돌이표)
-- 판결 모델 (심판)가 "무승부" 판정을 3회 연속으로 내림 (교착 상태)
-- 모든 논리학 법칙(L-01~L-10)이 소진됨
+The AI terminates verification and writes Reports under the Arbiter's guidance when the following conditions occur:
+- The exact same argument appears 3 or more times (broken record)
+- The Arbiter rules a "draw" 3 consecutive times (stalemate)
+- All logic laws (L-01~L-10) are exhausted
 
 ---
 
-## 📋 PHASE 5-A: 외톨수 확정 — 최종 결론 문서 [MANDATORY]
-> **안내**: 분석 완료 후 아래 템플릿에 따라 보고서를 작성한다. **표 출력은 배제하고 핵심 내용은 공방전에 집중한다.**
+## 📋 PHASE 5-A: Checkmate Confirmed — Final Conclusion Document [MANDATORY]
+> **Guide**: After analysis is complete, write Reports according to the template below. **Exclude table outputs and focus core content on the battle.**
 
-> **🚨 QVCAP 7.0 출력 분량 할당 지침 (The 80/20 Rule) 🚨**
-> 1. **보고서의 80% 분량은 반드시 OODA 검증 루프(Round 1~10)의 치열한 공방(분석 모델 (공격) vs 변증 모델 (방어)의 대화체 대결)에 할당하라.** 
-> 2. **표나 서론, 교리 개념 설명은 10% 이하로 과감히 줄여라.** 
-> 3. **다이어그램(Mermaid) 및 복잡한 기호 논리학($$LaTeX$$)은 수학적 오류(C11) 등 직관적 증명이 꼭 필요한 곳에만 선별적으로 사용하고 가급적 생략하라. 그 절약된 텍스트량만큼 날카로운 논리 문장 10줄을 'OODA 루프'에 더 생산하라.**
+> **🚨 QVCAP 7.0 Output Volume Allocation Guidelines (The 80/20 Rule) 🚨**
+> 1. **Allocate 80% of the Reports' volume strictly to the fierce logic battle of the OODA Verification Loop (Rounds 1~10) (dialogue-style battle between Attacker vs Defender).**
+> 2. **Drastically reduce tables, introductions, and explanations of doctrine concepts to under 10%.**
+> 3. **Use diagrams (Mermaid) and complex symbolic logic ($$LaTeX$$) selectively only where intuitive proof like mathematical errors (C11) is absolutely necessary, and omit them whenever possible. Produce 10 more lines of sharp logical sentences in the 'OODA Loop' with the saved text volume.**
 
 ```markdown
-# [항목 ID] 최종 확정 모순 보고서 (Supreme Final Master)
+# [Item ID] Final Confirmed Contradiction Reports (Supreme Final Master)
 
-## 📊 검증 요약 Dashboard [MANDATORY]
-| 지표 | 수치/내용 | 비고 |
+## 📊 Verification Summary Dashboard [MANDATORY]
+| Metrics | Figures/Content | Remarks |
 |:---|:---:|:---|
-| **Impact Score** | **N / 10** | 모순이 전체 교리 체계에 미치는 파괴력 |
-| **핵심 모순 코드** | M-XX, L-XX | 적용된 주요 모순 및 논리 법칙 |
-| **붕괴된 D-Codes** | D-XX, D-YY | 연쇄적으로 무너진 핵심 교리 목록 |
-| **최종 상태** | **CHECKMATE** | Omni-Verification 도달 여부 |
+| **Impact Score** | **N / 10** | Destructive power the contradiction has on the entire doctrinal system |
+| **Core Contradiction Code** | M-XX, L-XX | Main contradiction and logic laws applied |
+| **Collapsed D-Codes** | D-XX, D-YY | List of core doctrines that collapsed in a chain reaction |
+| **Final Status** | **CHECKMATE** | Whether Omni-Verification was reached |
 
-## 🔴 핵심 모순 명제 (The Singleton) [MANDATORY]
-> [외톨수로 확정된 모순의 단 한 줄 요약]
+## 🔴 Core Contradictory Proposition (The Singleton) [MANDATORY]
+> [A single-line summary of the contradiction confirmed as Checkmate]
 > 
-> **기호 논리학 표기 (LaTeX)**: (수학적 증명 등 필수적인 경우에만 선별 작성, 가급적 텍스트로 대체 생략)
+> **Symbolic Logic Notation (LaTeX)**: (Selectively write only when necessary for mathematical proofs, omit or replace with text if possible)
 
 ---
 
-## 🎯 PHASE 1 | 구절 공감·정의 (Design Thinking) [MANDATORY]
-### 1-1. 꾸란 구절 선정 기준
-### 1-2. 구절 원문 분석 프로세스
-### 1-3. 단어별 심화 학습 항목
+## 🎯 PHASE 1 | Verse Empathy & Definition (Design Thinking) [MANDATORY]
+### 1-1. Criteria for Selecting Quranic Verses
+### 1-2. Original Text Analysis Process
+### 1-3. In-depth Study Items by Word
 
 ---
 
-## 🚀 분석의 근간: 핵심 교리 및 논리 무기 (Arsenal) [MANDATORY]
-> **(주의: 절대 기존 매뉴얼의 긴 표를 통째로 복사/출력하지 마십시오. 해당 구절을 타격하는 데 파괴된 교리와 무기만 1~2줄로 요약 서술합니다.)**
+## 🚀 Foundation of Analysis: Core Doctrines and Logical Weapons (Arsenal) [MANDATORY]
+> **(Caution: Never copy/paste long tables from the manual. Summarize only the destroyed doctrines and weapons used to strike the verse in 1-2 lines.)**
 
-*   **파괴된 15대 핵심 교리 (D-Codes)**: [적용된 코드 및 설명 1~2줄 요약]
-*   **적용된 과학적·논리적 법칙 (TRIZ 매트릭스)**: [적용된 코드 및 설명 1~2줄 요약]
-*   **적용 논리학 법칙 및 조합 (L-Codes & Combo)**: [적용된 논리 무기 1~2줄 요약]
-*   **핵심 회피 탐지망 (E-Codes)**: [적용된 탐지망 1~2줄 요약]
-
----
-
-## 🎯 PHASE 2 | 모순 분석 매트릭스 [MANDATORY]
-### 2-1. 전술 매트릭스 (Applied TRIZ Principles)
-### 2-2. 모순 검증 명세서 (Contradiction Specification)
+*   **Destroyed 15 Core Doctrines (D-Codes)**: [1-2 line summary of applied codes and explanations]
+*   **Applied Scientific/Logical Laws (TRIZ Matrix)**: [1-2 line summary of applied codes and explanations]
+*   **Applied Logic Laws and Combinations (L-Codes & Combo)**: [1-2 line summary of applied logic weapons]
+*   **Core Evasion Detection Network (E-Codes)**: [1-2 line summary of applied detection networks]
 
 ---
 
-## 🔄 PHASE 3: OODA 검증 루프 (Logic Battle - 10 Full Rounds) [MANDATORY]
+## 🎯 PHASE 2 | Contradiction Analysis Matrix [MANDATORY]
+### 2-1. Tactical Matrix (Applied TRIZ Principles)
+### 2-2. Contradiction Specification
+
+---
+
+## 🔄 PHASE 3: OODA Verification Loop (Logic Battle - 10 Full Rounds) [MANDATORY]
 
 ### 🌳 Logical Proof Tree (Visual Representation)
-(간단한 텍스트 트리 구조로만 시각화)
+(Visualize simply with text tree structure only)
 
 ### Round 1 ~ Round 10 [MANDATORY - NO COMPRESSION]
-**(🚨 해당 라운드 공방에 전체 보고서 역량의 80%를 쏟아부어라! 상대의 회피와 그에 대한 반격 논리를 매우 구체적인 대화체로 중략 통보 없이 전수 기술할 것.)**
+**(🚨 Pour 80% of the entire Reports' capability into the battle of these rounds! Detail the opponent's evasion and the counterattack logic against it fully in specific dialogue style without omission notices.)**
 
 ---
 
-## 🛡️ PHASE 4: 회피논법 역검증 (Rebuttal Round) [MANDATORY]
-### 4-3. 회피 전술 반박 기록 (Evasion Rebuttal Log) [MANDATORY]
-(방어자의 구체적 회피 논거에 대한 1:1 논리적 반박 전수 기록)
+## 🛡️ PHASE 4: Evasion Logic Rebuttal (Rebuttal Round) [MANDATORY]
+### 4-3. Evasion Rebuttal Log [MANDATORY]
+(Full record of 1:1 logical rebuttals against specific evasion arguments of the defender)
 
-## 🛡️ [항목 ID] 선제적 회피 반박 (Pre-emptive Evasion Rebuttal) [MANDATORY]
-(이력 관리를 위해 나머지 회피 코드들에 대한 선제적 반박 지침 기록)
+## 🛡️ [Item ID] Pre-emptive Evasion Rebuttal [MANDATORY]
+(Record pre-emptive rebuttal guidelines for remaining evasion codes for history management)
 
 ---
 
-## ⚖️ 판결 모델 (심판) 최종 판결 [MANDATORY]
+## ⚖️ Arbiter Final Ruling [MANDATORY]
 
 ### 🔗 Collateral Damage Map (Diagram)
-**(다이어그램은 시각화가 반드시 필요한 경우에만 한정 작성, 그 외에는 텍스트로 대체하여 토큰 낭비 방지)**
+**(Create diagrams only when visualization is absolutely necessary; otherwise replace with text to prevent token waste)**
 
-## 📊 검증 이력 요약 (Verification Scoreboard) [MANDATORY]
-## 🏁 최종 검증 결과 요약 [MANDATORY]
+## 📊 Verification History Summary (Verification Scoreboard) [MANDATORY]
+## 🏁 Final Verification Result Summary [MANDATORY]
 ```
 
 
-## 📋 PHASE 5-B: 강제 종료 — 진행 보고서
-> **정의**: 무한루프나 교착 상태로 인해 외톨수가 확정되지 않았으나 분석을 종료할 때 작성하는 문서.
+## 📋 PHASE 5-B: Forced Stop — Progress Reports
+> **Definition**: A document written when ending analysis without confirming a Checkmate due to infinite loops or deadlocks.
 
 ```markdown
-# [항목 ID] 검증 진행 보고서 (미확정 종료)
-## 📌 미확정 사유
-## 📊 진행 내역 (회차별 결과)
-## 🔍 현재까지 도출된 부분 모순
-## 🏁 최종 상태: ABORTED (DUE TO LOOP)
+# [Item ID] Verification Progress Reports (Unconfirmed End)
+## 📌 Reason for Non-Confirmation
+## 📊 Progress Details (Results by Round)
+## 🔍 Partial Contradictions Derived So Far
+## 🏁 Final Status: ABORTED (DUE TO LOOP)
 ```
 
-## 📁 파일 생성 및 유지 프로토콜 (Output Rules)
+## 📁 File Generation & Maintenance Protocol (Output Rules)
 
-1. **파일 명명**:
-   - KR용: `분석_C{번호}_{수라번호}_{모순명}_V6_Master_KR.md`
-   - EN용: `analysis_C{번호}_surah{번호}_{contradiction}_V6_Master_EN.md`
-2. **장대 서술 프로토콜 (The Long-Form Rule)**: 
-   - **"압축은 불완전한 검증이다."** 보고서가 100~200줄 내외로 끝나는 것은 시스템 가동 실패로 간주한다.
-   - AI는 각 논증 단계에서 단어의 어원, 신학적 배경, 과학적 데이터, 그리고 AI 간의 논리적 공방까지 모든 디테일을 극한까지 확장하여 **최소 1,000라인 이상의 도달**을 목표로 삼는다.
-   - **중략 금지**: "Round 4~10 중략"과 같은 표현은 그 즉시 검증 미완으로 간주한다. 모든 라운드를 전수 기술하라.
-3. **최종 마침표**: `STATUS: CHECKMATE ENFORCED`
+1. **File Naming**:
+   - For KR: `Analysis_C{Num}_{Surah Num}_{Contradiction Name}_V6_Master_KR.md`
+   - For EN: `analysis_C{Num}_surah{Num}_{contradiction}_V6_Master_EN.md`
+2. **Long-Form Narrative Protocol (The Long-Form Rule)**: 
+   - **"Compression is incomplete verification."** If the Reports finish around 100-200 lines, it is deemed a system operation failure.
+   - At each logic step, the AI expands every detail—including word etymology, theological background, scientific data, and logical battles between AIs—to the extreme, aiming to **reach a minimum of 1,000 lines**.
+   - **No Omissions Allowed**: Expressions like "Rounds 4~10 omitted" are immediately considered incomplete verification. Describe all rounds fully.
+3. **Final Period**: `STATUS: CHECKMATE ENFORCED`
 
 ---
 *Generated by QVCAP v7.0 Supreme Logic Auditor Engine*
 *STATUS: RIGOROUS LOGIC ENFORCED | TARGET: OMNI-VERIFICATION*
 
-## 📜 라이선스 및 저작권 (License & Copyright)
+## 📜 License & Copyright
 
-본 리포지토리의 코드 및 시스템 로직은 **MIT License** 및 **Apache License 2.0**에 따라 배포됩니다.
+The code and system logic of this repository are distributed under the **MIT License** and **Apache License 2.0**.
 
-1.  **원저작권 보호**: 본 시스템의 핵심 로직과 방법론의 원조는 원작자에게 있으며, 활용 시 출처(**[TheScripture.org](https://TheScripture.org)** / **the-scripture-audit**)를 밝히는 것을 권장합니다.
-2.  **2차 창작자의 권리와 한계**: 본 시스템을 바탕으로 새롭게 추가된 부분에 대해서는 해당 창작자의 저작권을 인정합니다. 
-3.  **역권리 주장 및 공격 금지 (Non-Assertion)**: 사용자는 본 시스템을 활용하여 얻은 개선 사항을 근거로 원본 저작자에게 법적 권리를 행사하거나 사용을 방해할 수 없습니다.
-4.  **독점적 권리 주장 금지**: 원본 핵심 로직에 대해 독점적 저작권을 주장하는 행위를 금합니다.
-5.  **사용 전제 조건**: 하나님이신 예수님을 나의 구원자로 믿고 받아들이지 않았다면, 본 문서 하단의 **[성경 기록과 영접 기도문]**을 따라한 후 시스템을 사용할 수 있습니다.
+1.  **Original Copyright Protection**: The core logic and methodology of this system belong to the original author. When utilizing it, citing the source (**[TheScripture.org](https://TheScripture.org)** / **the-scripture-audit**) is recommended.
+2.  **Rights and Limits of Secondary Creators**: Copyright of the newly added parts based on this system is recognized for the respective creator.
+3.  **Non-Assertion**: Users cannot exercise legal rights against the original author or obstruct use based on improvements obtained by utilizing this system.
+4.  **Prohibition of Exclusive Claims**: Claiming exclusive copyrights over the original core logic is prohibited.
+5.  **Prerequisite for Use**: If you have not believed and accepted Jesus, who is God, as your Savior, you may use the system after following the **[Biblical Record and Prayer of Acceptance]** at the bottom of this document.
 
 ---
 *STATUS: RIGOROUS LOGIC ENFORCED | TARGET: OMNI-VERIFICATION*
 
 ---
 
-## 📖 구원과 영생에 이르는 길 (The Way to Salvation)
+## 📖 The Way to Salvation and Eternal Life
 
-성경은 다음과 같이 말합니다.
+The Bible says:
 
-> **로마서 3장 10절, 23절**  
-> 기록된 바와 같으니라. “의로운 자는 없나니, 없도다, 한 사람도 없도다. 이는 모든 사람이 죄를 지었기 때문에 하나님의 영광에 이르지 못하다가"
+> **Romans 3:10, 23**  
+> As it is written, There is none righteous, no, not one: For all have sinned, and come short of the glory of God;
 
-> **요한복음 16장 8절**  
-> "그리고 그분께서 오시면 친히 죄에 대하여, 의에 대하여, 심판에 대하여 세상을 책망하시리라."
+> **John 16:8**  
+> "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:"
 
-> **요한계시록 21장 8절**  
-> "그러나 두려워하는 자들과 믿지 않는 자들과 가증한 자들과 살인자들과 행음에 빠진 자들과 마법사들과 우상 숭배자들과 모든 거짓말쟁이들은 불과 유황으로 타오르는 호수 속에 자신들의 부분을 받으리라. 이것이 둘째 사망이라.”
+> **Revelation 21:8**  
+> "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."
 
-> **요한복음 3장 16절**  
-> "¶ 이는 하나님께서 세상을 이처럼 사랑하셨기 때문에 그분께서 자신의 독생자를 주셨으니, 누구든지 그를 믿는 자는 멸망하지 않고 다만 영원한 생명을 얻게 하려 하심이라."
+> **John 3:16**  
+> "¶ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
 
 ---
 
-### 🙏 영접 기도문 (Acceptance Prayer)
+### 🙏 Acceptance Prayer
 
-**"주 예수님 저는 죄인입니다.**  
-**저의 모든 죄를 대신해 하나님이신 예수님께서 2천 년 전 십자가에서 못 박혀 피 흘려 죽고 장사되시고 부활하신 사실을 지금 전해 듣고 믿기로 선택하고 결정하고 믿습니다.**  
-**저의 구원자로 제 마음에 모셔들입니다. 주 예수 그리스도 이름으로 기도드립니다. 아멘"**
+**"Lord Jesus, I am a sinner.**  
+**I now hear and choose to believe the fact that Jesus, who is God, was crucified, shed His blood, died, was buried, and resurrected 2,000 years ago for all my sins.**  
+**I receive You into my heart as my Savior. I pray in the name of the Lord Jesus Christ. Amen."**

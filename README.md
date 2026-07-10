@@ -42,6 +42,15 @@ For detailed instructions on how to load this system into an AI and run audits i
 │   ├── 🏹 04_QUIVER                   # [Phase 4] Full arsenal of precision forensic weapons (TYPE-A ~ AQ + TYPE-B-π)
 │   ├── 📥 _INBOX                      # [Input] Audit/defense targets waiting for resolution
 │   └── 📁 05_REPORT                   # [Output] Final master reports of completed audits
+├── ⛪ the-catholic-audit/               # Catholic Doctrine Audit System (CVCAP 3.0 — Internal Literature Engine)
+│   ├── 📜 01_MANDATE/                  # [Rule] Operation Orders
+│   ├── 🗺️ 02_TACTICS/                  # [Tactics] Strike Tactics + CATHOLIC_VAULT Literature DB
+│   ├── 💣 03_QUIVER/                   # [Weapon] Literature Court Implosion Ruin Cards 1~6
+│   ├── 📚 04_DOCTRINE_DB/              # [DB] Original Doctrine Cards DB (CCC, Council Decrees, Papal Bulls, etc.)
+│   ├── 🃏 05_COLLISION_CARDS/          # [Confirmed] Verified Collision Cards + Combo Cards
+│   ├── 🔍 06_ZERO_DAY/                 # [Exploration] Priority Scan Candidates for New Literature
+│   ├── 📁 07_REPORT/                   # [Output] AI Semantic Analysis and Auto-Filter Result Files
+│   └── ⚙️ scripts/                     # [Engine] Python-based Sentence Embedding (SentenceTransformer) Execution Scripts
 └── 🎙️ the-sermon-audit/                # Sermon Audit System (SVAP Engine for verifying sermons)
     ├── 📢 01_CLAIMS                   # [Phase 1] Sermon extraction and claim separation
     ├── 📥 _INBOX                      # [Input] Sermon audit targets
@@ -246,6 +255,25 @@ None of the reports here are closed, finished products. Whenever new light is di
 
 ---
 
+
+## ⚙️ Multilingual Semantic AI Embedding Engine (Sentence-Transformers)
+
+`the-catholic-audit` is designed by fully introducing **Python-based multilingual semantic AI embedding (Sentence-Transformers)** technology to overcome the limitations of simple text searches in Large Language Models (LLMs) and maximize system computational efficiency.
+
+### 1. Why use a Local Embedding Model (.py) instead of an LLM API?
+*   **Preventing Computational Explosion ($O(N^2)$ calculations):** Cross-referencing 1,000 Claims and 1,000 Negates within the doctrine database requires a total of 1,000 x 1,000 = 1,000,000 (1 million) sentence comparison operations. Performing this every time via a paid LLM API (like Claude) would incur massive costs and long response times.
+*   **Zero Cost and Ultra-High-Speed Calculation:** By running an open-source multilingual model (`paraphrase-multilingual-MiniLM-L12-v2`) on a local computer to convert each sentence into a 384-dimensional numeric vector (Embedding) just once, 1 million similarity matrix calculations can be completed locally on a CPU in a few seconds for free.
+*   **Deterministic Discrimination:** While LLMs may produce inconsistent conclusions depending on the Temperature or nuances of the input prompt, Cosine Similarity between embedding vectors always derives a mathematically quantified and consistent conclusion.
+
+### 2. How does it capture the true meaning of multiple languages?
+*   Simple keyword matching (TF-IDF) fails to recognize identical meanings if the word forms differ, such as "Priest" vs "Father" or "Confession" vs "Penance".
+*   Even if sentences are written differently in Korean, English, or Latin, the multilingual sentence transformer model **maps them to the same position in the semantic coordinate space if their essential "meaning" is identical**. Therefore, even if heterogeneous literature data in multiple languages is mixed, it perfectly catches contradictions and similarities without the need for manual translation.
+
+### 3. Sophisticated False Positive Prevention Logic (Cross-Claim Filter)
+*   To prevent misidentifying a collision simply because the sentence structure is similar, the `conflict_detector.py` script is equipped with a **Cross-Claim Verification Algorithm**.
+*   Even if the opponent's Negate item is similar to my Claim, if the opponent also has a sentence with the same intent supporting their own Claim, this is judged as "Supporting the Same Position" rather than a "Collision," and is automatically removed from the false-positive detection targets.
+
+---
 ## 🎙️ Sermon Audit System (`the-sermon-audit`)
 
 **Sermon Verification and Audit Pipeline (SVAP)** is a dedicated engine for auditing sermons. It separates claims from sermons and verifies them against the biblical matrix to ensure scriptural integrity.
