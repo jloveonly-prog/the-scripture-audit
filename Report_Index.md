@@ -232,4 +232,4 @@ This index provides quick access to the most critical "Masterpiece" verdicts and
 
 | Korean File (KO) | English File (EN) |
 |---|---|
-| [REPORT_하나님의교회_교리모순_통합감사_Masterpiece.md](https://github.com/jloveonly-prog/the-scripture-audit-ko/blob/main/the-scripture-audit/05_REPORT(전과보고서)/wmscog/REPORT_하나님의교회_교리모순_통합감사_Masterpiece.md) | [REPORT_WMSCOG_Doctrine_Contradiction_Audit_Masterpiece.md](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/05_REPORT/wmscog/REPORT_WMSCOG_Doctrine_Contradiction_Audit_Masterpiece.md) |
+| [REPORT_하나님의교회_교리모순_통합감사_Masterpiece.md](https://github.com/jloveonly-prog/the-scripture-audit-ko/blob/main/the-scripture-audit/05_REPORT(전과보고서)/wmscog/REPORT_하나님의교회_교리모순_통합감사_Masterpiece.md) | [REPORT_WMSCOG_Doctrinal_Contradictions_Integrated_Audit_Masterpiece.md](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/05_REPORT/wmscog/REPORT_WMSCOG_Doctrinal_Contradictions_Integrated_Audit_Masterpiece.md) |
