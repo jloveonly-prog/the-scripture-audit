@@ -1187,95 +1187,76 @@ But this time was different. The medium initiated proxy communication to the und
 
 ---
 
-## 📎 [Appendix B] COMBO-VERIFY — Combo Verification
+## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
+This is the most intuitive and shocking approach for pastors accustomed to dispensational charts and timelines.
 
-### Triggered Combos
+### 📌 1. Reply to the Pastor
+* **File:** [`Reply_to_Pastor_Genesis_6_Fallen_Angels.md`](<./Reply_to_Pastor_Genesis_6_Fallen_Angels.md>)
+* **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
-| Combo Code | Combination | Result |
-|:---|:---|:---|
-| **COMBO-L2** | TYPE-G ("with me" bound pronoun) + TYPE-R (subject confusion detected) | "With me" = Paradise zone confirmed + "God's enemy" argument invalidated → **Double Blockade** |
-| **COMBO-L4** | TYPE-P (Reverse logic: Naming Samuel) + TYPE-E (Dismissal of competing models) | Actual Samuel confirmed → Demon theory / Macro-Sheol theory completely dismissed → **Only surviving model confirmed** |
-| **COMBO-G7** | TYPE-AC (Reverse hypothesis triple contradiction) + TYPE-AI (Reductio ad absurdum self-destruction) | Contradiction upon substituting ¬A + Self-destruction upon assuming A → **Two-way refutation complete** |
-| **COMBO-L8** | TYPE-G (Grammar) + TYPE-U (First occurrence: Luke 23:43) | "With me" (עִמִּי) spatial proximity + "With me in paradise" clearest usage → **Double confirmation of Paradise specification** |
-| **COMBO-L10** | TYPE-B (Sequential timeline) + TYPE-L (Evidence chain) | Saul's spiritual trajectory (Repentance → Expulsion of mediums → Inquiring of God) + Cumulative evidence chain → **Confirmation of the 'weakness' interpretation** |
-
-**Combo Verdict Rating**: ✅✅✅ **IRONCLAD** (5 combos converge, two-way refutation complete)
+### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
+* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md)
+* **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
 
-## 📎 [Appendix C] STRESS-TEST-7 — Final Verdict Stress Test
+## ⚖️ Part 2: Biblical Dismissal of the 'Genesis 6 Angel Theory' (Core Forensic Verification)
+Once you have confirmed the errors in the macroscopic framework through the flowchart, it is time for a forensic audit of the highly debated text of 'Genesis 6' itself.
 
-> Attempting to destroy the final verdict "✅ Saul went to Paradise" from 7 different angles.
+### 📌 3. Final Dismissal of the Angel Theory — Cross-Verification + IRONCLAD Argument
+* **File:** [`REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md`](./REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md)
+* **Summary:** A Masterpiece ruling that proves how the claim that the 'Sons of God' in Genesis 6 are fallen angels perfectly collides with cross-references within the KJV Bible (such as the inability of angels to reproduce and the contradictions regarding the punishment of fallen angels).
 
-| # | Stress | Attack Content | Survival Status |
-|:---:|:---|:---|:---:|
-| **S-1** | Subject Reversal | Reinterpreting "thine enemy" as "Saul = God's enemy" | ✅ Survived — TYPE-R Detected: "thine" = Saul's enemy (God opposes) |
-| **S-2** | Macro-Sheol Re-attack | "Together" = The entire Sheol system | ✅ Survived — FAQ-6 Luke 16:26 Great Gulf + Us/You pronoun separation |
-| **S-3** | Demon Disguise Theory | The summoned entity = a demon | ✅ Survived — Biblical author naming "Samuel" 15 times + Triple self-destruction |
-| **S-4** | Absence of Fruit Attack | No fruit of repentance for Saul | ✅ Survived — The thief on the cross counterexample (Paradise without fruit) |
-| **S-5** | Num 15:30 Attack | Intentional sin of rebellion → Unatonable | ✅ Survived — David's self-contradiction (Salvation maintained after intentional adultery/murder) |
-| **S-6** | 2 Sam 1:23 Rhetorical Interpretation | "not divided" = Poetic expression | ✅ Survived — נִפְרָד spatial usage + Symmetrical scope of parallelism + Luke 16:26 intersection |
-| **S-7** | Dispensational Attack | Luke 16 (New Testament) cannot be applied retroactively to Saul (Old Testament) | ✅ Survived — Luke 16 is Jesus's description of the **Old Testament Sheol structure**. It is an explanation of the same structure, not a dispensational division. |
+### 📌 4-A. Childbirth Before Eating the Forbidden Fruit (Basics) — 9 Forensic Verifications Dismissing the Angel Theory
+* **File:** [`REPORT_Genesis_3_6_Sons_of_God.md`](./REPORT_Genesis_3_6_Sons_of_God.md)
+* **Summary:** Covers 9 foundational legal principles proving the existence of childbirth prior to the forbidden fruit. This foundational document preemptively blocks any counterarguments through the separation of the Jude timeline, heterosis (hybrid vigor), the singularity of the Eden expulsion (Him), the anatomy of Romans 5:12, and Ezekiel 18:20 (prohibition of guilt by association and Achan's family).
 
-> **STRESS-TEST Result: 7/7 Survived.** The verdict is not destroyed from any angle. **IRONCLAD rating confirmed.**
-
----
-
-## 📎 [Appendix D] ANALOGY-5 — Modern Analogies
-
-> **Complete Reversal of the "Prison Analogy":**
->
-> The prosecution argued, "Being in a prison = not being in the same room." If we accurately update this analogy with biblical conditions:
->
-> Inside the prison, there is a **massive uncrossable canyon (great gulf)**, making it eternally impossible to travel between Block A (Paradise) and Block B (Torment). Prisoner Samuel steps out of Block A and speaks to Saul: *"To morrow shalt thou and thy sons be with me."* 
->
-> Jonathan, being righteous, is definitely assigned to Block A. Samuel is also in Block A. But what if Saul alone is assigned to Block B? **The word "with me (together)" becomes a lie, and Jonathan and Saul are permanently divided by the canyon.** However, the official prison record (2 Sam 1:23) states, "in their death they were not divided."
->
-> Conclusion: **Saul was assigned to Block A (Paradise).** Only this explains "with me," "not divided," and Jonathan's location without contradiction.
-
-> **"Thief on the Cross" Analogy:**
->
-> Right before his execution, a criminal says a single sentence to the judge next to him: *"Lord, remember me when thou comest into thy kingdom."* The judge replies: *"To day shalt thou be **with me** in paradise."*
->
-> This criminal has no fruit, no life of repentance, and is not in Hebrews 11. He only has a confession at the final moment. Yet, **he went to Paradise.**
->
-> On his final night, Saul first inquired of God **before** seeking the medium (1 Sam 28:6). Because there was no answer, he collapsed in weakness. But his action right before that—was seeking God first.
+### 📌 4-B. Childbirth Before Eating the Forbidden Fruit (Advanced) — The Law of Resurrection and the Seed War
+* **File:** [`REPORT_ChildrenBeforeForbiddenFruit.md`](./REPORT_ChildrenBeforeForbiddenFruit.md)
+* **Summary:** Builds upon the basic document to deploy 6 new major arguments (the 120-year lifespan, the dust law of resurrection, the legal principle of 'His wife' in Gen 2:24, etc.). The latter half contains an advanced expansion document featuring the overwhelming **'Seed War Chronicle (12 Chapters)'**, spanning from Eden to the empty tomb of Jesus, and extending to the scene of His preaching to the spirits in hell.
 
 ---
 
-## 📎 [Appendix E] TYPE-AJ (Cumulative Argument) — Final Seal
+## 🌌 Part 3: The First World and Melchizedek (Unlocking Deep Mysteries)
+Once the enigma of Genesis 6 is resolved, the identities of the "morning stars" in Job 38 and "Melchisedec" in Hebrews finally fit together like pieces of a puzzle.
 
-### Independent Evidence Convergence Table
+### 📌 5. Morning Stars Are Not Angels — Exhaustive KJV Usage + The Dust Law
+* **File:** [`REPORT_First_World_Nation.md`](./REPORT_First_World_Nation.md)
+* **Summary:** The "morning stars" of Job 38:7 are not angels. This proves that angels have never 'sang' in the Bible, and reveals the intelligent beings of the first world through the law of dust (earth).
 
-| # | Independent Evidence | TYPE | Direction |
-|:---:|:---|:---:|:---:|
-| 1 | Biblical author naming "Samuel" 15 times | TYPE-P | → Actual Samuel ✅ |
-| 2 | darash (successful communication) recorded in perfect tense | TYPE-P | → Actual communication ✅ |
-| 3 | ragaz (actual disturbance) — disruption of rest | TYPE-G | → Summoned from Paradise ✅ |
-| 4 | All usages of עִמִּי — spatial proximity/coexistence | TYPE-G | → Paradise zone specified ✅ |
-| 5 | Inclusion of Jonathan (righteous) — inability to cross the gulf | TYPE-E | → Same Paradise zone ✅ |
-| 6 | 2 Sam 1:23 "not divided in death" | TYPE-AC | → Same location after death ✅ |
-| 7 | Luke 16:26 Us/You pronoun separation | TYPE-G | → "With me" across zones impossible ✅ |
-| 8 | "thine enemy" subject confusion detected | TYPE-R | → Attribute collision invalidated ✅ |
-| 9 | Num 15:30 David's self-contradiction | TYPE-AI | → Intentional sin ≠ loss of salvation ✅ |
-| 10 | Luke 23:43 "with me in paradise" structural parallel | TYPE-U | → "With me" = Paradise ✅ |
-| 11 | Saul's timeline — inquired of God first (1 Sam 28:6) | TYPE-B | → Not a complete apostasy ✅ |
-| 12 | Expulsion of mediums (1 Sam 28:3) — act of obedience to the law | TYPE-B | → Existence of an act of faith ✅ |
+### 📌 6. Who is Melchisedec? — Living Evidence of the "Morning Stars"
+* **File:** [`REPORT_Melchizedek_IdentityVerification_Masterpiece.md`](./REPORT_Melchizedek_IdentityVerification_Masterpiece.md)
+* **Summary:** Perfectly identifies the biblical identity of Melchisedec, King of Salem—a 'Man' without father, without mother, and without descent—from the perspective of the 'first world'.
 
-> **TYPE-AJ Seal Declaration:**
->
-> All **12 independent evidences** point to the same conclusion (Saul = Paradise).
-> To overturn this conclusion, **12 independent counter-evidences** for each are required.
-> The prosecution failed to refute even **a single one** of these.
->
-> **Convergence Verdict: ✅✅✅ IRONCLAD — 12-fold independent evidence convergence confirmed. Verdict sealing complete.**
+### 📌 7. The Full Picture of the First World — The Big Picture
+* **File:** [`REPORT_Melchizedek_FirstWorld_NationFormation.md`](./REPORT_Melchizedek_FirstWorld_NationFormation.md)
+* **Summary:** A massive big picture integrating all previous arguments: Creation (Bara) vs. Making (Asah), the nations and kingdoms of the first world found in Isaiah 14 and Ezekiel 28, and the three stages of light.
+
+| Topic | Core Question |
+|:---|:---|
+| **Re-creation (Gap Theory)** | What happened between Gen 1:1 and Gen 1:2? Is "without form, and void" the original state or the result of judgment? |
+| **Creation (Bara) vs. Making (Asah/Yatsar)** | How do we distinguish between what God directly created and what He delegated His sons to make? |
+| **Nations, Cities, and Kingdoms of the First World** | Who are the peoples, cities, and kingdoms recorded in Isaiah 14:12-17 and Ezekiel 28:14-19? |
+| **Sons of God vs. Angels** | Are the "sons of God" in Job 38:7 and the "ministering spirits (angels)" in Hebrews 1:14 the same or different beings? |
+| **The "First Estate (ἀρχή)" of Jude 1:6** | What is the "first estate" lost by the fallen sons, and how does this relate to the status of Melchisedec? |
+| **Spirits in Prison in 1 Peter 3:19** | Are the "spirits in prison" angels, or are they men who died in the first world? |
+| **Three Stages of Light** | How does the light of the first world (Gen 1:3) differ from the light of the second world (Gen 1:14) and the light of the new heavens and new earth (Rev 21:23)? |
+
+> If you find the conclusions of this report persuasive, we invite you to review the subsequent documents to see the **full picture of the first world**. Melchisedec is just **one piece** of that massive picture, and becomes clearer when viewing the whole.
 
 ---
 
-*Engine: BVCAP_GHQ.md (Verdict Form) + BVCAP_Pipeline.md v1.0 (Execution Engine)*
-*Case Number: BVCAP-SAUL-001*
+## 🗄️ Part 4: System Classification Chart and Live Debate Logs (Reference Materials)
+Technical and practical materials proving how all doctrines seamlessly interlock like gears within the text without any contradiction.
 
-*Cross-Examination Issues: 7 cases | Defense Total 46 : Prosecution 15*
-*FAQ Additions: 8 cases (Reflected actual debates + Completed the final line of defense for the spiritual realm communication mechanism)*
-*v2.0 Updates: 6 Additional Weapons + 5 COMBOs + STRESS-TEST 7/7 + 2 ANALOGYs + TYPE-AJ 12-fold Seal*
-*Final Verdict: ✅ PARADISE CONFIRMED — IRONCLAD*
+### 📌 8. KJV Spiritual Beings Exhaustive Classification Chart — OOP Class Structure
+* **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
+* **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
+
+### ⚔️ Live Debate Records (TheScriptureMaster vs. Researcher)
+Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
+* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureMaster_VS_Researcher.md)** 
+* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureMaster_VS_Researcher_v2.md)**
+* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureMaster_VS_Researcher_v3.md)**
+* **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
+
