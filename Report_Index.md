@@ -13,20 +13,20 @@ This index provides quick access to the most critical "Masterpiece" verdicts and
 
 ## 2. 👼 The Angel Dilemma: Resurrection Morning Tomb Event
 * **Summary:** Resolves the apparent contradictions among the four Gospel accounts regarding the resurrection morning, reconstructing the precise chronological timeline.
-* **Core Report (32KB):** [`REPORT_ResurrectionMorning_TombEvent.md`](./the-scripture-audit/05_REPORT/difficulties\REPORT_ResurrectionMorning_TombEvent.md)
+* **Core Report (32KB):** [`REPORT_ResurrectionMorning_TombEvent.md`](./the-scripture-audit/05_REPORT/difficulties/REPORT_ResurrectionMorning_TombEvent.md)
 
 ---
 
 ## 3. 👑 King Saul's Salvation & Paradise Report
 * **Summary:** A forensic verdict on the eternal destiny of King Saul. Through meticulous tracking of timelines, Samuel's prophecy, and the Old Testament definition of "Paradise" (Abraham's Bosom), this confirms Saul's salvation.
-* **Masterpiece Report (96KB):** [`REPORT_SaulSalvation_ParadiseReport_Masterpiece.md`](./the-scripture-audit/05_REPORT/bible_believer\REPORT_SaulSalvation_ParadiseReport_Masterpiece.md)
+* **Masterpiece Report (96KB):** [`REPORT_SaulSalvation_ParadiseReport_Masterpiece.md`](./the-scripture-audit/05_REPORT/bible_believer/REPORT_SaulSalvation_ParadiseReport_Masterpiece.md)
 
 ---
 
 ## 4. 🏛️ The Melchizedek Masterpieces (2 Reports)
 * **Summary:** Tracks the true identity of Melchizedek, his connection to the "First World" (pre-flood), and his role in prophetic nation formation.
-* **Report 1 - Identity Verification (88KB):** [`REPORT_Melchizedek_IdentityVerification_Masterpiece.md`](./the-scripture-audit/05_REPORT/bible_believer\REPORT_Melchizedek_IdentityVerification_Masterpiece.md)
-* **Report 2 - First World Nation Formation (109KB):** [`REPORT_Melchizedek_FirstWorld_NationFormation.md`](./the-scripture-audit/05_REPORT/bible_believer\REPORT_Melchizedek_FirstWorld_NationFormation.md)
+* **Report 1 - Identity Verification (88KB):** [`REPORT_Melchizedek_IdentityVerification_Masterpiece.md`](./the-scripture-audit/05_REPORT/bible_believer/REPORT_Melchizedek_IdentityVerification_Masterpiece.md)
+* **Report 2 - First World Nation Formation (109KB):** [`REPORT_Melchizedek_FirstWorld_NationFormation.md`](./the-scripture-audit/05_REPORT/bible_believer/REPORT_Melchizedek_FirstWorld_NationFormation.md)
 
 ---
 
@@ -44,32 +44,32 @@ This index provides quick access to the most critical "Masterpiece" verdicts and
 
 ## 7. 🍷 Wine & Fermentation: Original Language Forensics
 * **Summary:** Clarifies the biblical definition of "wine" (fermented intoxicating alcohol vs. fresh unfermented grape juice) and resolves related moral commands.
-* **Core Report (47KB):** [`REPORT_WINE_OriginalLanguageForensics.md`](./the-scripture-audit/05_REPORT/bible_believer\REPORT_WINE_OriginalLanguageForensics.md)
+* **Core Report (47KB):** [`REPORT_WINE_OriginalLanguageForensics.md`](./the-scripture-audit/05_REPORT/bible_believer/REPORT_WINE_OriginalLanguageForensics.md)
 
 ---
 
 ## 8. 🧬 Genesis 6: The "Sons of God" Dilemma
 * **Summary:** Definitively answers whether the "sons of God" who fathered the Nephilim in Genesis 6 were fallen angels or the lineage of Seth.
-* **Deep Combat Log (77KB):** [`REPORT_Genesis6_SonsOfGod_DeepLog.md`](./the-scripture-audit/05_REPORT/bible_believer\REPORT_Genesis6_SonsOfGod_DeepLog.md)
-* **Argument Cross-Verification (Masterpiece):** [`REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md`](./the-scripture-audit/05_REPORT/bible_believer\REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md)
+* **Deep Combat Log (77KB):** [`REPORT_Genesis6_SonsOfGod_DeepLog.md`](./the-scripture-audit/05_REPORT/bible_believer/REPORT_Genesis6_SonsOfGod_DeepLog.md)
+* **Argument Cross-Verification (Masterpiece):** [`REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md`](./the-scripture-audit/05_REPORT/bible_believer/REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md)
 
 ---
 
 ## 9. 📜 The Two Witnesses Identity Resolved
 * **Summary:** Identifies the two witnesses in Revelation 11 through cross-referencing prophetic precedents, the Mount of Transfiguration, and performed miracles.
-* **Core Report (47KB):** [`TwoWitnesses_Identity_Resolved.md`](./the-scripture-audit/05_REPORT/difficulties\TwoWitnesses_Identity_Resolved.md)
+* **Core Report (47KB):** [`TwoWitnesses_Identity_Resolved.md`](./the-scripture-audit/05_REPORT/difficulties/TwoWitnesses_Identity_Resolved.md)
 
 ---
 
 ## 10. 🐉 Behemoth & Leviathan Identity Resolved
 * **Summary:** A biological, historical, and scriptural analysis of Behemoth and Leviathan in Job, dispelling mythological interpretations.
-* **Core Report (18KB):** [`Behemoth_Leviathan_Resolved.md`](./the-scripture-audit/05_REPORT/difficulties\Behemoth_Leviathan_Resolved.md)
+* **Core Report (18KB):** [`Behemoth_Leviathan_Resolved.md`](./the-scripture-audit/05_REPORT/difficulties/Behemoth_Leviathan_Resolved.md)
 
 ---
 
 ## 11. ⚖️ Catholic Theology & Apologetics Defense
 * **Summary:** Reviews Roman Catholic dogmas such as apostolic succession, papal primacy, and traditional practices using pure scriptural text.
-* **Comments & Analysis (69KB):** [`Catholic_Comments.md`](./the-scripture-audit/05_REPORT/catholic\Catholic_Comments.md)
+* **Comments & Analysis (69KB):** [`Catholic_Comments.md`](./the-scripture-audit/05_REPORT/catholic/Catholic_Comments.md)
 
 ---
 
@@ -81,10 +81,15 @@ This index provides quick access to the most critical "Masterpiece" verdicts and
 
 ## 13. 🕌 Islamic Doctrine Debate Forensics Report
 * **Summary:** A record of the Islamic debate in the Kakao open chat room. Summarizes key issues such as the optical illusion design responsibility theory, the 600-year gap, internal contradictions in the Quran, and the reliability of the Hadith.
-* **Forensic Report (52KB):** [`Islamic_Debates.md`](./the-scripture-audit/05_REPORT/Islam\Islamic_Debates.md)
+* **Forensic Report (52KB):** [`Islam_Comments.md`](./the-scripture-audit/05_REPORT/Islam/Islam_Comments.md)
 
 ---
 
+## 14. 🕍 World Mission Society Church of God (WMSCOG) Doctrine Collapse Report
+* **Summary:** A comprehensive BVCAP audit of the World Mission Society Church of God (Ahn Sahng-hong Witnesses), exposing fatal logical contradictions in their core doctrines of Passover observance maintenance and Ahn Sahng-hong's Second Coming theory.
+* **Masterpiece Report:** [`REPORT_WMSCOG_Doctrinal_Contradictions_Integrated_Audit_Masterpiece.md`](./the-scripture-audit/05_REPORT/wmscog/REPORT_WMSCOG_Doctrinal_Contradictions_Integrated_Audit_Masterpiece.md)
+
+---
 
 ## 🗂️ Full File List (KO / EN Mapping)
 
