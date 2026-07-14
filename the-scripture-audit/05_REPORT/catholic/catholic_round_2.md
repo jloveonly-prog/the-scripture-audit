@@ -1,4 +1,4 @@
-# 🏛️ Catholic Eucharist Debate Round 2: TheScriptureMaster vs ThinkingPrince
+# 🏛️ Catholic Eucharist Debate Round 2: TheScriptureBeliever vs ThinkingPrince
 **— "The War of Transubstantiation, Melchizedek, the Three Fathers, and Tradition — Who is Right and Who is Cherry-picking?" —**
 **BVCAP v2.0 Theological Court Mode (MODE B) Comprehensive Audit Report**
 
@@ -11,7 +11,7 @@
 > 2. The nicknames that appear are **virtually altered identifiers** for privacy protection and may differ from actual account names.
 > 3. It was written for the purpose of sound doctrinal verification within the boundaries of freedom of religion and freedom of expression, and the contents of this document cannot be used as a basis for any legal dispute. **Please be absolutely mindful of this when disclosing it externally.**
 
-> **Principle**: TheScriptureMaster's remarks — recorded verbatim as original (partially corrected) / Catholic side's remarks — summarized and rephrased preserving meaning and intent considering copyright
+> **Principle**: TheScriptureBeliever's remarks — recorded verbatim as original (partially corrected) / Catholic side's remarks — summarized and rephrased preserving meaning and intent considering copyright
 
 ---
 
@@ -26,7 +26,7 @@
 
 ## 📌 Introduction: The Composition of This War
 
-This debate, which took place in a YouTube comment section, is a record of a fierce clash between the Protestant side (TheScriptureMaster, hereafter **Blue Team**) and the Catholic side (ThinkingPrince, hereafter **Red Team**) over the doctrine of the Eucharist (Holy Communion).
+This debate, which took place in a YouTube comment section, is a record of a fierce clash between the Protestant side (TheScriptureBeliever, hereafter **Blue Team**) and the Catholic side (ThinkingPrince, hereafter **Red Team**) over the doctrine of the Eucharist (Holy Communion).
 
 On the surface, it appears to address "Is Transubstantiation biblical?", but in reality, three independent fronts are open simultaneously:
 
@@ -415,7 +415,7 @@ John 6:63 "The flesh (sarx) profiteth nothing: the words that I speak... are spi
 
 ## 🎓 PHASE 6: Level Evaluation of Both Sides
 
-### 🔵 Blue Team (TheScriptureMaster) Level Evaluation
+### 🔵 Blue Team (TheScriptureBeliever) Level Evaluation
 
 #### ✅ Strengths
 - **Intuitive Argumentation Ability**: Excellent ability to explain complex theological concepts in everyday language (Canaanite marriage covenant, wine alcohol content, etc.)
@@ -537,7 +537,7 @@ This debate was a fascinating and fierce exchange at the theological level. Both
 
 ## 🗡️ PHASE 9: Supplemental Rebuttal Cards (For Real-Combat Comment Deployment)
 
-> **Purpose**: Argument cards ready for immediate use when the Blue Team (TheScriptureMaster) rebuts the Red Team's Church Father arguments.
+> **Purpose**: Argument cards ready for immediate use when the Blue Team (TheScriptureBeliever) rebuts the Red Team's Church Father arguments.
 > Precisely organizes counter-attack logic in real-combat language against each Church Father card raised by the Red Team.
 
 ---

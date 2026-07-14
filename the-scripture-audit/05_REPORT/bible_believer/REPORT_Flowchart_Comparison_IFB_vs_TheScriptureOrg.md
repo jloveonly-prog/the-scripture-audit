@@ -1,4 +1,4 @@
-# ⚔️ Flowchart Comparison Report — IFB Dispensationalism vs TheScriptureMaster
+# ⚔️ Flowchart Comparison Report — IFB Dispensationalism vs TheScriptureBeliever
 **— If the order of Creation, Judgment, and Recreation events differs, the entire doctrine changes —**
 
 > **STATUS**: Verification Complete | VERDICT: ✅✅✅ IRONCLAD
@@ -6,16 +6,22 @@
 > **Applied Analysis Tools**: TYPE-C, TYPE-E, TYPE-G, TYPE-U, TYPE-AL
 > **Subjects of Comparison**:
 > - **[IFB]** Independent Fundamental Baptist / Dispensationalism
-> - **[TSM]** TheScriptureMaster (This BVCAP analysis camp)
+> - **[TSM]** TheScriptureBeliever (This BVCAP analysis camp)
 
 > [!IMPORTANT]
 > This document is based solely on the **textual order of the 66 books of the KJV Bible**. We do not use the Book of Enoch, Apocrypha, or Patristic literature at all.
+
+> [!NOTE]
+> **※ Disclaimer (The Meaning of 'TheScriptureBeliever')**
+> The speaker '**TheScriptureBeliever**' appearing in this document holds a distinct identity different from the traditional term 'Bible Believer' used in mainstream Christianity.
+> Traditionally, the word 'Bible' is a man-made title that does not appear even once in the entire 66 books of the original KJV text. On the contrary, when Jesus and Paul referred to the absolute Word of God, the exact word inspired directly by the Holy Spirit is exclusively **"The Scripture"** (John 5:39, 2 Tim 3:16).
+> This speaker sets themselves apart from traditional doctrines (Bible Believer) that promote a term absent from the original text, clarifying that they are one who believes and defends only the original language of recorded truth (The Scripture) itself.
 
 ---
 
 ## 🧭 1. Core Premise Differences — Clash of Worldviews Between the Two Camps
 
-| Premise Item | IFB (Independent Fundamental Baptist Dispensationalism) | TSM (TheScriptureMaster) |
+| Premise Item | IFB (Independent Fundamental Baptist Dispensationalism) | TSM (TheScriptureBeliever) |
 |:---|:---|:---|
 | **Before Gen 1:1** | Only God + angels exist | God + **the sons of God of the first world** + their kingdoms and nations exist |
 | **Gen 1:2 "Tohu Va-Bohu"** | Result of Lucifer's fall (Gap Theory) | Result of the **first world's total judgment** (massive water/fire judgment) |
@@ -72,7 +78,7 @@ Problem: Angel's sin (Gen 6) and Noah's Flood (Gen 6-8) are the same era = essen
       → 2 Pet 2:4-5 are not 2 independent events but a single chain of events
 ```
 
-### 📐 [TSM] Interpretation of TheScriptureMaster
+### 📐 [TSM] Interpretation of TheScriptureBeliever
 
 ```text
 First World Creation (Gen 1:1)
@@ -288,7 +294,7 @@ TSM: Devils = Spirits of the first-world nations (bodies destroyed, only spirits
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Event      IFB (Independent Fundamental Baptist)   TSM (TheScriptureMaster)
+  Event      IFB (Independent Fundamental Baptist)   TSM (TheScriptureBeliever)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
@@ -603,24 +609,14 @@ And 2 Pet 2:4 testifies to the **target of the judgment right before that destru
 
 ---
 
-### Q4. "Even if there's a distinction in 2 Pet 3:6-7, couldn't 2 Pet 2:4 still be Gen 6? Since Gen 6 angels didn't perish by water but were imprisoned, they are distinct from Noah's flood anyway."
+### Q4. "2 Pet 2:4 and Jude 1:6 point to the same event. Both are Gen 6."
 
 **IFB Counterargument:**
-> The angels in 2 Pet 2:4 were sent to Tartarus, and the world of Noah's flood in 2 Pet 2:5 perished by water. Since the judgments are different in nature, they could just be separate events occurring in the same Gen 6 era.
+> Since both texts describe the same group, it is consistent to interpret them uniformly as Gen 6.
 
-**TSM Response — KJV Text:**
+**TSM Response:**
 
-If both are from the same era (Gen 6), **it becomes impossible to explain Peter's vocabulary choices.**
-
-```text
-If both are Gen 6 events:
-  Target A (Angels) = God "spared NOT"
-  Target B (Noah's world) = God "waiteth" with "longsuffering" (1 Pet 3:20)
-
-  → How can God immediately "spare not" and simultaneously show "longsuffering" toward events in the exact same era?
-```
-
-The judgment of the angels (2:4) and the judgment of the old world (2:5) are indeed separate events. However, whether that event is Gen 6 or Gen 1:2 is determined by **chronological argumentation**:
+We **agree that both texts point to the same event**. However, whether that event is Gen 6 or Gen 1:2 is determined by **chronological argumentation**:
 
 | Distinction Criteria | IFB | TSM |
 |:---|:---|:---|
@@ -755,7 +751,7 @@ Traits of Category ① Sons of God (and its human counterpart):
 
 ---
 
-*↑ The above FAQ is for practical debate preparation. For more detailed records of offenses and defenses, please refer to [`REPORT_TheScriptureMaster_VS_Researcher.md`](./REPORT_TheScriptureMaster_VS_Researcher.md).*
+*↑ The above FAQ is for practical debate preparation. For more detailed records of offenses and defenses, please refer to [`REPORT_TheScriptureOrg_VS_Researcher.md`](./REPORT_TheScriptureOrg_VS_Researcher.md).*
 
 ---
 
@@ -780,7 +776,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
 ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md)
+* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
@@ -838,10 +834,10 @@ Technical and practical materials proving how all doctrines seamlessly interlock
 * **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
 * **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
 
-### ⚔️ Live Debate Records (TheScriptureMaster vs. Researcher)
+### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
 Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
-* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureMaster_VS_Researcher.md)** 
-* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureMaster_VS_Researcher_v2.md)**
-* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureMaster_VS_Researcher_v3.md)**
+* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
+* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
+* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
 * **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
 

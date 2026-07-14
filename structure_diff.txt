@@ -1,0 +1,90 @@
+DIFF 141: KO=13 EN=1
+  KO: ##### 📖 벧전 1:10-12 KJV — 3중 구조
+  EN: #### 📊 Exhaustive survey of usage where humans are called "spirits" in the KJV
+DIFF 142: KO=16 EN=8
+  KO: ##### 🔑 원어 분석 — παρακύψαι (parakupsai)
+  EN: ##### ① Spirits of Saved (Just) Men
+DIFF 144: KO=17 EN=10
+  KO: ##### 💥 자기 논거 역전 (TYPE-P — 역논법)
+  EN: ##### ③ Spirits of All Men (Comprehensive Expression)
+DIFF 145: KO=11 EN=26
+  KO: ##### 📊 히 2:16 vs 벧전 1:12 — 두 논거의 도메인 비교
+  EN: #### 💥 Symmetry Argument
+DIFF 147: KO=2 EN=11
+  KO: #### 📊 KJV에서 인간을 "영들(spirits)"로 부른 용례 전수 조사
+  EN: #### 📖 Rev 20:11-15 KJV Full Dissection
+DIFF 148: KO=8 EN=14
+  KO: ##### ① 구원받은(의로운) 인간의 영들
+  EN: #### 💥 Are the Targets of the Great White Throne Judgment Men or Angels?
+DIFF 149: KO=8 EN=25
+  KO: ##### ② 구원받지 못한(불순종한) 인간의 영들
+  EN: #### 📋 Who are the books and the book of life for?
+DIFF 150: KO=10 EN=23
+  KO: ##### ③ 모든 인간의 영 (포괄적 표현)
+  EN: #### ⚖️ Then when and where does the judgment of angels occur?
+DIFF 152: KO=4 EN=23
+  KO: ### ⚔️ 보강 B: 백보좌 심판(계 20:11-15) 정밀 해부 — 대상은 누구인가?
+  EN: #### ⚖️ How does this affect the "preached" debate?
+DIFF 153: KO=11 EN=2
+  KO: #### 📖 계 20:11-15 KJV 전문 해부
+  EN: ## 🚨 4. E-Code (Evasion Logic) Detection — Round 2
+DIFF 155: KO=25 EN=8
+  KO: #### 📋 책들(the books)과 생명책(book of life)은 누구를 위한 것인가?
+  EN: ### 🔴 TheScriptureOrg Side E-Code
+DIFF 156: KO=23 EN=2
+  KO: #### ⚖️ 그렇다면 천사의 심판은 언제, 어디서 일어나는가?
+  EN: ## 🔗 5. COMBO Convergence Verification (Round 2 Addition)
+DIFF 157: KO=30 EN=18
+  KO: #### 💥 즉결 구금 vs 사형 집행 — 법적 절차 구분
+  EN: ### Round 1's 6 Types + Round 2's New Verification Results
+DIFF 158: KO=24 EN=8
+  KO: #### ⚖️ 이것이 "선포(preached)" 논쟁에 어떤 영향을 주는가?
+  EN: ## 🔴 6. Red Team (TheScriptureOrg) Response Draft
+DIFF 159: KO=2 EN=12
+  KO: ## 🚨 4. E-Code (회피논법) 감지 — 2차전
+  EN: ### ✍️ Response to Inquiry Ⅰ: "when once" Argument
+DIFF 160: KO=9 EN=16
+  KO: ### 🔵 경전연구원 측 E-Code
+  EN: ### ✍️ Response to Inquiry Ⅱ: Target of Preached
+DIFF 162: KO=2 EN=10
+  KO: ## 🔗 5. COMBO 수렴 검증 (2차전 추가)
+  EN: ### ✍️ Response to Issue Ⅳ: Jude 1:7 "strange flesh"
+DIFF 163: KO=18 EN=8
+  KO: ### 1차전 6종 + 2차전 신규 검증 결과
+  EN: ### ✍️ Response to Issue Ⅴ: Gen 6 = Evidence of Reproduction? + 1 Cor 11:10
+DIFF 164: KO=8 EN=14
+  KO: ## 🔴 6. Red Team(TheScripture.org) 대응 답변 초안
+  EN: ### ✍️ Response to Issue Ⅵ: Angelic Salvation/Reconciliation Theory
+DIFF 165: KO=12 EN=2
+  KO: ### ✍️ 문의 Ⅰ에 대한 대응: "when once(한 번)" 논증
+  EN: ## ⚖️ 7. Final Verdict (Round 2)
+DIFF 168: KO=10 EN=19
+  KO: ### ✍️ 쟁점 Ⅳ에 대한 대응: 유다서 1:7 "strange flesh"
+  EN: ### ⚖️ BVCAP 2.0 Arbiter Round 2 Final Ruling
+DIFF 171: KO=2 EN=12
+  KO: ## ⚖️ 7. 최종 판결 (2차전)
+  EN: ### 🕊️ 9. LESSON-6 (Spiritual/Pastoral Lesson)
+DIFF 172: KO=14 EN=27
+  KO: ### 📊 2차전 쟁점별 최종 점수표
+  EN: ### 📌 Appendix: Recommendations for Scripture Institute
+DIFF 173: KO=14 EN=38
+  KO: ### 📈 2차전 종합 전세
+  EN: ### 📖 Follow-up Research Documents
+DIFF 174: KO=19 EN=3
+  KO: ### ⚖️ BVCAP 2.0 중재자(Arbiter) 2차전 최종 선고
+  EN: ## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
+DIFF 175: KO=12 EN=4
+  KO: #### 📋 판결 등급
+  EN: ### 📌 1. Reply to the Pastor
+DIFF 176: KO=15 EN=6
+  KO: ### 💡 8. ANALOGY-5 (현대 비유)
+  EN: ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
+DIFF 177: KO=12 EN=3
+  KO: ### 🕊️ 9. LESSON-6 (영적/목회적 교훈)
+  EN: ## ⚖️ Part 2: Biblical Dismissal of the 'Genesis 6 Angel Theory' (Core Forensic Verification)
+DIFF 178: KO=28 EN=4
+  KO: ### 📌 부록: 경전연구원를 위한 건의사항
+  EN: ### 📌 3. Final Dismissal of the Angel Theory — Cross-Verification + IRONCLAD Argument
+DIFF 184: KO=4 EN=18
+  KO: ### 📌 3. 천사설 최종 기각 — 교차 검증 + IRONCLAD 논증
+  EN: ### 📌 7. The Full Picture of the First World — The Big Picture

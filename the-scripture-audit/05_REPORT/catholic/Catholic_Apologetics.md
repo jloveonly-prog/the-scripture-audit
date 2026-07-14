@@ -462,9 +462,9 @@ A structure where human tradition and papal decisions stand equal to or above th
 *The Scripture Audit — Biblical Apologetics Project*
 
 ---
-> 🎙️ **TheScriptureMaster Apologetics Audio & Analysis Podcast (NotebookLM)**
+> 🎙️ **TheScriptureBeliever Apologetics Audio & Analysis Podcast (NotebookLM)**
 > The intense doctrinal debates and biblical apologetic logics of this document have been reborn as an audio overview and deep AI analysis via Google NotebookLM. Through the link below, you can experience more vividly the site of apologetics defending biblical truth.
-> 🔗 [Go to TheScriptureMaster Theological Supreme Court NotebookLM](https://notebooklm.google.com/notebook/1e2ec3f3-f74d-4599-ae49-d46f7a1d12b9)
+> 🔗 [Go to TheScriptureBeliever Theological Supreme Court NotebookLM](https://notebooklm.google.com/notebook/1e2ec3f3-f74d-4599-ae49-d46f7a1d12b9)
 
 
 > 🔗 **Read Related Documents**: [💬 Doctrinal Comment Debate Transcript (Catholic_Comments.md)](Catholic_Comments.md) | [⚖️ Theological Supreme Court Verdict (Catholic_Court.md)](Catholic_Court.md)

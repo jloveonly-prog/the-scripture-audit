@@ -670,7 +670,7 @@ classDiagram
         +beginning: null
         +end: null
         +royalty: true
-        +singing: true
+        +singing_sang: true
         +reproduction: false
         +AsahAbility: true
     }
@@ -722,7 +722,7 @@ classDiagram
     class FallenSons {
         +status: Fallen
         +archē: Revoked
-        +AsahAbility: Revoked
+        +AsahAbility: DelegatedAuthorityRevoked
     }
     class Devils {
         +origin: FirstWorldNations_Spirit
@@ -747,31 +747,178 @@ classDiagram
         +title: KingOfAbyss
         +mission: CommandLocusts
     }
-    class LocustArmy {
-        +appearance: Hybrid_LionScorpionHorse
-        +mission: Torment_5Months
-        +king: Abaddon
+    class HybridCreatures {
+        +origin: IllegalAsah
+        +examples: Satyr_Lilith_Dragon
+        +proof: Lev17v7
     }
 
     Spirit <|-- SonsOfGod_First
     Spirit <|-- SonsOfGod_Second
     Spirit <|-- Angel
-    
-    SonsOfGod_First <|-- Michael
-    SonsOfGod_First <|-- FallenSons
-    
+    Spirit <|-- ThroneCreatures
+    SonsOfGod_First <|-- Michael : HandlesMilitaryRank
     ThroneCreatures <|-- Cherubim
     ThroneCreatures <|-- Seraphim
     ThroneCreatures <|-- Ophanim
-    SonsOfGod_First *-- ThroneCreatures : hasRole
-    
-    FallenSons --> Devils : Created (Before Fall)
-    FallenSons <|-- ImprisonedSpirits : Bound Variant
-    FallenSons <|-- EuphratesAngels : Bound Variant
-    FallenSons <|-- Abaddon : Bound Variant
-    
-    Abaddon o-- LocustArmy : Commands
+    SonsOfGod_First <|-- FallenSons
+    FallenSons ..> Devils : Spirits_of_Ruled_Nations
+    FallenSons ..> ImprisonedSpirits : Bound_After_Crime
+    FallenSons ..> HybridCreatures : Product_of_Illegal_Asah
+    EuphratesAngels --|> ImprisonedSpirits
+    Abaddon --|> ImprisonedSpirits
 ```
+
+---
+
+## 📋 12. Complete Spiritual Beings Master Reference Table (One-Page View)
+
+| # | Name | Category | Kingship | Reproduction | Singing (sang) | Wings | Current Location | KJV Evidence |
+|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---|:---|
+| 1 | **Melchisedec** | First world son (①) | ✅ | ❌ | ✅ | — | Before God (Currently living) | Heb 7:1-8 |
+| 2 | **Lucifer/Satan** | First world son (①) fallen | ❌Revoked | ❌ | — | — | The air (Eph 2:2) | Isa 14:12, Ezek 28 |
+| 3-A | **Fallen sons [Jude]** | First world son (①) → Demoted after fall | ❌Revoked | ❌ | — | — | **Everlasting chains/darkness** | Jude 1:6 — *Left own archē and went after strange flesh* |
+| 3-B | **Tartarus angels [2 Pet]** | Beings originally of Angel class fallen | ❌ | ❌ | — | — | **Tartarus chains of darkness** | 2 Pet 2:4 — *Chronology in 2 Pet 2:4: Angels→Noah→Sodom = First world event prior to Gen 1:2* |
+| 4 | **Faithful sons** | First world son (①) holy | ✅ | ❌ | ✅ | — | Army of God | Rev 19:14 |
+| 5 | **Michael** | First world son (①) — Handles military rank | ✅(archē) | ❌ | — | — | Commands heavenly army | Jude 1:9, Dan 10:13 |
+| 6 | **Adam's sons prior to forbidden fruit**| Second world son (②) | Delegated | ✅ | — | — | Remained in Eden (Not expelled) | Gen 6:2, Ezek 18:20 |
+| 7 | **Gabriel** | Messenger Angel | ❌ | ❌ | ❌(saying) | ❌ | Before God/Traversing earth | Luke 1:19 |
+| 8 | **Cherubim** | Throne guard | ❌ | ❌ | ❌ | 4 | Below throne | Ezek 1, Gen 3:24 |
+| 9 | **Seraphim** | Throne praise | ❌ | ❌ | ❌(saying) | 6 | Above/Around throne | Isa 6:2-7 |
+| 10 | **Ophanim (Wheels)** | Throne mobility | ❌ | ❌ | ❌ | ❌(Wheels) | Beside Cherubim | Ezek 1:15, 10:12 |
+| 11 | **Devils/Unclean spirits**| Spirits of first world nations | ❌ | ❌ | ❌ | ❌ | Wandering earth (Seeking bodies) | Matt 12:43-45 |
+| 12 | **Satyrs** | Hybrid creatures | ❌ | ? | ❌ | ❌ | First world ruins/Earth | Isa 13:21, Lev 17:7 |
+| 13 | **Lilith** | Hybrid creature | ❌ | ? | ❌ | ? | First world ruins | Isa 34:14 |
+| 14 | **4 Angels of Euphrates + 200M cavalry** | Prince-level destroying army | — | ❌ | ❌ | ❌ | Bound in great river Euphrates | Rev 9:14-19 |
+| 15 | **Abaddon/Apollyon** (≠Satan) | King of the bottomless pit — Distinct from Satan | — | ❌ | ❌ | ❌ | Bottomless pit (Bound) | Rev 9:11 |
+| 16 | **Locust army** | Execution of destruction | ❌ | ❌ | ❌ | ✅ | Bottomless pit (Bound) | Rev 9:3-10 |
+
+> [!NOTE]
+> **Distinguishing 3-A vs 3-B:** The fall in Jude 1:6 = The **first world sons** who originally possessed kingship (archē) leaving their own habitation and falling. The fall in 2 Pet 2:4 = Beings who were originally of the **Angel** class committing sin. The two verses do not refer to the same event.
+
+---
+
+## 🕵️ 13. Detailed Classification Table of Unclean Spirits — Exhaustive KJV Verification by Type
+
+> **Jesus' declaration:** Mark 9:29 *"This kind can come forth by nothing, but by prayer and fasting"* — Jesus Himself explicitly stated "this kind". Unclean spirits also **have kinds (types).**
+
+| # | Name | KJV Expression | Characteristics | Abilities | Evidence |
+|:---:|:---|:---|:---|:---|:---|
+| 1 | **Spirit of divination** | *spirit of divination* | Enters a person and makes them divine | Imitates foretelling the future | Acts 16:16 *"possessed with a spirit of divination"* |
+| 2 | **Legion** | *Legion* | A collective of thousands of spirits inside one person | Superhuman strength to pluck asunder chains and fetters | Mark 5:9 *"My name is Legion: for we are many"* |
+| 3 | **Chain-breaking devil** | *unclean spirit (Belonging to Legion)* | Power to break chains and fetters | Cannot be physically bound | Mark 5:4 *"the chains had been plucked asunder... neither could any man tame him"* |
+| 4 | **Dumb spirit** | *dumb spirit / deaf and dumb* | Makes one deaf and unable to speak | Causes seizures/epilepsy, casts into fire and water | Mark 9:17-25 *"thou dumb and deaf spirit"* |
+| 5 | **Requesting to enter swine** | *unclean spirit (Belonging to Legion)* | Requests an animal body when losing a human body | Annihilates a herd of swine (about 2,000) | Mark 5:12-13 *"send us into the swine"* |
+| 6 | **Devils that attacked Paul** | *evil spirit* | In the KJV, they say they know Jesus and know Paul — **Existence of an intelligence network among spirits** | Leaps on a person, causing injury | Acts 19:15-16 *"Jesus I know, and Paul I know; but who are ye?"* |
+| 7 | **Unclean spirits like frogs** | *unclean spirits like frogs* | Come out of the mouth of the dragon, beast, and false prophet | Gather the kings to Armageddon | Rev 16:13-14 |
+| 8 | **Beelzebub the prince of devils**| *Beelzebub the prince of devils* | A prince within the devils distinct from Satan | Authority to assemble devils | Matt 12:24 *"Beelzebub the prince of the devils"* |
+| 9 | **Unclean spirits moving in groups**| *seven other spirits more wicked* | Gather in one place and re-invade | The latter state is 7 times worse than the first | Matt 12:45 *"taketh with himself seven other spirits more wicked"* |
+
+> [!NOTE]
+> **Beelzebub ≠ Satan:** In Matt 12:24, when the Pharisees said Jesus cast out devils "by Beelzebub," Jesus did not deny it. Beelzebub is a prince-level being among the devils — **a distinct prince class different from Satan**.
+
+---
+
+## 🔬 14. Asah Ability of the Fallen Sons — KJV Text Verification
+
+> **Core Question:** With **what authority** did the fallen sons of God of the first world make hybrid creatures like satyrs and Lilith?
+
+### 📌 Biblical Basis for Delegation of Authority
+
+```
+// Two stages of creative authority
+God.bara()  → Creating out of nothing (Gen 1:1) — Only possible for God
+God.asah()  → Making from existing materials (Gen 1:7,16,25) — Delegable
+God.yatsar() → Forming and molding (Gen 2:7 Creation of Adam) — Delegable
+
+// God's delegation structure
+God → Created the earth (dust, ground) (Gen 1:1 Bara)
+God → Delegated ruling authority to the first world sons
+   ↓
+Sons could Asah/Yatsar using dust (ground) as material
+   → However, doing so in violation of God's "after his kind" principle is a sin
+```
+
+| Evidence | KJV Verse | Meaning |
+|:---|:---|:---|
+| **God also formed Adam from dust**| Gen 2:7 *"formed man of the dust of the ground"* | Yatsar = Forming/molding. This method itself is not a sin |
+| **The earth (dust) was Bara'ed by God** | Gen 1:1 *"God created the heaven and the earth"* | God is the owner of the raw material (dust) — The sons' use of dust is delegated authority |
+| **Delegation of rule to the sons** | Ps 82:6 *"I have said, Ye are gods (אֱלֹהִים); and all of you are children of the Most High"* | God Himself declares the delegation of divine ruling authority to the sons |
+| **Sin: Strange flesh** | Jude 1:7 *"going after strange flesh (σαρκὸς ἑτέρας)"* | Possessed Asah authority but violated the **after his kind principle** = Sin |
+| **"After his kind" repeated 6 times**| Gen 1:11,12,21,24,25 | A core principle of the creation order — Violating this brings judgment |
+| **Evidence that hybrids existed** | Lev 17:7, 2 Chr 11:15 Prohibition of sacrifices to satyrs | Prohibition command = Acknowledgment of reality |
+
+### 📌 Attributes of the Delegated Asah Ability
+
+```
+class SonsOfGod_FirstWorld extends Spirit {
+  // Delegated making ability
+  AsahAbility: {
+    canUse:       true        // Can make using dust (ground) as material
+    material:     Dust        // Dust of the earth Bara'ed by God
+    authority:    Delegated   // Delegated to the sons in Ps 82:6
+    limitation:   AfterHisKind // Legal only within the principles of Gen 1:11-25
+    criminalUse:  StrangeFlesh // Jude 1:7 = Violation of kind = Ground for judgment
+  }
+}
+```
+
+| Delegated Ability | Lawful Scope | Criminal Domain |
+|:---|:---|:---|
+| Asah/Yatsar (Making/Forming) | Formation for ruling within God's "after his kind" principle | Heterogeneous combinations like Animal + Human DNA (Satyr), beings of the night (Lilith) |
+| Utilization of Dust | Forming creatures of the earth (using materials given by God) | Attempting to usurp God's Bara authority (creation out of nothing) |
+| Rule and Dominion | Ruling each nation/domain under God's delegation | Rebellion attempting to usurp God's sovereign rule (Isa 14:13-14) |
+
+> **Conclusion:** The fallen sons **lacked the Bara (creation out of nothing) ability**, but they made hybrid creatures by **abusing their delegated ability** to Asah (make) using the dust (earth) that God had already created. This was the specific execution of the rebellion in Isa 14:14 *"I will be like the most High"* — the attempt to become like God.
+
+---
+
+## ⚖️ 15. Final Conclusion — "Similar Things Are Similar Things, Not the Same Things"
+
+```
+Core Classification Principle (TYPE-AL):
+
+[Things that are similar but different]
+  Stars ≈ Morning stars            → Completely different category (Separated by KJV usage)
+  Body (σῶμα) ≈ Flesh (σάρξ)       → Completely different meaning (Separated by biblical doctrine)
+  Praise (αἰνέω) ≈ Sing (ᾄδω)      → Completely different action (0 occurrences in KJV)
+  Cherubim (4 wings) ≈ Four beasts (6 wings) → Completely different structure (Separated by text)
+  First world sons ≈ Angels        → Completely different rank (Separated by presence of kingship)
+  Gen 6 sons ≈ First world sons    → Completely different category (Separated by presence of parents)
+  Jude 1:6 fall ≈ 2 Pet 2:4 fall   → Completely different event (Different subjects of sin)
+  Abaddon ≈ Satan                  → Completely different being (Different location/role)
+  Angel ≈ Archangel                → Completely different class (Separated by presence of kingship)
+
+[From an IT OOP perspective]
+  First world sons do not inherit from the Angel class
+  Archangel is not a subclass of the Angel class but a title within SonsOfGod_First
+  Devils are Legacy Instances of the first world nations whose bodies were destroyed
+  Asah ability is a delegated attribute of SonsOfGod_First — Bara is only possible for God
+
+[By dwelling place]
+  Unsinning first world sons       → Army of God (Above heaven)
+  Jude 1:6 fallen sons             → Everlasting chains/darkness
+  2 Pet 2:4 fallen angels          → Tartarus chains of darkness
+  Spirits actively sinning         → The air (Second heaven)
+  Spirits of nations without bodies→ Earth (Wandering seeking bodies)
+  Euphrates + Abaddon              → Under the earth (Bound until Great Tribulation)
+```
+
+> **IRONCLAD Verdict:** The 66 books of the KJV text **precisely distinguish spiritual beings by category, dwelling place, attributes, and roles**. The moment similar-looking beings are conflated, doctrine collapses. This classification table is an IRONCLAD reference document built solely on the data directly provided by the KJV text.
+
+---
+
+*Standards of Authorship: 66 Books of the KJV Bible | BVCAP v2.0 | Complete exclusion of the Book of Enoch and Apocrypha*
+*Cross-Verification Complete: REPORT_First_World_Nation / REPORT_Melchizedek_FirstWorld_NationFormation / REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece*
+
+---
+
+# 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
+**— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
+
+This index is specially structured for independent Baptist (IFB) pastors and those who believe the KJV Bible to be the absolute inerrant Word of God, serving as a **'reading order for persuasion and argumentation'**.
+
+While respecting the excellent framework of traditional dispensational theology (Scofield, Larkin, etc.), we have rearranged the sequence to optimally suit the perspective of pastors. This allows you to verify the deeper textual consistency testified by the KJV original text itself (especially the order of judgments in 2 Peter 2 and 3, and the physical contradictions of the Genesis 6 angel theory).
 
 ---
 
@@ -783,7 +930,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
 ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md)
+* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
@@ -841,10 +988,10 @@ Technical and practical materials proving how all doctrines seamlessly interlock
 * **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
 * **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
 
-### ⚔️ Live Debate Records (TheScriptureMaster vs. Researcher)
+### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
 Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
-* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureMaster_VS_Researcher.md)** 
-* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureMaster_VS_Researcher_v2.md)**
-* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureMaster_VS_Researcher_v3.md)**
+* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
+* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
+* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
 * **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
 

@@ -8,6 +8,11 @@
 > 1. During the approximately 120 years of building the ark (Gen 6:3), God gave people an opportunity to repent. "Longsuffering" is an expression that shows God's grace.
 > 2. The "spirits in prison" in **1 Peter 3:19** are the fallen angels of Genesis 6. The "longsuffering" in **1 Peter 3:20** refers to God's patience towards the people who were alive while the ark was being built. Fallen angels are already under judgment (**2 Peter 2:4**) and are not the objects of waiting for repentance.
 
+### 💡 Additional Comments from the Researcher (Interpretive Divide within the IFB)
+The interpretation of 1 Peter 3:19-20 is actually clearly divided into two within the Independent Fundamental Baptist (IFB) movement.
+Some pastors interpret the "spirits in prison" and "longsuffering" in these verses as **'the unrepentant humans of Noah's day'**, while conversely, others interpret them as **'the fallen angels of Genesis 6'** (which is your current view, Pastor). 
+The fact that there are conflicting interpretations even within a fine camp that believes the same KJV Bible as the supreme authority strongly suggests **the need to set aside existing traditional premises (such as the angel theory) and to examine from scratch with a magnifying glass what the text itself is saying**.
+
 ---
 
 ## ✉️ Our Reply to the Pastor
@@ -77,6 +82,44 @@ In this verse, Jesus used the fact that "angels do not marry" as a standard of c
 
 ---
 
+### Fourth, then who are the 'sons of God' in Genesis 6? They are neither fallen angels nor the descendants of Seth, but "the innocent sons of Adam born before the sin of the forbidden fruit".
+
+Pastor, if they are not angels, who else could they be? The traditional interpretation that they are "Seth's godly descendants" has already revealed its limitations due to the biological contradiction that the marriage of the godly and ungodly somehow produces 'Nephilim (giants)'. The identity clearly pointed out by the biblical text is precisely **'the innocent sons born to Adam and Eve before eating the forbidden fruit'**.
+
+**1. Adam's explicit use of past tense (Gen 3:20)**
+> "And Adam called his wife's name Eve; because she **was** the mother of all living." (Gen 3:20)
+
+Adam, who used the **future tense (shall be)** when mentioning bone and flesh in Genesis 2:23, declares a past-tense fact by calling Eve "was the mother" rather than "shall be the mother" right after eating the forbidden fruit. That is, children whose birth had already been completed existed in Eden before the Fall.
+
+**2. God's judicial principle: Separation of innocent children (Ezek 18:20)**
+> "The son shall not bear the iniquity of the father..." (Ezek 18:20)
+
+If Adam had sons born before eating the forbidden fruit, they are 'innocent ones' who did not participate in the crime. During the rebellion of Korah (Numbers 16), God judicially separated and spared the children who did not join the rebellion completely (Numbers 26:11). Likewise, the innocent sons who did not eat the forbidden fruit had no legal basis to be cursed and cast out alongside their father. 
+
+**3. The polygamous (Wives) crime of human kings that destroyed the creation principle of singular (Wife)**
+They were "sons of God (kings)" who remained in (or around) Eden, clothed with glory equivalent to a resurrection body, and living forever. The legal principle of marriage God established in Eden was for one man to be joined to a **singular wife (his wife, Gen 2:24)**. However, coming to Genesis 6, these innocent royal beings broke God's holy separation and committed the tyrannical crime (polygamy) of taking all which they chose among the 'daughters of men (descendants of fallen Cain)' outside Eden as **plural wives (Gen 6:2)**. These beings, who originally possessed a body but had no death, willingly walked into the lineage of fallen humanity, ultimately sharing the judgment of **'Flesh (basar)'** under the curse of death, and only then became restricted by the limit of a **'120-year lifespan'**.
+
+This is the perfect reason why the two groups, the sons of God and the daughters of men, are clearly distinguished in Genesis 6, and the exact legal background for the declaration of the 120-year lifespan abbreviation. 
+
+---
+
+Thank you.
+
+
+
+
+
+---
+
+# 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
+**— A Biblical Apologetic on Genesis 6, Re-creation, and the First World —**
+
+This index is a **'reading order for persuasion and argumentation'** specially structured for pastors who believe in the Independent Fundamental Baptist (IFB) movement and the KJV Bible as the absolutely inerrant Word of God. 
+
+While respecting the excellent framework of traditional dispensational theology (Scofield, Larkin, etc.), we have rearranged it into an optimal logical sequence tailored to pastors' perspectives. This allows you to verify the deeper textual consistency testified by the original KJV text itself (especially the sequence of judgments in 2 Peter 2 and 3, and the physical contradictions of the angel theory in Genesis 6).
+
+---
+
 ## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
 This is the most intuitive and shocking approach for pastors accustomed to dispensational charts and timelines.
 
@@ -85,7 +128,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
 ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md)
+* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
@@ -143,10 +186,10 @@ Technical and practical materials proving how all doctrines seamlessly interlock
 * **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
 * **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
 
-### ⚔️ Live Debate Records (TheScriptureMaster vs. Researcher)
+### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
 Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
-* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureMaster_VS_Researcher.md)** 
-* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureMaster_VS_Researcher_v2.md)**
-* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureMaster_VS_Researcher_v3.md)**
+* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
+* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
+* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
 * **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
 

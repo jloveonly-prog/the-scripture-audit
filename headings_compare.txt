@@ -1,0 +1,390 @@
+KO headings: 194
+EN headings: 187
+KO 0: # 📑 [BVCAP 2.0 전과보고서] 창세기 6장 "하나님의 아들들" — TheScripture.org vs 경전연구원 비교 검증
+EN 0: ## ⚖️ BVCAP 2.0 Impartiality Protocol
+KO 1: ## ⚖️ BVCAP 2.0 공정 심판 선언 (Impartiality Protocol)
+EN 1: ## 📜 1. Relevant Bible Verses (Evidence Exhibits)
+KO 2: ## 📜 1. 관련 성경 구절 (Evidence Exhibits)
+EN 2: ### 🔑 Core Issue Verses
+KO 3: ### 🔑 핵심 쟁점 구절
+EN 3: ### 📖 Cross-Verification Verses (Verses cited by both sides)
+KO 4: ### 📖 교차 검증 구절 (양측이 인용한 구절)
+EN 4: ## 📋 2. Case Summary
+KO 5: ## 📋 2. 사건 개요 (Case Summary)
+EN 5: ## 🔴 3. TheScriptureOrg (Red Team) — Raised Points Summary
+KO 6: ## 🔴 3. TheScripture.org (Red Team) — 제기 논점 정리
+EN 6: ### Point ①: Judicial Subject Contradiction (Gen 6:3)
+KO 7: ### 논점 ①: 사법적 주체 모순 (創 6:3)
+EN 7: ### Point ②: Longsuffering Contradiction
+KO 8: ### 논점 ②: 오래 참으심(Longsuffering) 모순
+EN 8: ### Point ③: Identity of "Spirits" in Prison
+KO 9: ### 논점 ③: 감옥 안의 "영들"의 정체
+EN 9: ### Point ④: Daughters' Consent Issue — Original Language Analysis
+KO 10: ### 논점 ④: 딸들의 동의 여부 — 원어 분석
+EN 10: ### Point ⑤: Nature of Angels — Spirit vs. Flesh Category Opposition
+KO 11: ### 논점 ⑤: 천사의 본성 — 영 vs 육체 범주 대립
+EN 11: ### Point ⑥: "his days" = Biological Lifespan
+KO 12: ### 논점 ⑥: "his days" = 생물학적 수명
+EN 12: ### Point ⑦: 120-Year Countdown Chronological Sequence Contradiction
+KO 13: ### 논점 ⑦: 120년 카운트다운 시간순서 모순
+EN 13: ### Point ⑧: Eating ≠ Becoming Flesh
+KO 14: ### 논점 ⑧: 먹는 것 ≠ 육체가 됨
+EN 14: ## 🔵 4. The Scripture Research Institute (Blue Team) — Defense Points Summary
+KO 15: ## 🔵 4. 경전연구원 (Blue Team) — 방어 논점 정리
+EN 15: ### Defense ①: Not only angels sinned, but humans did too
+KO 16: ### 방어 ①: 천사만 죄 지은 것이 아니라 사람도 같이 했다
+EN 16: ### Defense ②: The spirits of 1 Pet 3:19 = Angels
+KO 17: ### 방어 ②: 벧전 3:19의 영들 = 천사
+EN 17: ### Defense ③: If the daughters were assaulted without consent, God would not punish them
+KO 18: ### 방어 ③: 딸들이 동의 없이 당했다면 하나님이 처벌 안 하신다
+EN 18: ### Defense ④: God is longsuffering toward angels too
+KO 19: ### 방어 ④: 천사들도 오래 참아 주신다
+EN 19: ### Defense ⑤: Angels are spiritual beings but also have flesh
+KO 20: ### 방어 ⑤: 천사는 영적 존재이지만 육체도 있다
+EN 20: ### Defense ⑥: 120 years = Deferment of judgment (Countdown)
+KO 21: ### 방어 ⑥: 120년 = 심판 유예(카운트다운)
+EN 21: ### Defense ⑦: "Spirits" in Heb 12:23 = Born-again spirits
+KO 22: ### 방어 ⑦: 히 12:23의 "영들" = 거듭난 영
+EN 22: ### Defense ⑧: "Flesh" in Gen 6:3 = Forbidden union with humans
+KO 23: ### 방어 ⑧: 창 6:3의 "육체" = 인간과의 금지된 결합
+EN 23: ## 📊 5. Match-up Table by Issue
+KO 24: ## 📊 5. 쟁점별 대결 매칭 표
+EN 24: ### 📈 Rebuttal Status Summary
+KO 25: ### 📈 반론 현황 요약
+EN 25: ## 🔬 6. BVCAP 2.0 FULL SCAN Analysis
+KO 26: ## 🔬 6. BVCAP 2.0 FULL SCAN 분석
+EN 26: ### 🔧 TYPE-G (KJV Grammar Dissection) — Genesis 6:3 Original Language Anatomy
+KO 27: ### 🔧 TYPE-G (KJV Grammar Dissection) — 창 6:3 원어 해부
+EN 27: #### 📖 Genesis 6:3 KJV Original Text Breakdown
+KO 28: #### 📖 창세기 6:3 KJV 원문 분해
+EN 28: #### 🔍 TYPE-G Verification Result
+KO 29: #### 🔍 TYPE-G 검증 결과
+EN 29: #### 📖 TYPE-G Additional Analysis — Isaiah 31:3 Category Opposition Verification
+KO 30: #### 📖 TYPE-G 추가 분석 — 사 31:3 범주 대립 검증
+EN 30: ### 🔧 TYPE-AC (Counterfactual Test) — Judicial Subject Reversal Verification
+KO 31: ### 🔧 TYPE-AC (Counterfactual Test) — 사법적 주체 역전 검증
+EN 31: #### ⚔️ Hypothesis A: Sons of God = Angels
+KO 32: #### ⚔️ 가설 A: 하나님의 아들들 = 천사
+EN 32: ### 🔧 TYPE-I (Lexical Frequency) — "his days" Usage Frequency Verification
+KO 33: ### 🔧 TYPE-I (Lexical Frequency) — "his days" 용례 빈도 검증
+EN 33: #### 📊 Usage of "his days" / "all the days of X" in Genesis Chapter 5
+KO 34: #### 📊 창세기 5장 "his days" / "all the days of X" 용례
+EN 34: #### 🔑 Core Cross-Verification: Luke 20:36
+KO 35: #### 🔑 핵심 교차 검증: 눅 20:36
+EN 35: ### 🔧 TYPE-A (Chronological Serial Decomposition) — 120-Year Time Sequence Verification
+KO 36: ### 🔧 TYPE-A (Chronological Serial Decomposition) — 120년 시간순서 검증
+EN 36: #### 📐 DE-OVERLAP Principle 1 (Chronological Serialization) Deployed
+KO 37: #### 📐 DE-OVERLAP 원칙 1 (시간 직렬화) 발동
+EN 37: #### ⚔️ Countdown Theory (120 Years = Period remaining until the flood) Verification
+KO 38: #### ⚔️ 카운트다운설(120년 = 홍수까지 남은 기간) 검증
+EN 38: #### 💥 TYPE-A + TYPE-I Cross-Verification — KJV Usage Verification of Proclaiming Countdown Years (Decisive Blow)
+KO 39: #### 💥 TYPE-A + TYPE-I 교차 검증 — 카운트다운 연수 선포의 KJV 용례 검증 (결정타)
+EN 39: ### 🔧 TYPE-P (Retorsion) — Longsuffering Contradiction Verification
+KO 40: ### 🔧 TYPE-P (Retorsion / 역논법) — 오래 참으심(Longsuffering) 모순 검증
+EN 40: #### 📖 Comparison of Two Records by the Same Author (Peter)
+KO 41: #### 📖 동일 저자(베드로)의 두 기록 비교
+EN 41: #### ⚔️ Retorsion (Reverse Logic) Activated
+KO 42: #### ⚔️ Retorsion (역논법) 발동
+EN 42: #### 💥 TYPE-P Crucial Reinforcement — 1 Pet 3:19-20 Cannot be Separated
+KO 43: #### 💥 TYPE-P 결정적 보강 — 벧전 3:19-20은 분리할 수 없다
+EN 43: #### ⚖️ Forced Choice — The Crossroads of KJV Inerrancy
+KO 44: #### ⚖️ 강제 선택지 — KJV 무오성이 걸린 갈림길
+EN 44: ### 🔧 TYPE-AB (Spiritual Entity/Space Matrix) — Spiritual Entity Matrix
+KO 45: ### 🔧 TYPE-AB (Spiritual Entity/Space Matrix) — 영적 존재 매트릭스
+EN 45: ### 🔧 TYPE-E (Competing Model Elimination) — Comparing Competing Models
+KO 46: ### 🔧 TYPE-E (Competing Model Elimination) — 경쟁 모델 비교
+EN 46: #### Verification 1: Ps 82:6-7 (Quoted by Scripture Researcher)
+KO 47: #### 검증 1: 시 82:6-7 (경전연구원 인용)
+EN 47: ##### 🔑 Decisive Evidence — Jesus' Direct Interpretation (John 10:34-35 KJV)
+KO 48: ##### 🔑 결정적 증거 — 예수님의 직접 해석 (요 10:34-35 KJV)
+EN 48: ##### 📖 Full Context of Psalm 82 — "Unjust Judgment" is the Core
+KO 49: ##### 📖 시편 82편 전체 문맥 — "불의한 재판"이 핵심
+EN 49: ##### 💡 Explained Simply
+KO 50: ##### 💡 쉽게 풀어서 설명
+EN 50: #### Verification 2: Separation Argument in 1 Pet 4:5-6 (Quoted by Scripture Researcher)
+KO 51: #### 검증 2: 벧전 4:5-6 분리 논증 (경전연구원 인용)
+EN 51: ## 🚨 7. E-Code (Evasion Logic / Logical Leap) Detection
+KO 52: ## 🚨 7. E-Code (회피논법 / 논리적 비약) 감지
+EN 52: ### 🔵 E-Code Detection on Scripture Researcher's Side
+KO 53: ### 🔵 경전연구원 측 E-Code 감지
+EN 53: ### 🔴 E-Code Detection on TheScriptureOrg's Side
+KO 54: ### 🔴 TheScripture.org 측 E-Code 감지
+EN 54: ## 🔗 8. COMBO Convergence Verification (Multi-Weapon Convergence)
+KO 55: ## 🔗 8. COMBO 수렴 검증 (Multi-Weapon Convergence)
+EN 55: ### Weapons converging to the conclusion "The target of the sentence in Gen 6:3 = humans (ha-adam), not angels":
+KO 56: ### "창 6:3의 선고 대상 = 인간(ha-adam), 천사 아님" 결론에 수렴하는 무기:
+EN 56: ### STRESS-TEST-7 (Adversarial Simulation)
+KO 57: ### STRESS-TEST-7 (적대적 시뮬레이션)
+EN 57: ## ⚖️ 9. Final Verdict
+KO 58: ## ⚖️ 9. 최종 판결 (Verdict)
+EN 58: ### 📊 Final Score Table by Issue
+KO 59: ### 📊 쟁점별 최종 점수표
+EN 59: ### 📈 Overall War Situation Judgment
+KO 60: ### 📈 종합 전세 판단
+EN 60: ### ⚖️ Final Sentence of BVCAP 2.0 Arbiter
+KO 61: ### ⚖️ BVCAP 2.0 중재자(Arbiter) 최종 선고
+EN 61: #### 📋 Verdict Grade
+KO 62: #### 📋 판결 등급
+EN 62: ### 💡 10. ANALOGY-5 (Modern Analogy)
+KO 63: ### 💡 10. ANALOGY-5 (현대 비유)
+EN 63: ### 🕊️ 11. LESSON-6 (Spiritual/Pastoral Lesson)
+KO 64: ### 🕊️ 11. LESSON-6 (영적/목회적 교훈)
+EN 64: ### 📌 Appendix: Recommendations for Scripture Researcher
+KO 65: ### 📌 부록: 경전연구원를 위한 건의사항
+EN 65: ### 📌 Appendix B: Potential Counterattack of the Angel Theory Camp — The "also(גַּם)" Argument
+KO 66: ### 📌 부록 B: 천사설 진영의 잠재적 반격 — "also(또한/גַּם)" 논증
+EN 66: #### 📖 Content of the Argument
+KO 67: #### 📖 논증 내용
+EN 67: #### ⚔️ BVCAP Refutation
+KO 68: #### ⚔️ BVCAP 반박
+EN 68: #### 📊 Verdict
+KO 69: #### 📊 판정
+EN 69: ### ❓ Appendix C: FAQ — Anticipated Counterarguments from the Angel Theory Camp and BVCAP Re-refutations
+KO 70: ### ❓ 부록 C: FAQ — 천사설 진영의 예상 반론과 BVCAP 재반박
+EN 70: #### FAQ ① "The words for 'spirits' in 1 Pet 3:19 and 'souls' in 3:20 are intentionally separated. spirits = angels, souls = humans."
+KO 71: #### FAQ ① "벧전 3:19의 spirits(영들)과 3:20의 souls(혼들)는 의도적으로 단어가 분리되어 있다. spirits = 천사, souls = 인간이다."
+EN 71: ##### 💥 Crucial Reinforcement: The Trichotomy of Matt 10:28 — "When soul and body are destroyed, only spirit remains"
+KO 72: ##### 💥 결정적 보강: 마 10:28 삼분법 — "혼과 몸이 멸망하면 영만 남는다"
+EN 72: #### FAQ ② "If they were dead humans, why did Jesus leave behind all the disobedient people for thousands of years since Cain, and specifically go only to the humans in the days of Noah? The limitation to a specific era itself proves they are not ordinary deceased humans."
+KO 73: #### FAQ ② "죽은 인간이면, 왜 예수님은 가인부터 수천 년간의 모든 불순종자를 놔두고, 하필 노아 시대의 인간들에게만 가셨는가? 특정 시대 한정 자체가 일반적 사후 인간이 아님을 증명한다."
+EN 73: ##### 💥 Additional Counterattack: "Why would He need to go and preach to angels that were already summarily judged?"
+KO 74: ##### 💥 추가 반격: "왜 이미 즉결 심판받은 천사에게 가서 선포(preached)하셔야 합니까?"
+EN 74: ##### 💥 Decisive Reinforcement: 2 Pet 2:5 Noah = preacher (keryx) — Same word, same author, same target
+KO 75: ##### 💥 결정적 보강: 벧후 2:5 노아 = preacher(keryx) — 같은 단어, 같은 저자, 같은 대상
+EN 75: #### FAQ ③ "'when' in 1 Pet 3:20 is an adverbial clause of time. The longsuffering was for humans, not applied to angels. Peter's self-contradiction does not exist."
+KO 76: #### FAQ ③ "벧전 3:20의 'when(그때에)'은 시간 부사절이다. 오래참으심은 인간을 위한 것이지, 천사에게 적용된 것이 아니다. 베드로의 자기모순은 존재하지 않는다."
+EN 76: ##### 💥 Problem (a): The "Association" itself is unexplained
+KO 77: ##### 💥 문제 (a): "연관(Association)" 자체가 설명되지 않음
+EN 77: ##### 💥 Problem (b): Accepting the "when" reading actually strengthens our conclusion
+KO 78: ##### 💥 문제 (b): "when" 읽기를 수용하면 오히려 우리 결론이 강화됨
+EN 78: #### FAQ ④ "Angels are spiritual but also have bodies. Just as humans are soulish but have both spirits and bodies." — Dismissal of the body ≠ flesh category
+KO 79: #### FAQ ④ "천사도 영적이지만 육체가 있다. 인간도 혼적이지만 영과 육체가 있는 것처럼." — body(몸) ≠ flesh(육체) 범주 기각
+EN 79: ##### 💥 Decisive Blow: Flesh (flesh) is fruitful and multiplies — Body (body) does not
+KO 80: ##### 💥 결정타: 육체(flesh)는 생육하고 번성한다 — 몸(body)은 그러지 않는다
+EN 80: #### 📊 FAQ Comprehensive Verdict
+KO 81: #### 📊 FAQ 종합 판정
+EN 81: ### 🎯 Appendix D: Final Decisive Blow — 2 Major Double Bind Questions
+KO 82: ### 🎯 부록 D: 최종 확인사살 — 2대 이중구속(Double Bind) 질문
+EN 82: #### 🔒 Question 1. Regarding the "spirits in prison" in 1 Pet 3:19-20
+KO 83: #### 🔒 질문 1. 벧전 3:19-20 "감옥 안의 영들"에 대해서
+EN 83: #### 🔒 Question 2. Regarding the identity of the 120 years
+KO 84: #### 🔒 질문 2. 120년의 정체에 대해서
+EN 84: #### 📊 Double Bind Matrix — Final Summary
+KO 85: #### 📊 이중구속(Double Bind) 매트릭스 — 최종 정리
+EN 85: ## 📡 [Appendix] BVCAP 2.0 In-depth Verification FAQ (Scripture Research Institute Objection Forensics)
+KO 86: ## 📡 [부록] BVCAP 2.0 심층 검증 FAQ (경전연구원 반론 포렌식)
+EN 86: ### ❓ FAQ 1. Is the claim that the 120 years was a grace period (longsuffering) toward angels true?
+KO 87: ### ❓ FAQ 1. 120년이 천사들을 향한 유예 기간(오래 참으심)이라는 주장은 사실인가?
+EN 87: ### ❓ FAQ 2. Is the claim that contextually 'spirits in prison' must be the fallen angels of Noah's era true?
+KO 88: ### ❓ FAQ 2. 문맥상 '감옥의 영들'은 반드시 노아 시대의 타락한 천사라는 주장은 사실인가?
+EN 88: ### ❓ FAQ 3. Does the doctrine of rescuing Paradise saints and removing sins support the Angel Theory?
+KO 89: ### ❓ FAQ 3. 낙원 성도 구출과 죄의 제거 교리가 천사설을 지지하는가?
+EN 89: ## ⚔️ [PART 2] In-depth Additional Objection Verification (Round 2 Battlefield Overview)
+KO 90: ## ⚔️ [PART 2] 심층 추가 반론 검증 (2차전 전장 개요)
+EN 90: ### Round 1 Verdict Summary
+KO 91: ### 1차전 판결 요약
+EN 91: ### Round 2 Outbreak Context
+KO 92: ### 2차전 발생 경위
+EN 92: ### Round 2 Core Issues Summary
+KO 93: ### 2차전 핵심 쟁점 정리
+EN 93: ## 🔵 2. Scripture Research Institute (Blue Team) Round 2 Objection Summary
+KO 94: ## 🔵 2. 경전연구원(Blue Team) 2차전 반론 정리
+EN 94: ### Objection Ⅰ: "when once" — Exceptional Deferment Argument
+KO 95: ### 반론 Ⅰ: "when once(한 번)" — 예외적 유예 논증
+EN 95: ### Objection Ⅱ: "Human spirits cannot be in prison" + Judgment Proclamation Argument
+KO 96: ### 반론 Ⅱ: "인간의 영은 감옥에 있을 수 없다" + 심판 선포 논증
+EN 96: ### Objection Ⅲ: Chronological Order Re-rebuttal — "Waited once"
+KO 97: ### 반론 Ⅲ: 시간순서 재반론 — "한 번 기다려 주셨다"
+EN 97: ### Objection Ⅳ: Jude 1:7 "strange flesh" — flesh = Applied to angels too
+KO 98: ### 반론 Ⅳ: 유다서 1:7 "이상한 육체(strange flesh)" — flesh = 천사에게도 적용
+EN 98: ### Objection Ⅴ: Gen 6 itself is evidence of reproductive ability + 1 Cor 11:10
+KO 99: ### 반론 Ⅴ: 창 6장 자체가 생식 능력의 증거 + 고전 11:10
+EN 99: ### Objection Ⅵ: Angel Salvation/Reconciliation Theory (Phil 2:9-10, Col 1:20)
+KO 100: ### 반론 Ⅵ: 천사 구원/화해론 (빌 2:9-10, 골 1:20)
+EN 100: ## 🔬 3. BVCAP 2.0 FULL SCAN — Verification of Each Objection
+KO 101: ## 🔬 3. BVCAP 2.0 FULL SCAN — 각 반론 검증
+EN 101: ### ⚔️ Issue Ⅰ: Verification of "when once" Argument
+KO 102: ### ⚔️ 쟁점 Ⅰ: "when once(한 번)" 논증 검증
+EN 102: #### 🔧 TYPE-G (KJV Grammar Dissection) — 1 Pet 3:20 Original Language Anatomy
+KO 103: #### 🔧 TYPE-G (KJV Grammar Dissection) — 벧전 3:20 원어 해부
+EN 103: ##### 💥 Core Analysis: What does "when once" modify?
+KO 104: ##### 💥 핵심 분석: "when once"가 수식하는 대상은 무엇인가?
+EN 104: ##### ⚖️ BVCAP Verdict: Does "once" rescue the Angel Theory?
+KO 105: ##### ⚖️ BVCAP 판정: "한 번(once)"이 천사설을 구원하는가?
+EN 105: ### ⚔️ Issue Ⅱ: Verification of Target and Content of Proclamation (preached)
+KO 106: ### ⚔️ 쟁점 Ⅱ: 선포(preached) 대상 및 내용 검증
+EN 106: #### 🔧 TYPE-AC (Counterfactual Test) — Verification of "Human spirits cannot be in prison"
+KO 107: #### 🔧 TYPE-AC (Counterfactual Test) — "인간의 영은 감옥에 있을 수 없다" 검증
+EN 107: ##### 💥 Defeating the Objection: The KJV explicitly states human spirits/souls are detained in the underworld
+KO 108: ##### 💥 반론 격퇴: KJV는 인간의 영이 지하세계에 구금됨을 직접 명시한다
+EN 108: #### 🔧 TYPE-R (Syntax Confusion Detection) — Preemptive Defense against "It was the soul, not the spirit, that went to hell"
+KO 109: #### 🔧 TYPE-R (구문 혼동 적발) — "지옥에 간 건 혼(soul)이지 영(spirit)이 아니다" 선제 방어
+EN 109: ##### 💥 KJV Decisive Evidence: Direct usage calling dead humans "spirits"
+KO 110: ##### 💥 KJV 결정적 증거: 죽은 인간을 "영(spirits)"이라 부른 직접 용례
+EN 110: ##### The Enumeration Structure of Heb 12:22-24 — Who are the "spirits of just men"?
+KO 111: ##### 히 12:22-24의 열거 구조 — "spirits of just men"은 누구인가?
+EN 111: ##### 5-Fold KJV Evidence that "just men" = Humans
+KO 112: ##### "just men(의로운 사람들)" = 인간이라는 5중 KJV 근거
+EN 112: ##### 💥 Decisive Blow: Heb 11:39-40 — Cross-verification of "made perfect"
+KO 113: ##### 💥 결정타: 히 11:39-40 — "made perfect"의 교차 검증
+EN 113: ##### 📊 Usage Pattern of soul vs spirit in the KJV — Living humans vs Dead humans
+KO 114: ##### 📊 KJV의 soul(혼) vs spirit(영) 사용 패턴 — 살아 있는 인간 vs 죽은 인간
+EN 114: ##### 💥 Eccl 12:7 — Preempting the "the spirit returns to God" counterargument
+KO 115: ##### 💥 전 12:7 — "영이 하나님께 돌아간다"는 반론도 차단
+EN 115: #### 🔧 TYPE-P (Retorsion) — Reverse logic of the "He proclaimed the contents of the judgment" argument
+KO 116: #### 🔧 TYPE-P (Retorsion) — "심판 내용을 선포하셨다" 논증의 역논법
+EN 116: ##### 💥 Core Question: Why proclaim the **contents** of the judgment to beings who have already had summary judgment **executed** upon them?
+KO 117: ##### 💥 핵심 질문: 이미 즉결 심판이 **집행된** 존재에게 왜 심판 **내용**을 선포해야 하는가?
+EN 117: #### 🔧 TYPE-E (Competing Model Elimination) — Verification of objections based on 1 Pet 1:12 and Eph 3:10
+KO 118: #### 🔧 TYPE-E (Competing Model Elimination) — 벧전 1:12, 엡 3:10 반론 검증
+EN 118: ##### Scripture Researcher's Citation ①: 1 Pet 1:12
+KO 119: ##### 경전연구원 인용 ①: 벧전 1:12
+EN 119: ##### Scripture Researcher's Citation ②: Eph 3:10
+KO 120: ##### 경전연구원 인용 ②: 엡 3:10
+EN 120: #### 🔧 TYPE-S (Lexical Bridge) — Re-verification of the kerysso/keryx lexical bridge
+KO 121: #### 🔧 TYPE-S (Lexical Bridge) — kerysso/keryx 어휘 다리 재확인
+EN 121: ### ⚔️ Issue Ⅲ: Re-verification of the chronological order of the 120-year countdown
+KO 122: ### ⚔️ 쟁점 Ⅲ: 120년 카운트다운 시간순서 재검증
+EN 122: #### 🔧 TYPE-A (Chronological) — Re-confirmation of the chronological issue
+KO 123: #### 🔧 TYPE-A (Chronological) — 시간순서 문제 재확인
+EN 123: ### ⚔️ Issue Ⅳ: Verification of "strange flesh" in Jude 1:7 — New weapon in Round 2
+KO 124: ### ⚔️ 쟁점 Ⅳ: 유다서 1:7 "이상한 육체(strange flesh)" 검증 — 2차전 신규 무기
+EN 124: #### 🔧 TYPE-G (Grammar) + TYPE-C (Category) — Application scope of flesh
+KO 125: #### 🔧 TYPE-G (Grammar) + TYPE-C (Category) — flesh의 적용 범위
+EN 125: ##### Core Question: Whose flesh is "strange flesh"?
+KO 126: ##### 핵심 질문: "strange flesh(이상한 육체)"는 누구의 육체인가?
+EN 126: ##### Precision TYPE-G Analysis: Grammatical Structure of Jude 1:7
+KO 127: ##### TYPE-G 정밀 분석: 유다서 1:7의 문법 구조
+EN 127: ##### 💥 Decisive Analysis: What "strange flesh (σαρκὸς ἑτέρας)" means
+KO 128: ##### 💥 결정적 분석: "strange flesh(σαρκὸς ἑτέρας)"가 뜻하는 것
+EN 128: ##### Re-application of facts confirmed in Round 1: body ≠ flesh
+KO 129: ##### 1차전 확인 사항 재적용: body(몸) ≠ flesh(육체)
+EN 129: ### ⚔️ Issue Ⅴ: Genesis 6 itself as reproductive evidence + Verification of 1 Cor 11:10
+KO 130: ### ⚔️ 쟁점 Ⅴ: 창 6장 자체가 생식 증거 + 고전 11:10 검증
+EN 130: #### 🔧 TYPE-AI (Reductio ad Absurdum) — Detection of Circular Reasoning
+KO 131: #### 🔧 TYPE-AI (Reductio ad Absurdum) — 순환 논증 적발
+EN 131: #### 🔧 TYPE-E — Verification of 1 Cor 11:10
+KO 132: #### 🔧 TYPE-E — 고전 11:10 검증
+EN 132: ### ⚔️ Issue Ⅵ: Angelic Salvation/Reconciliation Theory — Verification of Phil 2:9-10, Col 1:20 — New weapon in Round 2
+KO 133: ### ⚔️ 쟁점 Ⅵ: 천사 구원/화해론 — 빌 2:9-10, 골 1:20 검증 — 2차전 신규 무기
+EN 133: #### 🔧 TYPE-G (Grammar) + TYPE-C (Category) — Bowing the knee ≠ Salvation
+KO 134: #### 🔧 TYPE-G (Grammar) + TYPE-C (Category) — 무릎 꿇음 ≠ 구원
+EN 134: ##### Analysis of Phil 2:9-10
+KO 135: ##### 빌 2:9-10 분석
+EN 135: ##### Analysis of Col 1:20 — Precision re-verification of τὰ πάντα ("all things")
+KO 136: ##### 골 1:20 분석 — τὰ πάντα ("all things") 정밀 재검증
+EN 136: ##### ⚠️ Fairness Correction: Can τὰ πάντα include personal beings?
+KO 137: ##### ⚠️ 공정성 수정: τὰ πάντα는 인격체를 포함할 수 있는가?
+EN 137: ##### 💥 However: Even if τὰ πάντα includes personal beings, "reconcile ≠ save"
+KO 138: ##### 💥 그러나: τὰ πάντα에 인격체가 포함되더라도 "reconcile ≠ save"이다
+EN 138: ##### 💥 Heb 2:16 — Decisive Blow
+KO 139: ##### 💥 히 2:16 — 결정타
+EN 139: ### ⚔️ Reinforcement A: "Saved spirits" vs "Unsaved spirits" — KJV Usage Symmetry Verification
+KO 140: #### 💥 [보충 논거] 벧전 1:12 — 경험론적 반증 (히 2:16과 독립 도메인에서 수렴)
+EN 140: #### 📊 Exhaustive survey of usage where humans are called "spirits" in the KJV
+KO 141: ##### 📖 벧전 1:10-12 KJV — 3중 구조
+EN 141: ##### ① Spirits of Saved (Just) Men
+KO 142: ##### 🔑 원어 분석 — παρακύψαι (parakupsai)
+EN 142: ##### ② Spirits of Unsaved (Disobedient) Men
+KO 143: ##### ⚖️ 천사 구원론과의 충돌
+EN 143: ##### ③ Spirits of All Men (Comprehensive Expression)
+KO 144: ##### 💥 자기 논거 역전 (TYPE-P — 역논법)
+EN 144: #### 💥 Symmetry Argument
+KO 145: ##### 📊 히 2:16 vs 벧전 1:12 — 두 논거의 도메인 비교
+EN 145: ### ⚔️ Reinforcement B: The Great White Throne Judgment (Rev 20:11-15) Precision Dissection — Who is the Target?
+KO 146: ### ⚔️ 보강 A: "구원받은 영들" vs "구원받지 못한 영들" — KJV 용례 대칭 검증
+EN 146: #### 📖 Rev 20:11-15 KJV Full Dissection
+KO 147: #### 📊 KJV에서 인간을 "영들(spirits)"로 부른 용례 전수 조사
+EN 147: #### 💥 Are the Targets of the Great White Throne Judgment Men or Angels?
+KO 148: ##### ① 구원받은(의로운) 인간의 영들
+EN 148: #### 📋 Who are the books and the book of life for?
+KO 149: ##### ② 구원받지 못한(불순종한) 인간의 영들
+EN 149: #### ⚖️ Then when and where does the judgment of angels occur?
+KO 150: ##### ③ 모든 인간의 영 (포괄적 표현)
+EN 150: #### 💥 Summary Incarceration vs Execution of Sentence — Legal Procedural Distinction
+KO 151: #### 💥 대칭 논증 (Symmetry Argument)
+EN 151: #### ⚖️ How does this affect the "preached" debate?
+KO 152: ### ⚔️ 보강 B: 백보좌 심판(계 20:11-15) 정밀 해부 — 대상은 누구인가?
+EN 152: ## 🚨 4. E-Code (Evasion Logic) Detection — Round 2
+KO 153: #### 📖 계 20:11-15 KJV 전문 해부
+EN 153: ### 🔵 Scripture Institute Side E-Code
+KO 154: #### 💥 백보좌 심판의 대상은 인간인가 천사인가?
+EN 154: ### 🔴 TheScriptureOrg Side E-Code
+KO 155: #### 📋 책들(the books)과 생명책(book of life)은 누구를 위한 것인가?
+EN 155: ## 🔗 5. COMBO Convergence Verification (Round 2 Addition)
+KO 156: #### ⚖️ 그렇다면 천사의 심판은 언제, 어디서 일어나는가?
+EN 156: ### Round 1's 6 Types + Round 2's New Verification Results
+KO 157: #### 💥 즉결 구금 vs 사형 집행 — 법적 절차 구분
+EN 157: ## 🔴 6. Red Team (TheScriptureOrg) Response Draft
+KO 158: #### ⚖️ 이것이 "선포(preached)" 논쟁에 어떤 영향을 주는가?
+EN 158: ### ✍️ Response to Inquiry Ⅰ: "when once" Argument
+KO 159: ## 🚨 4. E-Code (회피논법) 감지 — 2차전
+EN 159: ### ✍️ Response to Inquiry Ⅱ: Target of Preached
+KO 160: ### 🔵 경전연구원 측 E-Code
+EN 160: ### ✍️ Response to Inquiry Ⅲ: Chronological Order
+KO 161: ### 🔴 TheScripture.org 측 E-Code
+EN 161: ### ✍️ Response to Issue Ⅳ: Jude 1:7 "strange flesh"
+KO 162: ## 🔗 5. COMBO 수렴 검증 (2차전 추가)
+EN 162: ### ✍️ Response to Issue Ⅴ: Gen 6 = Evidence of Reproduction? + 1 Cor 11:10
+KO 163: ### 1차전 6종 + 2차전 신규 검증 결과
+EN 163: ### ✍️ Response to Issue Ⅵ: Angelic Salvation/Reconciliation Theory
+KO 164: ## 🔴 6. Red Team(TheScripture.org) 대응 답변 초안
+EN 164: ## ⚖️ 7. Final Verdict (Round 2)
+KO 165: ### ✍️ 문의 Ⅰ에 대한 대응: "when once(한 번)" 논증
+EN 165: ### 📊 Round 2 Final Scorecard by Issue
+KO 166: ### ✍️ 문의 Ⅱ에 대한 대응: 선포(preached) 대상
+EN 166: ### 📈 Round 2 Comprehensive State of the War
+KO 167: ### ✍️ 문의 Ⅲ에 대한 대응: 시간순서
+EN 167: ### ⚖️ BVCAP 2.0 Arbiter Round 2 Final Ruling
+KO 168: ### ✍️ 쟁점 Ⅳ에 대한 대응: 유다서 1:7 "strange flesh"
+EN 168: #### 📋 Verdict Grade
+KO 169: ### ✍️ 쟁점 Ⅴ에 대한 대응: 창 6장 = 생식 증거? + 고전 11:10
+EN 169: ### 💡 8. ANALOGY-5 (Modern Analogy)
+KO 170: ### ✍️ 쟁점 Ⅵ에 대한 대응: 천사 구원/화해론
+EN 170: ### 🕊️ 9. LESSON-6 (Spiritual/Pastoral Lesson)
+KO 171: ## ⚖️ 7. 최종 판결 (2차전)
+EN 171: ### 📌 Appendix: Recommendations for Scripture Institute
+KO 172: ### 📊 2차전 쟁점별 최종 점수표
+EN 172: ### 📖 Follow-up Research Documents
+KO 173: ### 📈 2차전 종합 전세
+EN 173: ## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
+KO 174: ### ⚖️ BVCAP 2.0 중재자(Arbiter) 2차전 최종 선고
+EN 174: ### 📌 1. Reply to the Pastor
+KO 175: #### 📋 판결 등급
+EN 175: ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
+KO 176: ### 💡 8. ANALOGY-5 (현대 비유)
+EN 176: ## ⚖️ Part 2: Biblical Dismissal of the 'Genesis 6 Angel Theory' (Core Forensic Verification)
+KO 177: ### 🕊️ 9. LESSON-6 (영적/목회적 교훈)
+EN 177: ### 📌 3. Final Dismissal of the Angel Theory — Cross-Verification + IRONCLAD Argument
+KO 178: ### 📌 부록: 경전연구원를 위한 건의사항
+EN 178: ### 📌 4-A. Childbirth Before Eating the Forbidden Fruit (Basics) — 9 Forensic Verifications Dismissing the Angel Theory
+KO 179: # 🗂️ [KJV 목회자용] 핵심 연구 인덱스 및 추천 읽기 순서
+EN 179: ### 📌 4-B. Childbirth Before Eating the Forbidden Fruit (Advanced) — The Law of Resurrection and the Seed War
+KO 180: ## 🧭 제1부: 서신 및 거시적 프레임워크 (가장 먼저 읽으실 문서)
+EN 180: ## 🌌 Part 3: The First World and Melchizedek (Unlocking Deep Mysteries)
+KO 181: ### 📌 1. 목사님께 드리는 회신
+EN 181: ### 📌 5. Morning Stars Are Not Angels — Exhaustive KJV Usage + The Dust Law
+KO 182: ### 📌 2. IFB vs TSM — 재창조 순서도 전면 비교
+EN 182: ### 📌 6. Who is Melchisedec? — Living Evidence of the "Morning Stars"
+KO 183: ## ⚖️ 제2부: '창세기 6장 천사설'의 성경적 기각 (핵심 법정 검증)
+EN 183: ### 📌 7. The Full Picture of the First World — The Big Picture
+KO 184: ### 📌 3. 천사설 최종 기각 — 교차 검증 + IRONCLAD 논증
+EN 184: ## 🗄️ Part 4: System Classification Chart and Live Debate Logs (Reference Materials)
+KO 185: ### 📌 4-A. 선악과 먹기 전 출산 (기초) — 천사설 기각 법정 검증 9건
+EN 185: ### 📌 8. KJV Spiritual Beings Exhaustive Classification Chart — OOP Class Structure
+KO 186: ### 📌 4-B. 선악과 먹기 전 출산 (심화) — 부활의 법칙과 씨앗 전쟁
+EN 186: ### ⚔️ Live Debate Records (TheScriptureOrg vs. Researcher)
+KO 187: ## 🌌 제3부: 첫 번째 세상과 멜키세덱 (깊은 신비의 해금)
+EN 187: NONE
+KO 188: ### 📌 5. 새벽별은 천사가 아니다 — KJV 전수 용례 + 진토 법칙
+EN 188: NONE
+KO 189: ### 📌 6. 멜키세덱은 누구인가? — "새벽 별들"의 살아있는 증거
+EN 189: NONE
+KO 190: ### 📌 7. 첫 세상의 전체 그림 — 빅 픽처
+EN 190: NONE
+KO 191: ## 🗄️ 제4부: 시스템 분류표 및 실전 논쟁 로그 (참고 자료)
+EN 191: NONE
+KO 192: ### 📌 8. KJV 영적 존재 완전 분류표 — OOP 클래스 구조
+EN 192: NONE
+KO 193: ### ⚔️ 실전 공방 기록 (TheScripture.org vs 연구원)
+EN 193: NONE

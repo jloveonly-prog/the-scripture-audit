@@ -1,4 +1,10 @@
-﻿# 📑 [BVCAP 2.0 Full Report] Genesis Chapter 6 "Sons of God" — TheScriptureMaster vs The Scripture Research Institute Comparative Verification
+# 📑 [BVCAP 2.0 Full Report] Genesis Chapter 6 "Sons of God" — TheScriptureBeliever vs The Scripture Research Institute Comparative Verification
+
+> [!NOTE]
+> **※ Disclaimer (The Meaning of 'TheScriptureBeliever')**
+> The speaker '**TheScriptureBeliever**' appearing in this document holds a distinct identity different from the traditional term 'Bible Believer' used in mainstream Christianity.
+> Traditionally, the word 'Bible' is a man-made title that does not appear even once in the entire 66 books of the original KJV text. On the contrary, when Jesus and Paul referred to the absolute Word of God, the exact word inspired directly by the Holy Spirit is exclusively **"The Scripture"** (John 5:39, 2 Tim 3:16).
+> This speaker sets themselves apart from traditional doctrines (Bible Believer) that promote a term absent from the original text, clarifying that they are one who believes and defends only the original language of recorded truth (The Scripture) itself.
 
 > [!WARNING]
 > **[Disclaimer and Legal Notice]**
@@ -7,7 +13,7 @@
 > 2. It was written within the boundaries of freedom of religion and freedom of expression for the purpose of sound doctrinal verification, and the contents of this document cannot be used as a basis for any legal dispute. Please be sure to keep this in mind when disclosing to the outside.
 
 > **STATUS**: 🔬 FULL SCAN Complete — Final Verdict Declared
-> **Execution Engine**: BVCAP v2.0 (MODE A: External Apologetics — TheScriptureMaster Argument Verification)
+> **Execution Engine**: BVCAP v2.0 (MODE A: External Apologetics — TheScriptureBeliever Argument Verification)
 > **Conflict Type**: C-13 (Spiritual Being/Space Confusion) + C-03 (Theological Conflict)
 > **Primary Deployed Weapons**: TYPE-G (Original Language Grammar Anatomy), TYPE-AC (Counterfactual Test), TYPE-I (Lexical Frequency), TYPE-A (Chronological Serial Decomposition), TYPE-AB (Spiritual Being Matrix), TYPE-AI (Reductio ad Absurdum), TYPE-P (Retorsion)
 
@@ -21,7 +27,7 @@
 > The BVCAP 2.0 engine strictly adheres to the following principles in this analysis:
 >
 > 1. **No Predetermined Conclusions**: We do not presuppose that "the angel theory is right" or "the human theory is right". We follow where the evidence leads.
-> 2. **Equal Treatment of Both Sides**: The arguments of 🔴 TheScriptureMaster (Red Team) and 🔵 The Scripture Research Institute (Blue Team) are verified with the same BVCAP analysis system.
+> 2. **Equal Treatment of Both Sides**: The arguments of 🔴 TheScriptureBeliever (Red Team) and 🔵 The Scripture Research Institute (Blue Team) are verified with the same BVCAP analysis system.
 > 3. **Text is the Only Witness**: The KJV Bible original text (Hebrew/Greek) is the only final evidence. Tradition, authority, and emotion are not adopted as evidence.
 > 4. **Errors are Caught Everywhere**: Whether Red Team or Blue Team, if a logical leap (E-Code) is found, it is immediately caught.
 > 5. **Judgment Solely on the Internal Logic of the KJV Original Text**: External documents, patristic traditions, and extra-biblical scriptures are not used as evidence.
@@ -49,12 +55,12 @@
 | **1 Pet 3:19-20** | *"preached unto the spirits in prison... waited (longsuffering)"* | 🔴🔵 Both Sides |
 | **2 Pet 2:4-5** | *"**spared not** the angels that sinned... Noah"* | 🔵 The Scripture Research Institute |
 | **Jude 1:6-7** | *"angels which kept not their first estate... going after strange flesh"* | 🔵 The Scripture Research Institute |
-| **Matt 22:30** | *"are as the angels of God... neither marry, nor are given in marriage"* | 🔴 TheScriptureMaster |
-| **Luke 20:36** | *"**neither can they die any more**: for they are equal unto the angels"* | 🔴 TheScriptureMaster |
-| **Heb 1:7** | *"Who maketh his angels **spirits**"* | 🔴 TheScriptureMaster |
+| **Matt 22:30** | *"are as the angels of God... neither marry, nor are given in marriage"* | 🔴 TheScriptureBeliever |
+| **Luke 20:36** | *"**neither can they die any more**: for they are equal unto the angels"* | 🔴 TheScriptureBeliever |
+| **Heb 1:7** | *"Who maketh his angels **spirits**"* | 🔴 TheScriptureBeliever |
 | **Heb 2:16** | *"**took not on him** the nature of angels"* | BVCAP Independent Verification |
-| **Heb 12:23** | *"the **spirits** of just men made perfect"* | 🔴 TheScriptureMaster |
-| **Isa 31:3** | *"their horses **flesh**, and not **spirit**"* | 🔴 TheScriptureMaster |
+| **Heb 12:23** | *"the **spirits** of just men made perfect"* | 🔴 TheScriptureBeliever |
+| **Isa 31:3** | *"their horses **flesh**, and not **spirit**"* | 🔴 TheScriptureBeliever |
 | **Deut 22:27** | *"No sin to be charged to the forcibly assaulted betrothed woman"* | 🔵 The Scripture Research Institute |
 | **Ps 82:6-7** | *"Ye are gods... But ye shall die like men"* | 🔵 The Scripture Research Institute |
 | **Gen 15:16** | *"the iniquity of the Amorites is not yet full"* | 🔵 The Scripture Research Institute |
@@ -69,14 +75,14 @@
 
 | Role | Position | Argument Summary |
 |:---:|:---:|:---|
-| 🔴 **TheScriptureMaster** (Red Team / Plaintiff) | Anti-Angel Theory | If the sons of God are angels, multiple internal conflicts arise, such as judicial contradiction, longsuffering contradiction, lifespan contradiction, and spirit-flesh category contradiction. The angel theory is incompatible with the internal logic of the Bible. |
+| 🔴 **TheScriptureBeliever** (Red Team / Plaintiff) | Anti-Angel Theory | If the sons of God are angels, multiple internal conflicts arise, such as judicial contradiction, longsuffering contradiction, lifespan contradiction, and spirit-flesh category contradiction. The angel theory is incompatible with the internal logic of the Bible. |
 | 🔵 **The Scripture Research Institute** (Blue Team / Defense) | Pro-Angel Theory | The sons of God are angels. Jude and 2 Peter testify to this; angels and humans sinned together, and God gave a 120-year reprieve. |
 
 ---
 
-## 🔴 3. TheScriptureMaster (Red Team) — Raised Points Summary
+## 🔴 3. TheScriptureBeliever (Red Team) — Raised Points Summary
 
-> *TheScriptureMaster sequentially raises the following points against The Scripture Research Institute's angel theory.*
+> *TheScriptureBeliever sequentially raises the following points against The Scripture Research Institute's angel theory.*
 
 ### Point ①: Judicial Subject Contradiction (Gen 6:3)
 > *"It is a contradiction that an angel committed the sin, but man (ha-adam) is judged."*
@@ -180,10 +186,10 @@
 ## 📊 5. Match-up Table by Issue
 
 > [!NOTE]
-> The table below matches whether The Scripture Research Institute directly rebutted each point raised by TheScriptureMaster.
+> The table below matches whether The Scripture Research Institute directly rebutted each point raised by TheScriptureBeliever.
 > ❌ = No or insufficient rebuttal, ⚠️ = Partial rebuttal, ✅ = Direct rebuttal
 
-| # | 🔴 TheScriptureMaster Raised Point | 🔵 The Scripture Research Institute Rebuttal | Rebuttal Status | BVCAP Issue Strength |
+| # | 🔴 TheScriptureBeliever Raised Point | 🔵 The Scripture Research Institute Rebuttal | Rebuttal Status | BVCAP Issue Strength |
 |:---:|:---|:---|:---:|:---:|
 | **①** | Judicial contradiction of man (ha-adam) being judged when angels sinned | "Humans also sinned together (v5-6)" | ⚠️ Partial | ⭐⭐⭐⭐ |
 | **②** | 1 Pet 3:20 longsuffering vs 2 Pet 2:4 spared not — Same author contradiction | "God is also longsuffering toward angels" | ⚠️ Partial | ⭐⭐⭐⭐⭐ |
@@ -262,7 +268,7 @@ The Scripture Research Institute argued that angels are spiritual but also have 
 - Composition of angels: Defined as **spirits** in Heb 1:7. No KJV textual basis for having basar.
 - Angels appearing in physical form (Gen 18-19): This is a **temporary manifestation (theophany/angelophany)**, which is different from their essence becoming basar.
 
-> **TYPE-G Final Judgment:** 🔴 TheScriptureMaster's point is **valid based on the text**. 🔵 The Scripture Research Institute's claim that "angels also have flesh" lacks KJV textual support.
+> **TYPE-G Final Judgment:** 🔴 TheScriptureBeliever's point is **valid based on the text**. 🔵 The Scripture Research Institute's claim that "angels also have flesh" lacks KJV textual support.
 
 ---
 
@@ -294,7 +300,7 @@ Problem: The criminal (angel) completely disappears from the judgment sentence
 | Is the 120 years in v3 for the general wickedness in v5-6? | ❌ The reason clause in v3 is "he also is flesh" — directly connected to the union event in v2 |
 | If humans sinned "together", why is there no mention of angels in v3? | ❌ Cannot explain — if a joint crime, both sides should be mentioned |
 
-> **TYPE-AC Final Judgment:** 🔴 TheScriptureMaster's point pointing out the judicial subject contradiction is **valid**. 🔵 The Scripture Research Institute's rebuttal that "humans also sinned together" fails to resolve the structural void of the angels' complete absence in v3.
+> **TYPE-AC Final Judgment:** 🔴 TheScriptureBeliever's point pointing out the judicial subject contradiction is **valid**. 🔵 The Scripture Research Institute's rebuttal that "humans also sinned together" fails to resolve the structural void of the angels' complete absence in v3.
 
 ---
 
@@ -329,9 +335,9 @@ Angels are beings that **cannot die**. A lifespan (his days) is a concept predic
 | Humans | ✅ Possible | All of Gen 5 — "he died" repeated |
 | Angels | ❌ Impossible | Luke 20:36 — "neither can they die" |
 
-🔵 **Verification of The Scripture Research Institute's Response:** The Scripture Research Institute defined "his days = lifetime, period of life." This is **virtually the same definition** as TheScriptureMaster's "his days = biological lifespan." While The Scripture Research Institute itself accepted this definition, it **failed to rebut** TheScriptureMaster's subsequent point that it is inapplicable to angels.
+🔵 **Verification of The Scripture Research Institute's Response:** The Scripture Research Institute defined "his days = lifetime, period of life." This is **virtually the same definition** as TheScriptureBeliever's "his days = biological lifespan." While The Scripture Research Institute itself accepted this definition, it **failed to rebut** TheScriptureBeliever's subsequent point that it is inapplicable to angels.
 
-> **TYPE-I Final Judgment:** 🔴 TheScriptureMaster's point is **completely valid**. "his days" consistently means biological lifespan within the KJV, and applying it to angels who cannot die (Luke 20:36) violates the KJV's internal usage.
+> **TYPE-I Final Judgment:** 🔴 TheScriptureBeliever's point is **completely valid**. "his days" consistently means biological lifespan within the KJV, and applying it to angels who cannot die (Luke 20:36) violates the KJV's internal usage.
 
 ---
 
@@ -370,7 +376,7 @@ v7: Declaration of annihilation (Final judgment decision)
 - The Scripture Research Institute: "A 120-year deferment of judgment was given" + Cited Gen 15:16
 - **Problem:** Gen 15:16 is "waiting **until** the iniquity is full." This is a principle of waiting **after first confirming** the sin, not a principle of starting a countdown before confirming it.
 
-> **TYPE-A Final Judgment:** 🔴 TheScriptureMaster's point on the time sequence is **valid**. The countdown theory has consistency issues with the text order of v3→v5→v6, and the Gen 15:16 principle cited by The Scripture Research Institute also favors the lifespan theory over the countdown theory.
+> **TYPE-A Final Judgment:** 🔴 TheScriptureBeliever's point on the time sequence is **valid**. The countdown theory has consistency issues with the text order of v3→v5→v6, and the Gen 15:16 principle cited by The Scripture Research Institute also favors the lifespan theory over the countdown theory.
 
 #### 💥 TYPE-A + TYPE-I Cross-Verification — KJV Usage Verification of Proclaiming Countdown Years (Decisive Blow)
 
@@ -441,7 +447,7 @@ Choices:
 | Are there any usages in the KJV where God is longsuffering toward angels? | ❌ No usages found |
 | Instead, 2 Pet 2:4 records they were cast down to Tartarus immediately | No trace of suspension/patience |
 
-> **TYPE-P Final Verdict:** 🔴 TheScriptureMaster's pointing out of the contradiction in longsuffering is **fatally valid**. The fact that the same author, Peter, recorded "longsuffering" in 1 Pet 3:20 and "spared not" in 2 Pet 2:4 strongly suggests that the targets of the two verses are **not the same entities**. If the "spirits" in 1 Pet 3:19 are seen as angels, Peter's self-contradiction occurs.
+> **TYPE-P Final Verdict:** 🔴 TheScriptureBeliever's pointing out of the contradiction in longsuffering is **fatally valid**. The fact that the same author, Peter, recorded "longsuffering" in 1 Pet 3:20 and "spared not" in 2 Pet 2:4 strongly suggests that the targets of the two verses are **not the same entities**. If the "spirits" in 1 Pet 3:19 are seen as angels, Peter's self-contradiction occurs.
 
 #### 💥 TYPE-P Crucial Reinforcement — 1 Pet 3:19-20 Cannot be Separated
 
@@ -572,13 +578,13 @@ This argument has a **logically valid structure**:
 | **E-15** | Cherry-picking | Acknowledging the consistent internal KJV usage of "his days" = biological lifespan (8 times in Gen 5), but selectively changing the interpretation to a countdown only in Gen 6:3 | 🟡 **Caution** |
 | **E-07** | Forced Harmony | Attempting to resolve the contradiction between 1 Pet 3:20 "longsuffering" and 2 Pet 2:4 "spared not" by saying "He also suffers long toward angels" — essentially ignoring the "spared not" of 2 Pet 2:4 | 🟡 **Caution** |
 
-### 🔴 E-Code Detection on TheScriptureMaster's Side
+### 🔴 E-Code Detection on TheScriptureBeliever's Side
 
 | E-Code | Type | Detected Content | Severity |
 |:---:|:---|:---|:---:|
-| — | — | No logical leaps were detected from TheScriptureMaster's side in this showdown. All points were based on the KJV text, consistently using text analysis without subjective judgments or appealing to external authorities. | 🟢 **None** |
+| — | — | No logical leaps were detected from TheScriptureBeliever's side in this showdown. All points were based on the KJV text, consistently using text analysis without subjective judgments or appealing to external authorities. | 🟢 **None** |
 
-> **E-Code Comprehensive Verdict:** 🔵 A total of 2 logical leaps were detected on Scripture Researcher's side: E-15 (Caution) and E-07 (Caution). 🔴 No E-Codes were detected on TheScriptureMaster's side.
+> **E-Code Comprehensive Verdict:** 🔵 A total of 2 logical leaps were detected on Scripture Researcher's side: E-15 (Caution) and E-07 (Caution). 🔴 No E-Codes were detected on TheScriptureBeliever's side.
 
 ---
 
@@ -617,29 +623,29 @@ This argument has a **logically valid structure**:
 
 ### 📊 Final Score Table by Issue
 
-| # | Issue | 🔴 TheScriptureMaster Score | 🔵 Scripture Researcher Score | Winner |
+| # | Issue | 🔴 TheScriptureBeliever Score | 🔵 Scripture Researcher Score | Winner |
 |:---:|:---|:---:|:---:|:---:|
-| **①** | Judicial Subject Contradiction (ha-adam vs angels) | ⭐⭐⭐⭐ | ⭐⭐ | 🔴 TheScriptureMaster |
-| **②** | Longsuffering vs Spared not (1 Pet vs 2 Pet) | ⭐⭐⭐⭐⭐ | ⭐ | 🔴 TheScriptureMaster |
+| **①** | Judicial Subject Contradiction (ha-adam vs angels) | ⭐⭐⭐⭐ | ⭐⭐ | 🔴 TheScriptureBeliever |
+| **②** | Longsuffering vs Spared not (1 Pet vs 2 Pet) | ⭐⭐⭐⭐⭐ | ⭐ | 🔴 TheScriptureBeliever |
 | **③** | Identity of "Spirits" (Heb 12:23 vs 1 Pet 4:5-6) | ⭐⭐⭐ | ⭐⭐⭐ | ⚖️ Draw |
 | **④** | Consent of Daughters (laqach vs Deut 22:27) | ⭐⭐⭐ | ⭐⭐⭐ | ⚖️ Draw |
-| **⑤** | Category Opposition of Spirit vs Flesh (Isa 31:3 + Heb 1:7) | ⭐⭐⭐⭐ | ⭐⭐ | 🔴 TheScriptureMaster |
-| **⑥** | his days = lifespan + angel immortality (Luke 20:36) | ⭐⭐⭐⭐ | ⭐ | 🔴 TheScriptureMaster |
-| **⑦** | 120-year Countdown Chronology (v3→v5→v6) | ⭐⭐⭐⭐ | ⭐⭐ | 🔴 TheScriptureMaster |
-| **⑧** | Eating ≠ Conversion to Flesh | ⭐⭐⭐ | — | 🔴 TheScriptureMaster (No response) |
-| **⑨** | Gen 6:5 "And" Conjunction — Event Separation | ⭐⭐⭐ | — | 🔴 TheScriptureMaster (No response) |
-| **⑩** | No usage of 'his days' for angels | ⭐⭐⭐⭐ | — | 🔴 TheScriptureMaster (No response) |
+| **⑤** | Category Opposition of Spirit vs Flesh (Isa 31:3 + Heb 1:7) | ⭐⭐⭐⭐ | ⭐⭐ | 🔴 TheScriptureBeliever |
+| **⑥** | his days = lifespan + angel immortality (Luke 20:36) | ⭐⭐⭐⭐ | ⭐ | 🔴 TheScriptureBeliever |
+| **⑦** | 120-year Countdown Chronology (v3→v5→v6) | ⭐⭐⭐⭐ | ⭐⭐ | 🔴 TheScriptureBeliever |
+| **⑧** | Eating ≠ Conversion to Flesh | ⭐⭐⭐ | — | 🔴 TheScriptureBeliever (No response) |
+| **⑨** | Gen 6:5 "And" Conjunction — Event Separation | ⭐⭐⭐ | — | 🔴 TheScriptureBeliever (No response) |
+| **⑩** | No usage of 'his days' for angels | ⭐⭐⭐⭐ | — | 🔴 TheScriptureBeliever (No response) |
 
 ### 📈 Overall War Situation Judgment
 
 | Category | Result |
 |:---:|:---|
-| 🔴 TheScriptureMaster Wins | **7 cases** (①②⑤⑥⑦⑧⑨⑩) |
+| 🔴 TheScriptureBeliever Wins | **7 cases** (①②⑤⑥⑦⑧⑨⑩) |
 | ⚖️ Draws | **2 cases** (③④) |
 | 🔵 Scripture Researcher Wins | **0 cases** |
 | 🔵 Scripture Researcher E-Code | **2 cases** (E-15, E-07 Caution 2 cases) |
-| 🔴 TheScriptureMaster E-Code | **0 cases** |
-| COMBO Convergence | **6-Type Convergence** → Supports TheScriptureMaster's argument direction |
+| 🔴 TheScriptureBeliever E-Code | **0 cases** |
+| COMBO Convergence | **6-Type Convergence** → Supports TheScriptureBeliever's argument direction |
 | STRESS-TEST | **5/5 Dismissal** → Can respond to all the strongest counterarguments of the angel theory |
 
 ---
@@ -649,11 +655,11 @@ This argument has a **logically valid structure**:
 > [!IMPORTANT]
 > ### 🏛️ Sentence
 >
-> **In this showdown, we pronounce that 🔴 TheScriptureMaster (Red Team) has secured an overwhelming advantage over 🔵 Scripture Researcher (Blue Team).**
+> **In this showdown, we pronounce that 🔴 TheScriptureBeliever (Red Team) has secured an overwhelming advantage over 🔵 Scripture Researcher (Blue Team).**
 >
 > #### Summary of the Sentence
 >
-> 1. **All of TheScriptureMaster's points were based on the KJV text.** Without appealing to external authorities, external scriptures, or emotions, they systematically dissected the contradictions of the angel theory using only the original language, usages, and logic within the KJV Bible.
+> 1. **All of TheScriptureBeliever's points were based on the KJV text.** Without appealing to external authorities, external scriptures, or emotions, they systematically dissected the contradictions of the angel theory using only the original language, usages, and logic within the KJV Bible.
 >
 > 2. **Scripture Researcher directly counterargued only 2 of the 10 issues, partially counterargued 4, and gave no response to 4.**
 >
@@ -667,10 +673,10 @@ This argument has a **logically valid structure**:
 
 | Item | Verdict |
 |:---:|:---|
-| **Winner of the Showdown** | 🔴 **TheScriptureMaster Overwhelming Advantage** |
+| **Winner of the Showdown** | 🔴 **TheScriptureBeliever Overwhelming Advantage** |
 | **Status of Angel Theory** | ⚠️ **TENTATIVE** — Internal consistency within the KJV cannot be secured with the defense arguments presented in this showdown alone |
 | **COMBO Grade** | COMBO 6-Type Convergence |
-| **Confidence Level** | ✅✅ **STRONG** [Self-adv ✓] — TheScriptureMaster's points are consistent with the internal logic of the KJV |
+| **Confidence Level** | ✅✅ **STRONG** [Self-adv ✓] — TheScriptureBeliever's points are consistent with the internal logic of the KJV |
 
 ---
 
@@ -692,7 +698,7 @@ In this verdict, there is not a single mention of A (the culprit), and all the s
 
 This showdown leaves an important lesson. Scripture Researcher is a person with faithful belief and passion for service, and answered the questions sincerely. However, in the process of defending a traditionally accepted interpretation (angel theory), points of collision with what the original KJV text itself says occurred.
 
-The Bible does not protect the conclusions of any camp in advance. **"Prove all things; hold fast that which is good." (1 Thess 5:21)** — Even traditional interpretations must be re-verified before the KJV text. The reason TheScriptureMaster's questions were sharp was that those questions ultimately came from the KJV text itself.
+The Bible does not protect the conclusions of any camp in advance. **"Prove all things; hold fast that which is good." (1 Thess 5:21)** — Even traditional interpretations must be re-verified before the KJV text. The reason TheScriptureBeliever's questions were sharp was that those questions ultimately came from the KJV text itself.
 
 ---
 
@@ -988,7 +994,7 @@ Angels may have **bodies (body)** (1 Cor 15:40 — celestial bodies), but that i
 | **③** | when = adverbial clause of time | ⭐⭐⭐⭐ | ⚠️ Grammatically possible, but backfires upon acceptance — strengthens human-centric narrative |
 | **④** | Angels also have flesh | ⭐⭐⭐ | ❌ Dismissed — body(soma) ≠ flesh(sarx/basar), 1 Cor 15:39-40 |
 
-> **FAQ Final Conclusion:** Among the 4 major objections from the Angel Theory camp, ① and ④ are dismissed, ② is disadvantageous to the Angel Theory regarding the proclamation target, and ③ is grammatically possible but actually strengthens the human-centric conclusion if accepted. **This report's verdict (TheScriptureMaster's overwhelming advantage) is maintained.**
+> **FAQ Final Conclusion:** Among the 4 major objections from the Angel Theory camp, ① and ④ are dismissed, ② is disadvantageous to the Angel Theory regarding the proclamation target, and ③ is grammatically possible but actually strengthens the human-centric conclusion if accepted. **This report's verdict (TheScriptureBeliever's overwhelming advantage) is maintained.**
 
 ---
 
@@ -1084,7 +1090,7 @@ In Genesis 6:
 
 ## 📡 [Appendix] BVCAP 2.0 In-depth Verification FAQ (Scripture Research Institute Objection Forensics)
 
-> **Context:** The latest sermon/objection transcript from the Scripture Research Institute (Blue Team) has been obtained. The BVCAP 2.0 moderator independently verifies (Fact Checks) the Scripture Research Institute's objection logic, excluding TheScriptureMaster.
+> **Context:** The latest sermon/objection transcript from the Scripture Research Institute (Blue Team) has been obtained. The BVCAP 2.0 moderator independently verifies (Fact Checks) the Scripture Research Institute's objection logic, excluding TheScriptureBeliever.
 
 ### ❓ FAQ 1. Is the claim that the 120 years was a grace period (longsuffering) toward angels true?
 **🗣️ Scripture Research Institute's Claim:** The 120 years in Genesis 6:3 is the identical event to the 'longsuffering' in 1 Peter 3:20. God granted a deferment of judgment to the angels during the 120 years while the ark was being prepared.
@@ -1116,7 +1122,7 @@ In Genesis 6:
 
 | Item | Result |
 |:---:|:---|
-| **Verdict** | 🔴 TheScriptureMaster Overwhelming Advantage (7 Wins 2 Draws 0 Losses) |
+| **Verdict** | 🔴 TheScriptureBeliever Overwhelming Advantage (7 Wins 2 Draws 0 Losses) |
 | **COMBO** | 6-Type Convergence (TYPE-G + AC + I + A + AB + P) |
 | **Confidence Level** | ✅✅ STRONG [Self-adv ✓] |
 
@@ -1224,7 +1230,7 @@ BVCAP Cross-Verification:
    Even if He longsuffered once, it is incompatible with the summary detention of 2 Pet 2:4"
 ```
 
-> **Additional Observation:** The Scripture Research Institute pointed out that other translations deleted this expression. This is an important observation supporting the superiority of the KJV, and TheScriptureMaster would agree with this as well. **However, the preservation of "when once" in the KJV is not advantageous but rather disadvantageous to the Angel Theory.** Because "once... waited" is preserved, the collision with "spared not" in 2 Pet 2:4 is revealed **even more clearly**.
+> **Additional Observation:** The Scripture Research Institute pointed out that other translations deleted this expression. This is an important observation supporting the superiority of the KJV, and TheScriptureBeliever would agree with this as well. **However, the preservation of "when once" in the KJV is not advantageous but rather disadvantageous to the Angel Theory.** Because "once... waited" is preserved, the collision with "spared not" in 2 Pet 2:4 is revealed **even more clearly**.
 
 > **TYPE-G Conclusion:** "when once" only temporally limits the longsuffering as a single event, but **it does not change the target of longsuffering (spirits in prison)**. If the spirits are angels, the very fact of "longsuffering even once" is fundamentally incompatible with "spared NOT" in 2 Pet 2:4.
 
@@ -1647,6 +1653,76 @@ Precondition for Atonement:
 
 ---
 
+#### 💥 [Supplemental Argument] 1 Pet 1:12 — Empirical Counterevidence (Converging from an independent domain with Heb 2:16)
+
+> **Activated TYPE**: TYPE-I (Usage Frequency) + TYPE-P (Retorsion)
+> **Strategic Value**: Tier 2 Weapon — Converges to the same conclusion from an **independent domain** than Heb 2:16 (Atonement Block)
+
+##### 📖 1 Pet 1:10-12 KJV — 3-Tier Structure
+
+> *v10: Prophets **"enquired and searched diligently"** for salvation*
+> *v11: The Spirit testified beforehand*
+> *v12: "which things the angels **desire to look into**"*
+
+```text
+3-Tier Structure:
+  Prophets → Enquired and searched but did not receive (Partial knowledge)
+  Saints   → Received and experienced the gospel (Complete experience)
+  Angels   → "Desire to look into" (Spectators from the outside)
+```
+
+##### 🔑 Original Language Analysis — παρακύψαι (parakupsai)
+
+> *"desire to **look into**(παρακύψαι)"*
+
+| Item | Description |
+|:---|:---|
+| **Greek** | παρακύψαι (parakupsai) |
+| **Literal Meaning** | To bend over and peer into from the outside |
+| **Same Word Usage** | John 20:5 — Used when the disciple bent over and peered into **from outside the empty tomb** |
+| **Verb Tense** | **Present Tense** — Still desiring to look into it right now (Not completed) |
+
+```text
+The disciple in John 20:5 = One peering in from outside the tomb (Did not enter)
+The angels in 1 Pet 1:12 = Ones peering in from outside the mystery of redemption (No experience)
+```
+
+##### ⚖️ Collision with Angelic Salvation Theory
+
+| If Angelic Salvation Theory were true | Actual record of 1 Pet 1:12 |
+|:---|:---|
+| Angels should have experienced redemption | ❌ "desire to look into" (Present progressive) |
+| They should know the mystery of redemption | ❌ In a state of peering in from the outside |
+| It should be past tense, not present tense | ❌ Present tense (επιθυμοῦσιν) — Unfulfilled desire |
+
+##### 💥 Reversal of Own Argument (TYPE-P — Retorsion)
+
+> **Scripture Researcher directly quoted 1 Pet 1:12** (in the context of 1 Cor 11:10 "because angels observe worship").
+
+```text
+Scripture Researcher's use of evidence:
+  1 Pet 1:12 → "Angels are interested in the gospel" → Used to support Angel Theory
+       ↓
+However, the same verse simultaneously declares:
+  Angels = Outside observers who have never experienced redemption
+       ↓
+The verse used to support the Angelic Salvation Theory
+has a structure that refutes the Angelic Salvation Theory → Self-contradiction
+```
+
+> Because it is a verse quoted by Scripture Researcher himself, the very existence of this verse cannot be denied.
+
+##### 📊 Heb 2:16 vs 1 Pet 1:12 — Domain Comparison of the Two Arguments
+
+| Argument | Domain | Content | Grade |
+|:---:|:---:|:---|:---:|
+| **Heb 2:16** | Atonement Block | Failed to take on angelic nature → No atonement mechanism itself | ⭐⭐⭐⭐⭐ Tier 1 |
+| **1 Pet 1:12** | Empirical Observation | Angels still desire to look into it now → No experience | ⭐⭐⭐ Tier 2 |
+
+> **Two independent domains converging on the same conclusion** → COMBO Strengthened ✅
+
+---
+
 ### ⚔️ Reinforcement A: "Saved spirits" vs "Unsaved spirits" — KJV Usage Symmetry Verification
 
 > Scripture Researcher claims that the "spirits in prison" in 1 Pet 3:19 are angels. One of the grounds for this is that the usage of "spirits" referring to humans is rare in the Bible. I will precisely verify this.
@@ -1845,7 +1921,7 @@ Conclusion: Scripture Institute's "proclamation of judgment content" argument ha
 | **E-02** | Red Herring | Using 1 Pet 1:12·Eph 3:10 as basis for "Noah also preached to angels" — Context mismatch | 🟡 **Caution** |
 | **E-03** | Expansion Without Authority Appeal | Using Phil 2:9-10·Col 1:20 as evidence for angel salvation — Direct clash with Heb 2:16 | 🟡 **Caution** |
 
-### 🔴 TheScriptureMaster Side E-Code
+### 🔴 TheScriptureBeliever Side E-Code
 
 | E-Code | Type | Detection Detail | Severity |
 |:---:|:---|:---|:---:|
@@ -1873,11 +1949,11 @@ Conclusion: Scripture Institute's "proclamation of judgment content" argument ha
 
 ---
 
-## 🔴 6. Red Team (TheScriptureMaster) Response Draft
+## 🔴 6. Red Team (TheScriptureBeliever) Response Draft
 
 > [!IMPORTANT]
 > Below is a **response draft** that the Red Team can use based on the BVCAP analysis.
-> TheScriptureMaster can review, supplement, and modify it.
+> TheScriptureBeliever can review, supplement, and modify it.
 
 ---
 
@@ -1986,7 +2062,7 @@ Conclusion: Scripture Institute's "proclamation of judgment content" argument ha
 > [!IMPORTANT]
 > ### 🏛️ Ruling Document
 >
-> **It is ruled that 🔴 TheScriptureMaster (Red Team) has secured an all-around dominance over 🔵 Scripture Institute (Blue Team) in Round 2 as well.**
+> **It is ruled that 🔴 TheScriptureBeliever (Red Team) has secured an all-around dominance over 🔵 Scripture Institute (Blue Team) in Round 2 as well.**
 >
 > #### Summary of the Ruling
 >
@@ -2004,7 +2080,7 @@ Conclusion: Scripture Institute's "proclamation of judgment content" argument ha
 
 | Item | Judgment |
 |:---:|:---|
-| **Round 2 Winner** | 🔴 **TheScriptureMaster All-Around Dominance** |
+| **Round 2 Winner** | 🔴 **TheScriptureBeliever All-Around Dominance** |
 | **Round 1 Verdict Change** | ❌ None — **Round 1 Verdict Maintained & Strengthened** |
 | **Angel Theory Status** | ⚠️ **TENTATIVE** — Internal KJV consistency cannot be secured even with Round 2 counterarguments |
 | **COMBO Grade** | 8 Types Converged (Round 1's 6 Types + Round 2's 2 Types added) |
@@ -2066,41 +2142,12 @@ However, the KJV text takes no one's side. **Heb 2:16 blocks the path of angelic
 
 
 
-### 📖 Follow-up Research Documents
+# 🗂️ [KJV for Pastors] Core Research Index and Recommended Reading Order
+**— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
 
+This index is a **'persuasive and argumentative reading order'** specifically constructed for pastors who believe the KJV Bible as the sole inerrant word of God, such as those in Independent Fundamental Baptist (IFB) churches.
 
-> **[Reasons Why the Sons of God in Genesis 6 Are Not Angels](REPORT_Genesis6_SonsOfGod_DeepLog.md)**
-
-Main topics covered in this document: Determining whether the sons of God in Genesis 6 are fallen angels or not.
-
-
-> **[Practical Case: TheScriptureMaster VS Researcher](REPORT_TheScriptureMaster_VS_Researcher.md)**
-
-
-Main topics covered in this document: The core contradiction between "longsuffering" in 1 Pet 3:20 vs "spared not" in 2 Pet 2:4, refutation of the 120-year angelic probation theory,
-
-
-> **[Melchizedek Identity Verification](REPORT_Melchizedek_IdentityVerification_Masterpiece.md)**
-
-Main topics covered in this document: You can find out who Melchizedek is.
-
-
-> **[Melchizedek — The First World and the Formation of Nations](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/03_WAR_LOG/[AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md)**
-
-
-Main topics covered in this document:
-
-| Topic | Core Question |
-|:---|:---|
-| **Re-creation (Gap Theory)** | What happened between Gen 1:1 and Gen 1:2? Are "without form, and void" original conditions or the result of judgment? |
-| **Create (Bara) vs Make (Asah/Yatsar)** | How do we distinguish between what God directly created and what He delegated to His sons to make? |
-| **Nations, Cities, and Kingdoms of the First World** | Who are the kingdoms, cities, and peoples recorded in Isa 14:12-17 and Ezek 28:14-19? |
-| **Sons of God vs Angels** | Are the "sons of God" in Job 38:7 and the "ministering spirits (angels)" in Heb 1:14 the same or different beings? |
-| **The "First Estate (ἀρχή)" in Jude 1:6** | What is the "first estate" lost by the fallen sons, and how does this relate to Melchizedek's status? |
-| **Spirits in Prison in 1 Pet 3:19** | Are the "spirits in prison" angels, or the dead humans from the first world? |
-| **The 3 Stages of Light** | How do the light of the first world (Gen 1:3) → the light of the second world (Gen 1:14) → the light of the new heaven and new earth (Rev 21:23) differ? |
-
-> If you find the conclusions of this report persuasive, we encourage you to verify the **complete picture of the first world** through the follow-up documents. Melchizedek is but **one piece** of that massive picture, and it becomes much clearer when you view the whole.
+While respecting the framework of traditional dispensational theology (Scofield, Larkin, etc.), we have rearranged the sequence to be optimal for pastors' perspectives. This allows you to verify the deeper textual consistency testified by the KJV original text itself (especially the sequence of judgments in 2 Peter 2 and 3, and the physical contradictions of the Genesis 6 angel theory).
 
 ---
 
@@ -2112,7 +2159,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
 ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md)
+* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
@@ -2170,10 +2217,10 @@ Technical and practical materials proving how all doctrines seamlessly interlock
 * **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
 * **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
 
-### ⚔️ Live Debate Records (TheScriptureMaster vs. Researcher)
+### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
 Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
-* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureMaster_VS_Researcher.md)** 
-* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureMaster_VS_Researcher_v2.md)**
-* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureMaster_VS_Researcher_v3.md)**
+* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
+* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
+* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
 * **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
 

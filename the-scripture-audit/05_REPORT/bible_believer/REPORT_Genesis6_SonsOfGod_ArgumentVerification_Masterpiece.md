@@ -8,7 +8,7 @@
 > **Reference to Existing Reports**:
 > - `REPORT_Genesis6_SonsOfGod_DeepLog.md` (15-stage debate log)
 > - `REPORT_Melchizedek_FirstWorld_NationFormation.md` (First World Framework — DE-OVERLAP applied)
-> - `REPORT_TheScriptureMaster_VS_Researcher.md` (TSM AI Debate Log — Identical position confirmed)
+> - `REPORT_TheScriptureOrg_VS_Researcher.md` (TSM AI Debate Log — Identical position confirmed)
 >
 > ⚠️ **v1.0 Error Correction**: In the previous version, the existing report was noted as "Supporting the Angel Theory," but the actual existing verdict is **"Sons of Adam before the Tree of Knowledge of Good and Evil IRONCLAD"**. It is neither the Angel theory nor the descendants of Seth theory, but **a third independent theory**.
 
@@ -330,7 +330,7 @@ Wordplay on τηρέω (Jude's intentional irony):
 
 **Triggered TYPE**: TYPE-R (Syntax Forensics) + TYPE-C (Category Separation) + TYPE-P (Reverse Logic)
 
-A **decisive argument** regarding this issue was found in `REPORT_TheScriptureMaster_VS_Researcher.md`.
+A **decisive argument** regarding this issue was found in `REPORT_TheScriptureOrg_VS_Researcher.md`.
 
 #### Core Issue of 1 Pet 3:19-20
 
@@ -566,41 +566,14 @@ An exhaustive investigation of cases where God showed "longsuffering" across the
 
 
 
-### 📖 Follow-up Research Documents
+---
 
+# 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
+**— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
 
-> **[Reasons Why the Sons of God in Genesis 6 Are Not Angels](REPORT_Genesis6_SonsOfGod_DeepLog.md)**
+This index is a **'reading order for persuasion and argumentation'** specifically structured for pastors who believe in the Independent Fundamental Baptist (IFB) doctrines and that the KJV Bible is the absolutely inerrant Word of God. 
 
-Main topics covered in this document: Determining whether the sons of God in Genesis 6 are fallen angels or not.
-
-
-> **[Practical Case: TheScriptureMaster VS Researcher](REPORT_TheScriptureMaster_VS_Researcher.md)**
-
-
-Main topics covered in this document: The core contradiction between "longsuffering" in 1 Pet 3:20 vs "spared not" in 2 Pet 2:4, refutation of the 120-year angelic probation theory,
-
-
-> **[Melchizedek Identity Verification](REPORT_Melchizedek_IdentityVerification_Masterpiece.md)**
-
-Main topics covered in this document: You can find out who Melchizedek is.
-
-
-> **[Melchizedek — The First World and the Formation of Nations](https://github.com/jloveonly-prog/the-scripture-audit/blob/main/the-scripture-audit/03_WAR_LOG/[AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md)**
-
-
-Main topics covered in this document:
-
-| Topic | Core Question |
-|:---|:---|
-| **Re-creation (Gap Theory)** | What happened between Gen 1:1 and Gen 1:2? Are "without form, and void" original conditions or the result of judgment? |
-| **Create (Bara) vs Make (Asah/Yatsar)** | How do we distinguish between what God directly created and what He delegated to His sons to make? |
-| **Nations, Cities, and Kingdoms of the First World** | Who are the kingdoms, cities, and peoples recorded in Isa 14:12-17 and Ezek 28:14-19? |
-| **Sons of God vs Angels** | Are the "sons of God" in Job 38:7 and the "ministering spirits (angels)" in Heb 1:14 the same or different beings? |
-| **The "First Estate (ἀρχή)" in Jude 1:6** | What is the "first estate" lost by the fallen sons, and how does this relate to Melchizedek's status? |
-| **Spirits in Prison in 1 Pet 3:19** | Are the "spirits in prison" angels, or the dead humans from the first world? |
-| **The 3 Stages of Light** | How do the light of the first world (Gen 1:3) → the light of the second world (Gen 1:14) → the light of the new heaven and new earth (Rev 21:23) differ? |
-
-> If you find the conclusions of this report persuasive, we encourage you to verify the **complete picture of the first world** through the follow-up documents. Melchizedek is but **one piece** of that massive picture, and it becomes much clearer when you view the whole.
+While respecting the excellent framework of traditional dispensational theology (Scofield, Larkin, etc.), we have rearranged the sequence to best fit the perspective of pastors so they can verify the deeper textual coherence testified by the original text of the KJV Bible itself (especially the sequence of judgments in 2 Peter 2 and 3, and the physical contradictions of the Angel Theory in Genesis 6).
 
 ---
 
@@ -612,7 +585,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
 ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md)
+* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
@@ -670,10 +643,10 @@ Technical and practical materials proving how all doctrines seamlessly interlock
 * **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
 * **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
 
-### ⚔️ Live Debate Records (TheScriptureMaster vs. Researcher)
+### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
 Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
-* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureMaster_VS_Researcher.md)** 
-* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureMaster_VS_Researcher_v2.md)**
-* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureMaster_VS_Researcher_v3.md)**
+* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
+* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
+* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
 * **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
 

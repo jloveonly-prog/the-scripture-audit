@@ -1,8 +1,20 @@
-# 📋 TheScriptureMaster VS Researcher v3 — Researcher Rebuttal Q&A Summary
+# 📋 TheScriptureBeliever VS Researcher v3 — Researcher Rebuttal Q&A Summary
 
 > **Document Nature**: Core Q&A for Quick Reference
 > **Related Full Documents**: `REPORT_First_World_Nation.md` / `REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md`
 > **Topic**: The Identity of "Sons of God" in Genesis 6 + Interpretive Debate on 1 Peter 3:19-20 / Genesis 6:3
+
+
+> [!WARNING]
+> **[Disclaimer and Legal Notice]**
+> This document is for personal record-keeping, written to research and verify religious and theological doctrines from an academic and biblical perspective.
+> 1. The arguments of the opposing party ('Scripture Researcher') appearing in this document are **fictional examples (Simulation)** reconstructed based on various theological views and discussion contents, and there is absolutely no intention to refer to any specific individual, church, or organization, or to defame them.
+> 2. It was written for the purpose of sound doctrinal verification within the boundaries of freedom of religion and freedom of expression, and the contents of this document cannot be used as a basis for any legal dispute. Please be sure to keep this in mind when disclosing it externally.
+> [!NOTE]
+> **※ Disclaimer (The Meaning of 'TheScriptureBeliever')**
+> The speaker '**TheScriptureBeliever**' appearing in this document holds a distinct identity different from the traditional term 'Bible Believer' used in mainstream Christianity.
+> Traditionally, the word 'Bible' is a man-made title that does not appear even once in the entire 66 books of the original KJV text. On the contrary, when Jesus and Paul referred to the absolute Word of God, the exact word inspired directly by the Holy Spirit is exclusively **"The Scripture"** (John 5:39, 2 Tim 3:16).
+> This speaker sets themselves apart from traditional doctrines (Bible Believer) that promote a term absent from the original text, clarifying that they are one who believes and defends only the original language of recorded truth (The Scripture) itself.
 
 ---
 
@@ -308,6 +320,15 @@ Since angels have no flesh (Q4 argument) → they are outside the scope of this 
 
 ---
 
+# 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
+**— A Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
+
+This index is a **'reading order for persuasion and argumentation'** specifically structured for pastors who believe in the Independent Fundamental Baptist (IFB) church and the KJV Bible as the absolutely inerrant Word of God.
+
+While respecting the excellent framework of traditional dispensational theology (Scofield, Larkin, etc.), we have rearranged it into an optimal logical sequence tailored to the perspectives of pastors. This allows them to confirm the deeper textual consistency testified by the original KJV text itself (especially the order of judgment in 2 Peter chapters 2 and 3, and the physical contradictions of the Genesis 6 angel theory).
+
+---
+
 ## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
 This is the most intuitive and shocking approach for pastors accustomed to dispensational charts and timelines.
 
@@ -316,7 +337,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
 ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md)
+* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
@@ -374,10 +395,10 @@ Technical and practical materials proving how all doctrines seamlessly interlock
 * **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
 * **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
 
-### ⚔️ Live Debate Records (TheScriptureMaster vs. Researcher)
+### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
 Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
-* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureMaster_VS_Researcher.md)** 
-* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureMaster_VS_Researcher_v2.md)**
-* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureMaster_VS_Researcher_v3.md)**
+* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
+* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
+* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
 * **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
 

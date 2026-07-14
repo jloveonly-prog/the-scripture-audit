@@ -1,0 +1,85 @@
+KO Headers:
+0: # ⚔️ 순서도 비교 보고서 — IFB 세대주의 vs TheScripture.org
+1: ## 🧭 1. 핵심 전제 차이 — 두 진영의 세계관 충돌
+2: ## 📊 2. 창조·심판 사건 순서도 비교 — 전체 흐름표
+3: ## 🔥 3. 핵심 충돌 — 벧후 2:4-6의 시간순 비교
+4: ### 📐 [IFB] 독립침례교회 세대주의의 해석
+5: ### 📐 [TSM] TheScripture.org의 해석
+6: ## ⚖️ 4. TSM 주장이 IFB보다 강력한 5가지 이유
+7: ### ❶ 같은 저자의 언어 분열 — 결정타
+8: ### ❷ 물 심판의 이중 층위 — 논증 강화
+9: ### ❷-A. 벧후 3:6-7 비교 — "그때 있던 세상" vs "지금 있는 세상" ★ 결정타
+10: ### ❸ 창 6장 "하나님의 아들들" 생식 불가 모순 해결
+11: ### ❹ 마귀의 정체 설명력
+12: ### ❺ 사 14장 루시퍼의 위치 — 천사 vs 첫세상 아들
+13: ## 📋 5. 전체 순서도 시각 비교
+14: ## 🎯 6. 결론 — "순서가 다르면 교리 전체가 무너진다"
+15: ### 🔴 [IFB에게 직접 묻는다] — 홍수 2회를 알면서 왜 심판은 1건으로 만드는가?
+16: ### ⚠️ [신규] 벧후 2:4를 노아로 해석할 때 발생하는 "증거 은폐" 문제
+17: ## ❓ FAQ — IFB의 주요 반론과 TSM의 KJV 응답
+18: ### Q1. "유다서 1:6의 천사들은 창 1:2가 아니라 창 6장 사건 아닌가? 유다서 1:7의 'even as'가 성적인 죄를 가리키잖아."
+19: ### Q2. "'first estate(ἀρχή)'를 '첫 세상의 지위'로 보는 KJV 용례가 없다. ἀρχή는 그냥 천사의 원래 신분이다."
+20: ### Q3. "창 1:2에는 심판받는 존재가 명시되어 있지 않다. 벧후 2:4를 창 1:2와 연결하는 것은 추론이지 텍스트가 아니다."
+21: ### Q4. "벧후 2:4와 유다서 1:6은 같은 사건을 가리킨다. 둘 다 창 6장이다."
+22: ### Q5. "욥 1:6, 2:1에서 '하나님의 아들들(bene Elohim)'이 하늘에서 하나님 앞에 나타나는 천상 존재들이다. 같은 히브리어 표현이 창 6장에 쓰였으니 동일 존재다."
+23: ### Q6. "창 6:2의 대조 구조가 증명한다 — '하나님의 아들들'(divine) vs '사람의 딸들'(human). 신적 존재 vs 인간 = 천사 vs 인간이다."
+24: ### Q7. "마 22:30은 '결혼하지 않음'을 천사의 절대 속성이 아닌 비교로 말했다. 'as(ὡς) the angels' = '처럼'이지 '천사는 절대 결혼 못 한다'는 뜻이 아니다."
+25: ### Q8. "네피림이 '용사'이자 '유명한 자들'이었다(창 6:4). 이 비범한 특성은 초자연적(천사) 혈통을 전제한다."
+26: # 🗂️ [KJV 목회자용] 핵심 연구 인덱스 및 추천 읽기 순서
+27: ## 🧭 제1부: 서신 및 거시적 프레임워크 (가장 먼저 읽으실 문서)
+28: ### 📌 1. 목사님께 드리는 회신
+29: ### 📌 2. IFB vs TSM — 재창조 순서도 전면 비교
+30: ## ⚖️ 제2부: '창세기 6장 천사설'의 성경적 기각 (핵심 법정 검증)
+31: ### 📌 3. 천사설 최종 기각 — 교차 검증 + IRONCLAD 논증
+32: ### 📌 4-A. 선악과 먹기 전 출산 (기초) — 천사설 기각 법정 검증 9건
+33: ### 📌 4-B. 선악과 먹기 전 출산 (심화) — 부활의 법칙과 씨앗 전쟁
+34: ## 🌌 제3부: 첫 번째 세상과 멜키세덱 (깊은 신비의 해금)
+35: ### 📌 5. 새벽별은 천사가 아니다 — KJV 전수 용례 + 진토 법칙
+36: ### 📌 6. 멜키세덱은 누구인가? — "새벽 별들"의 살아있는 증거
+37: ### 📌 7. 첫 세상의 전체 그림 — 빅 픽처
+38: ## 🗄️ 제4부: 시스템 분류표 및 실전 논쟁 로그 (참고 자료)
+39: ### 📌 8. KJV 영적 존재 완전 분류표 — OOP 클래스 구조
+40: ### ⚔️ 실전 공방 기록 (TheScripture.org vs 연구원)
+---
+EN Headers:
+0: # ⚔️ Flowchart Comparison Report — IFB Dispensationalism vs TheScriptureOrg
+1: ## 🧭 1. Core Premise Differences — Clash of Worldviews Between the Two Camps
+2: ## 📊 2. Flowchart Comparison of Creation and Judgment Events — Full Flow Table
+3: ## 🔥 3. Core Clash — Chronological Comparison of 2 Pet 2:4-6
+4: ### 📐 [IFB] Interpretation of Independent Fundamental Baptist Dispensationalism
+5: ### 📐 [TSM] Interpretation of TheScriptureOrg
+6: ## ⚖️ 4. 5 Reasons Why TSM's Claim is Stronger Than IFB's
+7: ### ❶ Linguistic Division of the Same Author — Decisive Blow
+8: ### ❷ Double Layer of Water Judgments — Strengthening Argumentation
+9: ### ❷-A. Comparison of 2 Pet 3:6-7 — "The world that then was" vs "The heavens and the earth, which are now" ★ Decisive Blow
+10: ### ❸ Resolution of the Reproductive Impossibility Contradiction of Gen 6 "Sons of God"
+11: ### ❹ Explanatory Power of the Origin of Devils
+12: ### ❺ Position of Lucifer in Isa 14 — Angel vs First World Son
+13: ## 📋 5. Visual Comparison of the Overall Flowchart
+14: ## 🎯 6. Conclusion — "If the Order is Different, the Entire Doctrine Collapses"
+15: ### 🔴 [Asking IFB Directly] — Knowing there were 2 floods, why reduce the judgments to 1 case?
+16: ### ⚠️ [NEW] The "Concealment of Evidence" Problem that Occurs When Interpreting 2 Pet 2:4 as Noah
+17: ## ❓ FAQ — Major IFB Counterarguments and TSM's KJV Responses
+18: ### Q1. "Aren't the angels of Jude 1:6 the event of Gen 6, not Gen 1:2? The 'even as' in Jude 1:7 points to sexual sins."
+19: ### Q2. "There's no KJV usage of 'first estate (ἀρχή)' as 'status of the first world'. ἀρχή is just the original status of angels."
+20: ### Q3. "There are no explicit beings judged in Gen 1:2. Linking 2 Pet 2:4 to Gen 1:2 is an inference, not the text."
+21: ### Q4. "Even if there's a distinction in 2 Pet 3:6-7, couldn't 2 Pet 2:4 still be Gen 6? Since Gen 6 angels didn't perish by water but were imprisoned, they are distinct from Noah's flood anyway."
+22: ### Q5. "In Job 1:6, 2:1, 'the sons of God (bene Elohim)' are heavenly beings appearing before God in heaven. Since the same Hebrew expression is used in Gen 6, they are the same beings."
+23: ### Q6. "The contrast structure in Gen 6:2 proves it — 'sons of God' (divine) vs 'daughters of men' (human). Divine beings vs humans = Angels vs humans."
+24: ### Q7. "Matt 22:30 spoke of 'not marrying' as a comparison, not an absolute attribute of angels. 'as (ὡς) the angels' = 'like', it doesn't mean 'angels are absolutely incapable of marriage'."
+25: ### Q8. "The Nephilim were 'mighty men' and 'men of renown' (Gen 6:4). This extraordinary trait assumes supernatural (angelic) bloodlines."
+26: # 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
+27: ## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
+28: ### 📌 1. Reply to the Pastor
+29: ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
+30: ## ⚖️ Part 2: Biblical Dismissal of the 'Genesis 6 Angel Theory' (Core Forensic Verification)
+31: ### 📌 3. Final Dismissal of the Angel Theory — Cross-Verification + IRONCLAD Argument
+32: ### 📌 4-A. Childbirth Before Eating the Forbidden Fruit (Basics) — 9 Forensic Verifications Dismissing the Angel Theory
+33: ### 📌 4-B. Childbirth Before Eating the Forbidden Fruit (Advanced) — The Law of Resurrection and the Seed War
+34: ## 🌌 Part 3: The First World and Melchizedek (Unlocking Deep Mysteries)
+35: ### 📌 5. Morning Stars Are Not Angels — Exhaustive KJV Usage + The Dust Law
+36: ### 📌 6. Who is Melchisedec? — Living Evidence of the "Morning Stars"
+37: ### 📌 7. The Full Picture of the First World — The Big Picture
+38: ## 🗄️ Part 4: System Classification Chart and Live Debate Logs (Reference Materials)
+39: ### 📌 8. KJV Spiritual Beings Exhaustive Classification Chart — OOP Class Structure
+40: ### ⚔️ Live Debate Records (TheScriptureOrg vs. Researcher)

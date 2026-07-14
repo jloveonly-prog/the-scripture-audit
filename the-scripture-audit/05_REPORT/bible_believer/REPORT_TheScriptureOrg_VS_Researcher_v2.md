@@ -1,8 +1,21 @@
 > **Note**: This document is a BVCAP verification report based on an actual conversation, and some of the content and script have been edited for a smoother flow.
 
-# TheScriptureMaster's Question
-Hello Researcher,  
-I am TheScriptureMaster.  
+> [!WARNING]
+> **[Disclaimer and Legal Notice]**
+> This document is for personal record-keeping, written to study and verify religious and theological doctrines from an academic and biblical perspective.
+> 1. The claims of the counterpart ('Scripture Researcher') appearing in this document are a **fictional example (Simulation)** reconstructed based on various theological views and discussions, and there is absolutely no intention to refer to any specific individual, church, or organization, or to defame them.
+> 2. It was written for the purpose of sound doctrinal verification within the boundaries of freedom of religion and freedom of expression, and the contents of this document cannot be used as a basis for any legal dispute. Please keep this in mind when disclosing it externally.
+---
+
+> [!NOTE]
+> **※ Disclaimer (The Meaning of 'TheScriptureBeliever')**
+> The speaker '**TheScriptureBeliever**' appearing in this document holds a distinct identity different from the traditional term 'Bible Believer' used in mainstream Christianity.
+> Traditionally, the word 'Bible' is a man-made title that does not appear even once in the entire 66 books of the original KJV text. On the contrary, when Jesus and Paul referred to the absolute Word of God, the exact word inspired directly by the Holy Spirit is exclusively **"The Scripture"** (John 5:39, 2 Tim 3:16).
+> This speaker sets themselves apart from traditional doctrines (Bible Believer) that promote a term absent from the original text, clarifying that they are one who believes and defends only the original language of recorded truth (The Scripture) itself.
+
+# TheScriptureBeliever (Bible Believer)'s First Question
+Hello Researcher.  
+I am a brother running thescripture.org.  
 
 I have a question after watching the video.  
 
@@ -64,12 +77,12 @@ Here, a question might arise: 'How can a spiritual being put on human flesh?'
 ---
 
 # ⚖️ BVCAP 2.0 Forensic Verification Report
-## TheScriptureMaster's Question + Researcher's Answer — Neutral Audit
+## TheScriptureBeliever's Question + Researcher's Answer — Neutral Audit
 
 > **STATUS**: FULL SCAN Completed | **MODE**: B (Theological Court — Internal Doctrine Verification)
 > **Collision Type**: C-13 (Spiritual Being Categorization) + C-08 (Theological Inquiry)
 > **Applied Weapons**: TYPE-G · TYPE-C · TYPE-P · TYPE-AC · TYPE-I · TYPE-AI · TYPE-E · TYPE-AG
-> **TheScriptureMaster**: 🔴 Anti-Angel Theory | **Researcher**: 🔵 Pro-Angel Theory
+> **TheScriptureBeliever**: 🔴 Anti-Angel Theory | **Researcher**: 🔵 Pro-Angel Theory
 
 ---
 
@@ -162,7 +175,7 @@ Furthermore, the event of leaving the habitation in Jude 1:6 can be connected to
 ---
 
 ### 🔧 Argument ⑤ — 2 Pet 2:4-5 "Imprisonment of angels + Connection to Noah"
-**Triggered TYPE**: TYPE-P (Reverse Logic) ← **The Core captured by TheScriptureMaster**
+**Triggered TYPE**: TYPE-P (Reverse Logic) ← **The Core captured by TheScriptureBeliever**
 
 **Comparison of two records by the same author, Peter:**
 
@@ -179,7 +192,7 @@ Furthermore, the event of leaving the habitation in Jude 1:6 can be connected to
 | **(B) Spirits in prison ≠ Angels** | Longsuffering towards humans, summary execution for angels → **No contradiction** → Maintains KJV inerrancy ✅ |
 
 > **⚖️ Verdict: 🔴 E-07 (Forced Harmony Error) Detected — The greatest unresolved point in the researcher's answer**
-> The researcher used 2 Pet 2:4-5 as a basis for the angel theory, but did not directly answer the core question accurately pointed out by TheScriptureMaster: "If the object of longsuffering is angels, it contradicts 2 Pet 2:4."
+> The researcher used 2 Pet 2:4-5 as a basis for the angel theory, but did not directly answer the core question accurately pointed out by TheScriptureBeliever: "If the object of longsuffering is angels, it contradicts 2 Pet 2:4."
 
 ---
 
@@ -217,7 +230,7 @@ It is not a "stereotype" but a **direct declaration by Jesus Himself**. Claiming
 | ② | Sons of God in Job = Angels | 🟡 PARTIAL | Hebrew equivalence is valid, but the Gen 6:3 sentence is counter-evidence |
 | ③ | Angels appearing in human form | ❌ Category Confusion | body ≠ flesh (1 Cor 15:39-40), self-weakens argument |
 | ④ | Leaving habitation in Jude | ⚠️ VIABLE | Can be separated from Gen 6 via DE-OVERLAP |
-| ⑤ | Connection to Noah in 2 Pet 2:4-5 | 🔴 E-07 | Unanswered core question from TheScriptureMaster |
+| ⑤ | Connection to Noah in 2 Pet 2:4-5 | 🔴 E-07 | Unanswered core question from TheScriptureBeliever |
 | ⑥ | Reproduction = Stereotype | ❌ E-08 | Direct statement by Jesus in Matt 22:30 — Irrefutable |
 | ⑦ | Curse of Canaan = Nephilim genes | ❌ E-14 | Inference without basis in the KJV text |
 
@@ -239,7 +252,7 @@ It is not a "stereotype" but a **direct declaration by Jesus Himself**. Claiming
 > [!IMPORTANT]
 > ### 🏛️ BVCAP 2.0 Supreme Moderator's Final Sentence
 >
-> **TheScriptureMaster's core intuition — "If the object of longsuffering is angels, a problem arises" — is an accurate capture based on the principle of KJV inerrancy.**
+> **TheScriptureBeliever's core intuition — "If the object of longsuffering is angels, a problem arises" — is an accurate capture based on the principle of KJV inerrancy.**
 >
 > #### 🔒 Double Bind — No Escape
 >
@@ -252,7 +265,7 @@ It is not a "stereotype" but a **direct declaration by Jesus Himself**. Claiming
 
 | Item | Verdict |
 |:---:|:---|
-| **TheScriptureMaster's Intuition** | 🟢 **Accurate** — Sharp insight derived from the internal logic of the KJV |
+| **TheScriptureBeliever's Intuition** | 🟢 **Accurate** — Sharp insight derived from the internal logic of the KJV |
 | **Researcher's Arguments** | 🟡 Sincere attempts within the scope of traditional interpretation, but unanswered core questions |
 | **Status of Angel Theory** | ⚠️ **TENTATIVE** — Unable to secure internal consistency within the KJV |
 | **Pre-Fall Adam's Children Theory** | 🟢 **IRONCLAD** — Passed omnidirectional cross-verification including judicial subject, longsuffering pattern, lifespan sentence, and heterosis |
@@ -263,7 +276,7 @@ It is not a "stereotype" but a **direct declaration by Jesus Himself**. Claiming
 
 > [!NOTE]
 > ### 💬 BVCAP Overall Review
-> TheScriptureMaster, your question shows excellent theological insight. The researcher's answer sincerely summarized the traditional angel theory, but did not directly respond to your core question: **"If the object of longsuffering is angels, it contradicts 2 Pet 2:4."** As long as KJV inerrancy is premised, this core question remains a fatal weakness to the angel theory.
+> TheScriptureBeliever, your question shows excellent theological insight. The researcher's answer sincerely summarized the traditional angel theory, but did not directly respond to your core question: **"If the object of longsuffering is angels, it contradicts 2 Pet 2:4."** As long as KJV inerrancy is premised, this core question remains a fatal weakness to the angel theory.
 
 ---
 
@@ -386,78 +399,207 @@ Angels are not judged because they are foolish. **It is because redeemed saints 
 
 ---
 
-*Generated by BVCAP 2.0 Supreme Neutral Auditor Engine*
-*MODE: B (Theological Court) | FULL SCAN Deployed | 2026-07-03*
-*VERDICT: Angel Theory TENTATIVE / Pre-Fall Adam's Children Theory IRONCLAD Maintained*
+# 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
+**— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
 
+This index is a **'reading order for persuasion and argumentation'** specifically structured for pastors who believe in the Independent Fundamental Baptist (IFB) doctrines and the absolute inerrancy of the KJV Bible as the Word of God.
 ---
 
-## 📂 Reference Materials — GitHub Repository
+### 🔧 Argument ⑦ — Gen 9:25 "Curse of Canaan = Nephilim genes"
+**Triggered TYPE**: TYPE-E + TYPE-AG
 
-> **BVCAP Full Report Repository (Public)**
-
-| Item | Link |
+| Verification Item | Result |
 |:---|:---|
-| **Repository Main** | [https://github.com/jloveonly-prog/the-scripture-audit](https://github.com/jloveonly-prog/the-scripture-audit) |
+| Is the direct reason for Canaan's curse explicitly stated in Gen 9:25? | ❌ None — Described immediately after Ham saw Noah's nakedness (Gen 9:22) |
+| Does the KJV explicitly state "Canaan = Nephilim genes"? | ❌ None |
 
-
-
-
-### 📖 Follow-up Research Documents — Recommended Reading Order
-
-> 💡 **Read in the order below to see how the entire argument connects naturally. Start from document ①.**
+> **⚖️ Verdict: ❌ E-14 (Appeal to Ignorance) — Inference without basis in the KJV text**
 
 ---
 
-#### ① Starting Document: The Morning Stars are Not Angels — Exhaustive KJV Usage + Dust Principle
+## 📊 3. Final Verdict Table per Argument
 
-> **[REPORT_First_World_Nation.md](./REPORT_First_World_Nation.md)**
-
-Main topics covered in this document: There is no creation of angels in Job 38. KJV usage of morning star = angel is **0 instances**, KJV usage of angels that sang is **0 instances**. Consistency between the chronological listing of 2 Pet 2:4-6 and the Gap Theory. Origin of the First World Nations (Dust Principle).
-
----
-
-#### ② Next: Procreation before eating the Tree of Knowledge — 9 Court Verifications
-
-> **[REPORT_Genesis_3_6_Sons_of_God.md](./REPORT_Genesis_3_6_Sons_of_God.md)**
-
-Main topics covered in this document: "Did Adam have children before eating from the Tree of the Knowledge of Good and Evil?" is verified through **9 cases** in a court format between the prosecution (Angel Theory) vs. defense (Human Theory). Includes the judicial principle of Eze 18:20, the parallel structure of the sons of Korah (Num 26:11), and Achan accomplice verification.
+| # | Researcher's Argument | BVCAP Verdict | Notes |
+|:---:|:---|:---:|:---:|
+| ① | Angels = Spirits | 🟡 IRRELEVANT | Conflicts rather with basar in Gen 6:3 — Unfavorable |
+| ② | Sons of God in Job = Angels | 🟡 PARTIAL | Hebrew equivalence is valid, but the Gen 6:3 sentence is counter-evidence |
+| ③ | Angels appearing in human form | ❌ Category Confusion | body ≠ flesh (1 Cor 15:39-40), self-weakens argument |
+| ④ | Leaving habitation in Jude | ⚠️ VIABLE | Can be separated from Gen 6 via DE-OVERLAP |
+| ⑤ | Connection to Noah in 2 Pet 2:4-5 | 🔴 E-07 | Unanswered core question from TheScriptureBeliever |
+| ⑥ | Reproduction = Stereotype | ❌ E-08 | Direct statement by Jesus in Matt 22:30 — Irrefutable |
+| ⑦ | Curse of Canaan = Nephilim genes | ❌ E-14 | Inference without basis in the KJV text |
 
 ---
 
-#### ③ After That: Final Dismissal of the Angel Theory — Cross-Verification + IRONCLAD Arguments
+## 💥 4. 4 Decisive Unresolved Points in the Researcher's Answer
 
-> **[REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md](./REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md)**
-
-Main topics covered in this document: Verifying the accuracy of 6 counter-arguments against the angel theory presented by other AIs. **1 Pet 3:20 "longsuffering" vs. 2 Pet 2:4 "spared not"** — The completely opposite attitudes of the same author, Peter, utterly shatter the angel theory.
-
----
-
-#### ④ After That: Who is Melchizedek? — Living proof of the "Morning Stars"
-
-> **[REPORT_Melchizedek_IdentityVerification_Masterpiece.md](./REPORT_Melchizedek_IdentityVerification_Masterpiece.md)**
-
-Main topics covered in this document: Comparative verification of 5 interpretations regarding Melchizedek's identity. The Christophany theory is dismissed due to **17 textual conflicts**. Melchizedek = A son of God from the First World (an unfallen morning star).
+| # | Unanswered Item | Details |
+|:---:|:---|:---:|
+| **Core** | Contradiction of Longsuffering | If the "longsuffering" of 1 Pet 3:20 applies to angels, how can it coexist with "spared not" in 2 Pet 2:4? |
+| **Gen 6:3** | Reversal of Judicial Subject | If the criminals are angels, why does the entire judicial sentence direct only towards ha-adam (humanity)? |
+| **his days** | Contradiction of Lifespan Sentence | How is a lifespan sentence of "his days shall be 120 years" possible for angels who cannot die (Luke 20:36)? |
+| **Matt 22:30** | Handling of Jesus's Statement | Jesus directly said, "Angels do not marry." Is this merely a "stereotype"? |
 
 ---
 
-#### ⑤ Finally: The Big Picture of the First World — Big Picture
+## ⚖️ 5. Final Comprehensive Verdict
 
-> **[REPORT_Melchizedek_FirstWorld_NationFormation.md](./REPORT_Melchizedek_FirstWorld_NationFormation.md)**
+> [!IMPORTANT]
+> ### 🏛️ BVCAP 2.0 Supreme Moderator's Final Sentence
+>
+> **TheScriptureBeliever's core intuition — "If the object of longsuffering is angels, a problem arises" — is an accurate capture based on the principle of KJV inerrancy.**
+>
+> #### 🔒 Double Bind — No Escape
+>
+> | Choice | Result |
+|:---:|:---|
+| Spirits in prison = Angels | 1 Pet 3:20 "longsuffering" ↔ 2 Pet 2:4 "spared not" in direct contradiction → Peter's self-contradiction → **Violates KJV inerrancy** ❌ |
+| Spirits in prison ≠ Angels | The **core New Testament basis for the angel theory (1 Pet 3:19-20) disappears** → The angel theory collapses on its own ❌ |
+>
+> If you trust the KJV, only (B) is selectable, and the moment you select (B), **the heart of the angel theory stops beating.**
 
-Main topics covered in this document:
+| Item | Verdict |
+|:---:|:---|
+| **TheScriptureBeliever's Intuition** | 🟢 **Accurate** — Sharp insight derived from the internal logic of the KJV |
+| **Researcher's Arguments** | 🟡 Sincere attempts within the scope of traditional interpretation, but unanswered core questions |
+| **Status of Angel Theory** | ⚠️ **TENTATIVE** — Unable to secure internal consistency within the KJV |
+| **Pre-Fall Adam's Children Theory** | 🟢 **IRONCLAD** — Passed omnidirectional cross-verification including judicial subject, longsuffering pattern, lifespan sentence, and heterosis |
+| **Level of Academic Consensus** | 🟡 Leading view (competing with the traditional angel theory in theology, but the Adam's children theory is superior based on KJV original text) |
 
-| Topic | Core Question |
-|:---|:---|
-| **Re-creation (Gap Theory)** | What happened between Gen 1:1 and Gen 1:2? Is "without form and void" the original state or the result of judgment? |
-| **Created (Bara) vs. Made (Asah/Yatsar)** | How do you distinguish between what God directly created and what He delegated to His sons to make? |
-| **Nations, Cities, Kingdoms of the First World** | Who are the kingdoms, cities, and peoples recorded in Isa 14:12-17 and Eze 28:14-19? |
-| **Sons of God vs. Angels** | Are the "sons of God" in Job 38:7 and the "ministering spirits (angels)" in Heb 1:14 the same or different beings? |
-| **The "first estate (ἀρχή)" of Jude 1:6** | What is the "first estate" lost by the fallen sons, and how does this relate to Melchizedek's status? |
-| **Spirits in Prison in 1 Pet 3:19** | Are the "spirits in prison" angels or the people who died in the First World? |
-| **The 3 Stages of Light** | How do the light of the First World (Gen 1:3) → the light of the Second World (Gen 1:14) → the light of the New Heaven and New Earth (Rev 21:23) differ? |
+---
 
-> If you find the conclusions of this report persuasive, please check the **entire picture of the First World** through the follow-up documents. Melchizedek is a **single piece** of that massive picture, which becomes clearer when you see the whole.
+
+> [!NOTE]
+> ### 💬 BVCAP Overall Review
+> TheScriptureBeliever, your question shows excellent theological insight. The researcher's answer sincerely summarized the traditional angel theory, but did not directly respond to your core question: **"If the object of longsuffering is angels, it contradicts 2 Pet 2:4."** As long as KJV inerrancy is premised, this core question remains a fatal weakness to the angel theory.
+
+---
+
+## 🔍 [Supplementary Analysis] 1 Cor 6:3 "we shall judge angels" — Highly unlikely to be a judgment of fallen angels
+
+> **Triggered Weapons**: TYPE-A (Time Serialization) + TYPE-C (Category Separation) + TYPE-I (Usage Frequency)
+> **Analysis Scope**: Serialization of the entire context of 1 Corinthians 5, 6, and 7
+
+---
+
+### 📖 Contextual Structure of 1 Cor 5-7
+
+| Chapter | Topic | Core Content |
+|:---:|:---|:---|
+| **Ch 5** | Handling sexual immorality in the church | The church must directly expel the immoral (v12 *"do not ye judge them that are within?"*) |
+| **Ch 6** | Do not go to worldly courts | Do not bring disputes among saints to worldly judges — Rhetorical authority expansion |
+| **Ch 7** | Marriage and celibacy | Shifts to a completely different topic from chapter 6 |
+
+---
+
+### 📐 Rhetorical Logic Chain of 1 Cor 6:1-5
+
+> 📖 **1 Cor 6:1-5 KJV:**
+> *v1: "Dare any of you, having a matter against another, go to law before the unjust, and not before the saints?"*
+> *v2: "Do ye not know that the saints shall judge **the world**? and if the world shall be judged by you, are ye unworthy to judge the smallest matters?"*
+> *v3: "Know ye not that we shall judge **angels**? how much more things that pertain to this life?"*
+> *v4: "set them to judge who are least esteemed in the church"*
+> *v5: "Is it so, that there is not a wise man among you?"*
+
+```
+Paul's rhetorical structure — Arranged in reverse order of impact:
+
+  [Greatest Authority] Judging angels
+        ↓
+  [Great Authority]    Judging the world
+        ↓
+  [Small Matters]      Things of this life (lawsuits)
+        ↓
+  [Smallest Matters]   Trivial disputes within the church
+
+  ─── Point: "You who will even judge angels, do you dare go to worldly courts for this?" ───
+```
+
+---
+
+### 💥 Core Observation — If it's judging fallen angels, there is no rhetorical impact
+
+#### If it means "judging only fallen angels":
+
+```
+Tartarus angels (2 Pet 2:4):
+  "spared NOT" → Sin already confirmed
+  → Not a trial, but only execution of sentence remaining
+       ↓
+"Judging criminals whose conclusions are already made"
+= Rhetorical impact on Corinthian believers ❌ Weak
+= Ruling on prisoners already in jail → Not very impressive
+```
+
+#### On the other hand, if it includes "God's holy angels":
+
+```
+God's angels:
+  = Beings who directly see God's glory
+  = Beings far superior to humans in power, knowledge, and majesty
+  = 1 Pet 1:12 — Beings who "desire to look into" the mysteries of the gospel
+       ↓
+"You who will even judge (rule over) such angels..."
+= Rhetorical impact ✅ Explosive
+= The Corinthian believers have no choice but to be astonished
+```
+
+> **Paul's rhetorical purpose = Persuading the audience with the example of maximum authority.**
+> Rather than fallen angels whose execution is merely pending, **including God's holy angels** maximizes the rhetorical effect.
+
+---
+
+### 📖 Cross-Verification of Verses — Order of the world to come
+
+| Verse | KJV Original Text | Implication |
+|:---:|:---|:---|
+| **Heb 2:5** | *"unto the angels hath he **not** put in subjection the world to come"* | The world to come = **Not under angelic jurisdiction** → Under redeemed human jurisdiction |
+| **Heb 1:14** | *"ministering spirits, sent forth to minister for them who shall be **heirs of salvation**"* | Angels = Those who **minister to** the heirs of salvation → The heirs are superior |
+| **1 Pet 1:12** | *"which things the angels **desire to look into**"* | Angels have **never experienced** the gospel → They do not know the mysteries of redemption |
+| **Eph 1:21** | Christ is above all principality — We are together in Christ | The position of saints = Above angels |
+
+---
+
+### 🔑 Job 4:18 "charged with folly" — Cannot be used as a theological basis
+
+> *"his angels he charged with folly"* (Job 4:18 KJV)
+
+| Verification Item | Result |
+|:---|:---:|
+| Who is the speaker? | **Eliphaz** — Job's friend (Not God) |
+| What is God's evaluation? | Job 42:7 *"ye have not spoken of me the thing that is right"* — **Direct rebuke of Eliphaz** |
+| Usable as a theological argument? | ❌ **TYPE-R (Speaker Confusion) Error** — Unusable |
+
+Angels are not judged because they are foolish. **It is because redeemed saints will stand in a higher position than angels in the world to come.**
+
+---
+
+### ⚖️ Final Verdict
+
+> [!IMPORTANT]
+> ### 🏛️ 1 Cor 6:3 BVCAP Verdict
+>
+> **"we shall judge angels" is highly unlikely to refer to a criminal judgment of fallen angels.**
+>
+> | Item | Verdict |
+|:---:|:---|
+| **Context (Ch 5-6)** | Resolving disputes within the church, prohibiting worldly courts → **Expansion of rhetorical authority** |
+| **Rhetorical Structure** | Angels → World → Daily disputes in reverse order — Requires **example of highest authority** for maximum impact |
+| **Modifier for "angels"** | **None** — Includes all angels, without distinguishing between fallen and unfallen |
+| **Tartarus Angels** | Sin already confirmed (2 Pet 2:4) → Trial unnecessary → Low rhetorical impact |
+| **Heb 2:5 Cross-Verification** | The world to come is entrusted to **redeemed humans**, not angels |
+| **Conclusion** | 🟢 **Includes God's holy angels** — A **declaration of status** that "your future authority will rise above the angels" |
+>
+> 1 Cor 6:3 is not a criminal judgment of fallen angels, but Paul's rhetorical declaration of authority that in the world to come, redeemed saints will **rule the entire universe from a position above the angels.**
+
+---
+
+# 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
+**— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
+
+This index is a **'reading order for persuasion and argumentation'** specifically structured for pastors who believe in the Independent Fundamental Baptist (IFB) doctrines and the absolute inerrancy of the KJV Bible as the Word of God.
+
+While respecting the excellent framework of traditional dispensational theology (Scofield, Larkin, etc.), it has been rearranged into an optimal logical sequence from a pastor's perspective so that you can verify the deeper textual coherence testified by the KJV original text itself (especially the order of judgments in 2 Peter 2 and 3, and the physical contradictions of the Genesis 6 angel theory).
 
 ---
 
@@ -469,7 +611,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
 ### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureMaster.md)
+* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
@@ -496,11 +638,11 @@ Once the enigma of Genesis 6 is resolved, the identities of the "morning stars" 
 
 ### 📌 5. Morning Stars Are Not Angels — Exhaustive KJV Usage + The Dust Law
 * **File:** [`REPORT_First_World_Nation.md`](./REPORT_First_World_Nation.md)
-* **Summary:** The "morning stars" of Job 38:7 are not angels. This proves that angels have never 'sang' in the Bible, and reveals the intelligent beings of the first world through the law of dust (earth).
+* **Summary:** The "morning stars" of Job 38:7 are not angels. This proves that angels have never 'sang' in the Bible, and reveals the intelligent beings of the first world through the dust (earth) principle.
 
 ### 📌 6. Who is Melchisedec? — Living Evidence of the "Morning Stars"
 * **File:** [`REPORT_Melchizedek_IdentityVerification_Masterpiece.md`](./REPORT_Melchizedek_IdentityVerification_Masterpiece.md)
-* **Summary:** Perfectly identifies the biblical identity of Melchisedec, King of Salem—a 'Man' without father, without mother, and without descent—from the perspective of the 'first world'.
+* **Summary:** Perfectly identifies the biblical identity of Melchisedec, King of Salem—a 'Man' without father and without genealogy—from the perspective of the 'first world'.
 
 ### 📌 7. The Full Picture of the First World — The Big Picture
 * **File:** [`REPORT_Melchizedek_FirstWorld_NationFormation.md`](./REPORT_Melchizedek_FirstWorld_NationFormation.md)
@@ -527,10 +669,9 @@ Technical and practical materials proving how all doctrines seamlessly interlock
 * **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
 * **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
 
-### ⚔️ Live Debate Records (TheScriptureMaster vs. Researcher)
+### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
 Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
-* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureMaster_VS_Researcher.md)** 
-* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureMaster_VS_Researcher_v2.md)**
-* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureMaster_VS_Researcher_v3.md)**
+* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
+* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
+* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
 * **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
-

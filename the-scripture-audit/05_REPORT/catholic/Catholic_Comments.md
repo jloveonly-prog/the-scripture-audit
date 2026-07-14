@@ -10,7 +10,7 @@
 
 > **Format Guide**: The 🔵 **Catholic Comment** section is an **(example)** referencing actual debates, not the original text.
 > It is not identical to the actual comments and is reconstructed to help understand the context of the debate.
-> 🔴 **TheScriptureMaster's Reply** is the exact original text of the actual replies.
+> 🔴 **TheScriptureBeliever's Reply** is the exact original text of the actual replies.
 
 ---
 
@@ -19,7 +19,7 @@
 🔵 **Catholic Comment** *(Example)*
 > "If Protestantism claims the 'priesthood of all believers', then pastors wouldn't be needed either. And didn't Jesus praise those who did good deeds in Luke 13? Jeremiah 17:10 also says He rewards according to one's deeds, isn't this teaching salvation by works?"
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Saying that all believers are priests does not mean pastors are not needed.
 The meaning of all believers being priests is that now, without a middleman like a priest or a father, anyone can go directly to God through Jesus.
 It does not mean to abolish offices within the church.
@@ -44,7 +44,7 @@ Paul passing on exactly the way to enter the door of salvation opened by Jesus i
 🔵 **Catholic Comment** *(Example)*
 > "Protestant pastors are corrupt and there are many cults too. What is so great about Protestantism that you criticize Catholicism?"
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 The corrupt cult leaders you mentioned are people who have directly disobeyed the words of the Bible.
 That's why orthodox Protestantism immediately labels them as cults based on the Bible and cuts them off.
 Also, personally, if they joined the religious pluralism of WCC or WEA, I consider them a cult.
@@ -64,7 +64,7 @@ Just because a corrupt cult leader exists doesn't mean Mary can become our media
 🔵 **Catholic Comment** *(Example)*
 > "Mary is someone who lives eternally in Heaven. Since she is alive, she can hear our prayers. Doesn't the communion of saints connect to Heaven as well?"
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Just because Mary lives eternally doesn't mean she is omniscient and omnipotent.
 Logically, this is called a category mistake.
 Do you know? That Mary has no time to rest because she has to listen to the countless prayers of believers all over the world and deliver them to Jesus?
@@ -84,7 +84,7 @@ This is called a category mistake.
 🔵 **Catholic Comment** *(Example)*
 > "Jeremiah 17:10 says, 'even to give every man according to his ways, and according to the fruit of his doings', doesn't this mean we are judged by our deeds?"
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Shall we look at it together with the preceding verse 9?
 The heart is deceitful above all things, and desperately wicked: who can know it?
 I the LORD search the heart, I try the reins, even to give every man according to his ways, and according to the fruit of his doings.
@@ -108,7 +108,7 @@ This is called self-inflicted damage.
 🔵 **Catholic Comment** *(Example)*
 > "James 5:16 says 'pray one for another. The effectual fervent prayer of a righteous man availeth much'. Since Mary is the holiest righteous person, asking Mary for intercession is biblical."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Do you not know the meaning of praying one for another?
 It means that living saints should horizontally share their pains and intercede for each other.
 If we confess our sins to Mary, does Mary also confess her sins to us?
@@ -132,7 +132,7 @@ You need to score a goal... but it seems you keep conceding goals.
 🔵 **Catholic Comment** *(Example)*
 > "Look, if you look at this source, the word 'Catholic' appears even in the Apostles' Creed. Protestantism is basically following Catholic tradition too."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 This external source is amazing.
 
 It was 'evidence that destroys Catholic doctrine itself' by exposing to the whole world that:
@@ -149,7 +149,7 @@ It is a post like this. Why would you post something like this? It's an own goal
 🔵 **Catholic Comment** *(Example)*
 > "Arius's claim seems to be much brighter and more biblical. Isn't the Trinity ultimately a Catholic theory created by a Roman Council?"
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Brother, are you perhaps a liberal theologian?
 Catholicism also firmly believes in the 'Trinity' that Jesus is true God as official doctrine, yet you are confidently making statements that even your own denomination defines as heresy, while being a Catholic believer.
 
@@ -180,7 +180,7 @@ Colossians 2:9 "For in him dwelleth all the fulness of the Godhead bodily"
 🔵 **Catholic Comment** *(Example)*
 > "Instead of just arguing like that, get along with your family. Which church do you attend? Peter being the rock is what Jesus Himself said, and since the Church adopted the Bible, the Church's authority is higher than the Bible."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Are you stuck on logic? ^^
 In a debate, when biblical logic runs out, ad hominem attacks touching on the other person's private life naturally come out.
 Saying "get along well with your family" is exactly that.
@@ -203,7 +203,7 @@ As for the question of whether the Lord and God are the same person, I have alre
 🔵 **Catholic Comment** *(Example)*
 > "Looking at an article by a pastor I found, doesn't Paul's mention of baptism for the dead in 1 Corinthians 15:29 leave open the possibility of communication with the dead?"
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Where in the pastor's article you copied does it say that Paul 'affirmed' communication with the dead?
 The original text explicitly states, "The Christian position is that there is nothing living believers can do for those who are already dead."
 How can you distort the very article you brought?
@@ -220,7 +220,7 @@ The 'saints' Paul mentions, if you look at Romans 1:7, 1 Corinthians 1:2, and Ep
 🔵 **Catholic Comment** *(Example)*
 > "Saints saved in heaven are living beings. Because they are alive, they can hear prayers."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 That's right, if they didn't go to hell and were saved, they are living.
 But that's not the point right now, is it?
 The issue is the difference between 'being alive' and 'being omniscient and omnipotent'.
@@ -236,7 +236,7 @@ No, I can't. Why? Because although we are alive, we are creatures bound by space
 🔵 **Catholic Comment** *(Example)*
 > "Doesn't 'baptism for the dead' in 1 Corinthians 15:29 refer to the ritual of receiving baptism on behalf of dead people? This is a fact recorded in the Bible."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Very few people know this truth......
 You seem to be someone God loves.
 Studying the Bible is a truly great blessing. Please read carefully.
@@ -264,7 +264,7 @@ You must not use 1 Cor 15:29 as a basis for proxy baptism or communication with 
 🔵 **Catholic Comment** *(Example)*
 > "Protestants have a contradiction because they think of the Eucharist only physically. What we are talking about is not a physical change but a spiritual reality."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 The Catholic 'transubstantiation' is that when a priest consecrates the bread, its substance changes into the physical and real flesh and blood of Jesus.
 Are you saying that it is contradictory for countless Protestants, who reject this while you insist the bread turns into a real lump of flesh, to think only of the physical?
 
@@ -281,7 +281,7 @@ You are applying magic only to the bread and wine and packaging it as a 'mystery
 🔵 **Catholic Comment** *(Example)*
 > "The term transubstantiation is wrong; accurately, it is a substantial change. And since it changes into essential flesh and blood, not physical flesh and blood, it is not a symbol."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 You said it is not transubstantiation but substantial change.
 Actually, these two are the same word.
 The official Latin word used by the Catholic Church is Transubstantiatio, and in English it is Transubstantiation.
@@ -311,7 +311,7 @@ Is there any reason not to follow Jesus' own interpretation?
 🔵 **Catholic Comment** *(Example)*
 > "The Eucharist can only be administered by a priest, the successor to the apostles. Because Jesus told only the apostles, 'Do this'."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 You said the Eucharist can only be administered by an apostle (priest).
 Shall we look together at what Paul said when teaching the Eucharist in 1 Corinthians 11?
 "When ye come together therefore into one place (11:20)... For as often as ye eat this bread (11:26)"
@@ -330,7 +330,7 @@ Isn't the doctrine that the priestly class monopolizes the Eucharist something c
 🔵 **Catholic Comment** *(Example)*
 > "The Mass does not 'reenact' the sacrifice of the cross but actualizes it. So it does not conflict with 'once for all' in Hebrews."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 And here is the most important question, which you avoided answering.
 Hebrews 10:10 "By the which will we are sanctified through the offering of the body of Jesus Christ once for all."
 
@@ -350,7 +350,7 @@ It would be impossible to answer this biblically, wouldn't it?
 🔵 **Catholic Comment** *(Example)*
 > "When Jesus took the bread, looked up to heaven, and prayed, that itself is consecration. By that prayer, the bread changed."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 You said that the prayer Jesus offered holding the bread was consecration.
 That is a prayer of thanksgiving offered to God the Father, who provides daily bread, by the head of the household during the Jewish Passover meal.
 The target of the prayer was 'God', not the 'bread'.
@@ -374,7 +374,7 @@ the fact that it is a holy ceremony accompanied by prayer does not mean it makes
 🔵 **Catholic Comment** *(Example)*
 > "The expression 'Roman Catholic' is a derogatory term. Please just call it Catholic. Wouldn't Protestants be offended if we called them the American Church or the Canadian Church?"
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 And regarding your statement that calling it 'Roman Catholic' is derogatory,
 that is not derogatory but the doctrine itself. The core of Catholicism is that churches worldwide must submit to the primacy of the 'Bishop of Rome (Pope)'.
 
@@ -388,7 +388,7 @@ Does it make sense to compare a structure where the head of the church is the 'R
 🔵 **Catholic Comment** *(Example)*
 > "I saw on some pastor's blog that if you don't pay church dues, you can't even have a funeral mass, but that is completely wrong. Catholicism never forces offerings."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 The obligation of believers to pay church dues is stipulated in Article 133 of the Pastoral Directives of the Catholic Church in Korea and Canon 222 of the Code of Canon Law.
 If one is in long-term arrears with church dues and fails to fulfill the Easter duty (confession), they are classified as a 'lapsed Catholic', and the loss of qualifications for godparents or restrictions on dispensation marriages and funeral masses are actual administrative procedures of the Catholic Church.
 Of course, it does not mean "if you don't pay money, you absolutely cannot have a funeral",
@@ -404,7 +404,7 @@ Rather, it seems that general believers often do not know the administrative law
 🔵 **Catholic Comment** *(Example)*
 > "We do not view Mary as a mediator, but acknowledge that Jesus is the sole mediator. Also, the Bible and Tradition hold the same authority, and the Deuterocanonicals are indeed canonical."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 First, is the issue of 'intercession (prayer) of the saints'. On paper, it says Jesus is the sole mediator, but in reality, you offer countless intercessory prayers to Mary and the dead saints. The bigger problem is believing that a dead saint can hear and understand all the prayers offered simultaneously in their respective languages by hundreds of millions of people worldwide. This essentially grants the absolute attributes of 'omniscience, omnipotence' and 'omnipresence', which belong solely to the Creator God, to human creatures. This is the deification of creatures that we are concerned about.
 
 Second, is the danger of placing 'the Bible and Tradition' on equal footing. The Pharisees in Jesus' time also placed the Bible (Torah) and their 'tradition' on equal authority. At that time, Jesus sternly rebuked them, saying, "Making the word of God of none effect through your tradition (Mark 7:13)". If human tradition conflicts with and covers up the clear declaration of the Bible (that there is only one mediator), it ultimately results in tradition reigning over the Word.
@@ -420,7 +420,7 @@ I wish you peace in the Lord, brother.
 🔵 **Catholic Comment** *(Example)*
 > "There are no language barriers in heaven. Even without an interpreter, the saints can understand everything. So there is no problem even if hundreds of millions of people pray."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 However, there is a pressure of text with comments posted everywhere. I feel I can understand Brother Matthew a little.
 
 To answer first,
@@ -453,7 +453,7 @@ If Mary hears and knows all the inward prayers of hundreds of millions of people
 🔵 **Catholic Comment** *(Example)*
 > "Just as God made His mind known to the prophets through revelation, couldn't Mary also know our inward thoughts if God reveals them to her? Solomon also prayed to be repaid according to his deeds."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Are you insisting that God 'temporarily revealing' one specific fact to a prophet is the same as the 'omniscience and omnipotence' of the creature Mary simultaneously hearing and processing the inward prayers launched by hundreds of millions of people worldwide forever?
 
 Let's look at the Joint Translation Bible you provided.
@@ -478,7 +478,7 @@ This is also called a self-defeating move. In other words, an own goal, right?
 🔵 **Catholic Comment** *(Example)*
 > "Since nothing unclean can enter heaven, a process of purification (Purgatory) is necessary. The mention of being saved as by fire in 1 Corinthians 3:15 is evidence of Purgatory, and heavenly intercession is also the communion of saints."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Brother, I sincerely thank you for your meticulous rebuttal, even mentioning the text from 1 Timothy and 1 Corinthians.
 However, when viewing your rebuttal in the light of the Bible, one unfortunately discovers the fact that Catholic doctrine is self-weakening the completeness of the 'atoning blood of the cross' of Jesus Christ.
 I would like to carefully share three biblical facts.
@@ -514,7 +514,7 @@ I pray that the grace of this amazing gospel grants you complete peace.
 🔵 **Catholic Comment** *(Example)*
 > "Prayer is a structure like a smartphone server where it is transmitted to the terminal (saint) through the server (God). The Protestant's faith alone is anxious, which is why the doctrine of purgatory is needed."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Brother, thank you for your high-level apologetics.
 (We had a lot of conversation today. Let's see each other again during Brother Matthew's next video.)
 Your mention of the 'smartphone server' analogy and the 'Protestant's anxiety' was a very interesting approach that gave a glimpse into the depth of your faith.
@@ -574,7 +574,7 @@ I pray for your peace!
 🔵 **Catholic Comment** *(Example)*
 > "In the Gospel of Luke, Elisabeth called Mary 'the mother of my Lord (God)'. Therefore, Mary is correctly the Mother of God."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Yes, let's look at the Gospel of Luke.
 Quoting Elisabeth's confession, "the mother of my Lord" (Luke 1:43), you added the word '(God)' in parentheses.
 I well understand your deep reverence for Mary. However, I want to carefully share the precise intention behind the choice of words in the original biblical text.
@@ -604,7 +604,7 @@ honoring her as 'the mother of my Lord' exactly as the Bible recorded it would b
 🔵 **Catholic Comment** *(Example)*
 > "The Old Testament Septuagint translated 'Yahweh' as 'Kyrios'. Therefore, 'the mother of Kyrios' that Elisabeth called her means exactly 'the mother of Yahweh God'."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Brother, thank you for explaining 'Kyrios (Lord)' by quoting even the translation history of the Old Testament Septuagint (LXX).
 However, in your conclusion that completely equates Elisabeth's confession of 'mother of the Lord' with 'Mother of God' based on that translation history,
 an unfortunate logical leap (concept substitution) is hidden, overlooking the historical context of the 1st century.
@@ -640,7 +640,7 @@ It is a very dangerous approach to tear down the 'boundary between Creator and c
 🔵 **Catholic Comment** *(Example)*
 > "Baptism is an essential requirement for salvation. The emphasis on justification by faith in Paul's epistles was for the purpose of re-educating those who had already received a valid baptism."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 I have deeply meditated on your opinion that 'Paul's epistles were for the purpose of re-educating those who had already received a valid baptism.'
 There are parts of your perspective that make me nod in agreement at first glance.
 However, when carefully comparing that logic against the biblical text, there are a few biblical precedents that collide with the Catholic doctrine that 'baptism is an essential condition for salvation,' so I would like to cautiously share my opinion.
@@ -675,7 +675,7 @@ Thank you for being a brother with whom I can seriously discuss the Bible. I wis
 🔵 **Catholic Comment** *(Example)*
 > "I never said baptism is an essential condition for salvation. It is merely a certain sign of salvation. Salvation is solely under Jesus' authority, and it is not for creatures to babble about."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Brother, I agree with this answer and have no counterargument.
 Reading your answer this time, I admired your deep faith and simultaneously felt a strange sense of kinship.
 Because the two excellent confessions you left surprisingly align perfectly with the core truths that Protestantism pursues like life itself.
@@ -708,7 +708,7 @@ I am deeply grateful for your biblical and excellent insights, and I pray that y
 🔵 **Catholic Comment** *(Example)*
 > "Look at the parable of the sheep and the goats in Matthew 25. Ultimately, you have to do good deeds to become a sheep. Justification by faith is just a human claim."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Brother, you have criticized Justification by Faith by citing the parable of the 'sheep and goats' in Matthew 25.
 I sincerely thank you for your sincere advice to me, and I also wish to return my sincere advice for your soul with three biblical facts.
 
@@ -745,7 +745,7 @@ I pray that this great truth becomes true freedom and peace for you!
 🔵 **Catholic Comment** *(Example)*
 > "The Trinity was also decided by the Roman Council, so why do you deny the Marian doctrine? If you call it Roman Catholic, Catholic believers will scoff. Calling the Pope 'Papa' has a deep meaning, and the church grows like an organism."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 I have never denied the historical fact that the council was held under the Roman Empire. 
 It seems you misunderstood the point of my writing a bit, so I want to clearly point it out again.
 
@@ -787,7 +787,7 @@ I hope you carefully look at the context again, and I wish you would remember th
 🔵 **Catholic Comment** *(Example)*
 > "The Pauline epistles are just the personal thoughts of the human Paul. We lack the ability to communicate, so naturally, we must go through angels and the Virgin Mary. Didn't an angel visit Mary in the Bible too?"
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Do you view the Pauline epistles as the personal thoughts of the human Paul?
 2 Peter 1:21 says, "but holy men of God spake as they were moved by the Holy Ghost."
 How can you compare asking (praying to) Mary or the saints with the perfect words directly used as an instrument by the Creator Holy Spirit?
@@ -808,7 +808,7 @@ Let's stop now. The answer is always the same.
 🔵 **Catholic Comment** *(Example)*
 > "Just like receiving evangelism on earth, it's natural to ask heavenly saints for prayers. Protestantism is built solely on the Bible and doesn't know mystical experiences. How is considering Mary a mediator who guides us to Jesus deification?"
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 Does receiving evangelism from someone on earth look the same to you as offering spiritual prayers to a creature in heaven?
 Where in the Bible is there content about offering spiritual prayers to someone who is dead in heaven?
 The Bible clearly states, "For there is one God, and one mediator between God and men, the man Christ Jesus" (1 Tim 2:5).
@@ -839,19 +839,19 @@ Isn't that precisely deification and the idolatry the Bible so strictly warns ag
 🔵 **Catholic Comment** *(Example)*
 > "To go to Heaven, purification of the soul is necessary, so everyone must pass through Purgatory."
 
-🔴 **TheScriptureMaster**
+🔴 **TheScriptureBeliever**
 The problem with Catholic doctrine is that there is no 'direct flight' to Heaven and you have to stop over at a 'transfer purgatory', but if Purgatory really does not exist according to the words of the Bible, it's a huge disaster!!
 
 ---
 
 *This document was created based on the original responses in Catholic.md.*
 *🔵 Catholic comments are (example) reconstructions for context understanding, not the actual original texts.*
-*🔴 TheScriptureMaster's responses are exactly as the original text.*
+*🔴 TheScriptureBeliever's responses are exactly as the original text.*
 
 ---
-> 🎙️ **TheScriptureMaster Apologetics Audio & Analysis Podcast (NotebookLM)**
+> 🎙️ **TheScriptureBeliever Apologetics Audio & Analysis Podcast (NotebookLM)**
 > The fierce doctrinal debates and biblical apologetic logics in this document have been reborn as audio overviews and AI in-depth analysis through Google NotebookLM. Through the link below, you can check the scene of apologetics defending biblical truth more vividly.
-> 🔗 [Go to TheScriptureMaster Theological High Court NotebookLM](https://notebooklm.google.com/notebook/1e2ec3f3-f74d-4599-ae49-d46f7a1d12b9)
+> 🔗 [Go to TheScriptureBeliever Theological High Court NotebookLM](https://notebooklm.google.com/notebook/1e2ec3f3-f74d-4599-ae49-d46f7a1d12b9)
 
 > 🔗 **Read Related Documents**: [⚖️ Theological High Court Verdict (Catholic_Court.md)](Catholic_Court.md) | [📖 Biblical Apologetics Report (Catholic_Apologetics.md)](Catholic_Apologetics.md)
 

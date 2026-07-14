@@ -9,23 +9,23 @@
 > 2. This was written for the purpose of sound doctrinal verification within the boundaries of freedom of religion and expression, and the contents of this document cannot be used as grounds for any legal dispute. Please keep this in mind upon any external disclosure.
 >
 > **Note**: This document records a public debate related to Catholicism. It includes (anticipated) comments not only from Catholic believers but also from 'liberal theologians' active in Catholic spaces. Please do not misunderstand.
-> **Case Name**: TheScriptureMaster (Protestant Apologetics Team) VS Catholic (Catholic Apologetics Team)
+> **Case Name**: TheScriptureBeliever (Protestant Apologetics Team) VS Catholic (Catholic Apologetics Team)
 > **Court Mode**: ⚔️ MODE B — Forensic Court Mode
 > **Premise**: Both sides agree to the absolute premise that **"The Bible is 100% truth"**, and use the Bible as the supreme code of law to derive doctrinal conclusions.
 > **Reference Documents**: `Catholic.md` (Original Combat Log) + `Catholic_Apologetics.md` (Apologetics Manual)
-> **STATUS**: ⚖️ Hearing Completed | **Final Verdict**: 7 Wins out of 7 — TheScriptureMaster
+> **STATUS**: ⚖️ Hearing Completed | **Final Verdict**: 7 Wins out of 7 — TheScriptureBeliever
 
 ---
 
 # ⚖️ Forensic Supreme Court Verdict — FULL VERSION
-## 『TheScriptureMaster VS Catholic』 Audit of Biblical Consistency on 7 Major Doctrines
+## 『TheScriptureBeliever VS Catholic』 Audit of Biblical Consistency on 7 Major Doctrines
 **— "Can human tradition become truth where the Bible is silent?" —**
 
 ## 🏛️ Members of the Court
 
 | Role | Assigned to | Mission |
 |:---:|:---:|:---|
-| 🔴 **Prosecution / Red Team** | **TheScriptureMaster** | Argue the biblical contradictions of Catholic doctrine using the internal logic and original languages of the Bible as weapons |
+| 🔴 **Prosecution / Red Team** | **TheScriptureBeliever** | Argue the biblical contradictions of Catholic doctrine using the internal logic and original languages of the Bible as weapons |
 | 🔵 **Defense / Blue Team** | **Catholic Apologetics Team** | Defend the legitimacy of Catholic doctrine using church tradition, patristic literature, and Bible verses |
 | ⚖️ **Judge (Arbiter)** | **BVCAP Moderator** | Weigh the arguments of both sides and the presence or absence of E-Codes to pronounce the final verdict |
 
@@ -47,7 +47,7 @@
 
 ## ⚔️ Case 1: Transubstantiation — "Does the bread really turn into flesh and blood?"
 
-### 🔴 Arguments by the Prosecution (TheScriptureMaster)
+### 🔴 Arguments by the Prosecution (TheScriptureBeliever)
 
 **[Argument 1] Terminology Clarification First — Transubstantiation = Change of Substance, the same word**
 
@@ -116,7 +116,7 @@ The fact that it is a holy ordinance accompanied by prayer does not change the b
 
 ## ⚔️ Case 2: Mass — "Why repeat a sacrifice that was finished once for all?"
 
-### 🔴 Arguments by the Prosecution (TheScriptureMaster)
+### 🔴 Arguments by the Prosecution (TheScriptureBeliever)
 
 **[Argument 1] The Triple Wedge of Hebrews — Uncompromising Legal Declaration**
 
@@ -165,7 +165,7 @@ The New Testament calls church leaders elders or bishops. It **never once** call
 
 ## ⚔️ Case 3: Marian Intercession & Deification of Creatures
 
-### 🔴 Arguments by the Prosecution (TheScriptureMaster)
+### 🔴 Arguments by the Prosecution (TheScriptureBeliever)
 
 **[Argument 1] Declaration of the Sole Mediator — 1 Tim 2:5**
 
@@ -220,7 +220,7 @@ The communion of saints is a spiritual union through the Holy Spirit in Jesus, n
 
 ## ⚔️ Case 4: The Doctrine of Purgatory — "Is the Blood of the Cross Perfect or Deficient?"
 
-### 🔴 The Prosecution's (TheScriptureMaster) Argument
+### 🔴 The Prosecution's (TheScriptureBeliever) Argument
 
 **[Argument 1] Hebrews 9:27 — The Post-Mortem Order is Death → Judgment**
 
@@ -316,7 +316,7 @@ Using 1 Cor 15:29 as a basis for Purgatory or communicating with the dead is a m
 
 ## ⚔️ Case 5: Papal Primacy — "Is the Papacy Established on the Rock of Peter?"
 
-### 🔴 The Prosecution's (TheScriptureMaster) Argument
+### 🔴 The Prosecution's (TheScriptureBeliever) Argument
 
 **[Argument 1] The Reversal in 5 Verses of Matthew 16:18 and 16:23 (TYPE-L)**
 
@@ -388,7 +388,7 @@ Catholicism itself admits that "it does not mean Mary created the divinity of Go
 
 ## ⚔️ Case 6: Soteriology — "Is it faith alone, or must works be added?"
 
-### 🔴 Prosecution (TheScriptureMaster) Arguments
+### 🔴 Prosecution (TheScriptureBeliever) Arguments
 
 **[Argument 1] The Apostle Paul's Triple Declaration — Justification by Faith**
 
@@ -468,7 +468,7 @@ And the excellent confession that "creatures have no business talking this way a
 
 ## ⚔️ Case 7: Biblical Authority vs. Tradition — "Did the church birth the Bible, or did the Bible birth the church?"
 
-### 🔴 Prosecution (TheScriptureMaster) Arguments
+### 🔴 Prosecution (TheScriptureBeliever) Arguments
 
 **[Argument 1] The Trinity was not created by councils — Historical fact-check (Rebuttal to anticipated claims by liberal theologians active in Catholic forums)**
 
@@ -532,7 +532,7 @@ However, the Word of God gave birth to the church, and the early church **recogn
 
 ### 🏛️ The Judge's Final Pronouncement
 
-> **FINAL VERDICT: 7 Wins in 7 Matches — TheScriptureMaster (Protestant Apologetics Team)**
+> **FINAL VERDICT: 7 Wins in 7 Matches — TheScriptureBeliever (Protestant Apologetics Team)**
 >
 > This court confirms three structural contradictions:
 >
@@ -575,9 +575,9 @@ Even the thief on the cross was washed perfectly at once and went straight to pa
 *Integrated Arguments: Passover Berakhah Prayer / Loaves & Fishes Reductio Ad Absurdum / Beef Analogy / Korea-Mexico Category Error / σήμερον To day in Paradise / Ergon≠Psyche / Jer 17 Own Goal / Matt 25 Counter-evidence / Smartphone Server Reverse Use / **βαπτίζω 3 Baptism Classification (1 Cor 15:29)** / **Roman Catholic Doctrine Name Debate** / **Κύριος≠Θεός Original Word Distinction (Mother of God)** / **Cornelius Precedent of Holy Spirit before Water Baptism (Acts 10:44)** / **Catholic Self-Confession Checkmate (Debate 27)***
 
 ---
-> 🎙️ **TheScriptureMaster Apologetics Audio & Analysis Podcast (NotebookLM)**
+> 🎙️ **TheScriptureBeliever Apologetics Audio & Analysis Podcast (NotebookLM)**
 > The fierce doctrinal debates and biblical apologetic logic of this document have been reborn as an audio overview and AI deep analysis via Google NotebookLM. Through the link below, you can more vividly witness the frontlines of apologetics defending biblical truth.
-> 🔗 [Go to TheScriptureMaster Theological Supreme Court NotebookLM](https://notebooklm.google.com/notebook/1e2ec3f3-f74d-4599-ae49-d46f7a1d12b9)
+> 🔗 [Go to TheScriptureBeliever Theological Supreme Court NotebookLM](https://notebooklm.google.com/notebook/1e2ec3f3-f74d-4599-ae49-d46f7a1d12b9)
 
 > 🔗 **Read Related Documents**: [💬 Doctrine Comment Debate Transcript (Catholic_Comments.md)](Catholic_Comments.md) | [📖 Biblical Apologetics Report (Catholic_Apologetics.md)](Catholic_Apologetics.md)
 >
