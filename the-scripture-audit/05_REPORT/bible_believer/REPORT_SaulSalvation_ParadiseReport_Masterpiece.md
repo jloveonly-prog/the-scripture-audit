@@ -1,4 +1,4 @@
-# 📜 [BVCAP 2.0 Integrated Version] Forensic Audit Record of the Debate on King Saul's Salvation
+﻿# 📜 [BVCAP 2.0 Integrated Version] Forensic Audit Record of the Debate on King Saul's Salvation
 
 ## 🔗 [https://www.thescripture.org/saul](https://www.thescripture.org/saul)
 
@@ -1194,7 +1194,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **File:** [`Reply_to_Pastor_Genesis_6_Fallen_Angels.md`](<./Reply_to_Pastor_Genesis_6_Fallen_Angels.md>)
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
-### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
+### 📌 2. IFB vs TSB — Full Comparison of Re-creation Flowcharts
 * **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 

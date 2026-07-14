@@ -1,4 +1,4 @@
-# ⚔️ Flowchart Comparison Report — IFB Dispensationalism vs TheScriptureBeliever
+﻿# ⚔️ Flowchart Comparison Report — IFB Dispensationalism vs TheScriptureBeliever
 **— If the order of Creation, Judgment, and Recreation events differs, the entire doctrine changes —**
 
 > **STATUS**: Verification Complete | VERDICT: ✅✅✅ IRONCLAD
@@ -6,7 +6,7 @@
 > **Applied Analysis Tools**: TYPE-C, TYPE-E, TYPE-G, TYPE-U, TYPE-AL
 > **Subjects of Comparison**:
 > - **[IFB]** Independent Fundamental Baptist / Dispensationalism
-> - **[TSM]** TheScriptureBeliever (This BVCAP analysis camp)
+> - **[TSB]** TheScriptureBeliever (This BVCAP analysis camp)
 
 > [!IMPORTANT]
 > This document is based solely on the **textual order of the 66 books of the KJV Bible**. We do not use the Book of Enoch, Apocrypha, or Patristic literature at all.
@@ -21,7 +21,7 @@
 
 ## 🧭 1. Core Premise Differences — Clash of Worldviews Between the Two Camps
 
-| Premise Item | IFB (Independent Fundamental Baptist Dispensationalism) | TSM (TheScriptureBeliever) |
+| Premise Item | IFB (Independent Fundamental Baptist Dispensationalism) | TSB (TheScriptureBeliever) |
 |:---|:---|:---|
 | **Before Gen 1:1** | Only God + angels exist | God + **the sons of God of the first world** + their kingdoms and nations exist |
 | **Gen 1:2 "Tohu Va-Bohu"** | Result of Lucifer's fall (Gap Theory) | Result of the **first world's total judgment** (massive water/fire judgment) |
@@ -37,23 +37,23 @@
 
 > Depending on how the sequence is arranged based on the identical KJV text, the doctrine completely changes.
 
-| # | Event | **IFB Dispensationalism** Claim | **TSM** Claim | ❌ Reason IFB is wrong / ✅ Reason TSM is right |
+| # | Event | **IFB Dispensationalism** Claim | **TSB** Claim | ❌ Reason IFB is wrong / ✅ Reason TSB is right |
 |:---:|:---|:---|:---|:---|
-| **01** | **Initial Creation** | Gen 1:1 — God created heaven and earth. Angels were also created at this time. | Gen 1:1 — God created the **entire first world**. Includes the sons of God (Job 38:7), their nations, and kingdoms. | ❌ IFB: Views Job 38:7 "morning stars sang together when the foundations of the earth were laid" only as evidence of simple creation of angels. ✅ TSM: Job 38:7 testifies to the existence of a **king and priest class** existing prior to the earth's creation (Heb 7:1-3). |
-| **02** | **First World Prosperity** | Acknowledges within the Gap Theory that there was a kingdom and domain ruled by Lucifer (premise of Lucifer's rule over "nations"). | The sons of God of the first world (Category ①) ruled their respective kingdoms and nations. **Job 1:6, 2:1 are second world (Job's era) events, thus not evidence of first world prosperity** — activities of sons who had already fled to heaven. | ⚠️ Both camps acknowledge that there were prospering kingdoms/beings in the first world. **The difference is the identity of those beings**: IFB = Angelic world ruled by Lucifer, TSM = Nations/kingdoms ruled by the sons of God (Category ①). ✅ TSM's correct evidence for first world prosperity: **Job 38:7** (morning stars = first world sons present at creation), **Jer 4:23-26** ("no man" = paradox of there having been men), **Isa 14:17** (Lucifer "made the world as a wilderness, and destroyed the cities thereof" = reality of first world nations), **Ezek 28:13-18** (merchandise, traffic, violence = traces of civilized first world prosperity). |
-| **03** | **Lucifer's Fall (Isa 14)** | Lucifer = fallen **Cherub**. Ezek 28:14 "the anointed cherub" = Lucifer. Isa 14:12-17 = a being who coveted God's place out of pride. | Lucifer = Fallen leader among the **sons of God of the first world**. "son of the morning" = Category ①. | ⚠️ Both IFB and TSM view Lucifer as a "Cherub" — this point is identical. **Core difference**: IFB = Lucifer is originally an angel (created spiritual being) and among them played the role of a cherub, TSM = Lucifer was a cherub among the sons of God of the first world (Category ①). ✅ TSM: Isa 14:12 "son of the morning" = identical to the language of the first world sons in Job 38:7. |
-| **04** | **Gen 1:2 "Tohu Va-Bohu"** | Acknowledges within the Gap Theory that there was **some judgment/event** between Gen 1:1 and Gen 1:2. However, it **does not definitively state** "what was judged", "what scale it was", or "what the specific cause was" — it tends to associate it with Lucifer's fall but does not doctrinally establish it. | Result of the **entire first world's judgment**. Matches the language of the fire/water judgment in Jer 4:23-26, Isa 34:9-15, and Ezek 28. | ⚠️ IFB only acknowledges the gap but remains silent on its **contents (target, method, and scope of judgment)** — it lacks a specific explanatory system. ✅ TSM: The root word for "tohu va-bohu" is confirmed by the KJV text to be used identically in Isa 34:11 (Edom's ruin judgment). Gen 1:2 = Not just the result of Lucifer's fall, but the state after a **massive judgment on all the nations and kingdoms of the first world**. |
-| **05** | **Angels of 2 Pet 2:4** | Sinning angels of Gen 6 = bound angels of 2 Pet 2:4 (same event). | Sons of God bound at the **time of the first world judgment (Gen 1:2)**. An event **much earlier** than Gen 6. | ❌ IFB: In the chronological order of 2 Pet 2:4-5 "angels → Noah", if angels are seen as Gen 6, angels and Noah become contemporaneous — a chronological contradiction. ✅ TSM: **3 distinct separate events**: Angels (Gen 1:2 judgment) → Noah (second world flood) → Sodom. |
-| **06** | **1 Pet 3:20 vs 2 Pet 2:4** | Viewed in the same context. Both are stories about angels in Noah's time. | **The same author (Peter) uses completely different language**: 1 Pet 3:20 "longsuffering" vs 2 Pet 2:4 "spared not". | ❌ IFB: There is no reason for the same author to use opposite attitudes toward the same target. ✅ TSM: **First world = immediately spared not (2 Pet)** vs **Noah's time = longsuffering (1 Pet)** — author himself distinguishes them linguistically as completely different events. |
+| **01** | **Initial Creation** | Gen 1:1 — God created heaven and earth. Angels were also created at this time. | Gen 1:1 — God created the **entire first world**. Includes the sons of God (Job 38:7), their nations, and kingdoms. | ❌ IFB: Views Job 38:7 "morning stars sang together when the foundations of the earth were laid" only as evidence of simple creation of angels. ✅ TSB: Job 38:7 testifies to the existence of a **king and priest class** existing prior to the earth's creation (Heb 7:1-3). |
+| **02** | **First World Prosperity** | Acknowledges within the Gap Theory that there was a kingdom and domain ruled by Lucifer (premise of Lucifer's rule over "nations"). | The sons of God of the first world (Category ①) ruled their respective kingdoms and nations. **Job 1:6, 2:1 are second world (Job's era) events, thus not evidence of first world prosperity** — activities of sons who had already fled to heaven. | ⚠️ Both camps acknowledge that there were prospering kingdoms/beings in the first world. **The difference is the identity of those beings**: IFB = Angelic world ruled by Lucifer, TSB = Nations/kingdoms ruled by the sons of God (Category ①). ✅ TSB's correct evidence for first world prosperity: **Job 38:7** (morning stars = first world sons present at creation), **Jer 4:23-26** ("no man" = paradox of there having been men), **Isa 14:17** (Lucifer "made the world as a wilderness, and destroyed the cities thereof" = reality of first world nations), **Ezek 28:13-18** (merchandise, traffic, violence = traces of civilized first world prosperity). |
+| **03** | **Lucifer's Fall (Isa 14)** | Lucifer = fallen **Cherub**. Ezek 28:14 "the anointed cherub" = Lucifer. Isa 14:12-17 = a being who coveted God's place out of pride. | Lucifer = Fallen leader among the **sons of God of the first world**. "son of the morning" = Category ①. | ⚠️ Both IFB and TSB view Lucifer as a "Cherub" — this point is identical. **Core difference**: IFB = Lucifer is originally an angel (created spiritual being) and among them played the role of a cherub, TSB = Lucifer was a cherub among the sons of God of the first world (Category ①). ✅ TSB: Isa 14:12 "son of the morning" = identical to the language of the first world sons in Job 38:7. |
+| **04** | **Gen 1:2 "Tohu Va-Bohu"** | Acknowledges within the Gap Theory that there was **some judgment/event** between Gen 1:1 and Gen 1:2. However, it **does not definitively state** "what was judged", "what scale it was", or "what the specific cause was" — it tends to associate it with Lucifer's fall but does not doctrinally establish it. | Result of the **entire first world's judgment**. Matches the language of the fire/water judgment in Jer 4:23-26, Isa 34:9-15, and Ezek 28. | ⚠️ IFB only acknowledges the gap but remains silent on its **contents (target, method, and scope of judgment)** — it lacks a specific explanatory system. ✅ TSB: The root word for "tohu va-bohu" is confirmed by the KJV text to be used identically in Isa 34:11 (Edom's ruin judgment). Gen 1:2 = Not just the result of Lucifer's fall, but the state after a **massive judgment on all the nations and kingdoms of the first world**. |
+| **05** | **Angels of 2 Pet 2:4** | Sinning angels of Gen 6 = bound angels of 2 Pet 2:4 (same event). | Sons of God bound at the **time of the first world judgment (Gen 1:2)**. An event **much earlier** than Gen 6. | ❌ IFB: In the chronological order of 2 Pet 2:4-5 "angels → Noah", if angels are seen as Gen 6, angels and Noah become contemporaneous — a chronological contradiction. ✅ TSB: **3 distinct separate events**: Angels (Gen 1:2 judgment) → Noah (second world flood) → Sodom. |
+| **06** | **1 Pet 3:20 vs 2 Pet 2:4** | Viewed in the same context. Both are stories about angels in Noah's time. | **The same author (Peter) uses completely different language**: 1 Pet 3:20 "longsuffering" vs 2 Pet 2:4 "spared not". | ❌ IFB: There is no reason for the same author to use opposite attitudes toward the same target. ✅ TSB: **First world = immediately spared not (2 Pet)** vs **Noah's time = longsuffering (1 Pet)** — author himself distinguishes them linguistically as completely different events. |
 | **07** | **Recreation (Gen 1:3 onwards)** | 6-day recreation begins from "Let there be light" — Commonly acknowledged. | **Second world** creation begins from "Let there be light" — Commonly acknowledged. | Up to this point, both camps agree on the Gap Theory, but they completely diverge on **what was inside the gap**. |
 | **08** | **Adam's Creation (Gen 2)** | Adam and Eve created on the sixth day — Commonly acknowledged. | Adam and Eve created on the sixth day — Commonly acknowledged. | Both camps agree. |
-| **09** | **Birth of Adam's Children** | Children only born after the Fall in Gen 3 (after the forbidden fruit). | Adam's sons could have already been born **before** Gen 3 (Principle of Job 38:7: body of dust = reproductive capability). | ❌ IFB: Does not verify "Did Adam have children before the fall?". ✅ TSM: 9 cases of forensic verification completed — Ps 51:5, Gen 5:3, Luke 3:38 etc. establishes the argument for the existence of children before the forbidden fruit. |
-| **10** | **Gen 6 "Sons of God"** | Fallen **angels** marry human women → Nephilim born. | **Adam's sons from before the forbidden fruit** (Category ②) marry daughters — not angels. | ❌ IFB: Matt 22:30 "in the resurrection they neither marry nor are given in marriage = like angels" → Angels cannot reproduce. ✅ TSM: Gen 6 sons are human lineage with flesh (σάρξ) (Category ②) — reproducible sons of Adam. |
-| **11** | **Nephilim (Num 13:33)** | Hybrid children of Gen 6 fallen angels + human women. | Children of Adam's sons (Category ②) + daughters, OR mixture with remnant beings of the first world. | ❌ IFB: If angels reproduce and bear children, the principle of Matt 22:30 collapses. ✅ TSM: Nephilim are remnants of first-world hybrid creations (satyrs, etc.) or descendants of Adam's fallen sons. |
-| **12** | **Noah's Flood (Gen 6-8)** | Noah's flood occurs as a **direct result** of Gen 6 angel's sin. | Noah's flood = **independent water judgment of the second world** (Gen 6 crime is the cause, but separate from the first world judgment). | ❌ IFB: Grouping the angels of 2 Pet 2:4 (Gen 6) and Noah (Gen 6-8) together reduces Peter's 3 distinct examples to 2. ✅ TSM: 2 Pet 2:4-6 are **3 independent judgment cases**: ① First world ② Noah ③ Sodom. |
-| **13** | **Sodom's Judgment (Gen 19)** | 2 Pet 2:6 Sodom — Commonly acknowledged. | 2 Pet 2:6 Sodom — Commonly acknowledged. | Both camps agree. However, IFB constitutes 2 cases of judgment, while TSM constitutes **3 cases**. |
-| **14** | **Origin of Devils (Unclean Spirits)** | Demons = faction of fallen angels OR spirits of Nephilim. | Demons = **spirits of the nations of the first world** — roaming the earth after their bodies were destroyed (Matt 12:43-45). | ❌ IFB: Matt 12:43 "when the unclean spirit is gone out of a man, he walketh through dry places, seeking rest" → Since angels have no bodies, they wouldn't desperately seek a body. ✅ TSM: Spirits of first-world nations that once had bodies = natural explanation for devils. |
-| **15** | **Evidential Structure of 2 Pet 2:4-6 Judgments** | Angels (Gen 6)+Noah = essentially **2 cases** of judgment. | First world+Noah+Sodom = **3 independent cases** of judgment → Stronger argumentation. | ❌ IFB: Grouping Gen 6 angels and Noah's flood as events of the same era weakens it to 2 pieces of evidence. ✅ TSM: 3 judgments of completely different eras, subjects, and methods = more strongly testifies to God's pattern of judgment. |
+| **09** | **Birth of Adam's Children** | Children only born after the Fall in Gen 3 (after the forbidden fruit). | Adam's sons could have already been born **before** Gen 3 (Principle of Job 38:7: body of dust = reproductive capability). | ❌ IFB: Does not verify "Did Adam have children before the fall?". ✅ TSB: 9 cases of forensic verification completed — Ps 51:5, Gen 5:3, Luke 3:38 etc. establishes the argument for the existence of children before the forbidden fruit. |
+| **10** | **Gen 6 "Sons of God"** | Fallen **angels** marry human women → Nephilim born. | **Adam's sons from before the forbidden fruit** (Category ②) marry daughters — not angels. | ❌ IFB: Matt 22:30 "in the resurrection they neither marry nor are given in marriage = like angels" → Angels cannot reproduce. ✅ TSB: Gen 6 sons are human lineage with flesh (σάρξ) (Category ②) — reproducible sons of Adam. |
+| **11** | **Nephilim (Num 13:33)** | Hybrid children of Gen 6 fallen angels + human women. | Children of Adam's sons (Category ②) + daughters, OR mixture with remnant beings of the first world. | ❌ IFB: If angels reproduce and bear children, the principle of Matt 22:30 collapses. ✅ TSB: Nephilim are remnants of first-world hybrid creations (satyrs, etc.) or descendants of Adam's fallen sons. |
+| **12** | **Noah's Flood (Gen 6-8)** | Noah's flood occurs as a **direct result** of Gen 6 angel's sin. | Noah's flood = **independent water judgment of the second world** (Gen 6 crime is the cause, but separate from the first world judgment). | ❌ IFB: Grouping the angels of 2 Pet 2:4 (Gen 6) and Noah (Gen 6-8) together reduces Peter's 3 distinct examples to 2. ✅ TSB: 2 Pet 2:4-6 are **3 independent judgment cases**: ① First world ② Noah ③ Sodom. |
+| **13** | **Sodom's Judgment (Gen 19)** | 2 Pet 2:6 Sodom — Commonly acknowledged. | 2 Pet 2:6 Sodom — Commonly acknowledged. | Both camps agree. However, IFB constitutes 2 cases of judgment, while TSB constitutes **3 cases**. |
+| **14** | **Origin of Devils (Unclean Spirits)** | Demons = faction of fallen angels OR spirits of Nephilim. | Demons = **spirits of the nations of the first world** — roaming the earth after their bodies were destroyed (Matt 12:43-45). | ❌ IFB: Matt 12:43 "when the unclean spirit is gone out of a man, he walketh through dry places, seeking rest" → Since angels have no bodies, they wouldn't desperately seek a body. ✅ TSB: Spirits of first-world nations that once had bodies = natural explanation for devils. |
+| **15** | **Evidential Structure of 2 Pet 2:4-6 Judgments** | Angels (Gen 6)+Noah = essentially **2 cases** of judgment. | First world+Noah+Sodom = **3 independent cases** of judgment → Stronger argumentation. | ❌ IFB: Grouping Gen 6 angels and Noah's flood as events of the same era weakens it to 2 pieces of evidence. ✅ TSB: 3 judgments of completely different eras, subjects, and methods = more strongly testifies to God's pattern of judgment. |
 
 ---
 
@@ -78,7 +78,7 @@ Problem: Angel's sin (Gen 6) and Noah's Flood (Gen 6-8) are the same era = essen
       → 2 Pet 2:4-5 are not 2 independent events but a single chain of events
 ```
 
-### 📐 [TSM] Interpretation of TheScriptureBeliever
+### 📐 [TSB] Interpretation of TheScriptureBeliever
 
 ```text
 First World Creation (Gen 1:1)
@@ -175,7 +175,7 @@ Final Judgment
 
 ---
 
-## ⚖️ 4. 5 Reasons Why TSM's Claim is Stronger Than IFB's
+## ⚖️ 4. 5 Reasons Why TSB's Claim is Stronger Than IFB's
 
 ### ❶ Linguistic Division of the Same Author — Decisive Blow
 
@@ -196,13 +196,13 @@ Judgments proposed by IFB camp:
   ② Sodom — 2 Pet 2:6
   = Total 2 cases
 
-Judgments proposed by TSM camp:
+Judgments proposed by TSB camp:
   ① First world judgment (Gen 1:2 water judgment) — 2 Pet 2:4 + Jude 1:6 + 2 Pet 3:6
   ② Noah's flood (Second world water judgment) — 2 Pet 2:5 + 1 Pet 3:20
   ③ Sodom (Fire judgment) — 2 Pet 2:6
   = Total 3 cases (① alone has dual author testimonies)
 
-→ TSM's argument is stronger: The evidence that God judges consistently across different eras is 3 cases, not 2, and evidence for ① is independently testified by two authors.
+→ TSB's argument is stronger: The evidence that God judges consistently across different eras is 3 cases, not 2, and evidence for ① is independently testified by two authors.
 ```
 
 ---
@@ -251,13 +251,13 @@ Core Logic (TYPE-AL):
 > [!IMPORTANT]
 > **Fatal Flaw of IFB:** If you interpret 2 Pet 3:6 "the world that then was perished by water" as Noah's flood, then 2 Pet 3:7 "the heavens and the earth, which are now" still exists after Noah's flood — **which means the same author commits self-contradiction just one verse apart**. IFB cannot explain this contradiction.
 >
-> **TSM's Solution:** 2 Pet 3:6 = First world water judgment of Gen 1:2 / 2 Pet 3:7 = Current world after recreation → An accurate distinction between the two worlds is contained within a single verse.
+> **TSB's Solution:** 2 Pet 3:6 = First world water judgment of Gen 1:2 / 2 Pet 3:7 = Current world after recreation → An accurate distinction between the two worlds is contained within a single verse.
 
 ---
 
 ### ❸ Resolution of the Reproductive Impossibility Contradiction of Gen 6 "Sons of God"
 
-| Item | IFB (Angel Theory) | TSM (Adam's Sons) |
+| Item | IFB (Angel Theory) | TSB (Adam's Sons) |
 |:---|:---|:---|
 | Matt 22:30 "neither marry..." | **Violation** — Angels married | **Not applicable** — Adam's physical sons can |
 | Reproductive mechanism | Inexplicable — Angels have no σάρξ | Natural — Bodies of dust + blessed to reproduce (Gen 1:28) |
@@ -272,7 +272,7 @@ IFB: Devils = Some fallen angels OR spirits of Nephilim
      → Weak explanation for why devils desperately seek human bodies
        (Since angels originally have no bodies, there's no basis for craving a body)
 
-TSM: Devils = Spirits of the first-world nations (bodies destroyed, only spirits remain)
+TSB: Devils = Spirits of the first-world nations (bodies destroyed, only spirits remain)
      → Perfectly explains Matt 12:43-44 "I will return into my house"
        (Since they were beings who originally had bodies, they perceive a human body as a "house")
 ```
@@ -281,7 +281,7 @@ TSM: Devils = Spirits of the first-world nations (bodies destroyed, only spirits
 
 ### ❺ Position of Lucifer in Isa 14 — Angel vs First World Son
 
-| Evidence | IFB | TSM |
+| Evidence | IFB | TSB |
 |:---|:---|:---|
 | KJV "Archangel" Title | Calls Lucifer an Archangel — absent in KJV | In KJV, "archangel" = solely Michael (Jude 1:9), 1 case |
 | "son of the morning" | Treated as mere metaphor | Job 38:7 "morning stars" = Identical to Category ① language |
@@ -294,7 +294,7 @@ TSM: Devils = Spirits of the first-world nations (bodies destroyed, only spirits
 
 ```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Event      IFB (Independent Fundamental Baptist)   TSM (TheScriptureBeliever)
+  Event      IFB (Independent Fundamental Baptist)   TSB (TheScriptureBeliever)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 
@@ -385,7 +385,7 @@ TSM: Devils = Spirits of the first-world nations (bodies destroyed, only spirits
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
  2 Pet 2:4-6 Judgment Cases   2 Cases (Weak)    3 Cases (Strong)
- IFB: Gen 6 angels+Noah = 1 case       │   TSM: 1stWrld·Noah·Sodom = 3 cases
+ IFB: Gen 6 angels+Noah = 1 case       │   TSB: 1stWrld·Noah·Sodom = 3 cases
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
@@ -405,7 +405,7 @@ The chain of problems caused by IFB's sequence error:
         → The distinction between "the world that then was" (3:6) and "the world which is now" (3:7) disappears, completely wiping out one of the two worlds
         → The first-world judgment testified twice in Peter's two epistles shrinks down to merely 1 case (2:4 + 3:6 → Combined into Noah as 1 case)
 
-The coherent structure created by TSM's sequence:
+The coherent structure created by TSB's sequence:
   ├── Gen 6 = Adam's sons (②) → No violation of Matt 22:30
   ├── 2 Pet 2:4 = First world → Perfect agreement with the same author's language in 1 Pet 3:20
   ├── 3 independent judgments → Stronger logical structure
@@ -478,7 +478,7 @@ Decisive Contradiction Summary:
   IFB acknowledges the first-world water judgment (Gen 1:2) but
   removes the verse explaining where and how the fallen spiritual beings of that era were judged from 2 Pet 2:4
   → Resulting in a void where the first world only has a judgment but lacks evidence of angelic bindings within it
-  → Filling that void is precisely 2 Pet 2:4 + Jude 1:6 (TSM's interpretation)
+  → Filling that void is precisely 2 Pet 2:4 + Jude 1:6 (TSB's interpretation)
 ```
 
 > [!WARNING]
@@ -506,25 +506,25 @@ If IFB interprets 2 Pet 2:4 = Noah's era:
 
 Result:
   Under IFB's interpretation, 2 Peter becomes a book that testifies 0 times about the first world.
-  Under TSM's interpretation, 2 Peter becomes a book that doubly testifies about the first world.
+  Under TSB's interpretation, 2 Peter becomes a book that doubly testifies about the first world.
 
   → IFB completely loses first-world evidence in 2 Peter.
-  → TSM secures dual evidence from the single book of 2 Peter.
+  → TSB secures dual evidence from the single book of 2 Peter.
 ```
 
 | Interpretation Direction | 2 Pet 2:4 | 2 Pet 3:6 | First World Evidence Count | Argument Strength |
 |:---|:---:|:---:|:---:|:---:|
 | **IFB** (Noah = 2 Pet 2:4) | ❌ Processed as Noah | ❌ Misread as Noah's flood | **0 Cases** | Weak |
-| **TSM** (First World = 2 Pet 2:4) | ✅ First World angels | ✅ First World perished by water | **2 Cases** | Strong |
+| **TSB** (First World = 2 Pet 2:4) | ✅ First World angels | ✅ First World perished by water | **2 Cases** | Strong |
 
 > [!IMPORTANT]
-> **The Core Reason TSM's Claim is Stronger Than IFB's:** By placing the angels of 2 Pet 2:4 in the Gen 1:2 era, it simultaneously achieves **fourfold coherence**: ① Resolves the linguistic contradiction of the same author ② Judgment cases go from 2 → 3 ③ Resolves the Gen 6 reproductive contradiction ④ **Secures dual first-world evidence within the single book of 2 Peter by connecting with 2 Pet 3:6**.
+> **The Core Reason TSB's Claim is Stronger Than IFB's:** By placing the angels of 2 Pet 2:4 in the Gen 1:2 era, it simultaneously achieves **fourfold coherence**: ① Resolves the linguistic contradiction of the same author ② Judgment cases go from 2 → 3 ③ Resolves the Gen 6 reproductive contradiction ④ **Secures dual first-world evidence within the single book of 2 Peter by connecting with 2 Pet 3:6**.
 
-> **IRONCLAD Verdict:** The chronological arrangement of the 66 KJV texts supports TSM's sequence. Independent Fundamental Baptist Dispensationalism's sequence clashes with ① the same author's language, ② the principle of angelic reproductive impossibility, ③ the 3-case independence principle of 2 Pet 2:4-6, and ④ **the two-world distinction principle of 2 Pet 3:6-7**.
+> **IRONCLAD Verdict:** The chronological arrangement of the 66 KJV texts supports TSB's sequence. Independent Fundamental Baptist Dispensationalism's sequence clashes with ① the same author's language, ② the principle of angelic reproductive impossibility, ③ the 3-case independence principle of 2 Pet 2:4-6, and ④ **the two-world distinction principle of 2 Pet 3:6-7**.
 
 ---
 
-## ❓ FAQ — Major IFB Counterarguments and TSM's KJV Responses
+## ❓ FAQ — Major IFB Counterarguments and TSB's KJV Responses
 
 > Anticipating the counterarguments raised by the IFB side in actual debates. All responses are based solely on the 66 books of the KJV text.
 
@@ -536,7 +536,7 @@ Result:
 > Jude 1:6 (angels kept not their first estate) → 1:7 "**even as** Sodom... going after **strange flesh**"
 > → Angels also pursued 'strange flesh' like Sodom = Gen 6 angels coupling with human women
 
-**TSM Response — KJV Text:**
+**TSB Response — KJV Text:**
 
 The common crime of `even as` is **not "sexual sin" but "kind boundary violation"**.
 
@@ -559,7 +559,7 @@ The common crime of `even as` is **not "sexual sin" but "kind boundary violation
 **IFB Counterargument:**
 > ἀρχή = Original nature/status as angels. The meaning of 'status of the first world' is not in the KJV.
 
-**TSM Response — KJV Text:**
+**TSB Response — KJV Text:**
 
 The KJV uses **"first" as an ordinal number (1st)** in `first estate`.
 
@@ -582,7 +582,7 @@ The KJV uses **"first" as an ordinal number (1st)** in `first estate`.
 **IFB Counterargument:**
 > Gen 1:2 is simply a state description. It doesn't say in the KJV text who was judged. The 2 Pet 2:4 → Gen 1:2 connection is an extra-biblical inference.
 
-**TSM Response — KJV Text Triple Cross-reference:**
+**TSB Response — KJV Text Triple Cross-reference:**
 
 Fixing Gen 1:2 as the result of judgment is **performed directly by 2 Peter 3**:
 
@@ -614,11 +614,11 @@ And 2 Pet 2:4 testifies to the **target of the judgment right before that destru
 **IFB Counterargument:**
 > Since both texts describe the same group, it is consistent to interpret them uniformly as Gen 6.
 
-**TSM Response:**
+**TSB Response:**
 
 We **agree that both texts point to the same event**. However, whether that event is Gen 6 or Gen 1:2 is determined by **chronological argumentation**:
 
-| Distinction Criteria | IFB | TSM |
+| Distinction Criteria | IFB | TSB |
 |:---|:---|:---|
 | Timing of 2 Pet 2:4 Angels | Gen 6 (Noah's era) | Gen 1:2 (First world judgment) |
 | Timing of 2 Pet 2:5 Noah | Gen 6-8 (Same era) | Gen 6-8 (Separate era) |
@@ -634,7 +634,7 @@ We **agree that both texts point to the same event**. However, whether that even
 **IFB Counterargument:**
 > Job 1:6 *"the sons of God came to present themselves before the LORD"* — clearly heavenly beings appearing before God's throne. Gen 6:2 also uses the same `bene Elohim` → Identical = Angels.
 
-**TSM Response — KJV Text:**
+**TSB Response — KJV Text:**
 
 Job 1:6, 2:1 are **events of the second world (Job's era)**. It is a scene where **the surviving sons of God who fled to heaven** after the first world judgment (Gen 1:2) still present themselves before God.
 
@@ -651,7 +651,7 @@ Second World (Adam ~ Job's era)
         Fled sons still appear before God
 ```
 
-| Question | IFB Answer | TSM Answer |
+| Question | IFB Answer | TSB Answer |
 |:---|:---|:---|
 | Who are the sons in Job 1:6? | Angels | Sons of God (①) who survived the first world and fled to heaven |
 | Why do they appear before God? | Angels' original role | Still appear before the throne as beings of the king/priest category of the first world |
@@ -666,7 +666,7 @@ Second World (Adam ~ Job's era)
 **IFB Counterargument:**
 > The contrast itself assumes an **essential difference** between the two groups. If both were human, there'd be no reason to use the special title "sons of God".
 
-**TSM Response — KJV Text:**
+**TSB Response — KJV Text:**
 
 The KJV directly testifies that the contrast is not **divine beings vs humans**, but a **contrast between two lineages**.
 
@@ -690,7 +690,7 @@ The KJV directly testifies that the contrast is not **divine beings vs humans**,
 **IFB Counterargument:**
 > *"in the resurrection they neither marry nor are given in marriage, but are **as** the angels of God in heaven"* — `as`(ὡς) = Comparison. It means angels **currently** don't marry, not that they lack **the capability**. Gen 6 angels might have had the capability to marry.
 
-**TSM Response — KJV Text:**
+**TSB Response — KJV Text:**
 
 The core issue is **what the standard of comparison is** for the `ὡς`(as) comparison.
 
@@ -722,7 +722,7 @@ Matt 22:30: "neither marry nor are given in marriage, but are AS the angels"
 **IFB Counterargument:**
 > *"There were giants in the earth in those days... the same became mighty men which were of old, men of renown"* — The supernatural size and abilities of Nephilim = result of angel + human hybrids. Inexplicable by purely human union.
 
-**TSM Response — KJV Text:**
+**TSB Response — KJV Text:**
 
 The extraordinary nature of the Nephilim is explained through **two paths**. Neither requires angelic bloodlines.
 
@@ -744,8 +744,8 @@ Traits of Category ① Sons of God (and its human counterpart):
 | Explanation Method | Angelic Bloodline Needed | KJV Text Evidence |
 |:---|:---:|:---|
 | IFB: Angel + human hybrid | ✅ Needed | Clashes with Matt 22:30 (angels have no body) |
-| TSM: 1st World Asah remnants | ❌ Unneeded | Isa 13:21, 34:14, Ezek 28 |
-| TSM: Dominant longevity genes | ❌ Unneeded | Gen 5 genealogy (Adam's lineage 930 years lifespan) |
+| TSB: 1st World Asah remnants | ❌ Unneeded | Isa 13:21, 34:14, Ezek 28 |
+| TSB: Dominant longevity genes | ❌ Unneeded | Gen 5 genealogy (Adam's lineage 930 years lifespan) |
 
 > ✅ **Conclusion:** **Angelic bloodlines are not absolutely necessary** to explain the extraordinary nature of the Nephilim. The KJV text provides evidence supporting both the existence of first-world Asah creatures and pre-fall longevity genes. The angelic bloodline hypothesis can only stand by destroying the principles of Matt 22:30 and Heb 1:14.
 
@@ -775,7 +775,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **File:** [`Reply_to_Pastor_Genesis_6_Fallen_Angels.md`](<./Reply_to_Pastor_Genesis_6_Fallen_Angels.md>)
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
-### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
+### 📌 2. IFB vs TSB — Full Comparison of Re-creation Flowcharts
 * **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 

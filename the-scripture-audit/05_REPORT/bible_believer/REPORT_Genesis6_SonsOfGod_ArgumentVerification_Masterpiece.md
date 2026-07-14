@@ -1,4 +1,4 @@
-# Genesis 6 "Sons of God" — Verification Report of Arguments Presented by Other AI (v2.0 Supplemental Edition)
+﻿# Genesis 6 "Sons of God" — Verification Report of Arguments Presented by Other AI (v2.0 Supplemental Edition)
 **— "Are the 6 arguments refuting the Angel Theory actually valid?" BVCAP v2.0 Neutral Audit Report —**
 
 > **STATUS**: Verification Complete + Supplemental Complete | MODE: B (Theological Court — Internal Doctrine Verification)
@@ -8,7 +8,7 @@
 > **Reference to Existing Reports**:
 > - `REPORT_Genesis6_SonsOfGod_DeepLog.md` (15-stage debate log)
 > - `REPORT_Melchizedek_FirstWorld_NationFormation.md` (First World Framework — DE-OVERLAP applied)
-> - `REPORT_TheScriptureOrg_VS_Researcher.md` (TSM AI Debate Log — Identical position confirmed)
+> - `REPORT_TheScriptureOrg_VS_Researcher.md` (TSB AI Debate Log — Identical position confirmed)
 >
 > ⚠️ **v1.0 Error Correction**: In the previous version, the existing report was noted as "Supporting the Angel Theory," but the actual existing verdict is **"Sons of Adam before the Tree of Knowledge of Good and Evil IRONCLAD"**. It is neither the Angel theory nor the descendants of Seth theory, but **a third independent theory**.
 
@@ -584,7 +584,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **File:** [`Reply_to_Pastor_Genesis_6_Fallen_Angels.md`](<./Reply_to_Pastor_Genesis_6_Fallen_Angels.md>)
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
-### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
+### 📌 2. IFB vs TSB — Full Comparison of Re-creation Flowcharts
 * **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 

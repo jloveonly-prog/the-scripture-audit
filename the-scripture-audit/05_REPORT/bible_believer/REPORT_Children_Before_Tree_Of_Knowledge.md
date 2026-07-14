@@ -1,4 +1,4 @@
-# 🏛️ [BVCAP MODE B: Court Mode] Children Before the Tree of Knowledge — Biblical Evidence and Redemptive Historical Significance of Edenic Childbirth
+﻿# 🏛️ [BVCAP MODE B: Court Mode] Children Before the Tree of Knowledge — Biblical Evidence and Redemptive Historical Significance of Edenic Childbirth
 
 > **STATUS**: 🟢 IRONCLAD (Verification Complete)
 > **Engine Activated**: BVCAP v2.0 (MODE B: Internal Doctrinal Trial)
@@ -337,7 +337,7 @@ Like Noah, you must become a person who is **"perfect in his generations"**. Thi
 | Reference | [REPORT_SpiritualBeingsClassification.md](./REPORT_SpiritualBeingsClassification.md) | OOP class structure of spiritual beings — for preventing category errors |
 | Reference | [REPORT_Melchizedek_IdentityVerification_Masterpiece.md](./REPORT_Melchizedek_IdentityVerification_Masterpiece.md) | Living evidence of the first world |
 | Reference | [REPORT_First_World_Nation.md](./REPORT_First_World_Nation.md) | Morning stars and the intelligent beings of the first world |
-| Subsequent | [REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md) | IFB vs TSM timeline comparison |
+| Subsequent | [REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md) | IFB vs TSB timeline comparison |
 
 ---
 
@@ -886,7 +886,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **File:** [`Reply_to_Pastor_Genesis_6_Fallen_Angels.md`](<./Reply_to_Pastor_Genesis_6_Fallen_Angels.md>)
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
-### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
+### 📌 2. IFB vs TSB — Full Comparison of Re-creation Flowcharts
 * **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 

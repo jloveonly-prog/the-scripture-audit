@@ -1,4 +1,4 @@
-# 🛡️ [BVCAP MODE A: External Defensive Battle] Location of Peter's Martyrdom: The Battle to Defend Calvary
+﻿# 🛡️ [BVCAP MODE A: External Defensive Battle] Location of Peter's Martyrdom: The Battle to Defend Calvary
 
 > **STATUS**: 🟢 IRONCLAD (Ironclad reasoning — Defense complete)
 > **Rating Definition**: ✅ **EXPLICIT** = A fact directly recorded by the Bible (e.g., Peter's crucifixion, John 21:18). 🟢 **IRONCLAD** = Although not explicitly stated by the Bible, all alternative interpretations generate internal contradictions within the Bible, so it is the **only interpretation that establishes without contradiction** (e.g., Location of martyrdom = Calvary).
@@ -466,7 +466,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **File:** [`Reply_to_Pastor_Genesis_6_Fallen_Angels.md`](<./Reply_to_Pastor_Genesis_6_Fallen_Angels.md>)
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
-### 📌 2. IFB vs TSM — Full Comparison of Re-creation Flowcharts
+### 📌 2. IFB vs TSB — Full Comparison of Re-creation Flowcharts
 * **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
