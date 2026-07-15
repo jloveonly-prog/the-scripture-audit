@@ -266,7 +266,7 @@ Once you have confirmed the errors in the macroscopic framework through the flow
 
 ### 📌 4-C. Contrary-to-Fact Conditional: Gen 3:20 "was" Debate (Verification of Pre-Fall Birth Theory)
 * **File:** [`Contrary_to_Fact_Conditional_Gen3_20_was_Pre_Fall_Birth_Theory.md`](<./Contrary_to_Fact_Conditional_Gen3_20_was_Pre_Fall_Birth_Theory.md>)
-* **Summary:** A strong counterargument and self-verification document (BVCAP neutral audit) against the 'Pre-Fall Birth Theory' that could be raised based on the "was" (past tense) in Genesis 3:20. It breaks through the trap of literalism and serves as a standard document defending against collisions between the doctrine of original sin (Rom 5:12) and the Gen 4:1 timeline.
+* **Summary:** 🆕 A RETRIAL ruling deploying the new weapon **TYPE-AC-λ Counterfactual Substitution** (lexical substitution verification). Through an exhaustive survey of the Genesis naming formula (if the reason is future, future tense; if completed, perfect tense — 0 counterexamples) and the tense-separation anchor of Gen 2:23 ("shall be called ... because she was taken"), it exposes that the traditional interpretation (retrospective narrative theory) commits silent substitution (E-16) of the written "was" for an unwritten "shall be" — thus overturning the original ruling and **confirming the Pre-Fall Birth Theory as IRONCLAD**. (The original ruling record is preserved verbatim in Chapters 1-6)
 
 ### 📌 4-D. Transition Analysis of the Creation Archetype's Reproduction System and the Seed of Woman — Judicial Systematization
 * **File:** [`REPORT_Creation_Archetype_Reproduction_System_and_Seed_of_Woman_Transition_Analysis.md`](./REPORT_Creation_Archetype_Reproduction_System_and_Seed_of_Woman_Transition_Analysis.md)
