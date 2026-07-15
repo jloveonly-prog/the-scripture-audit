@@ -1,74 +1,73 @@
-﻿# 📜 [BVCAP 2.0 Integrated Version] Forensic Audit Record of the Debate on King Saul's Salvation
+# 📜 [BVCAP 2.0 Integrated Edition] King Saul Salvation Debate Forensic Audit Record
 
-## 🔗 [https://www.thescripture.org/saul](https://www.thescripture.org/saul)
 
-This document is an integrated record of BVCAP's 3-stage verification (defense argument, red verification, and final cross-examination) on the debate over King Saul's salvation into a single document.
+This document is an integrated record of the BVCAP 3-stage verification (Defense Argument, Red Audit, Final Cross-Examination) on the debate over King Saul's salvation.
 
 ---
 
-## 🟦 [PART 1] Defense (Blue Team) Argument — Theory of Saul in Paradise
+## 🟦 [PART 1] Defense (Blue Team) Argument — Saul Paradise Theory
 ### 📑 [BVCAP 2.0 Forensic Audit] The Debate on King Saul's Salvation
-**— "Did Saul go to paradise, or to a place of torment?" BVCAP 2.0 Neutral Audit Report —**
+**— "Did Saul go to Paradise, or the place of torment?" BVCAP 2.0 Neutral Audit Report —**
 
-> **Clash Type**: C-13 (Spiritual Being/Space Category Confusion) + C-08 (Theological Query)
-> **Applied TYPE Weapon**: TYPE-P (Retorsion/Boomerang Argument) + TYPE-E (Complete Rejection of Competing Models) + TYPE-C (Category Separation) + A-20 (Spiritual Space Timeline Matrix)
-> **ANCHOR-1 Anchor Verses**: Luke 16:22-26 (Structure of Sheol) + 1 Sam 31:2 (Death of Jonathan) + 1 Chron 10:13-14 (Cause of Saul's immediate death)
-> **Core Issue**: 1 Sam 28:19 "shalt thou be with me" — Is it the whole of Sheol, or the paradise compartment?
+> **Conflict Type**: C-13 (Spiritual Being/Space Category Confusion) + C-08 (Theological Inquiry)
+> **Applied TYPE Weapons**: TYPE-P (Retorsion/Boomerang Argument) + TYPE-E (Rejection of Competing Models) + TYPE-C (Category Separation) + A-20 (Spiritual Space Timeline Matrix)
+> **ANCHOR-1 Anchor Verses**: Luke 16:22-26 (Sheol Structure) + 1 Sam 31:2 (Jonathan's death in battle) + 1 Chron 10:13-14 (Cause of Saul's instant death)
+> **Core Issue**: 1 Sam 28:19 "shalt thou... be with me" — Is it the entirety of Sheol, or the Paradise compartment?
 
 ---
 
-## 1. Case Background and Confirmation of Charges
+## 1. Incident Background and Confirmation of Charges
 
-### 📖 1 Chronicles 10:13-14 (KJV) — Direct Specification of the Cause of Saul's Death
+### 📖 1 Chronicles 10:13-14 (KJV) — Direct statement of the cause of Saul's death
 
 > *"So Saul died for his transgression which he committed against the LORD, even against the word of the LORD, which he kept not, and also for asking counsel of one that had a familiar spirit, to enquire of it; And enquired not of the LORD: therefore he slew him..."*
 
 | Charge | Text | Content |
 |:---:|:---:|:---|
-| **1. Disobedience to the Word** | 1 Sam 15 | Violation of the command to utterly destroy Amalek — spared King Agag and livestock |
+| **1. Disobedience to the Word** | 1 Sam 15 | Violation of the command to completely annihilate Amalek — sparing King Agag and livestock |
 | **2. Seeking one with a familiar spirit** | 1 Sam 28 | Actually summoning the spirit of Samuel through the witch of Endor |
 
 ---
 
-## 2. 🔑 BVCAP Core Argument 1 — The actual Samuel proven by the biblical author's record (TYPE-P Retorsion)
+## 2. 🔑 BVCAP Core Argument 1 — The Actual Samuel Proven by the Biblical Author's Record (TYPE-P Retorsion)
 
-> **Clash Type**: C-08 (Theological Query)
+> **Conflict Type**: C-08 (Theological Inquiry)
 > **Applied TYPE**: TYPE-P (Retorsion — Boomerang Argument)
-> **FULL SCAN Execution**: OVERRIDE-0 → TYPE-M (Anomaly Detection: The Bible calls this being "Samuel") → TYPE-P
+> **FULL SCAN Execution**: OVERRIDE-0 → TYPE-M (Anomaly detected: The Bible calls this being "Samuel") → TYPE-P
 
 ### ⚖️ Core Premise — The biblical author's record itself is the evidence
 
-1 Chron 10:13 records Saul's sin, specifying the act of communication as a **successful completed form**. Also, in 1 Sam 28:15-16, the biblical author directly calls this being **"Samuel"**. If it were a devil, the Bible would not call it "Samuel".
+1 Chronicles 10:13 records Saul's sin, specifying the act of communication as a **successful, completed act**. Furthermore, in 1 Samuel 28:15-16, the biblical author directly calls this being **"Samuel"**. If it were a devil, the Bible would not call him "Samuel."
 
-### 🔴 TYPE-P Retorsion — Triple Evidence Chain
+### 🔴 TYPE-P Retorsion — 3-Fold Evidence Chain
 
 ```
-[Evidence 1 — Designation by the biblical author]
+[Evidence 1 — Naming by the Biblical Author]
 1 Sam 28:15 "And Samuel said to Saul..."
 1 Sam 28:16 "Then said Samuel..."
-→ The biblical author directly calls this being "Samuel"
-→ If it were a devil: would have been recorded as "a spirit" or "the familiar spirit"
+→ The biblical author directly calls this being "Samuel."
+→ If it were a devil, it would have been recorded as "a spirit" or "the familiar spirit."
 
-[Evidence 2 — Completed form record of 1 Chron 10:13]
+[Evidence 2 — 1 Chron 10:13's Completed Record]
 "for asking counsel of one that had a familiar spirit, to enquire of it"
-→ "to enquire of it" = דָּרַשׁ (darash) — Completed act of actually asking and getting an answer
-→ If deceived by a devil: would have been recorded as "was deceived by" or "sought"
-→ The fact that the Bible recorded the communication as a successful act is itself evidence of the actual summoning of Samuel
+→ "to enquire of it" = דָּרַשׁ (darash) — A completed act of actually asking and receiving an answer.
+→ If he were deceived by a devil: it would have been recorded as "was deceived by" or "sought."
+→ The very fact that the Bible records the communication as a successful act is evidence of the actual summoning of Samuel.
 
-[Evidence 3 — Contrast with Saul's own decree]
-1 Sam 28:3 — Saul had put away those that had familiar spirits out of the land (Visiting a witch itself is a capital offense)
-1 Sam 28:9 — The witch woman: "thou knowest what Saul hath done, how he hath cut off those that have familiar spirits"
-→ Saul went knowing that the visit itself was a sin
-→ And the Bible recorded the result as "enquired" — confirming that the communication was actually successful
+[Evidence 3 — Contrast with Saul's Own Edict]
+1 Sam 28:3 — Saul put away those with familiar spirits from the land (visiting a witch itself was a capital offense).
+1 Sam 28:9 — The witch: "thou knowest what Saul hath done, how he hath cut off..."
+→ Saul went knowing the visit itself was a sin, and
+→ The Bible recorded the result as "enquired" — confirming the communication was actually successful.
     ↓
 [TYPE-P Conclusion] It is correct that the actual Samuel came up ✅
 ```
 
 | Analysis Point | Content |
 |:---:|:---|
-| **Biblical Author's Designation** | 1 Sam 28:15-16 — Directly calls this being "Samuel" |
-| **darash(דָּרַשׁ)** | 1 Chron 10:13 — "enquire of it" = Completed form presupposing successful communication |
-| **Saul's Decree** | 1 Sam 28:3, 9 — Even though the visit itself was a capital offense, the Bible records it as successful communication (darash) |
+| **Biblical Author's Naming** | 1 Sam 28:15-16 — Directly calls this being "Samuel" |
+| **darash (דָּרַשׁ)** | 1 Chron 10:13 — "enquire of it" = Completed form presupposing successful communication |
+| **Saul's Edict** | 1 Sam 28:3, 9 — Even though the visit itself was a capital offense, the Bible records it as a successful communication (darash) |
 | **TYPE-P Conclusion** | The biblical record itself is evidence of the actual summoning of Samuel |
 
 ### 📖 Additional Confirmation — "Disquieted" (1 Sam 28:15)
@@ -77,19 +76,19 @@ This document is an integrated record of BVCAP's 3-stage verification (defense a
 
 | Analysis Point | Content |
 |:---:|:---|
-| **Hebrew רָגַז (ragaz)** | Actually shaken and agitated — Describes an actual state, not just a formal expression |
-| **Conclusion** | The real Samuel was actually "disquieted" — This expression itself would not stand if it were a devil pretending |
-| **BVCAP Verdict** | ✅ Confirmation of the actual summoning of Samuel |
+| **Hebrew רָגַז (ragaz)** | Actually shaken and agitated — A description of an actual state, not a mere formal expression |
+| **Conclusion** | The real Samuel was actually "disquieted" — This expression itself cannot be established if it were a devil acting as him |
+| **BVCAP Verdict** | ✅ Actual summoning of Samuel confirmed |
 
 ---
 
-## 3. 🔑 BVCAP Core Argument 2 — Argument including Jonathan (TYPE-E Rejection of Competing Models)
+## 3. 🔑 BVCAP Core Argument 2 — Inclusion of Jonathan Argument (TYPE-E Rejection of Competing Models)
 
-> **Clash Type**: C-13 (Spiritual Space Category Confusion)
-> **Applied TYPE**: TYPE-E (Complete Rejection of Competing Models) + TYPE-C (Functional Category Separation)
-> **ANCHOR-1**: 1 Sam 31:2 (Death of Jonathan) + Luke 16:26 (Impossibility of moving across the gulf) + 1 Sam 18:1-3 (Jonathan's righteousness)
+> **Conflict Type**: C-13 (Spiritual Space Category Confusion)
+> **Applied TYPE**: TYPE-E (Rejection of all competing models) + TYPE-C (Functional Category Separation)
+> **ANCHOR-1**: 1 Sam 31:2 (Jonathan's death) + Luke 16:26 (Impossibility of crossing the gulf) + 1 Sam 18:1-3 (Jonathan's righteousness)
 
-### Re-analysis of the original text of 1 Sam 28:19
+### Reanalysis of the Original Text of 1 Samuel 28:19
 
 > *"...tomorrow shalt **thou and thy sons** be with me..."*
 
@@ -97,39 +96,39 @@ This document is an integrated record of BVCAP's 3-stage verification (defense a
 
 | Verse | Content |
 |:---:|:---|
-| **1 Sam 18:1-3** | The soul of Jonathan was knit with the soul of David — A man of the covenant |
+| **1 Sam 18:1-3** | Jonathan's soul was knit with the soul of David — A man of covenant |
 | **1 Sam 20:8** | Jonathan made a covenant with David before the LORD |
 | **1 Sam 23:16** | Jonathan went to David and "strengthened his hand in God" |
-| **1 Sam 31:2** | Jonathan fell in the battle of Gilboa along with Saul — Died on the same day |
+| **1 Sam 31:2** | Jonathan died in the battle of Gilboa with Saul — Died on the same day |
 
-> **Conclusion**: Jonathan is a righteous man testified by the Bible, and his whereabouts after death is Paradise (Abraham's Bosom).
+> **Conclusion**: Jonathan is a righteous man testified by the Bible, and his post-mortem destination is Paradise (Abraham's Bosom).
 
-### TYPE-E Complete Rejection of Competing Models Table — Scope of "with me"
+### TYPE-E Rejection of All Competing Models Table — Scope of "with me"
 
 | Competing Model | Core Claim | Fatal Flaw | Survival Status |
 |:---:|:---|:---|:---:|
-| **Whole Sheol Theory** | "With me" = Means the entire underworld | Jonathan (righteous) is included and moving across the gulf is impossible → Compartment is specified | ❌ Rejected |
-| **Paradise Compartment Theory** | "With me" = The Paradise compartment where Samuel is | Passes all verifications | ✅ **Adopted** |
-| **False Prophecy Theory** | The summoned being is a devil → The prophecy itself is unreliable | TYPE-P Reductio ad absurdum: If it were a lying devil, the sin of immediate death could not be established | ❌ Rejected |
+| **Entire Sheol Theory** | "with me" = Meaning the entire underworld | Includes Jonathan (righteous) and crossing the gulf is impossible → Compartment is specified | ❌ Rejected |
+| **Paradise Compartment Theory** | "with me" = The Paradise compartment where Samuel is | Passes all verifications | ✅ **Adopted** |
+| **False Prophecy Theory** | The summoned being was a devil → The prophecy itself is untrustworthy | TYPE-P Reductio ad absurdum: If it were a lying devil, the sin of instant death cannot be established | ❌ Rejected |
 
 ```
 [Fact 1] 1 Sam 28:19 — "tomorrow shalt thou and thy sons be with me (Samuel)"
     +
-[Fact 2] Saul's son Jonathan is righteous — Went to Paradise (Abraham's Bosom) after death
+[Fact 2] Saul's son Jonathan was righteous — He went to Paradise (Abraham's Bosom) after death
     +
-[Fact 3] Luke 16:26 — Impossible to move between Paradise ↔ Place of torment due to the Great Gulf
+[Fact 3] Luke 16:26 — Impossible to move between Paradise ↔ Place of Torment due to the Great Gulf
     ↓
-[Inference] If Jonathan is in Paradise, and Samuel said he would be "with his sons"
-       → The "place of being with" Samuel points to = Paradise compartment
+[Inference] If Jonathan is in Paradise, and Samuel said he would be "with me" along with the sons
+       → The "place of being together" indicated by Samuel = Paradise compartment
     ↓
-[Conclusion] "With me" = Specifies the Paradise compartment, not simply the Sheol system ✅
+[Conclusion] "with me" = Specifies the Paradise compartment, not simply the Sheol system ✅
 ```
 
 | Verification Item | Result |
 |:---:|:---|
-| **Jonathan's Salvation Status** | ✅ Recorded as righteous throughout the Bible |
-| **Impossibility of moving across the Great Gulf** | ✅ Directly specified in Luke 16:26 |
-| **Scope of "With me"** | ✅ Includes Jonathan → Paradise compartment specified |
+| **Jonathan's Salvation** | ✅ Recorded as a righteous man throughout the Bible |
+| **Impossibility of Crossing the Great Gulf** | ✅ Directly specified in Luke 16:26 |
+| **Scope of "with me"** | ✅ Inclusion of Jonathan → Specifies Paradise compartment |
 | **BVCAP 2.0 Verdict** | 🟡 **Leading View** — "High probability that Saul went to Paradise" |
 
 ---
@@ -142,502 +141,529 @@ This document is an integrated record of BVCAP's 3-stage verification (defense a
 
 | Space | Location | Inhabitants | Mobility |
 |:---:|:---:|:---:|:---:|
-| **Paradise (Abraham's Bosom)** | Compartment of the righteous within Sheol | Lazarus, Samuel, (Jonathan) | ❌ Fixed by the gulf |
-| **Place of Torment (Torment)** | Compartment of the wicked within Sheol | Rich Man | ❌ Fixed by the gulf |
-| **Great Gulf** | Between the two compartments | — | Cannot pass according to Luke 16:26 |
+| **Paradise (Abraham's Bosom)** | Righteous compartment in Sheol | Lazarus, Samuel, (Jonathan) | ❌ Fixed by the gulf |
+| **Place of Torment** | Wicked compartment in Sheol | Rich Man | ❌ Fixed by the gulf |
+| **Great Gulf** | Between the two compartments | — | Cannot cross (Luke 16:26) |
 
-### Core Observation
+### Core Observations
 
-*   The rich man and Lazarus could **see and converse with each other** (Luke 16:23-24) — Adjacent within the same Sheol system
-*   However, moving between compartments is **absolutely impossible** due to the **great gulf** (Luke 16:26)
-*   Assuming the gulf that cannot be crossed, "with me" must mean the **same compartment**
-*   If Jonathan is in the Paradise compartment and Samuel said he would be with the "sons" including Jonathan → **Refers to the Paradise compartment**
+*   The rich man and Lazarus could **see and converse with each other** (Luke 16:23-24) — Adjacent within the same Sheol system.
+*   However, movement between compartments is **absolutely impossible** due to the **great gulf** (Luke 16:26).
+*   "with me" = Assuming the uncrossable gulf, it must mean the **same compartment**.
+*   If Jonathan is in the Paradise compartment and Samuel said he is with the "sons" including Jonathan → **Indicates the Paradise compartment**.
 
-### Final Spatial Category Verdict
+### Final Space Category Verdict
 
-> **Correction of C-13 Error**: Interpreting "with me" in 1 Sam 28:19 as the whole of Sheol (system) is a category confusion (C-13). Considering the principle of impossibility of moving across the great gulf and Jonathan's location in Paradise, this points to the **Paradise compartment**.
+> **C-13 Error Correction**: Interpreting "with me" in 1 Sam 28:19 as the entirety of Sheol (system) is a category confusion (C-13). Considering the principle of the uncrossable great gulf and Jonathan's location in Paradise, this indicates the **Paradise compartment**.
 
 ---
 
 ## 5. The Tension Between Saul's Sin and Salvation
 
-### ⚖️ Rearrangement of Debate Structure
+### ⚖️ Reorganization of the Debate Structure
 
 | Item | Content | Verdict |
 |:---:|:---|:---:|
-| **God rejected Saul** | 1 Sam 15:23, 1 Chron 10:14 | ✅ Fact (Deprivation of kingship) |
-| **Saul was slain for his sin** | 1 Chron 10:13 | ✅ Fact |
-| **The actual Samuel came up** | Reductio ad absurdum + ragaz analysis | ✅ BVCAP Confirmation |
-| **"With me" = Paradise** | Argument including Jonathan + Impossibility of moving across the gulf | 🟡 Leading View |
+| **God Rejected Saul** | 1 Sam 15:23, 1 Chron 10:14 | ✅ Fact (Deprivation of Kingship) |
+| **Saul Was Slain for His Sin** | 1 Chron 10:13 | ✅ Fact |
+| **The Actual Samuel Came Up** | Reductio ad absurdum + ragaz analysis | ✅ BVCAP Confirmed |
+| **"with me" = Paradise** | Jonathan inclusion argument + uncrossable gulf | 🟡 Leading View |
 | **Saul's Final Salvation** | — | 🟡 **Possible (Open Debate)** |
 
 ### 💡 Core Theological Insight
 
-> **The declaration "God rejected Saul" is the deprivation of kingship (office), and does not necessarily mean the eternal destruction of his soul.**
+> **The declaration that "God rejected Saul" is a deprivation of kingship (office), and does not necessarily mean the eternal damnation of his soul.**
 
-*   Samson: Fell in his later years but recorded in the Hall of Faith in Hebrews 11
-*   David: Committed adultery and murder but not excluded from salvation
-*   The salvation of Old Testament saints is established within **God's Covenant**, not by **perfect deeds of the law**
+*   Samson: Fell into sin in his later years, yet is recorded in the Hall of Faith in Hebrews 11.
+*   David: Committed adultery and murder, but was not excluded from salvation.
+*   The salvation of Old Testament saints is established not by **perfect works of the law**, but within **God's Covenant**.
 
 ---
 
-## 6. Post-Mortem Transporter Theory — Devils' Dimensional Transfer Ability
+## 6. Post-Mortem Transporter Theory — The Devil's Interdimensional Movement Ability
 
 ### 📖 Summary of Biblical Verification
 
-**① Angels = Transporters of the saved (Directly specified)**
+**① Angels = Transporters of the saved (Direct specification)**
 > **Luke 16:22**: *"carried by the angels into Abraham's bosom"* ✅ Directly specified
 
 **② Scope of Angels' Duties (Heb 1:14)**
-> *"ministering spirits...for them who shall be heirs of salvation"* — Exclusive for the saved ✅
+> *"ministering spirits... for them who shall be heirs of salvation"* — Exclusive to the saved ✅
 
 **③ Underworld Spatial Structure (Luke 16:23, 26)**
-> Paradise ↔ Great Gulf ↔ Place of Torment — Immovable structure ✅
+> Paradise ↔ Great Gulf ↔ Place of Torment — Uncrossable structure ✅
 
-**④ Devils' Mobility (Revelatory meaning of 1 Sam 28)**
+**④ The Devil's Movement Ability (Revelatory meaning of 1 Samuel 28)**
 
-> 1 Samuel 28 is a revelation intentionally revealed by God that devils can travel between the underworld and the earth.
-> The very incident of the actual Samuel being summoned is an incident where the order of the underworld was polluted through a devil's channel (witch).
+> 1 Samuel 28 is a revelation intentionally given by God to show that devils can travel between the underworld and the earth.
+> The very event of the actual Samuel being summoned is an event where the order of the underworld was contaminated through the devil's channel (the witch).
 
 | Item | Content |
 |:---:|:---|
-| **`ἄβυσσος` (Luke 8:31)** | The bottomless pit where devils will ultimately be imprisoned — Currently unconfined and can move |
-| **Matt 8:29** | "before the time" — Devils can operate on earth until their final punishment |
-| **Purpose of Revelation** | God reveals to us through 1 Sam 28 the devils' ability to travel between the underworld and the earth |
+| **`ἄβυσσος` (Luke 8:31)** | The bottomless pit where devils will be finally confined — Currently unconfined and able to move |
+| **Matt 8:29** | "before the time" — Devils can act on earth before their final punishment |
+| **Purpose of Revelation** | Through 1 Sam 28, God reveals to us the devil's ability to travel between the underworld and the earth |
 
-**⑤ Supplementary Argument — Stratified Structure of the Pit (Isa 14:15)**
-> `יַרְכְּתֵי-בוֹר` = The sides of the pit/deepest part — Structural basis for strata of punishment ✅
-> ⚠️ However, the subject dragging Lucifer down to this pit is God, not devils.
+**⑤ Supplementary Argument — The Strata Structure of the Pit (Isa 14:15)**
+> `יַרְכְּתֵי-בוֹר` = The sides/deepest part of the pit — Structural basis for strata of punishment ✅
+> ⚠️ However, the subject that brings Lucifer down to this pit is God, not the devil.
 
 ---
 
 ## 7. 📊 BVCAP BLUE TEAM Final Verdict
 
-The claims of the 'Hell Theory' presented by the `Report on the Debate on King Saul's Salvation` rely on Saul's superficial acts of apostasy and macroscopic discipline, but the BLUE TEAM's defense is based on **the explicit record of the biblical author (summoning of Samuel) and the spatial isolation structure of the spirit world (accompanying Jonathan and the principle of blocking by the great gulf)**.
+The arguments of the 'Hell Theory' presented in the `King Saul Salvation Debate Report` rely on Saul's superficial acts of depravity and macroscopic discipline, but the BLUE TEAM's defense is based on **the biblical author's explicit record (the summoning of Samuel) and the spatial isolation structure of the spirit world (Jonathan's accompaniment and the principle of the great gulf blockade)**.
 
 | Point of Contention | Prosecution (Hell Theory Claim) | BLUE TEAM (Paradise Theory Defense) | BLUE TEAM Verdict |
 |:---:|:---|:---|:---:|
-| **Identity of Samuel** | Was the one summoned a devil imitating Samuel? | The biblical author directly names him "Samuel" and records the completed action (`darash`) | ✅ Confirmed as actual Samuel |
-| **"With me"** | Means the entire Sheol system (prison analogy)? | Applies the principle of including righteous Jonathan + immobility due to the great gulf (Luke 16:26) | ✅ Specifies the same Paradise zone |
-| **Nature of the Sin** | Unpardonable intentional rebellion? | Deprivation of kingship was only a vocational discipline, maintaining the guarantee of the soul's salvation (Precedent of Samson) | ✅ Guarantee of salvation remains valid |
-| **Carrier After Death** | Did a devil, not an angel, carry Saul? | Devils cannot transcend the spiritual realm to shake or carry the rest of the righteous | ✅ Repels the devil's authority to carry |
+| **Samuel's Identity** | Was the summoned being a devil mimicking Samuel? | The biblical author directly named him "Samuel" and recorded in the completed form (`darash`) | ✅ Actual Samuel confirmed |
+| **"with me"** | Means the entire Sheol system (Prison analogy)? | Inclusion of the righteous Jonathan + application of the uncrossable principle of the great gulf (Luke 16:26) | ✅ Specifies the same Paradise compartment |
+| **Nature of the Sin** | Unpardonable, presumptuous treason? | Deprivation of kingship is merely an official discipline; assurance of soul's salvation remains valid (Samson precedent) | ✅ Assurance of salvation valid |
+| **Post-Mortem Transporter** | Was Saul carried by a devil, not angels? | Devils cannot transcend the spirit world to disturb or transport the rest of the righteous | ✅ Repelled devil's transport authority |
 
-### 🔵 Final Verdict Declaration (Verdict)
+### 🔵 Final Confirmed Declaration (Verdict)
 
-> **"to morrow shalt thou and thy sons be with me (1 Sam 28:19)."**
+> **"tomorrow shalt thou and thy sons be with me" (1 Sam 28:19).**
 
-The prophecy "shalt thou... be with me" declared by Samuel to Saul logically and necessarily points to the 'Paradise zone,' due to the fact that 'righteous Jonathan' was included among Saul's sons who were summoned together, and the structure of the underworld separated by a great gulf (Luke 16:26). Although Saul suffered the physical discipline of instant death on earth due to his sin of disobedience, the firm biblical conclusion of the Defense is that his soul participated in the rest of the underground Paradise where Samuel resided, along with righteous Jonathan, within the Covenant relationship.
+Samuel's prophecy to Saul, "shalt thou... be with me," logically and inevitably points to the 'Paradise compartment,' due to the fact that it includes the 'righteous Jonathan' among Saul's sons summoned together, and the underworld structure isolated by the great gulf (Luke 16:26). Saul suffered the physical discipline of instant death on earth due to his sin of disobedience, but the defense's firm biblical conclusion is that his soul participated in the rest of the underground Paradise where Samuel resides, along with the righteous Jonathan, within the Covenant relationship.
 
 ---
 
-## 8. Structure of Sheol — Categorical Separation of the Name 'Hell'
+## 8. Sheol Structure — Category Separation of the Name 'Hell'
 
-> **C-13 Confirmed**: The "hell" in the KJV (Luke 16:23) is the torment zone of Sheol/Hades, not the final Lake of Fire (Gehenna).
+> **C-13 Confirmation**: The "hell" in the KJV (Luke 16:23) is the torment compartment of Sheol/Hades, not the final Lake of Fire (Gehenna).
 
 | Stage | Space | Description |
 |:---:|:---:|:---|
-| **Stage 1** | Above ground | The realm of the living |
-| **Stage 2** | Underground (Sheol/Hades) | Righteous (Paradise) + Wicked (Place of torment) — Separated by a gulf but adjacent |
-| **Stage 3** | Lake of Fire | The final place of punishment after the Great White Throne Judgment |
+| **Stage 1** | Earth | The realm of the living |
+| **Stage 2** | Underworld (Sheol/Hades) | Righteous (Paradise) + Wicked (Place of Torment) — Separated by a gulf but adjacent |
+| **Stage 3** | Lake of Fire | The place of final punishment after the Great White Throne Judgment |
 
-> **Final Confirmation**: The "hell" in Luke 16 is the torment zone of Sheol (C-13 Category Separation Complete). The rich man was able to see Lazarus because they were within the same Sheol system, which confirms that Sheol ≠ Gehenna. ✅
-
----
-
-## 9. 🛡️ Defense's Internal Rebuttal Verification and Preventive Defense (Self-Defense & Pre-Audit)
-
-> This is a record of the preventive defense and self-verification conducted internally by the Defense (Blue Team) to preemptively examine expected rebuttals and criticisms (Peer Review) from academia and to supplement loopholes in the logic of the defense.
+> **Final Confirmation**: The "hell" in Luke 16 is the torment compartment of Sheol (C-13 Category Separation Complete). The rich man could see Lazarus because they were within the same Sheol system, which confirms that Sheol ≠ Gehenna. ✅
 
 ---
 
-### 🔴 Rebuttal ①: Attack on the Premise of TYPE-P Reductio ad Absurdum — Lev 20:6 + 1 Sam 28:3
+## 9. 🛡️ Defense's Self-Objection Verification and Preventive Defense (Self-Defense & Pre-Audit)
 
-**Attack:** "The very act of seeking out a medium is specified in the law as a capital offense (Lev 20:6), and Saul himself issued an edict to kill mediums (1 Sam 28:3, 9). Therefore, even if it was a devil, Saul could have been killed just for the visit itself. The original premise that 'he cannot be executed for merely attempting' collapses."
+> This is a record of preventive defense and self-verification performed internally by the Defense (Blue Team) to preemptively review expected academic objections and criticisms (Peer Review) and to supplement the loopholes in the defense logic.
 
-> ⚖️ **BVCAP Acceptance:** This rebuttal is **valid**. The original premise of TYPE-P ("he cannot be executed for merely attempting") is weakened by Lev 20:6 and 1 Sam 28:3.
+---
+
+### 🔴 Objection ①: Attack on TYPE-P Reductio ad absurdum Premise — Lev 20:6 + 1 Sam 28:3
+
+**Attack:** "The act of visiting a witch itself is specified as a capital offense in the law (Lev 20:6), and Saul himself issued an edict to kill witches (1 Sam 28:3, 9). Therefore, even if it were a devil, Saul could die just by the visit itself. The original premise that 'capital punishment is impossible just for the attempt' collapses."
+
+> ⚖️ **BVCAP Acceptance:** This objection is **valid.** The original premise of TYPE-P ("capital punishment is impossible just for the attempt") is weakened by Lev 20:6 and 1 Sam 28:3.
 
 > **1 Sam 28:3 (KJV):** *"And Saul had **put away** those that had familiar spirits, and the wizards, **out of the land**."*
 > **1 Sam 28:9 (KJV):** *"thou knowest what Saul hath done, how he hath **cut off** those that have familiar spirits..."*
 
-**→ Premise Revision Complete:** The TYPE-P argument in Section 2 has been redefined from "he cannot be executed for merely attempting" (weak premise) to **"the Bible records the act of successful communication (darash) and names the entity 'Samuel'"** (strong premise).
+**→ Premise Modification Complete:** The TYPE-P argument in Section 2 is redefined from "capital punishment impossible just for attempt" (weak premise) to **"the Bible recorded the communication as a successful act (darash) and named this being 'Samuel'"** (strong premise).
 
-**🟢 Redefined Defense — The Record of Darash Itself is the Evidence:**
+**🟢 Redefined Defense — The darash record itself is the evidence:**
 
 | Comparison | Lev 20:6 (Prohibition of visit) | 1 Sam 28:3 (Saul's edict) | 1 Chron 10:13 (Actual record) |
 |:---:|:---|:---|:---|
-| **Hebrew** | פָּנָה (panah) — to turn | הֵסִיר (hesir) — to put away | דָּרַשׁ (darash) — to inquire/communicate |
-| **Content** | Prohibition of turning toward a medium | Put mediums out of the land | **Actually inquired of it** |
-| **Meaning** | The visit itself is a sin ✅ | Saul knew this ✅ | The Bible records that the communication was **successful** ✅ |
+| **Hebrew** | פָּנָה (panah) — to turn | הֵסִיר (hesir) — to remove | דָּרַשׁ (darash) — to enquire/consult |
+| **Content** | Prohibition of turning to witches | Put away witches from the land | **Actually enquired of it** |
+| **Meaning** | Visit itself is a sin ✅ | Saul knew this ✅ | The Bible records that communication **succeeded** ✅ |
 
-> **Core Logic:** It is true that the visit itself is a capital offense according to Lev 20:6 and 1 Sam 28:3. **However**, the fact that 1 Chron 10:13 records it not as a simple visit (panah) but as an **actual communication (darash)** shows that the biblical author recognized this event not as "a failed attempt deceived by a devil" but as **"an act of successfully inquiring of an actual entity."** Calling this entity directly **"Samuel"** in 1 Sam 28:15-16 serves as the final confirmation of this.
+> **Core Logic:** It is true that the visit itself is a capital offense according to Lev 20:6 and 1 Sam 28:3. **However,** the fact that 1 Chron 10:13 recorded it not as a simple visit (panah) but as an **actual communication (darash)** shows that the biblical author perceived this event not as a "failed attempt deceived by a devil" but as a **"successful act of enquiring of an actual being."** Calling this being **"Samuel"** directly in 1 Sam 28:15-16 ultimately confirms this.
 
-> ⚖️ **Final Verdict:** The original premise ("he cannot be executed for merely attempting") is **discarded** and replaced with the strengthened premise ("the Bible records successful communication + names him Samuel"). The **conclusion of the TYPE-P argument (the actual summoning of Samuel) is maintained ✅**
+> ⚖️ **Final Verdict:** The original premise ("capital punishment impossible just for attempt") is **discarded**, and replaced with the strengthened premise ("Bible records communication success + naming Samuel"). The **conclusion (actual Samuel summoning) of the TYPE-P argument is maintained ✅**
 
 ---
 
-### 🔴 Rebuttal ②: Precise Analysis of the Original Word for "With me" — עִמִּי (immi)
+### 🔴 Objection ②: Precise Source Text Analysis of "with me" — עִמִּי (immi)
 
-**Attack:** There is no proof that "with me" necessarily means the same zone. It could mean the entire Sheol system.
+**Attack:** There is no proof that "with me" necessarily means the same compartment. It could mean the entire Sheol system.
 
-> ⚖️ **BVCAP Repulsion:** This rebuttal is completely neutralized by the **spatial proximity analysis and usage comparison of עִמִּי (immi)** detailed in **'Issue B' of [PART 3]**. Because the Hebrew preposition `עִם (im)` always indicates identical physical and spatial close coexistence, the theory of the entire Sheol does not align with biblical usage. **(Refer to the original word analysis in Issue B of PART 3) ✅**
+> ⚖️ **BVCAP Repulsion:** This objection is completely neutralized by the **spatial proximity analysis and usage comparison of עִמִּי (immi)**, detailed in **'Issue B' of [PART 3]**. Since the Hebrew preposition `עִם (im)` consistently indicates identical physical/spatial close co-existence, the Entire Sheol Theory is inconsistent with biblical usage. **(See Source Text Analysis in Issue B of PART 3) ✅**
 
-### 🔴 Rebuttal ③: Can the Righteous in Paradise be Summoned by a Medium? — Attack on Theological Impossibility
+### 🔴 Objection ③: Can a righteous man in Paradise be summoned by a witch? — Attack on Theological Impossibility
 
-**Attack:** "Even assuming it was the actual Samuel, it is theologically impossible for a righteous person resting peacefully in Paradise (Abraham's bosom) to be summoned by the mere incantation of a medium. Paradise is under God's protection, and the incantations of devils or humans cannot cross its boundary. Therefore, the summoned entity must necessarily be a deception of the devil."
+**Attack:** "Even assuming it was the actual Samuel, it is theologically impossible for a righteous man peacefully resting in Paradise (Abraham's Bosom) to be summoned by the witchcraft of a mere witch. Paradise is under God's protection, and neither devils nor human witchcraft can breach its borders. Therefore, the summoned being must be a demonic deception."
 
 **🟢 BVCAP Defense — Divine Sovereign Exception**
 
-While this rebuttal is strong, the Bible records multiple precedents where God **sovereignly caused the dead to appear**.
+This objection is strong, but the Bible records multiple precedents where God **sovereignly caused the dead to appear**.
 
 | Precedent | Text | Content |
 |:---:|:---:|:---|
-| **Appearance at the Mount of Transfiguration** | Matt 17:3 (KJV) | *"And, behold, there appeared unto them Moses and Elias talking with him."* — The already dead Moses appeared on earth. Not by a medium's incantation, but by **God's direct permission**. |
-| **Resurrection of the Two Witnesses** | Rev 11:11-12 | The Spirit of God entered the two dead witnesses and they stood up — **God's direct intervention** transcending spiritual boundaries. |
-| **1 Sam 28 Itself** | 1 Chron 10:13-14 | Recorded as an event where God **directly executed** Saul. God, the executor of judgment, used Samuel as an instrument to declare that judgment. |
+| **Mount of Transfiguration** | Matt 17:3 (KJV) | *"And, behold, there appeared unto them Moses and Elias talking with him."* — Moses, already dead, appeared on earth. Not by witchcraft, but by **God's direct permission**. |
+| **Resurrection of Two Witnesses** | Rev 11:11-12 | The Spirit of life from God entered into them and they stood upon their feet — **God's direct intervention** transcending spiritual boundaries. |
+| **1 Samuel 28 Itself** | 1 Chron 10:13-14 | Recorded as an event where God **directly executed** Saul. God, the executor of judgment, used Samuel as a tool for pronouncing that judgment. |
 
-> **Core Logic:** The incantation did not cross the boundary of Paradise. **God sovereignly sent Samuel by using the medium's act as a tool.** This was not the devil invading Paradise, but an event where God exceptionally opened the spiritual boundary to declare His judgment.
+> **Core Logic:** Witchcraft did not breach the borders of Paradise. **God sovereignly sent Samuel, using the witch's act as a tool.** This was not an event where a devil invaded Paradise, but an event where God exceptionally opened the spiritual border to pronounce His judgment.
 
-> **Precise Comparison:** When Moses appeared on the Mount of Transfiguration, no one argued, "Since the righteous in Paradise cannot appear on earth, that is a devil." Likewise, the standard of judgment for 1 Sam 28 is not **who the subject of the channel (the medium) is**, but **who the subject of the permission (God) is**.
+> **Precise Comparison:** When Moses appeared on the Mount of Transfiguration, no one argued, "A righteous man in Paradise cannot appear on earth, so that must be a devil." Similarly, for 1 Samuel 28, the criterion of judgment is not **who the subject of the channel is (the witch)** but **who the subject of permission is (God)**.
 
-> ⚖️ **Verdict:** The thesis of the theological impossibility of summoning the righteous from Paradise is defended by the **principle of divine sovereign exception**. When combined with the fact that the biblical author named this entity "Samuel" (TYPE-P), this defense is further strengthened. Rebuttal ③ **Rejected ✅**
+> ⚖️ **Verdict:** The thesis of theological impossibility regarding the summoning of a righteous man from Paradise is defended by the **Divine Sovereign Exception**. Combined with the fact that the biblical author named this being "Samuel" (TYPE-P), this defense is further strengthened. Objection ③ is **rejected ✅**
 
 ---
 
-### 🔴 Rebuttal ④: Limitations of the Samson and David Analogies
+### 🔴 Objection ④: Limitations of the Samson/David Analogy
 
-**Attack:** Samson is explicitly mentioned in Hebrews 11, and David repented in Psalm 51. Saul has no such record confirming his salvation.
+**Attack:** Samson is specified in Hebrews 11, and David repented in Psalm 51. There is no such record confirming salvation for Saul.
 
-> ⚖️ **BVCAP Acceptance:** This rebuttal is **valid**. The decisive difference between Samson/David and Saul is the presence or absence of a record confirming salvation within the Bible.
+> ⚖️ **BVCAP Acceptance:** This objection is **valid.** The decisive difference between Samson/David and Saul is the presence or absence of records confirming salvation within the Bible.
 
-| Figure | Act of Fall | Record Confirming Salvation |
+| Figure | Act of Depravity | Record Confirming Salvation |
 |:---:|:---|:---|
-| **Samson** | Delilah, foreign women | ✅ Heb 11:32 — Explicitly mentioned in the Hall of Faith |
-| **David** | Adultery, murder | ✅ Ps 51 Repentance + Heb 11 + Acts 13:22 |
-| **Saul** | Disobedience, consulting a medium | ❌ No mention in Heb 11, no explicit record of repentance |
+| **Samson** | Delilah, foreign women | ✅ Heb 11:32 — Specified in the Hall of Faith |
+| **David** | Adultery, murder | ✅ Ps 51 repentance + Heb 11 + Acts 13:22 |
+| **Saul** | Disobedience, consulting a witch | ❌ No mention in Heb 11, no explicit record of repentance |
 
-> **Conclusion:** This difference is precisely the legitimate basis for keeping the final verdict on Saul as **⚠️ UNRESOLVED**. While the "with me" argument (🟡 Probable) opens the **possibility** that Saul went to Paradise, it cannot be upgraded to ✅ CONSISTENT because there is no definitive confirmation of salvation like in Heb 11.
+> **Conclusion:** This difference is exactly the valid ground for keeping Saul's final verdict as **⚠️ UNRESOLVED**. The "with me" argument (🟡 Leading) opens the **probability** that Saul went to Paradise, but because a definitive confirmation of salvation like Hebrews 11 is absent, it cannot be upgraded to ✅ CONSISTENT.
 
 ---
 
-### 🔴 Rebuttal ⑤: "With me" = Idiom for "To the Afterlife" — Usage Comparison
+### 🔴 Objection ⑤: "with me" = "to the afterlife" Idiom Theory — Usage Comparison
 
-**Attack:** "With me" could be an idiom for death like "gathered unto his people."
+**Attack:** "with me" could be a death idiom like "gathered unto his people."
 
-> ⚖️ **BVCAP Repulsion:** This rebuttal is completely rejected by the **structural contrast between the 1st person direct speech (with me) and the 3rd person descriptive death idiom (gathered unto his people)** established in **'Issue B' of [PART 3]**. Because the grammatical structures and referents of the two phrases are completely different, they cannot be treated as the same idiom. **(Refer to the grammatical structure comparison in Issue B of PART 3) ✅**
+> ⚖️ **BVCAP Repulsion:** This objection is completely rejected by the **structural contrast between the 1st person direct speech (with me) and the 3rd person descriptive death idiom (gathered unto his people)** identified in **'Issue B' of [PART 3]**. Since the grammatical structure and referents of the two phrases are completely different, they cannot be treated as the same idiom. **(See Grammatical Structure Comparison in Issue B of PART 3) ✅**
 
-### 📊 Comprehensive Verdict Table on Rebuttals (After Defense)
+### 📊 Comprehensive Objection Verdict Table (Post-Defense)
 
-| Rebuttal | Target of Attack | Strength | Defense Result | Final Verdict |
+| Objection | Target of Attack | Strength | Defense Result | Final Verdict |
 |:---:|:---|:---:|:---:|:---:|
-| **①** | TYPE-P Premise (Lev 20:6 + 1 Sam 28:3) | ⭐⭐⭐⭐ | 🟡 Original premise **discarded** → **Redefined** with strengthened premise (darash record + named Samuel) | TYPE-P Conclusion **Maintained** ✅ |
-| **②** | "With me" scope unclear | ⭐⭐⭐ | 🟢 Exhaustive analysis of עִמִּי usage — Meaning of close coexistence confirmed | Jonathan argument **Reinforced** ✅ |
-| **④** | Limitations of Samson/David analogy | ⭐⭐⭐ | 🟡 **Accepted** — Absence of Heb 11 is the basis for UNRESOLVED | Verdict level **Maintained** ⚠️ |
-| **⑤** | "With me" idiom theory | ⭐⭐⭐ | 🟢 Grammatical structures completely different — Cannot be equated with idiom | Rebuttal **Rejected** ✅ |
+| **①** | TYPE-P Premise (Lev 20:6 + 1 Sam 28:3) | ⭐⭐⭐⭐ | 🟡 Original premise **discarded** → **Redefined** with strengthened premise (darash record + Samuel naming) | TYPE-P Conclusion **Maintained** ✅ |
+| **②** | "with me" scope unclear | ⭐⭐⭐ | 🟢 Exhaustive analysis of עִמִּי usage — confirms meaning of proximate co-existence | Jonathan Argument **Reinforced** ✅ |
+| **④** | Limitations of Samson/David analogy | ⭐⭐⭐ | 🟡 **Accepted** — Absence of Heb 11 is ground for UNRESOLVED | Verdict level **Maintained** ⚠️ |
+| **⑤** | "with me" idiom theory | ⭐⭐⭐ | 🟢 Completely different grammatical structures — cannot be equated as idioms | Objection **Rejected** ✅ |
 
 ---
 
 *Engine: BVCAP_2.0.md (Verdict Form) + BVCAP_Skill_Pipeline.md v1.0 (Execution Engine)*
-*Collision Type: C-13 + C-08 | TYPE Weapons: TYPE-P + TYPE-E + TYPE-C + A-20*
+*Conflict Type: C-13 + C-08 | TYPE Weapons: TYPE-P + TYPE-E + TYPE-C + A-20*
 *ANCHOR-1: Luke 16:22-26 + 1 Sam 31:2 + 1 Chron 10:13-14*
-*STATUS: EVIDENCE-BASED VERDICT | Level of Academic Consensus: 🟡 Probable View*
+*STATUS: EVIDENCE-BASED VERDICT | Academic Consensus Level: 🟡 Leading View*
 
 ---
-
-## 🟥 [PART 2] Red Team's Red Audit — The Theory of Saul in Hell
-### 📑 [BVCAP 2.0 Red Audit] Definitive Argument for King Saul in Hell (Place of Torment)
+## 🟥 [PART 2] Prosecution (Red Team) Red Audit — Saul Hell Theory
+### 📑 [BVCAP 2.0 Red Audit] Argument Confirming King Saul's Hell (Place of Torment)
 **— "Can an Enemy of God go to Paradise (Abraham's Bosom)?" RED TEAM Counter-Audit —**
 
 > **STATUS**: BVCAP 2.0 RED TEAM (Red Audit) Complete
-> **Purpose of Analysis**: To uncover the weaknesses of the 'Paradise theory including Jonathan' presented in the `King Saul Salvation Debate Report`, and to forensically prove that Saul went to the Torment zone of Sheol through biblical attribute collision (TYPE-C) and macro-spatial theory (Macro-Sheol).
-> **Applied TYPE Weapons**: TYPE-C (Attribute/Category Collision), TYPE-E (Rejection of Competing Models), A-06 (Tota Scriptura)
-> **ANCHOR-1 Anchor Verses**: 1 Sam 28:16 (Declaration as Enemy of God), Num 15:30 (Presumptuous sin), Heb 10:26 (Willful sin)
+> **Audit Purpose**: To forensicly prove that Saul went to the torment compartment of Sheol by digging into the weaknesses of the 'Paradise Theory Including Jonathan' presented in the `King Saul Salvation Debate Report`, using biblical attribute conflict (TYPE-C) and macroscopic spatial theory (Macro-Sheol).
+> **Applied TYPE Weapons**: TYPE-C (Attribute/Category Conflict), TYPE-E (Rejection of Competing Models), A-06 (Tota Scriptura)
+> **ANCHOR-1 Anchor Verses**: 1 Sam 28:16 (Declaration of God's Enemy), Num 15:30 (Presumptuous Sin), Heb 10:26 (Willful Sin)
 
 ---
 
-## 1. ⚔️ The Starting Point of the RED TEAM Rebuttal
+## 1. ⚔️ Starting Point of the RED TEAM Counter-Argument
 
-The BLUE TEAM inferred that Saul likely went to Paradise based on Samuel's prophecy **"shalt thou... be with me"** and **"the accompaniment of Jonathan (the righteous)."**
+The BLUE TEAM inferred that there is a high probability Saul went to Paradise, based on Samuel's prophecy, **"shalt thou... be with me,"** and the **"accompaniment of Jonathan (righteous)."**
 
-However, the BVCAP RED TEAM proves that the Saul Paradise Theory generates a serious theological contradiction (C-04 Attribute Conflict), based on the more macroscopic biblical attributes of **Saul's spiritual state** and the **legal nature of his sin (Nature of Sin)**.
+However, the BVCAP Red Audit Team (RED TEAM) proves that the Saul Paradise Theory causes a severe theological contradiction (C-04 Attribute Conflict), based on broader biblical attributes: **Saul's Spiritual State** and the **Legal Nature of his Sin**.
 
 ---
 
-## 2. 🗡️ Refutation Weapon 1: TYPE-C Attribute Conflict — "Enemy of God"
+## 2. 🗡️ Counter-Argument Weapon 1: TYPE-C Attribute Conflict — "Enemy of God"
 
 > **ANCHOR Verse:** 1 Sam 28:16 (KJV)
 > *"Then said Samuel, Wherefore then dost thou ask of me, seeing the LORD is departed from thee, and is become thine **enemy**?"*
 
-### ⚖️ Attribute Analysis
+### ⚖️ Attribute Contrast Analysis
 
-The BLUE TEAM cited Samson and David as examples, arguing that "the deprivation of kingship does not necessarily mean the destruction of the soul." However, Saul's condition was not a simple 'deprivation of office' or 'fleshly corruption'.
+The BLUE TEAM cited Samson and David, stating that "deprivation of kingship does not necessarily mean the ruin of the soul." However, Saul's state was not a simple 'deprivation of office' or 'fleshly fall.'
 
-| Item | Abraham (Master of Paradise) | Saul (Condition right before death) |
+| Item | Abraham (Master of Paradise) | Saul (State right before death) |
 |:---:|:---:|:---:|
-| **Spiritual Title** | **"Friend of God"** (James 2:23) | **"Enemy of God"** (Enemy - 1 Sam 28:16) |
-| **Spiritual Position** | Paradise = 'Abraham's Bosom' | Cut off by the law (Num 15:30) |
+| **Spiritual Title** | **"Friend of God"** (James 2:23) | **"Enemy"** (1 Sam 28:16) |
+| **Spiritual Location** | Paradise = 'Abraham's Bosom' | Cut off by the law (Num 15:30) |
 
-**[RED TEAM Reductio ad Absurdum]**
-If Saul died and went to Paradise (Abraham's Bosom), a contradiction arises where someone officially declared by God as **"My enemy"** the night before his death is immediately comforted in the **arms of "My friend"** upon death. In the entire Old Testament, there is not a single precedent of someone declared an Enemy of God entering Paradise.
+**[RED TEAM Reductio ad absurdum]**
+If Saul died and went to Paradise (Abraham's Bosom), a contradiction occurs where one officially declared as **"My enemy"** by God on the night before his death is immediately embraced and comforted in the bosom of **"My friend"** upon dying. Throughout the Old Testament, there is not a single precedent of a person declared an enemy of God entering Paradise.
 
-> **Verdict:** It aligns with Tota Scriptura (the consistency of the entire Bible) that God's enemy goes to a place of Torment.
+> **Verdict:** It aligns with Tota Scriptura (consistency of the whole Bible) that an enemy of God goes to the Place of Torment.
 
 ---
 
-## 3. 🗡️ Refutation Weapon 2: Macro-Sheol Theory of "With Me"
+## 3. 🗡️ Counter-Argument Weapon 2: Macro-Sheol Theory of "with me"
 
 > **ANCHOR Attack Target:** BLUE TEAM's Jonathan inclusion argument and physical proximity of עִמִּי (immi)
 
-### ⚖️ Speaker's Perspective and Sheol System
+### ⚖️ Perspective of the Speaker and the Sheol System
 
-The reference point of Samuel's prophecy, *"to morrow shalt thou and thy sons be with me,"* is not a **"specific zone called Paradise"** but the **"entire realm of the dead (Sheol)"** in contrast to the land of the living (earth).
+The reference point of Samuel's prophecy, *"tomorrow shalt thou and thy sons be with me,"* is not the **"specific compartment of Paradise,"** but the **"entire realm of the dead (Sheol)"** in contrast to the land of the living (earth).
 
-1. **Prison Metaphor (System vs Compartment):**
-   If an inmate (Samuel) in a prison briefly goes out and tells a civilian (Saul), *"Tomorrow you and your sons will also be with me,"* this means **"Tomorrow you too will enter the prison (Sheol system),"** not a detailed zone assignment like "You will be assigned to building A, room 302 (Paradise zone) like me."
-2. **Refutation of Jonathan Inclusion Argument:**
-   Jonathan (the righteous) and Saul (the wicked) died in the Battle of Gilboa on the same day and **equally crossed over into the underground system of Sheol (with me).** However, immediately upon arrival, based on the Great Gulf, Jonathan was categorized to the Paradise side and Saul to the place of Torment side.
-3. **Macroscopic Fulfillment:** Samuel's prophecy "You go with me to the underworld (Sheol)" was literally and perfectly fulfilled, and the word "with" does not necessarily establish that they must be in the exact same compartment.
+1. **Prison Analogy (System vs Compartment):** 
+   If an inmate (Samuel) temporarily leaves the prison and tells a civilian (Saul), *"Tomorrow you and your sons will be with me,"* this means **"You will also enter the prison (Sheol system) tomorrow,"** not a specific compartment assignment like "You will be assigned to Cell 302 in Block A (Paradise compartment) like me."
+2. **Refutation of the Jonathan Inclusion Argument:** 
+   Jonathan (righteous) and Saul (wicked) died in the battle of Gilboa on the same day and **equally crossed over into the underground system of Sheol (with me).** However, immediately upon arrival, Jonathan was sorted into the Paradise side and Saul into the Place of Torment side, based on the Great Gulf.
+3. **Macroscopic Fulfillment:** Samuel's prophecy that "You will go to the underworld (Sheol) with me" was fulfilled perfectly and literally; the word "with" does not necessarily establish that they must be in the exact same partition.
 
-> **Verdict:** Since "with me" is a declaration generally referring to 'migration to the world of the dead (Sheol)', it cannot be conclusive evidence that Saul went to Paradise.
+> **Verdict:** Since "with me" is a general declaration of 'migration to the world of death (Sheol),' it cannot be definitive evidence that Saul went to Paradise.
 
 ---
 
-## 4. 🗡️ Refutation Weapon 3: Judgment for Presumptuous Sin
+## 4. 🗡️ Counter-Argument Weapon 3: Judgment of Presumptuous Sin
 
 > **ANCHOR Verse:** Num 15:30 (KJV)
 > *"But the soul that doeth ought **presumptuously**... the same reproacheth the LORD; and that soul shall be **cut off** from among his people."*
 
 ### ⚖️ Qualitative Difference in Sin (David vs Saul)
 
-Saul's sin did not stem from 'fleshly weakness' like David's (adultery with Bathsheba) or Samson's (temptation by Delilah).
+Saul's sin did not originate from the 'weakness of the flesh' like David (adultery with Bathsheba) or Samson (temptation of Delilah).
 
-* **David:** Sinned out of weakness within the boundaries of the law → Thorough repentance in Psalm 51
-* **Saul:** When God did not answer (1 Sam 28:6), he **presumptuously** opened a demonic channel (medium) which the law prescribed as punishable by death.
+* **David:** Sinned out of weakness within the bounds of the law → thorough repentance in Psalm 51.
+* **Saul:** When God did not answer (1 Sam 28:6), he **presumptuously** opened a demonic channel (witch) which the law prescribed as a capital offense.
 * **Samuel's Prior Warning (1 Sam 15:23):** *"For rebellion is as the sin of witchcraft"* → Saul committed both of these: rebellion and witchcraft.
 
 **[RED TEAM Legal Analysis]**
-According to the law in Numbers 15, the sin offering does not apply to a "Presumptuous Sin," and that soul **"shall be cut off."** After committing this sin, Saul was killed instantly by God's judgment (1 Chron 10:14) the next day without an opportunity to repent. In the Old Testament era before the cross, it is an interpretation that self-collapses the Old Testament legal system to say that a soul directly executed by God after committing an unpardonable sin of treason goes to Paradise.
+According to the law in Numbers 15, a sin offering cannot be applied to a "Presumptuous Sin," and that soul shall be **"cut off."** Saul committed this sin and was executed directly by God's judgment (1 Chron 10:14) without a chance to repent the next day. In the Old Testament era prior to the cross, interpreting that a soul directly executed by God for committing an unpardonable sin of rebellion goes to Paradise is an interpretation that collapses the Old Testament legal system itself.
 
 ---
 
-## 5. 🗡️ Refutation Weapon 4: Post-mortem Carrier Theory — The Demonic Power to Carry
+## 5. 🗡️ Counter-Argument Weapon 4: Post-Mortem Transporter Theory — The Devil's Transport Authority
 
-> **ANCHOR Verses:** Heb 1:14 (Angels' duty), Heb 2:14 (Devil's power of death)
+> **ANCHOR Verses:** Heb 1:14 (Duties of angels), Heb 2:14 (Devil's power of death)
 
-### ⚖️ Analysis of Carrying Agents and Spiritual Order
+### ⚖️ Analysis of the Transport Subject and Spiritual Order
 
-If Saul went to Paradise (Abraham's Bosom), the angels who serve those who are saved (Heb 1:14) should have carried him (Luke 16:22). However, Saul committed a severe destruction of spiritual order prescribed by the Bible.
+If Saul went to Paradise (Abraham's Bosom), the angels who minister to the saved (Heb 1:14) should have transported him (Luke 16:22). However, Saul committed a severe destruction of spiritual order defined by the Bible.
 
-1. **Limit of Angels' Duty:** Angels are ministering spirits sent forth to minister for them who shall be 'heirs of salvation'. There is no reason for an angel to escort a wicked man abandoned by God and who tore open a demonic channel (medium) to Paradise.
-2. **Placed Under Demonic Power:** Saul communicated with devils of the underworld through a medium. The devil is 'him that had the power of death' (Heb 2:14), and a wicked man abandoned by God like Saul is placed under the devil's power to carry.
-3. **Agent of 'Disquieting':** The summoned being saying "Why hast thou disquieted me" (1 Sam 28:15) cannot be the actual Samuel resting in God's true rest. A righteous man who entered God's rest cannot be disquieted by the mere incantation of a medium, so this proves it is a **fake devil** imitating Samuel.
+1. **Limits of Angels' Duties:** Angels are ministering spirits sent forth to minister for them who shall be 'heirs of salvation.' There is no reason for an angel to escort a wicked man, rejected by God who flung open the devil's channel (witch), to Paradise.
+2. **Placed Under the Devil's Authority:** Saul communicated with devils of the underworld through one with a familiar spirit. The devil is the one 'that had the power of death' (Heb 2:14), and a wicked man abandoned by God like Saul is placed under the devil's transport authority.
+3. **The Subject of 'Disquieting':** The fact that the summoned being said "Why hast thou disquieted me" (1 Sam 28:15) proves it cannot be the true Samuel in God's rest. A righteous man entered into God's rest cannot be disquieted by the witchcraft of a mere witch, thereby proving this is a **fake devil** mimicking Samuel.
 
-**[RED TEAM Reductio ad Absurdum]**
-It was devils who took Saul to the afterlife. The being that appeared to the medium was a lying devil imitating Samuel to drag Saul to Hell.
+**[RED TEAM Reductio ad absurdum]**
+It was devils that took Saul to the afterlife. The being that appeared to the witch was a lying devil mimicking Samuel to drag Saul to Hell.
 
 ---
 
 ## 6. 📊 BVCAP RED TEAM Final Verdict
 
-The evidence for the 'Paradise Theory' presented in the `King Saul Salvation Debate Report` relies on a microscopic interpretation of a specific verse (1 Sam 28:19), but the RED TEAM's refutation is based on the **macroscopic attributes of the entire Bible (Enemy of God, judgment of presumptuous sin)**.
+The evidences for the 'Paradise Theory' presented in the `King Saul Salvation Debate Report` rely on a microscopic interpretation of a specific verse (1 Sam 28:19), but the RED TEAM's counter-arguments are based on the **macroscopic attributes of the entire Bible (Enemy of God, judgment of presumptuous sin)**.
 
-| Issue | King Saul Salvation Debate Report (Defense of Paradise Theory) | RED TEAM (Refutation for Hell Theory) | RED TEAM Verdict |
+| Point of Contention | King Saul Salvation Debate Report (Paradise Theory Defense) | RED TEAM (Hell Theory Counter-Argument) | RED TEAM Verdict |
 |:---:|:---|:---|:---:|
-| **Saul's Condition** | Lost kingship but did not lose salvation? | Official declaration as **"Enemy of God"** | ❌ Entry to Paradise impossible |
-| **"With Me"** | Paradise zone because Jonathan (righteous) is included | Prophecy of migration to the **entire Sheol system** (Prison metaphor) | ✅ Defense of Hell Theory neutralized |
-| **Nature of Sin** | Judgment by Old Testament law of deeds | **'Presumptuous'** sin unpardonable by law | ❌ Possibility of salvation blocked |
-| **Post-mortem Carrier** | Angels carried Saul? | Angels ministering only to heirs of salvation cannot carry Saul (carried by devils) | ❌ Migration to Paradise impossible |
+| **Saul's State** | Lost kingship, but not salvation? | Official declaration as **"Enemy of God"** | ❌ Entry to Paradise impossible |
+| **"with me"** | Paradise compartment since Jonathan (righteous) is present | Forecast of migration to the **entire Sheol system** (Prison analogy) | ✅ Invalidates Paradise Theory defense |
+| **Nature of the Sin** | Judgment by Old Testament law of works | **'Presumptuous sin'** unpardonable under the law | ❌ Blocks possibility of salvation |
+| **Post-Mortem Transporter** | Angels transported Saul? | Angels ministering only to heirs of salvation cannot transport Saul (Devil transports) | ❌ Migration to Paradise impossible |
 
 ### 🔴 Final Confirmed Declaration (Verdict)
 
-> **"The Enemy of God cannot be embraced in the bosom of the Friend of God."**
+> **"An Enemy of God cannot be embraced in the bosom of God's Friend."**
 
-Samuel's prophecy to Saul was an 'invitation to the afterlife (Sheol)', but Saul's final destination was not Paradise but the **'place of Torment'** across the great gulf. Saul was judged as an intentional rebel who destroyed the spiritual order by opening a demonic channel beyond simple disobedience, and it perfectly aligns with biblical attributes and the law that his soul fell to Hell (the Torment side of Sheol).
+The prophecy Samuel gave to Saul was an 'invitation to the afterlife (Sheol),' but Saul's final destination was not Paradise, but the **'Place of Torment'** across the great gulf. Saul went beyond simple disobedience; he was judged as a presumptuous rebel who destroyed spiritual order by opening a demonic channel. It perfectly aligns with biblical attributes and the law that his soul fell to Hell (the Torment side of Sheol).
 
 ---
 
 *Engine: BVCAP_2.0.md (Verdict Form) + RED_TEAM_PROTOCOL (Critical Cross-Verification)*
-*Conflict Type: C-04 (Attribute Conflict) + C-13 (Macro-Spatial Theory)*
-*STATUS: RED TEAM COUNTER-VERDICT | Level of Academic Consensus: 🔴 Overwhelming Refutation Complete*
+*Conflict Type: C-04 (Attribute Conflict) + C-13 (Macroscopic Spatial Theory)*
+*STATUS: RED TEAM COUNTER-VERDICT | Academic Consensus Level: 🔴 Overwhelming Counter-Proof Complete*
 
 ---
 
-## ⚖️ [PART 3] Supreme Court Final Verdict — Cross Examination and Verdict Text of Both Sides
-**— Blue Team (Defense) (Defending Paradise Theory) vs Red Team (Prosecution) (Prosecuting Hell Theory) Final Cross Examination —**
+## ⚖️ [PART 3] Supreme Court Final Verdict — Cross-Examination of Both Sides and Verdict Document
+**— Blue Team (Defense) (Paradise Theory) vs Red Team (Prosecution) (Hell Theory) Final Cross-Examination —**
 
 > **Case Number**: BVCAP-SAUL-001
-> **Subject of Hearing**: Post-mortem whereabouts of King Saul
-> **Defense (Blue Team)**: `Blue Team (Defense)` — Saul Paradise Theory
-> **Prosecution (Red Team)**: `Red Team (Prosecution)` — Saul place of Torment Theory
+> **Subject of Examination**: King Saul's post-mortem whereabouts
+> **Defense (Blue Team)**: `Blue Team` — Saul Paradise Theory
+> **Prosecution (Red Team)**: `Red Team` — Saul Place of Torment Theory
 > **Chief Judge**: BVCAP 2.0 Neutral Engine
-> **Applied Principles**: Tota Scriptura (Consistency of the Entire Bible) + KJV Original Text Final Authority
+> **Applied Principles**: Tota Scriptura (Consistency of the whole Bible) + Final Authority of the KJV Original Text
 
 ---
 
-## 1. 📋 Summary of Core Arguments of Both Sides
+## 1. 📋 Summary of Core Arguments from Both Sides
 
 ### 🔵 Defense — Saul Paradise Theory
 
 | # | Core Weapon | Summary |
 |:---:|:---|:---|
-| **B-1** | TYPE-P Triple Evidence Chain | Bible author names this being "Samuel" + records darash (successful communication) in perfect tense → Confirms actual Samuel summoned |
-| **B-2** | Jonathan Inclusion Argument | "thy sons be with me" → Includes righteous Jonathan → Cannot move across the great gulf → Specifies the same zone (Paradise) |
-| **B-3** | עִמִּי (immi) Original Language Analysis | Hebrew עִם consistently means physical close coexistence → "With me" = The exact place where Samuel is (Paradise) |
-| **B-4** | Deprivation of Kingship ≠ Destruction of Soul | Samson (Heb 11), David (Ps 51) — Precedents exist of maintaining salvation despite corruption |
-| **B-5** | Sheol C-13 Category Separation | The "hell" in Luke 16 is not Gehenna but the Torment zone of Sheol. Same system as where Samuel is |
-| **B-6** | Defeating Post-mortem Carrier Refutation | Defeats demonic proxy theory through analysis of devils' ability to travel between underworld and earth (not confined in bottomless pit) and the order of angels escorting the righteous |
+| **B-1** | TYPE-P 3-Fold Evidence Chain | Biblical author named this being "Samuel" + darash (successful communication) completed record → Confirms actual Samuel summoning |
+| **B-2** | Jonathan Inclusion Argument | "thou and thy sons with me" → Includes righteous Jonathan → Great gulf crossing impossible → Specifies same compartment (Paradise) |
+| **B-3** | עִמִּי (immi) Source Text Analysis | The Hebrew עִם consistently means physical proximate co-existence → "with me" = the exact place where Samuel is (Paradise) |
+| **B-4** | Kingship Deprivation ≠ Soul Ruin | Samson (Heb 11), David (Ps 51) — Precedents of maintaining salvation despite falling |
+| **B-5** | Sheol C-13 Category Separation | "hell" in Luke 16 = The torment compartment of Sheol, not Gehenna. Same system as where Samuel is |
+| **B-6** | Defeat of Post-Mortem Transporter Objection | Defeats the devil substitution theory through analysis of devil's underground-earth travel ability (bottomless pit unconfined) and the order of angels escorting the righteous |
 
 ### 🔴 Prosecution — Saul Hell Theory
 
 | # | Core Weapon | Summary |
 |:---:|:---|:---|
-| **R-1** | TYPE-C Attribute Conflict | 1 Sam 28:16 — Claims attribute conflict of "Enemy of God" ⚠️ **Proven Subject Confusion — Invalidated** |
-| **R-2** | Macro-Spatial Theory (Macro-Sheol) | "With me" = Prophecy of migration to the entire Sheol system (Prison metaphor). Classified to both sides of the gulf upon arrival |
-| **R-3** | Presumptuous Sin (Num 15:30) | Saul's sin was not weakness but Presumptuous Sin → Sin offering inapplicable → Soul is cut off |
-| **R-4** | Post-mortem Carrier Theory | Only heirs of salvation are carried by angels (Heb 1:14); Saul, who opened a demonic channel, is carried by him with the power of death (Heb 2:14) |
+| **R-1** | TYPE-C Attribute Conflict | 1 Sam 28:16 — "Enemy of God" attribute conflict claim ⚠️ **Identified as Subject Confusion — Nullified** |
+| **R-2** | Macroscopic Spatial Theory (Macro-Sheol) | "with me" = Forecast of migration to the entire Sheol system (Prison analogy). Sorted to both sides of the gulf upon arrival |
+| **R-3** | Presumptuous Sin (Num 15:30) | Saul's sin is not weakness but Presumptuous Sin → Sin offering inapplicable → Soul is cut off |
+| **R-4** | Post-Mortem Transporter Theory | Angels transport only heirs of salvation (Heb 1:14), while Saul, who opened the devil's channel, is transported by the one with the power of death (Heb 2:14) |
 
-## 2. ⚔️ Cross Examination by Issue — Judge's Interrogation
+## 2. ⚔️ Cross-Examination by Issue — Judge's Interrogation
 
 ---
 
-### 🥊 Issue A: Identity of the Summoned Being — Is it the Actual Samuel?
+### 🥊 Issue A: Identity of the Summoned Being — Is it the actual Samuel?
 
 | Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Hell Theory) |
 |:---:|:---|:---|
-| **Claim** | It is the actual Samuel | (No direct refutation on this issue) |
-| **Basis** | Bible author names "Samuel" in 1 Sam 28:15-16 + darash perfect tense + ragaz actual disquietude | — |
+| **Claim** | It is the actual Samuel | (No direct objection on this issue) |
+| **Basis** | 1 Sam 28:15-16 Biblical author named "Samuel" + darash completed form + ragaz actual agitation | — |
 | **KJV Text** | ✅ 1 Sam 28:15 "And **Samuel** said to Saul..." | — |
 
-> ⚖️ **Judge's Verdict:** The prosecution did not directly attack this issue. The KJV text naming this being "Samuel" more than twice is overwhelming evidence for the defense. If it were a devil, the Bible author would have recorded it as "the spirit" or "the familiar spirit".
->
-> **🔵 Defense Wins | Score: Defense 10 : Prosecution 0**
+> ⚖️ **Judge's Verdict:** The prosecution did not directly attack this issue. The fact that the KJV text names this being "Samuel" two or more times is overwhelming evidence for the defense. If it were a devil, the biblical author would have recorded it as "the spirit" or "the familiar spirit."
+> 
+> **🔵 Defense Victory | Score: Defense 10 : Prosecution 0**
 
 ---
 
-### 🥊 Issue B: Meaning of "With me" — Paradise Zone or Entire Sheol?
+### 🥊 Issue B: Meaning of "with me" — Paradise Compartment or Entire Sheol?
 
 | Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Hell Theory) |
 |:---:|:---|:---|
-| **Claim** | "with me" = **Paradise zone** where Samuel is | "with me" = Migration to the **entire Sheol system** |
-| **Basis** | Usage of עִמִּי (immi): Physical proximate co-location / Including Jonathan (righteous) → Cannot cross the gulf → Specifies zone | Prison analogy: Means entering the same system, not necessarily assigned to the same room |
-| **Response to Counter** | "gathered unto his people" (3rd person descriptive idiom) and "with me" (1st person direct speech) have completely different grammatical structures | עִם does not always mean 'the same room'. God was "with" Saul (1 Sam 10:7) but was not physically next to him |
+| **Claim** | "with me" = **Paradise compartment** where Samuel is | "with me" = Migration to the **entire Sheol system** |
+| **Basis** | עִמִּי (immi) usage: physical proximate co-existence / Jonathan (righteous) included → gulf uncrossable → compartment specified | Prison analogy: means entering the same system, not being assigned the same room |
+| **Response** | "gathered unto his people" (3rd person descriptive idiom) and "with me" (1st person direct speech) have completely different grammatical structures | עִם does not always mean 'same room.' God was "with" Saul (1 Sam 10:7) but was not physically beside him |
 
 
-#### ⚖️ BVCAP Court Precise Verification of Original Language/Grammar
+#### ⚖️ BVCAP Court Precise Source Text/Grammar Verification
 
-If paradise and the place of torment within Sheol are permanently isolated by a great gulf (Luke 16:26), the declaration **"with me"**, pronounced by Samuel grouping Saul and Jonathan together, linguistically and in the original text must exclusively point to the same paradise zone. Three key pieces of evidence proving this are as follows.
+If Paradise and the Place of Torment within Sheol are permanently isolated by a great gulf (Luke 16:26), Samuel's declaration **"with me,"** grouping Saul and Jonathan together, must linguistically/textually point only to the same Paradise compartment. The three core pieces of evidence proving this are as follows.
+#### 1) Usage of Hebrew Preposition עִם (im) for Spatial Proximity (Proximate Co-location)
 
-#### 1) Usages of Spatial Proximity (Proximate Co-location) of the Hebrew Preposition עִם (im)
+The Hebrew original text for the KJV translation *"be with me"* in 1 Sam 28:19 is **`עִמִּי` (immi)**. This is a combination of the preposition `עִם` (im, with) and a first-person singular suffix (me). A matrix tracking the spatial usage of `עִם` (im) throughout the Bible is as follows:
 
-The original Hebrew text for the KJV translation *"be with me"* in 1 Sam 28:19 is **`עִמִּי` (immi)**. This is a form where the first-person singular suffix (me) is combined with the preposition `עִם` (im, with). The matrix tracking the spatial usages of `עִם` (im) throughout the Bible is as follows.
-
-| Passage | Hebrew | KJV | Meaning — Spatial Implication of עִמִּי |
+| Verse | Hebrew | KJV | Meaning — Spatial Implication of עִמִּי |
 |:---:|:---:|:---|:---|
-| **Gen 31:5** | אֱלֹהֵי father הָיָה **עִמָּדִי** | "God of my father hath been **with me**" | Actual accompaniment — being together in the same space |
-| **Exod 33:16** | אֲנִי וְעַמְּךָ... בְּלֶכְתְּךָ **עִמָּנוּ** | "thou goest **with us**" | Accompanying = moving in the same place & same direction |
+| **Gen 31:5** | אֱלֹהֵי 아비 הָיָה **עִמָּדִי** | "God of my father hath been **with me**" | Actual accompaniment — being together in the same space |
+| **Ex 33:16** | אֲנִי וְעַמְּךָ... בְּלֶכְתְּךָ **עִמָּנוּ** | "thou goest **with us**" | Accompaniment = moving in the same place/same direction |
 | **2 Sam 15:33** | אִם עָבַרְתָּ **אִתִּי** | "if thou passest on **with me**" | Traveling together = same destination and route |
-| **Ruth 1:16** | אֶל אֲשֶׁר תֵּלְכִי אֵלֵךְ... עַמֵּךְ עַמִּי | "whither thou goest, I will go" | Accompanying in the same place and sharing residence |
-| **1 Sam 28:19** | אַתָּה וּבָנֶיךָ **עִמִּי** | "thou and thy sons **with me**" | **The exact space where Samuel is located (Paradise zone)** |
+| **Ruth 1:16** | אֶל אֲשֶׁר תֵּלְכִי אֵלֵךְ... עַמֵּךְ עַמִּי | "whither thou goest, I will go" | Accompanying to the same place and sharing a residence |
+| **1 Sam 28:19** | אַתָּה וּבָנֶיךָ **עִמִּי** | "thou and thy sons **with me**" | **The exact space where Samuel is located (Paradise compartment)** |
 
-> **Conclusion on Usages:** The Hebrew preposition `עִם` (im) consistently means **physical/spatial proximity (proximate co-location)** throughout the Bible. A broad usage pointing to "different zones within the same system (Sheol) separated by a great gulf" is **not found** a single time in the entire Bible.
-> Therefore, since Saul and Jonathan are bound into one `עִמִּי` (immi), their final destination must invariably be the paradise zone where Samuel is.
+> **Usage Conclusion:** The Hebrew preposition `עִם` (im) consistently means **physical/spatial proximity (proximate co-location)** throughout the Bible. A broader usage indicating "a different compartment separated by a great gulf but within the same system (Sheol)" is **not found even once** in the entire Bible.
+> Therefore, since Saul and Jonathan are bound by a single `עִמִּי` (immi), their final destination can only be the Paradise compartment where Samuel is.
 
 ---
 
-#### 2) Contrast of Grammatical Structure with KJV English and Hebrew Idioms for Death
+#### 2) Grammatical Structure Contrast with KJV English and Hebrew Death Idioms
 
-The prosecution (Hell Theory) claims that "with me" is not a specific locational reference, but simply a comprehensive idiom for death (E-09) meaning "going to the afterlife." However, comparing *"gathered unto his people"*, a representative idiom for death used in the Bible, with *"with me"* reveals that their grammatical structures and contexts are completely different.
+The Prosecution (Hell Theory) argues that "with me" is not a specific location indicator, but a comprehensive death idiom (E-09) simply meaning "going to the afterlife." However, comparing the most representative death idiom, *"gathered unto his people,"* with *"with me"* reveals that their grammatical structures and contexts are completely different.
 
 | Item | "gathered unto his people" | "with me" (1 Sam 28:19) |
 |:---:|:---|:---|
 | **Hebrew** | נֶאֱסַף אֶל-עַמָּיו (ne'esaf el-ammav) | עִמִּי (immi) |
-| **Preposition** | אֶל (el) — "unto/to" (indicates direction) | עִם (im) — "with" (accompaniment and physical co-location) |
-| **Person/Object** | 3rd person plural "his people" (unspecified ancestral group) | **1st person singular "me"** (specifies speaker's own location) |
-| **Speech** | Narrator's 3rd person descriptive portrayal | **Speaker's 1st person direct speech declaration** |
-| **Context of Use** | Gen 25:8, 35:29, 49:33 — Description of natural death | 1 Sam 28:19 — **Sentence based on Samuel's own current location** |
+| **Preposition** | אֶל (el) — "to/unto" (Indicates directionality) | עִם (im) — "with" (Accompaniment and physical co-existence) |
+| **Person/Object** | 3rd person plural "his people" (Unspecified group of ancestors) | **1st person singular "me"** (Specifies the speaker's own location) |
+| **Speech** | 3rd person descriptive narrative | **Speaker's 1st person direct speech declaration** |
+| **Context** | Gen 25:8, 35:29, 49:33 — Description of a natural death | 1 Sam 28:19 — **Samuel pronounces it based on his current location** |
 
-> **Comparative Analysis of Usages:** 
-> - **"gathered unto his people" (Gen 25:8, etc.):** This is a 3rd person descriptive idiom describing the transition of the state of death, not a specific afterlife location.
-> - **"with me" (1 Sam 28:19):** This is a spatial declaration proclaimed in 1st person direct speech, **using the paradise where Samuel's soul is resting as the reference point.**
+> **Usage Comparison Analysis:** 
+> - **"gathered unto his people" (Gen 25:8, etc.):** This is a 3rd person descriptive idiom describing the transition of the state of death, not a specific post-mortem location.
+> - **"with me" (1 Sam 28:19):** This is a spatial declaration proclaimed in 1st person direct speech by Samuel, **using the Paradise where his soul is resting as the reference point.**
 > 
-> The two expressions have completely different grammatical structures and meanings, so they cannot be treated as the same idiom. 
+> The two expressions have completely different grammatical structures and meanings, so they cannot be treated as the same idiom.
 > 
-> ⚖️ **Final Linguistic Verdict:** `עִמִּי` (immi) is strong evidence of a physical locational lock-in that can only be applied to the same zone (paradise) in the subterranean paradise-hell structure blocked by a great gulf (Luke 16:26). With this, the interpretive escape routes of the entire-Sheol theory and the death-idiom theory are fundamentally sealed off. ✅
+> ⚖️ **Final Linguistic Verdict:** `עִמִּי` (immi) is powerful evidence for a physical location lock-in that can only be applied to the same compartment (Paradise) within the underground Paradise-Hell structure, which is blocked by a great gulf (Luke 16:26). By this, interpretive escape routes via the Entire Sheol Theory and the Death Idiom Theory are fundamentally sealed off. ✅
 
 ---
 
-#### 3) Biblical Confirmation in 2 Samuel 1:23 (Not Divided Argument)
+#### 3) Biblical Confirmation of 2 Samuel 1:23 (Not Divided Argument)
 
 *   **Biblical Fact (2 Sam 1:23 - KJV):**
     > *"Saul and Jonathan were lovely and pleasant in their lives, and **in their death they were not divided**..."*
 *   **Spiritual Logic Chain:**
-    1.  **Righteous Jonathan's journey to Paradise (Constant):** It is an established biblical fact that Jonathan entered paradise after death as a righteous man.
-    2.  **Absolute isolation of Paradise and Hell (Luke 16:26):** There is a **"Great Gulf"** between paradise and the place of torment (hell zone) where crossing is absolutely impossible. If Saul went to hell and Jonathan went to paradise, they are permanently divided in the afterlife.
-    3.  **Inspired Confirmation of the Biblical Author:** The Bible declares by inspiration that they were **"not divided in their death"**. For this verse to be an uncontradicted fact, there is no biblical or physical possibility other than Saul entering the **paradise zone** on the same side of the great gulf alongside Jonathan.
+    1.  **Jonathan going to Paradise (Constant):** It is an established biblical fact that Jonathan, as a righteous man, entered Paradise after death.
+    2.  **Absolute Isolation of Paradise and Hell (Luke 16:26):** Between Paradise and the Place of Torment (Hell compartment), there is a **"great gulf"** that makes crossing absolutely impossible. If Saul went to Hell and Jonathan went to Paradise, they were permanently divided in the afterlife.
+    3.  **The Biblical Author's Inspired Confirmation:** The Bible declares through inspiration that they were **"not divided in their death."** For this biblical verse to be a contradiction-free fact, there is no biblical or physical possibility other than Saul entering the same **Paradise compartment** on the same side of the great gulf as Jonathan.
 
 
 > ⚖️ **Judge's Verdict:** This issue is the **turning point of the entire hearing**.
 > 
-> **Defense's Strength:** The usage analysis of `עִמִּי` is precise, and it is powerful when combined with the fact that Jonathan is righteous. Especially the **biblical confirmation of 2 Samuel 1:23 ("in their death they were not divided")** is the decisive physical and spatial crushing evidence that drives a wedge into this verdict.
+> **Defense's Strength:** The usage analysis of `עִמִּי` is precise, and it is powerful when combined with the fact that Jonathan was a righteous man. Especially, **the biblical confirmation of 2 Samuel 1:23 ("in their death they were not divided")** is decisive physical/spatial crushing evidence that drives a wedge into this verdict.
 > 
-> **Prosecution's Strength:** The prison analogy is intuitively persuasive. Since the context of Samuel's utterance is a death sentence, "you die tomorrow," a macroscopic interpretation of "with me" = "crossing over from the world of the living to the world of the dead (Sheol)" is also possible.
+> **Prosecution's Strength:** The prison analogy is intuitively persuasive. Since the context of Samuel's utterance is a death sentence meaning "You will die tomorrow," the macroscopic interpretation of "with me" = "You will cross over from the world of the living to the world of the dead (Sheol)" is also possible.
 > 
-> **However**, a fatal barrier exists to the prosecution's prison analogy and Macro-Sheol (entire Sheol) claim:
-> 1. **The associative declaration in 1 Sam 28:19:** Samuel grouped "thou and thy sons" together and said "with me."
-> 2. **The 'Not Divided' declaration in 2 Sam 1:23:** The Bible declares that they were "not divided in their death." If the dwellings of Saul (hell) and Jonathan (paradise) were split, they would be permanently divided because of the great gulf of Luke 16:26, which directly conflicts with the inspired historical statement of the Bible.
+> **However**, there is a fatal barrier to the Prosecution's prison analogy and the Macro-Sheol (Entire Sheol Theory) claim:
+> 1. **Joint Declaration of 1 Sam 28:19:** Samuel grouped "thou and thy sons" together and said "with me."
+> 2. **'Not Divided' Declaration of 2 Sam 1:23:** The Bible declares they were "not divided in their death." If the dwelling places of Saul (Hell) and Jonathan (Paradise) were separated, they would be forever divided due to the great gulf of Luke 16:26, and this directly contradicts the inspired historical statement of the Bible.
 > 
-> ⚖️ **Final Judgment:** By cross-confirming "with me" in 1 Sam 28:19 and "not divided in their death" in 2 Sam 1:23, it is proven that the two were placed in the same 'paradise zone' without being bisected across the uncrossable great gulf of the afterlife.
+> ⚖️ **Final Judgment:** As "with me" in 1 Sam 28:19 and "not divided in their death" in 2 Sam 1:23 cross-confirm each other, it is proven that the two men were placed in the same 'Paradise compartment' without being divided across the uncrossable great gulf of the afterlife.
 > 
-> **🔵 Defense Wins | Score: Defense 10 : Prosecution 2**
+> **🔵 Defense Victory | Score: Defense 10 : Prosecution 2**
 
 
 ---
 
-### 🥊 Issue C: Saul's Spiritual State — "Enemy of God" Declaration ⚠️ Ruled as Subject Confusion
+### 🥊 Issue C: Saul's Spiritual State — "Enemy of God" Declaration ⚠️ Identified as Subject Confusion
 
 | Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Hell Theory) |
 |:---:|:---|:---|
-| **Claim** | "Forsaking" = Deprivation of kingship (office), not eternal destruction of the soul | 1 Sam 28:16 "Enemy of God" → Cannot enter Abraham's bosom (Friend of God) |
-| **Basis** | Samson (fallen → saved in Heb 11), David (adultery → maintained salvation) | An "Enemy of God" embracing the bosom of a "Friend of God" is an attribute contradiction (C-04) |
+| **Claim** | "Rejected" = Deprivation of kingship (office), not eternal ruin of the soul | 1 Sam 28:16 "Enemy" → Cannot enter Abraham's bosom (Friend of God) |
+| **Basis** | Samson (Fall → Heb 11 salvation), David (Adultery → maintained salvation) | It is an attribute contradiction (C-04) for an "Enemy of God" to be embraced in the bosom of a "Friend of God" |
 
-> ⚖️ **Judge's Verdict: 🚨 Detection of the Prosecution's Subject Confusion**
+> ⚖️ **Judge's Verdict: 🚨 Prosecution's Subject Confusion Detected**
 > 
-> Let's precisely re-verify the KJV original text of 1 Sam 28:16:
+> We precisely re-verify the KJV original text of 1 Sam 28:16:
 > 
 > *"the LORD is departed from thee, and is become **thine** enemy"*
 > 
 > | Analysis | Prosecution's Interpretation (**Error**) | Actual Meaning of KJV Original Text |
-> |:---:|:---|:---|
-> | **Subject** | Saul = "Enemy of God" | God = **Saul's** enemy |
-> | **Direction** | Saul → opposing God | God → opposing Saul |
-> | **"thine"** | Ignored | ✅ **"your"** — The possessive points to Saul |
+|:---:|:---|:---|
+| **Subject** | Saul = "Enemy of God" | God = **Saul's** enemy |
+| **Direction** | Saul → opposed God | God → opposed Saul |
+| **"thine"** | Ignored | ✅ **"your"** — The possessive points to Saul |
 > 
-> The text does not say **"Saul is the Enemy of God,"** but **"God has become Saul's enemy (thine enemy)"** — meaning God has come to act antagonistically toward Saul.
+> The text does not mean **"Saul is the Enemy of God"**, but **"God is thine (Saul's) enemy"** — meaning God has come to act hostilely toward Saul.
 > 
 > **📖 Additional Confirmation — Lam 2:5 (KJV):**
 > *"The Lord was **as an enemy**: he hath swallowed up Israel..."*
-> When God disciplined Israel, He acted **"as an enemy,"** but Israel was not eternally destroyed. This is a **disciplinary antagonistic relationship**, not an ontological declaration of destruction.
+> When God disciplined Israel, He acted **"as an enemy,"** but Israel was not eternally ruined. This is a **disciplinary oppositional relationship**, not an ontological declaration of ruin.
 > 
-> **Conclusion:** The prosecution's core weapon (attribute collision between "Friend of God vs Enemy of God") is **invalid evidence based on subject confusion**. "thine enemy" ≠ "enemy of God". The attribute collision argument does not stand.
+> **Conclusion:** The Prosecution's core weapon (Attribute conflict of "Friend of God vs Enemy of God") is **invalid evidence based on subject confusion**. "thine enemy" ≠ "enemy of God". The attribute conflict argument does not hold.
+>
+> **📖 Additional Confirmation — Heb 12:6-8 (KJV): Discipline = Evidence of Sonship**
+> *"For whom the Lord **loveth** he **chasteneth**, and scourgeth every **son** whom he receiveth."* (Heb 12:6)
+> *"If ye endure chastening, God dealeth with you as with **sons**; for what son is he whom the father chasteneth not?"* (Heb 12:7)
+>
+> | Logic of Heb 12:6-8 | Application to Saul |
+|:---|:---|
+| The Lord chastens whom He **loves** | God opposing Saul ("thine enemy") = Discipline of love |
+| If you endure chastening, He deals with you as **sons** | Saul being disciplined itself is **evidence of a son** |
+| What son is he whom the father chastens not? | Those without discipline are bastards (Heb 12:8) |
+>
+> This verse **inverts** the Prosecution's argument that "God rejected Saul." God acting hostilely toward Saul (thine enemy) was **not to eternally ruin him**, but according to the principle of Heb 12:6, it was **disciplining a beloved son**. This perfectly converges with the "destruction of the flesh, salvation of the spirit" pattern of 1 Cor 5:5.
 > 
-> **🔵 Defense Wins | Score: Defense 9 : Prosecution 1** (Heavy deduction for prosecution's misreading)
+> **🔵 Defense Victory | Score: Defense 9 : Prosecution 1** (Heavy deduction for Prosecution's misreading)
 
 ---
 
-### 🥊 Issue D: Nature of the Sin — Weakness, or Intentional Rebellion?
+### 🥊 Issue D: Nature of the Sin — Weakness or Presumptuous Rebellion?
 
 | Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Hell Theory) |
 |:---:|:---|:---|
-| **Claim** | Salvation of Old Testament saints is established within the Covenant, not by works | Num 15:30 — Presumptuous Sin cannot apply the sin offering; the soul is cut off |
-| **Basis** | — | Saul intentionally executed an act forbidden by the law despite receiving prior warning in 1 Sam 15:23 |
-| **Response to Counter** | — | David also intentionally committed adultery and murder, but maintained salvation after repentance |
+| **Claim** | The salvation of OT saints is established within the Covenant, not by works | Num 15:30 — Sin offering inapplicable to Presumptuous Sin, soul is cut off |
+| **Basis** | — | Even after the prior warning in 1 Sam 15:23, Saul willfully committed an act forbidden by the law |
+| **Response** | — | David also willfully committed adultery and murder, but maintained salvation after repentance |
 
-> ⚖️ **Judge's Verdict:** The prosecution's logic (intentional rebellion) is strong, but contains a **self-contradiction**.
+> ⚖️ **Judge's Verdict:** The Prosecution's logic (Presumptuous Sin) is strong, but has a **self-contradiction**.
 > 
-> David's adultery and murder also correspond to a "presumptuous sin" based on Numbers 15:30. David committed adultery with Bathsheba **knowing** it was a violation of the law, and he **premeditatedly** executed the murder of Uriah. If the "cut off" in Num 15:30 immediately means the loss of salvation, **David should have lost his salvation too.** However, David did not lose his salvation (Acts 13:22).
+> David's adultery and murder also fall under "Presumptuous Sin" according to Num 15:30. David willfully committed adultery with Bathsheba **knowing** it was a violation of the law, and **premeditatedly** executed the murder of Uriah. If the "cutting off" in Num 15:30 means the immediate loss of salvation, **David should have lost his salvation too.** However, David did not lose his salvation (Acts 13:22).
 > 
-> Therefore, the "cut off" in Num 15:30 highly likely means **communal removal/disciplinary death, not the eternal loss of spiritual salvation**. In this case, Saul's "cut off" is also the deprivation of kingship + death of the flesh, not necessarily the eternal destruction of the soul.
+> Therefore, the "cut off" in Num 15:30 likely means **communal removal/disciplinary death, not the eternal loss of spiritual salvation**. In this case, Saul's "cutting off" is also the deprivation of kingship + death of the flesh, not necessarily the eternal ruin of the soul.
+>
+> **📖 Additional Confirmation — 2 Sam 12:13 (KJV): Precedent for forgiveness of David's presumptuous sin**
+> *"And David said unto Nathan, I have sinned against the LORD. And Nathan said unto David, The LORD also hath **put away thy sin**; thou shalt not die."* (2 Sam 12:13)
+>
+> David's sin was **adultery (2 Sam 11:4) + premeditated murder (2 Sam 11:15)**, which is clearly a Presumptuous Sin based on Num 15:30. Nevertheless, immediately upon David's confession, God declared, **"The LORD also hath put away thy sin."** This precedent directly proves that a presumptuous sin does not automatically confirm eternal ruin.
+>
+> **📖 Decisive Weapon — 1 Sam 12:22 (KJV): Salvation based on God's Name's sake, not works**
+> *"For the LORD **will not forsake** his people **for his great name's sake**: because **it hath pleased the LORD** to make you his people."* (1 Sam 12:22)
 > 
-> **🔵 Defense Wins | Score: Defense 6 : Prosecution 4** (Deduction for prosecution's self-contradiction)
+> This declaration is a **covenant of absolute grace** given through Samuel right after Saul was elected as the current king of Israel. The reason God will not forsake His people (including Saul) forever is not because of their deeds (obedience), but **"for his great name's sake."**
+> 
+> **Preemptive Defense against Prosecution (Red Team)'s counterattack using 1 Sam 12:25 (TYPE-C Category Separation):**
+> The Prosecution will immediately cite 1 Sam 12:25, *"But if ye shall still do wickedly, ye shall be **consumed**, both ye and your king,"* to argue for Saul's ruin. However, a perfect category separation (TYPE-C) is established here:
+> - **Consumed** in 1 Sam 12:25 = Physical death in battle, physical ruin of the dynasty (The "destruction of the flesh" in 1 Cor 5:5)
+> - **Not forsake** in 1 Sam 12:22 = Eternal preservation of the soul (The "spirit may be saved" in 1 Cor 5:5)
+> 
+> Because Saul continued to do wickedly, he received the judgment where his flesh was **consumed** on Mount Gilboa. However, according to the promise staked on God's great name, his soul was **not forsaken**, and he entered Paradise.
+> 
+> **🔵 Defense Victory | Score: Defense 6 : Prosecution 4** (Deduction for Prosecution's self-contradiction)
 
 ---
 
@@ -645,76 +671,107 @@ The prosecution (Hell Theory) claims that "with me" is not a specific locational
 
 | Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Hell Theory) |
 |:---:|:---|:---|
-| **Claim** | Heb 11 is a list of **examples of faith**, not a list of the saved / Absence ≠ Confirmed destruction | Samson and David are in Heb 11, but Saul is not — Silence is also evidence |
-| **Basis** | Many saved individuals like Lazarus and Abel are missing from Heb 11 | There is no record of Saul's repentance anywhere in the Bible |
+| **Claim** | Heb 11 is a list of **examples of faith**, not a list of the saved / Absence ≠ Confirmation of ruin | Samson/David are in Heb 11, but Saul is not — Silence is also evidence |
+| **Basis** | Many saved people like Lazarus and Abel are missing from Heb 11 (Wait, Abel is in Heb 11. Other saved people are missing) | There is no record of Saul's repentance anywhere in the Bible |
 
-> ⚖️ **Judge's Ruling:** Both sides have a point, but **the "Argument from Silence" is the weakest evidence under BVCAP principles.** The mere fact that he is missing from Heb 11 cannot confirm his destruction, just as his absence cannot confirm his salvation.
+> ⚖️ **Judge's Verdict:** Both sides have a point, but **the "Argument from Silence" is the weakest evidence according to BVCAP principles.** The mere fact that he is missing from Hebrews 11 cannot confirm his ruin, and similarly, the absence cannot confirm his salvation either.
 > 
 > **Draw | Score: Defense 5 : Prosecution 5**
 
 ---
 
-### 🥊 Issue F: The Posthumous Transporter Theory — The Devil's Transporting Power and "Disquieting"
+### 🥊 Issue F: Post-Mortem Transporter Theory & "Disquieted"
 
 | Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Hell Theory) |
 |:---:|:---|:---|
-| **Claim** | The biblical record names this being "Samuel" (TYPE-P) | If Saul went to Paradise, angels (Heb 1:14) should have transported him, but Saul, who opened the devil's channel, was led by devils |
-| **Basis** | 1 Chron 10:13 (perfect tense record of *darash*), actual summoning of Samuel | Samuel, being in true rest, cannot be disquieted by a witch's sorcery. Therefore, the summoned being is a fake devil |
-| **Response to Counterargument** | God exceptionally allowed the real Samuel to judge Saul, and Samuel was "disquieted (*ragaz*)" out of anger over the destruction of spiritual order | Since angels would not guide a child of Satan, it was the devils moving between hell and earth who led Saul to the afterlife |
+| **Claim** | Biblical record calls this being "Samuel" (TYPE-P) | If Saul went to Paradise, an angel (Heb 1:14) should have transported him, but Saul, who opened the devil's channel, was led by the devil |
+| **Basis** | 1 Chron 10:13 (darash completed form record), actual Samuel summoned | The true Samuel in true rest cannot be disquieted by the witchcraft of a witch. Thus, the summoned being is a fake devil |
+| **Response** | God exceptionally permitted the real Samuel to judge Saul, and Samuel was "disquieted (ragaz)" in anger over the destruction of spiritual order | Since angels would not guide a child of Satan, the ones who led Saul to the afterlife were devils moving between hell and earth |
 
-> 📎 **[Background Note — Record of Circumstances / Not Argument Evidence]**
+> 📎 **[Background Note — Record of Circumstances / Not Argumentative Evidence]**
 >
 > **1 Sam 28:12 — Regarding the Witch's Scream (KJV)**
 > *"And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, **Why hast thou deceived me? for thou art Saul.**"*
 >
-> The fact that the witch screamed cannot be used as evidence for the "actual summoning of Samuel." The text **directly explains** the cause of the scream — she recognized the disguised visitor **to be King Saul**. The terror that the king, who had the authority to execute her, was right in front of her is the primary cause of the scream.
+> The fact that the witch screamed cannot be used as evidence of the "actual summoning of Samuel." The text **directly explains** the cause of the scream — it was because she **recognized that the disguised visitor was King Saul**. The primary cause of the scream was the terror that the king, who had the authority to execute her, was right in front of her.
 >
 > | Item | Content |
-> |:---:|:---|
-> | **Cause of the Scream** | 1 Sam 28:12 text explains directly — "For thou art Saul" |
-> | **Geographical Background** | Endor was located within Saul's territory (tribe of Manasseh) — the witch was operating in hiding under Saul's decree of death |
-> | **Whether Used in Argument** | ❌ Cannot be used as evidence for the actual summoning of Samuel in this court — Risk of being distorted away from the text's explanation (fear of recognizing Saul) |
-> | **Purpose of Record** | Recorded only as background circumstance according to the Truth First principle |
+|:---:|:---|
+| **Cause of Scream** | 1 Sam 28:12 text explains directly — "Because you are Saul" |
+| **Geographic Background** | Endor is located within Saul's ruling territory (land of Manasseh) — The witch was operating in hiding under Saul's death edict |
+| **Use in Argument** | ❌ Cannot be used as evidence of actual Samuel summoning in this court — Risk of being distorted away from the text's explanation (fear of recognizing Saul) |
+| **Purpose of Record** | Recorded only as background circumstance according to the Truth First principle |
 
-> ⚖️ **Judge's Ruling: 🚨 Detected the Prosecution's Lexical Fallacy**
+> ⚖️ **Judge's Verdict: 🚨 Prosecution's Lexical Fallacy Detected**
 > 
-> The prosecution interpreted "disquieted" as 'pollution of spiritual order' or 'demonic confusion,' but this is a clear misreading of the word.
+> The Prosecution interpreted "disquieted" as a 'contamination of spiritual order' or 'demonic confusion,' but this is a clear misreading of the word.
 > 
-> The English word *disquieted* (Hebrew רָגַז) does not mean 'so dizzy one is about to collapse,' but rather, **"Why have you disturbed and woken me who was resting in peace (disturb my peace)?"** Grammatically, it is also used in the perfect/past tense ("hast thou disquieted me").
+> The English word *disquieted* (Hebrew רָגַז) does not mean 'so dizzy one might fall,' but means, **"Why have you disturbed and woken me up from resting peacefully (disturb my peace)?"** Grammatically, it is used in the perfect/past tense ("hast thou disquieted me").
 > 
-> 1. **Proof of Rest:** This utterance actually perfectly proves that the summoned being was enjoying **peaceful rest** in Paradise (Abraham's bosom) right up until that moment. A devil suffering in hell or a wandering evil spirit does not complain, 'Why have you disturbed my rest?'
-> 2. **Limits of the Transporter Logic and TYPE-P Ironclad Evidence:** If Samuel had been resting peacefully, the prosecution's inference of demonic transport regarding the agent who transported Saul posthumously also loses its power. Furthermore, this excellent transporter inference by the prosecution collides head-on with the **biblical author's explicit record (TYPE-P)**. According to the prosecution's logic, the summoned being must be a 100% fake devil, but the biblical author consistently referred to this being as **"Samuel"** 15 times in the KJV, and did not record it as "a familiar spirit."
+> 1. **Proof of Rest:** Rather, this remark perfectly proves that the summoned being was enjoying a **peaceful rest** in Paradise (Abraham's Bosom) until just before. A suffering devil or a wandering evil spirit does not complain, 'Why did you disturb my rest?'
+> 2. **Limits of Transporter Logic and TYPE-P Ironclad Evidence:** If Samuel was resting peacefully, the Prosecution's deduction of devil transport regarding the entity that transported Saul post-mortem also loses its force. Furthermore, this brilliant transporter deduction by the Prosecution directly collides with the **explicit record of the biblical author (TYPE-P)**. If the Prosecution's logic is followed, the summoned being must be a 100% fake devil, but the biblical author consistently recorded this being as **"Samuel"** 15 times in the KJV, and did not write "a familiar spirit."
 >
-> **🚨 [The Triple Self-Destruct Occurring When Accepting the Devil Theory]**
+> **🚨 [Triple Self-Destruct Occurring When Accepting the Devil Theory]**
 >
-> Even if we accept the prosecution's claim that the summoned being was a devil, the following three fatal problems immediately arise within the Bible.
+> Even if we accept the Prosecution's claim that the summoned being is a devil, the following three fatal problems immediately arise within the Bible.
 >
 > | # | Self-Destruct Item | Content |
-> |:---:|:---|:---|
-> | **①** | **15 False Records by the Biblical Author** | The conclusion becomes that the biblical author deceptively recorded the devil as "Samuel" 15 times. This collapses the reliability of the entire Bible. |
-> | **②** | **The Devil Prophesied God's Judgment 100% Accurately** | The prophecy of this being ("Tomorrow you and your sons will die in battle and Israel will be defeated") was fulfilled exactly the next day. In the entire Bible, there is **not a single precedent** where a devil accurately spoke God's judgment and it was fulfilled. |
-> | **③** | **Existence of 'Rest' for the Devil to be Disturbed From** | The complaint "Why hast thou disquieted me" is predicated on having had **peaceful rest** right beforehand. Since a suffering or wandering devil has no 'rest' to be disturbed from, this dialogue itself logically cannot apply to a devil. |
+|:---:|:---|:---|
+| **①** | **Biblical Author's 15 False Records** | It results in the conclusion that the biblical author deceptively recorded a devil as "Samuel" 15 times. This collapses the trustworthiness of the entire Bible. |
+| **②** | **Devil Predicts God's Judgment with 100% Accuracy** | The prophecy of this being ("tomorrow you and your sons will die in battle and Israel will be defeated") was fulfilled exactly the next day. There is **not a single precedent** in the entire Bible of a devil accurately speaking on God's judgment and it being fulfilled. |
+| **③** | **Existence of a 'Rest' to be Disturbed for a Devil** | The complaint "Why hast thou disquieted me" is premised on the fact that there was a **peaceful rest** until just before. Since a suffering or wandering devil has no 'rest' to be disturbed, this line itself is logically invalid for a devil. |
 >
-> Under the BVCAP principle (Tota Scriptura), even the most perfect human inference cannot override the direct naming by the biblical author (OVERRIDE-0).
+> Under the BVCAP principle (Tota Scriptura), even perfect human deduction cannot override the direct naming by the biblical author (OVERRIDE-0).
 >
-> **📌 [The Divine Sovereign Exception to the Thesis of Theological Impossibility]**
+> **📌 [Divine Sovereign Exception to the Theological Impossibility Thesis]**
 >
-> The prosecution's hidden premise is that "a righteous person in Paradise cannot be summoned by a witch's sorcery." However, this premise itself collides with the Bible.
+> The Prosecution's hidden premise is that "a righteous man in Paradise cannot be summoned by the witchcraft of a witch." However, this premise itself contradicts the Bible.
 >
 > | Precedent | Text | Core |
-> |:---:|:---:|:---|
-> | **Transfiguration Appearance** | Matt 17:3 (KJV) — *"there appeared unto them Moses and Elias"* | Moses, who had already died and was in Paradise, appeared on earth. He transcended spiritual boundaries not by a witch but by **God's direct permission**. |
-> | **Two Witnesses** | Rev 11:11 — *"the Spirit of life from God entered into them"* | The Spirit of God directly intervening in the dead — an exercise of God's sovereignty transcending spiritual boundaries. |
-> | **1 Sam 28 Itself** | 1 Chron 10:13-14 — God directly executed Saul | **God, the executor of judgment**, used Samuel as an instrument for that final sentence. |
+|:---:|:---:|:---|
+| **Mount of Transfiguration** | Matt 17:3 (KJV) — *"there appeared unto them Moses and Elias"* | Moses, already dead and in Paradise, appeared on earth. Not by a witch, but by **God's direct permission** transcending spiritual boundaries |
+| **Two Witnesses** | Rev 11:11 — *"the Spirit of life from God entered into them"* | God's Spirit directly intervened in the dead — God's exercise of sovereignty transcending spiritual boundaries |
+| **1 Sam 28 Itself** | 1 Chron 10:13-14 — God directly executed Saul | **God, the executor of judgment**, used Samuel as a tool for His final pronouncement |
 >
-> **Core Distinction — Subject of the Channel vs Subject of the Permission:**
-> The witch's ritual was merely the *channel*. **The subject of the permission was God**. When Moses appeared on the Mount of Transfiguration, no one argued, "A righteous person from Paradise cannot appear on earth, therefore that is a devil." 1 Samuel 28 is based on the exact same principle: **The fact that the channel was a witch does not negate the fact that the One who permitted it was God.**
+> **Core Distinction — Subject of the Channel vs Subject of Permission:**
+> The witch's ritual was merely a *channel*. **The subject of permission was God.** When Moses appeared on the Mount of Transfiguration, no one claimed, "A righteous man in Paradise cannot appear on earth, so that is a devil." 1 Samuel 28 operates on the exact same principle: **The fact that the channel was a witch does not deny that the one who permitted it was God.**
 >
-> This is the same principle of sovereignty as God speaking through Balaam's donkey (Num 22:28). The use of an abnormal channel does not undermine the authenticity of God's message.
+> This is the same principle of sovereignty as when God spoke through Balaam's donkey (Num 22:28). The use of an abnormal channel does not undermine the authenticity of God's message.
 >
-> **Conclusion:** The prosecution's powerful devil theory completely collapsed as it simultaneously hit three layers of barriers: ① Lexical fallacy twisting the meaning of "disquieted," ② The absolute barrier of the biblical author naming him 15 times (TYPE-P), and ③ The theological impossibility premise itself collapsing due to the precedents of the Mount of Transfiguration and Balaam.
+> **Conclusion:** The Prosecution's strong devil theory was completely collapsed by simultaneously hitting three walls: ① a lexical fallacy distorting the meaning of "disquieted", ② the absolute barrier of the biblical author's 15 namings (TYPE-P), and ③ the collapse of the theological impossibility premise itself by the precedents of the Mount of Transfiguration and Balaam.
 >
-> **🔵 Defense Wins | Score: Defense 9 : Prosecution 1** (Collapsed due to prosecution's lexical fallacy and conflict with naming convention)
+> **🔵 Defense Victory | Score: Defense 9 : Prosecution 1** (Prosecution collapsed due to lexical fallacy and naming clash)
+---
+
+### 🥊 Issue G: Precise Anatomy of Samuel's Sentence Text — Deprivation of Office vs Ruin of Soul
+
+| Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Hell Theory) |
+|:---:|:---|:---|
+| **Claim** | Samuel's sentence of discipline is strictly limited to the **deprivation of kingship (office)** | The sentence of judgment due to sin implies the ruin of the soul |
+| **Basis** | 1 Sam 13:14 "thy kingdom shall not continue", 1 Sam 15:23 "rejected thee from being king" | The final declaration of judgment given by the prophet for Saul's disobedience |
+| **Response** | Precision of the scope of the sentence (TYPE-G) and evidence of "another heart" (new birth) + continuous mourning | 1 Sam 15:35 God repented that He had made Saul king |
+
+> ⚖️ **Judge's Verdict: 🚨 Prosecution's Category Mistake Detected**
+> 
+> As a result of forensic verification (TYPE-G) of the direct statements Samuel made to Saul throughout the Bible, **the Defense's claim perfectly aligns with the biblical text**.
+> 
+> **1. Prophetic Blessing of New Birth (1 Sam 10:6, 10:7)**
+> Early in Saul's ministry, Samuel proclaimed, *"shalt be turned into another man"* (10:6) and *"God is with thee"* (10:7). Saul was not a bastard from the beginning; he started out receiving the typological blessing of a 'new man' and being one with whom God was present.
+> 
+> **2. Precise Scope Limit of the Disciplinary Declaration (TYPE-C Category Separation)**
+> Even the terrifying declarations of judgment in chapters 13 and 15 have their **target** fixed on the **kingship (office)**, not the soul:
+> - *"thy **kingdom** shall not continue"* (13:14)
+> - *"rejected thee **from being king**"* (15:23, 26)
+> - *"rent the **kingdom** of Israel from thee"* (15:28)
+> A declaration that "your soul shall perish" **never came out** of the prophet's mouth. Arbitrarily expanding the target of discipline from 'office (fleshly ruling authority)' to 'soul' is a category mistake (E-07) that tears down the boundaries of the biblical text.
+> 
+> **3. Stark Contrast Between Samuel's Mourning vs Execution (1 Sam 15:33-35)**
+> Until the day of his death, Samuel **mourned** for Saul. If Saul were a child of the devil destined for Hell, there is no reason for God's prophet to mourn so deeply. This point is perfectly proven when compared to the Gentile king who received a definitive Hell verdict in the **same chapter 15**:
+> - **King Agag of Amalek (Confirmed for Hell):** Samuel did not shed a single tear for him, but firmly executed him, saying, *"Samuel hewed Agag in pieces before the LORD"* (1 Sam 15:33).
+> - **King Saul (The Disciplined One):** Just two verses later, Samuel **mourns** until the day of his death for Saul, who was rejected from the kingship (1 Sam 15:35).
+> The prophet does not mourn over a seed of eternal ruin (Agag). Samuel's continuous sorrow is the prophetic grief for one being disciplined, whose "flesh is being destroyed" in the pattern of 1 Cor 5:5.
+> 
+> **🔵 Defense Victory | Score: Defense 8 : Prosecution 2**
 
 ---
 
@@ -722,92 +779,93 @@ The prosecution (Hell Theory) claims that "with me" is not a specific locational
 
 | Issue | Topic | 🔵 Defense | 🔴 Prosecution | Winner |
 |:---:|:---|:---:|:---:|:---:|
-| **A** | Identity of the Summoned Being | **10** | 0 | 🔵 **Defense Landslide Victory** |
-| **B** | Meaning of "With me" | **7** | 4 | 🔵 **Defense Advantage** |
-| **C** | Declaration of "Enemy of God" | **9** | 1 | 🔵 **Defense Landslide Victory** (Detected Prosecution's Subject Confusion) |
-| **D** | Nature of Sin (Willful Rebellion) | **6** | 4 | 🔵 **Defense Advantage** (Prosecution's Self-Contradiction) |
+| **A** | Identity of the Summoned Being | **10** | 0 | 🔵 **Defense Overwhelming Victory** |
+| **B** | Meaning of "with me" | **7** | 4 | 🔵 **Defense Advantage** |
+| **C** | "Enemy of God" Declaration | **9** | 1 | 🔵 **Defense Overwhelming Victory** (Prosecution subject confusion detected) |
+| **D** | Nature of the Sin (Presumptuous) | **6** | 4 | 🔵 **Defense Advantage** (Prosecution self-contradiction) |
 | **E** | Absence in Heb 11 | 5 | 5 | ⚖️ **Draw** |
-| **F** | Posthumous Transporter Theory & "Disquieting" | **9** | 1 | 🔵 **Defense Landslide Victory** (Detected Prosecution's Lexical Fallacy) |
-| | **Total** | **46** | **15** | 🔵 **Defense Absolute Victory** |
+| **F** | Post-Mortem Transporter & "Disquieted" | **9** | 1 | 🔵 **Defense Overwhelming Victory** (Prosecution lexical fallacy detected) |
+| **G** | Anatomy of Samuel's Sentence (Category Separation) | **8** | 2 | 🔵 **Defense Overwhelming Victory** (Prosecution category mistake detected) |
+| | **Total** | **54** | **17** | 🔵 **Defense Absolute Victory** |
 
 ---
 
-## 4. ⚖️ The Supreme Court's Final Verdict
+## 4. ⚖️ Supreme Court Final Verdict
 
 ### 📜 Declaration of Verdict
 
 > **The BVCAP Supreme Court rules as follows:**
 > 
-> **King Saul died and went to Paradise (Abraham's bosom).**
+> **King Saul died and went to Paradise (Abraham's Bosom).**
 > 
-> This is a **✅ CONSISTENT** verdict.
+> This is a **✅ CONSISTENT (Confirmed)** verdict.
 
-### 📌 Reasons for Verdict
+### 📌 Reason for Verdict
 
-**1. The Defense's Decisive Victory — Issue A (Actual Summoning of Samuel)**
+**1. Defense's Decisive Victory — Issue A (Actual Samuel Summoned)**
 
-The fact that the biblical author (KJV) directly named this being "Samuel" is ironclad evidence that the prosecution failed to refute even once. If the actual Samuel came up, his prophecy ("shalt thou and thy sons be with me") is truth, and the interpretation of this prophecy forms the basis of the entire verdict.
+The fact that the biblical author (KJV) directly named this being "Samuel" is ironclad evidence that the Prosecution never once refuted. If the actual Samuel came up, his prophecy ("shalt thou... be with me") is truth, and the interpretation of this prophecy becomes the foundation of the entire verdict.
 
-**2. The Defense's Core Victory — Issue B (Argument Including Jonathan)**
+**2. Defense's Core Victory — Issue B (Jonathan Inclusion Argument)**
 
-The prosecution's prison analogy is intuitive, but fails to answer the question, **"Why group people who will be separated as 'together'?"** The interpretation that Samuel grouped Jonathan (righteous) and Saul together saying "with me" because both were coming to the same zone (Paradise) is the most linguistically natural. The usage of עִמִּי for physical close coexistence supports this.
+The Prosecution's prison analogy is intuitive, but fails to answer the question, **"Why group people who will be separated as 'with me'?"** The most linguistically natural interpretation of Samuel grouping Jonathan (righteous) and Saul together and saying "with me" is because they are both coming to the same compartment (Paradise). The usage of physical proximate co-existence for עִמִּי supports this.
 
-**3. Collapse of the Prosecution's Core Weapon — Issue C ("Enemy of God" Subject Confusion)**
+**3. Collapse of Prosecution's Core Weapon — Issue C ("Enemy of God" Subject Confusion)**
 
-The prosecution's only high-scoring weapon, the attribute conflict argument of "Friend of God vs Enemy of God," was invalidated due to **Subject Confusion**. The KJV original text "thine enemy" does not mean **"Saul is God's enemy,"** but **"God is Saul's enemy (the One opposing Saul)."** Just as God acted "as an enemy" to Israel in Lam 2:5 but Israel was not eternally destroyed, this expression denotes a disciplinary adversarial relationship. Due to this collapse, the prosecution's definitive barrier disappeared.
+The Prosecution's only high-scoring weapon, the attribute conflict argument of "Friend of God vs Enemy of God," was nullified due to **Subject Confusion**. The KJV original text "thine enemy" does not mean **"Saul is God's enemy"** but **"God is Saul's enemy (the one opposing Saul)."** Just as God acted "as an enemy" to Israel in Lam 2:5 but Israel was not eternally ruined, this expression represents a disciplinary oppositional relationship. This collapse removed the Prosecution's definitive barrier.
 
-**4. Collapse of the Prosecution's Second Weapon — Issue F (Misreading of "Disquieting")**
+**4. Collapse of Prosecution's Second Weapon — Issue F ("Disquieted" Misreading)**
 
-The prosecution argued that it was a fake devil by interpreting "disquieted" as demonic confusion, but this is a clear lexical fallacy. "Why hast thou disquieted me" in the text means **"Why have you bothered and woken me (disturbed me) who was resting peacefully in Paradise,"** which is evidence confirming that the summoned being was the real Samuel resting in Paradise. A devil without peace cannot make such a complaint.
+The Prosecution interpreted "disquieted" as demonic confusion and claimed it was a fake devil, but this is a clear lexical fallacy. The text's "Why hast thou disquieted me" means **"Why have you disturbed and woken me up from resting peacefully in Paradise,"** which is evidence confirming that the summoned being was the real Samuel who was resting in Paradise. A devil without peace cannot make such a complaint.
 
-**5. The Prosecution's Self-Contradiction — Issue D (Willful Sin of Rebellion)**
+**5. Prosecution's Self-Contradiction — Issue D (Presumptuous Sin)**
 
-If the "cutting off" in Num 15:30 is interpreted as the loss of salvation, the same standard must be applied to David's willful adultery and murder, yet the Bible did not exclude David from salvation. Due to this self-contradiction, the prosecution's weapon also lost its substantial destructive power.
+If interpreting the "cutting off" in Num 15:30 as the loss of salvation, the same standard must be applied to David's intentional adultery and murder, but the Bible did not exclude David from salvation. Due to this self-contradiction, the Prosecution's weapon lost its practical destructive power.
 
 ---
 
-## 5. 🏛️ Basis for the CONSISTENT Verdict — All of the Prosecution's Barriers Have Collapsed
+## 5. 🏛️ Basis for Confirmed Verdict (CONSISTENT) — All Prosecution Barriers Collapsed
 
-| Prosecution's Barrier | Cause of Collapse | Status |
+| Prosecution Barrier | Cause of Collapse | Status |
 |:---:|:---|:---:|
-| **Declaration of "Enemy of God"** | ❌ **Detected Subject Confusion** — "thine enemy" = Saul's enemy (God opposing Saul), not "Enemy of God" (Saul opposing God) | 🔵 Invalidated |
-| **Willful Rebellion Sin** | ❌ **Self-Contradiction** — David also committed willful sins but maintained salvation → "cut off" in Num 15:30 ≠ loss of salvation | 🔵 Nullified |
-| **Absence in Hebrews 11** | ⚖️ Argument from silence — Weakest evidence. Hebrews 11 is a list of exemplary faith, not a roster of the saved | ⚖️ Draw |
-| **No Explicit Repentance** | ⚠️ Valid, but cannot overturn the confirmed verdict on its own after the collapse of the above 3 barriers | ⚠️ Withheld/Remaining |
+| **"Enemy of God" Declaration** | ❌ **Subject Confusion Detected** — "thine enemy" = Saul's enemy (God opposes Saul), not "God's enemy" (Saul opposes God) | 🔵 Nullified |
+| **Presumptuous Sin** | ❌ **Self-Contradiction** — David also committed intentional sin but maintained salvation → "cutting off" in Num 15:30 ≠ loss of salvation | 🔵 Nullified |
+| **Absence in Heb 11** | ⚖️ Argument from silence — Weakest evidence. Heb 11 is a list of examples of faith, not a list of the saved | ⚖️ Draw |
+| **No Explicit Repentance** | ⚠️ Valid, but cannot overturn the confirmed verdict with this alone after the collapse of the 3 barriers above | ⚠️ Residual Reservation |
 
-> **Judge's Final Opinion:** The prosecution's most powerful weapon (attribute conflict of "Friend vs. Enemy of God") was proven to be built on a fatal misreading of subject confusion. The second weapon (willful rebellion sin) also collapsed due to self-contradiction with David. The remaining barriers (absence in Hebrews 11, no record of repentance) fall under the "argument from silence", and this alone cannot overwhelm the defense's triple positive evidence of **Jonathan inclusion argument + original language analysis of עִמִּי + KJV author's naming of Samuel**.
+> **Judge's Final Opinion:** The Prosecution's most powerful weapon (Attribute conflict of "Friend of God vs Enemy") turned out to be built upon a fatal misreading of subject confusion. The second weapon (Presumptuous Sin) also collapsed due to self-contradiction with David. The remaining barriers (Absence in Heb 11, no record of repentance) fall under the "Argument from Silence," and this alone cannot overwhelm the Defense's 3-fold active evidence of **Jonathan inclusion argument + עִמִּי source text analysis + KJV author's naming of Samuel**.
 
 ---
 
-## 6. 📋 Summary of the High Court's Final Verdict
+## 6. 📋 Supreme Court Final Verdict Summary
 
 ```
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│   ⚖️ BVCAP High Court Final Verdict                      │
+│   ⚖️ BVCAP Supreme Court Final Verdict                    │
 │                                                          │
 │   Defendant: King Saul                                   │
 │   Charge: Eternal Damnation                              │
 │                                                          │
-│   Verdict: ✅ Acquittal Confirmed — Entry into Paradise CONFIRMED │
+│   Verdict: ✅ Acquittal Confirmed — Entry to Paradise CONFIRMED │
 │                                                          │
-│   [Positive Evidence — Defense]                          │
-│   ・Inclusion of Jonathan (righteous) + Original word עִמִּי → │
-│     "With me" = Confirmed as Paradise zone               │
-│   ・Luke 16:26 Great Gulf Argument →                     │
-│     Physical impossibility to be "with" Samuel in Paradise from the place of torment │
-│     ∴ "With me" = Only Paradise is possible (Sole surviving model) │
-│   ・Saul's Life Timeline →                               │
-│     Expulsion of witches (high intensity) + Asking God first = Existence of repentant acts │
+│   [Active Evidence — Defense]                            │
+│   ・Inclusion of Jonathan (righteous) + עִמִּי source text →  │
+│     "with me" = Paradise compartment confirmed           │
+│   ・Luke 16:26 great gulf argument →                      │
+│     Physical impossibility of being "with" Samuel in Paradise from Torment │
+│     ∴ "with me" = Paradise only (Only surviving model)   │
+│   ・Saul's life timeline →                                │
+│     Put away witches (high intensity) + asked God first = act of repentance exists │
 │                                                          │
 │   [Total Collapse of Prosecution Weapons]                │
-│   ・"God's enemy" → Subject confusion exposed — Nullified│
-│   ・"Willful rebellion sin" → Self-contradiction with David — Nullified │
-│   ・"Disquieted" → Vocabulary misreading exposed — Nullified │
-│   ・"Macro-Sheol Entry Theory" → Dismissed by Luke 16:26 Great Gulf │
-│   ・"Total absence of repentance record" → Factual error — Dismissed │
+│   ・"Enemy of God" → Subject confusion detected — Nullified │
+│   ・"Presumptuous Sin" → Self-contradiction with David — Nullified │
+│   ・"Disquieted" → Lexical fallacy detected — Nullified │
+│   ・"Macro-Sheol entry theory" → Rejected by Luke 16:26 great gulf │
+│   ・"No record of repentance" → Factual error — Rejected │
 │                                                          │
-│   Academic Consensus Level: ✅ CONSISTENT                │
+│   Academic Consensus Level: ✅ CONSISTENT                 │
 │   Final STATUS: ✅ PARADISE CONFIRMED                    │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
@@ -815,75 +873,75 @@ If the "cutting off" in Num 15:30 is interpreted as the loss of salvation, the s
 
 ### ⚖️ One-Sentence Summary
 
-> **"Saul lost his kingship and his flesh was judged, but his soul went to Paradise (Abraham's bosom) where Samuel and Jonathan are. All prosecution weapons were nullified — 'God's enemy' by subject confusion, 'disquieted' by vocabulary misreading, 'willful rebellion sin' by self-contradiction with David, and the 'Macro-Sheol Entry Theory' was defeated by the great gulf of Luke 16:26. Due to the impassable great gulf between Paradise and the place of torment (Luke 16:26), 'With me (עִמִּי)' can only point to Paradise. The claim of a total absence of repentance records was also confirmed to be a factual error by 1 Sam 15:24, 26:21, 28:3 (expulsion of witches), and 28:6 (asking God first)."**
+> **"Saul lost his kingship and his flesh was judged, but his soul went to Paradise (Abraham's Bosom) where Samuel and Jonathan are. All of the Prosecution's weapons were nullified — 'Enemy of God' by subject confusion, 'disquieted' by lexical fallacy, 'Presumptuous Sin' by self-contradiction with David, and the 'Macro-Sheol entry theory' was shattered by the great gulf in Luke 16:26. 'with me (עִמִּי)' can only indicate Paradise due to the uncrossable great gulf (Luke 16:26) between Paradise and the Place of Torment. The claim that there is no record of repentance was also confirmed to be a factual error through 1 Sam 15:24, 26:21, 28:3 (putting away witches), and 28:6 (asking God first)."**
 
 ---
 
-## 7. ❓ FAQ — Summary of Additional Issues (Questions raised in actual debates)
+## 7. ❓ FAQ — Summary of Additional Issues (Questions Raised in Actual Debates)
 
-> This FAQ records additional questions raised in actual theological debates and the BVCAP verification for them.
-> FAQ-1~5 deal with additional challenges from the prosecution, and **FAQ-6 completes the final line of defense to confirm the CONFIRMED verdict**.
+> This FAQ records additional questions raised in actual theological debates and their BVCAP verification.
+> FAQ-1~5 deal with additional challenges from the Prosecution, and **FAQ-6 completes the final defense line to finalize the CONFIRMED verdict**.
 
 ---
 
-### ❓ FAQ-1: Doesn't "with me" mean a **comprehensive commonality of death** rather than a location?
+### ❓ FAQ-1: Doesn't "with me" refer to the **comprehensive commonality of death**, not a location?
 
-**Gist of Question:**
-> *"The 'with' in 1 Sam 28:19 might not be a specific zone (Paradise) but a comprehensive meaning of 'going to the afterlife'. Although the afterlife is divided into Paradise and Hell, 'with me' can be seen in a broader sense of 'you too will come to the world of death' rather than that division."*
+**Summary of Question:**
+> *"The 'with' in 1 Sam 28:19 may not be a specific compartment (Paradise) but a comprehensive meaning of 'going to the afterlife.' The afterlife is divided into Paradise and Hell, but 'with me' can be seen in a broader sense of 'You will also come to the world of death' rather than that division."*
 
 **⚖️ BVCAP Verdict:**
 
-This argument is **reasonable** and was already raised identically by the prosecution (Macro-Sheol Theory) in Issue B. The judge ruled an advantage for the defense at 7:4, but the prosecution's rationale itself was acknowledged.
+This argument is **valid** and was already raised identically by the Prosecution (Macro-Sheol Theory) in Issue B. The judge ruled a Defense advantage 7:4, but the Prosecution's rationale itself was acknowledged.
 
 | Core Question | Defense Position | Prosecution/Questioner Position |
 |:---:|:---|:---|
-| Scope of "With me" | עִמִּי = Physical proximal coexistence → Paradise zone specification | Declaration of entry into the entire Sheol system → Zone not specified |
-| Jonathan inclusion issue | Grouping the righteous and wicked "together" = Pointing to the same zone | Dying on the same day and entering the same system = "Together" |
+| Scope of "with me" | עִמִּי = Physical proximate co-existence → Paradise compartment specified | Declaration of entering entire Sheol system → Compartment unspecified |
+| Issue of Jonathan's inclusion | Grouping righteous and wicked "together" = Indicates same compartment | Dying on same day and entering same system = "together" |
 
-> **Conclusion:** This interpretation is a **⚠️ valid alternative interpretation** according to BVCAP standards. Although the verdict leans toward the defense, the prosecution's rationale is not completely dismissed. We acknowledge that **Saul's salvation status is still under debate (UNRESOLVED boundary)**.
+> **Conclusion:** This interpretation is a **⚠️ Valid alternative interpretation** by BVCAP standards. Although the verdict favors the Defense, the Prosecution's rationale is not completely rejected. It is acknowledged that **Saul's salvation is still under debate (UNRESOLVED border)**.
 
 ---
 
-### ❓ FAQ-2: Aren't Samuel's words a **declaration of judgment rather than an invitation to Paradise**?
+### ❓ FAQ-2: Isn't Samuel's statement a **declaration of judgment, not an invitation to Paradise**?
 
-**Gist of Question:**
-> *"The words Samuel spoke to Saul are close to a declaration of judgment. He was summoned for God's proxy speaking, not meaning an invitation to Paradise for Saul."*
+**Summary of Question:**
+> *"The words Samuel spoke to Saul are closer to a declaration of judgment. He was summoned to speak for God, not to invite Saul to Paradise."*
 
 **⚖️ BVCAP Verdict:**
 
-This perspective is **theologically reasonable**. Looking at 1 Sam 28:16-19, Samuel's entire statement is a judgment and forewarning:
+This viewpoint is **theologically sound**. Looking at 1 Sam 28:16-19, Samuel's entire statement is judgment and prediction:
 
 > - "seeing the LORD is departed from thee, and is become thine enemy" (Declaration of judgment)
-> - "hath rent the kingdom out of thine hand, and given it to thy neighbour, even to David" (Confirmation of kingship deprivation)
-> - "to morrow shalt thou and thy sons be with me" (Forewarning of death)
+> - "and rent the kingdom out of thine hand, and given it to thy neighbour, even to David" (Confirmation of kingship deprivation)
+> - "tomorrow shalt thou and thy sons be with me" (Prediction of death)
 
-**It is correct that "with me" is within the context of a declaration of judgment.** However, this does not completely dismiss the Paradise theory:
+**It is true that "with me" is within the context of a declaration of judgment.** However, this does not completely reject the Paradise Theory:
 
-| Point of Dispute | Analysis |
+| Point | Analysis |
 |:---:|:---|
-| Context of declaration of judgment | ✅ Correct — Samuel's statement is overall a sentencing of judgment |
-| Spatiality of "With" | ⚠️ Even if it is a declaration of judgment, the **spatial directionality of the first-person direct discourse** remains |
-| Conclusion | This rationale **weakens** the confirmation of "with me" = Paradise and supports the UNRESOLVED boundary |
+| Context of judgment declaration | ✅ True — Samuel's statement is overall a sentence of judgment |
+| Spatiality of "with" | ⚠️ Even if it's a declaration of judgment, the **spatial directivity of the 1st person direct speech** remains |
+| Conclusion | This argument **weakens** the confirmation of "with me" = Paradise, and supports the UNRESOLVED border |
 
-> **BVCAP Opinion:** This interpretation is one of the grounds for adjusting the final verdict from `✅ CONSISTENT` to the level of `🟡 HIGH PROBABILITY (Leading View)`.
+> **BVCAP Opinion:** This interpretation is one of the grounds for adjusting the final verdict to the level of `🟡 HIGH PROBABILITY (Leading View)` rather than `✅ CONSISTENT`.
 
 ---
 
 ### ❓ FAQ-3: The Samson comparison is invalid — **There is no fruit (evidence of repentance)**
 
-**Gist of Question:**
-> *"Samson is recorded in Hebrews 11, and at the end, he sacrificed himself by bringing down the pillars. This is the fruit of repentance. Fruit is evidence of whether faith is real. There is a total absence of records of fruit or evidence of repentance to consider King Saul saved."*
+**Summary of Question:**
+> *"Samson is recorded in Hebrews 11, and in the end, he sacrificed himself by tearing down the pillars. This is the fruit of repentance. Fruit is the evidence of whether faith is genuine. For King Saul, there is absolutely no record of evidence or fruit of repentance that would suggest he was saved."*
 
-**⚖️ BVCAP Point Refinement — Revision from "Absence of Fruit" to "Absence of Sincerity of Repentance"**
+**⚖️ BVCAP Point Refinement — "Absence of fruit" → Revised to "Absence of sincerity of repentance"**
 
 First, the logical structure of salvation must be corrected:
 
 ```
 Repentance/Faith → Salvation → Fruit
-(Fruit is not the cause of salvation but the result and evidence)
+(Fruit is not the cause of salvation, but the result and evidence)
 ```
 
-> **📖 Counterexample — Thief on the Cross (Luke 23:43, KJV)**
+> **📖 Counter-example — The thief on the cross (Luke 23:43, KJV)**
 > *"And Jesus said unto him, Verily I say unto thee, Today shalt thou be **with me in paradise**."*
 >
 > | Item | Thief | Samson | David | Saul |
@@ -892,108 +950,105 @@ Repentance/Faith → Salvation → Fruit
 | **Fruit** | ❌ (No time) | ✅ | ✅ | ❌ |
 | **Confirmation of Salvation** | ✅ Jesus' direct declaration | ✅ Heb 11 | ✅ Acts 13:22 | ❌ |
 
-> **Conclusion:** The thief on the cross went to Paradise **despite a total absence of fruit**. Therefore, **"No fruit = Hell" is not an absolute rule.** Fruit is a result of repentance/salvation, not a condition.
+> **Conclusion:** The thief on the cross went to Paradise despite having **absolutely no fruit**. Therefore, **"no fruit = Hell" is not an absolute rule.** Fruit is a result of repentance/salvation, not a condition.
 
-**⚖️ BVCAP Precise Verdict — The real point of dispute is not "Fruit" but "Sincerity of Repentance"**
+**⚖️ BVCAP Precise Verdict — The real issue is not "fruit" but "sincerity of repentance"**
 
-Samson, David, and the thief all had **repentance**. The decisive difference with Saul is not fruit but the **sincerity of repentance**:
+Samson, David, and the thief all had **repentance**. The decisive difference with Saul is not fruit, but the **sincerity of repentance**:
 
-| Figure | Record of Repentance | Final Direction of Action | Confirmation of Salvation |
+| Figure | Record of Repentance | Direction of Final Action | Confirmation of Salvation |
 |:---:|:---|:---:|:---:|
-| **Samson** | ✅ Judg 16:28 — Prayed to God | Toward God → | ✅ Heb 11:32 |
-| **David** | ✅ Psalm 51 — True repentance | Toward God → | ✅ Acts 13:22 |
-| **Thief on the Cross** | ✅ Luke 23:42 — "Remember me" | Toward God → | ✅ Luke 23:43 |
+| **Samson** | ✅ Judg 16:28 — Prayed to God | To God → | ✅ Heb 11:32 |
+| **David** | ✅ Ps 51 — Sincere repentance | To God → | ✅ Acts 13:22 |
+| **Thief on the cross** | ✅ Luke 23:42 — "remember me" | To God → | ✅ Luke 23:43 |
 | **Saul** | ⚠️ 1 Sam 15:24, 26:21 — "I have sinned" | ⚠️ Doubtful (See below) | ❌ |
 
-**Precise Examination of Saul's Repentance Records:**
+**Precise review of the record of Saul's repentance:**
 
-| Verse | Content | Judgment of Sincerity |
+| Verse | Content | Sincerity Verdict |
 |:---:|:---|:---:|
-| **1 Sam 15:24** | "I have sinned" → Immediately followed by "honour me now" (15:30) | ⚠️ Doubtful — Purpose of saving face |
+| **1 Sam 15:24** | "I have sinned" → immediately followed by "honour me now" (15:30) | ⚠️ Doubtful — Purpose of saving face |
 | **1 Sam 26:21** | "I have sinned" (To David) | ⚠️ Doubtful — Political situation |
-| **1 Sam 28** | When God did not answer, **sought a witch** — Choice on the last night of his life | ❌ **Opposite direction** |
+| **1 Sam 28** | When God did not answer, **sought a witch** — The choice on the last night of his life | ❌ **Opposite direction** |
 
-> **BVCAP Acceptance:** Using the Samson/David analogy as a precedent for "salvation even after falling" is an incomplete analogy that overlooks the decisive difference of the **presence or absence of repentance**. The true rationale should be refined like this:
+> **BVCAP Acceptance:** Using the Samson/David analogy as a precedent for "salvation despite falling" is an incomplete analogy that overlooks the decisive difference of the **presence or absence of repentance**. The real argument should be refined like this:
 >
-> *"It is not that Saul lacks the fruit of repentance, but that his repentance itself was never recorded sincerely, and his final action was directed not toward God but toward a demonic channel (witch)."*
+> *"It's not that Saul has no fruit of repentance, but that repentance itself was never recorded sincerely, and his final action headed towards a demonic channel (witch) rather than God."*
 
-> **Defensible Scope:** The possibility that what Saul said in 1 Sam 15:24 might be genuine repentance is not completely closed. However, the fact that there are no subsequent actions proving it, and his final action was in the opposite direction, significantly narrows this possibility.
-
-
+> **Defensible Scope:** The possibility that what Saul said in 1 Sam 15:24 could be sincere repentance is not completely closed. However, the fact that there are no subsequent actions to prove it, and his final action was in the opposite direction, significantly narrows this possibility.
 
 ---
 
-### ❓ FAQ-4: Can one argue for the salvation of a person with a **total absence of repentance records**?
+### ❓ FAQ-4: Can we argue for the salvation of a person with **no record of repentance**?
 
-**Gist of Question:**
-> *"There is no clear basis for King Saul's repentance or salvation from the canonical records alone."*
+**Summary of Question:**
+> *"Based on the canonical record alone, there is no clear basis for King Saul's repentance or salvation."*
 
 **⚖️ BVCAP Verdict:**
 
-This rationale has the same structure as what was already processed as a **draw (5:5)** in Issue E (Absence in Hebrews 11). The **Argument from Silence** is the weakest evidence according to BVCAP principles and applies in both directions:
+This rationale is the exact same structure as what was already treated as a **draw (5:5)** in Issue E (Absence in Heb 11). The **Argument from Silence** is the weakest evidence according to BVCAP principles, and it applies in both directions:
 
-> - "There is no record of repentance" → Not proof of destruction
-> - "There is no record confirming salvation" → Not proof of entry into Paradise
+> - "There is no record of repentance" → Not proof of damnation
+> - "There is no record confirming salvation" → Not proof of entry to Paradise
 
-**However, when combined with FAQ-3, its intensity increases:**
+**However, when combined with FAQ-3, its strength increases:**
 
-> It is not simple silence; an **action in the opposite direction** at the final moment (visiting the witch) exists, and this points in the **exact opposite** direction of Samson's final action (praying to God).
+> It is not just simple silence; there is an action in the **opposite direction** (visiting the witch) at the final moment, and this points in the **exact opposite** direction of Samson's final action (praying to God).
 
 ---
 
-### ❓ FAQ-5: Saul's life action timeline — Is there a basis for repentance?
+### ❓ FAQ-5: Saul's Life Action Timeline — Is there a basis for repentance?
 
-**Gist of Question:**
-> *"If Saul remembered Samuel's final words that 'rebellion is as the sin of witchcraft' (1 Sam 15:23) and strongly wiped out the mediums, isn't this an act of repentance? And there is also the fact that he inquired of God first before visiting the medium."*
+**Summary of Question:**
+> *"If Saul remembered Samuel's last words, 'rebellion is as the sin of witchcraft' (1 Sam 15:23), and strongly put away the witches, isn't this an act of repentance? And there is also the fact that he asked God first before visiting the witch."*
 
-**⚖️ BVCAP Verdict: 🟡 This timeline serves as a basis to partially support the sincerity of repentance.**
+**⚖️ BVCAP Verdict: 🟡 This timeline serves as a basis partially supporting the sincerity of repentance.**
 
-#### 📅 King Saul's Life Core Timeline — Focusing on Acts of Repentance
+#### 📅 King Saul's Life Core Timeline — Centered on Acts of Repentance
 
-| Period | Event | Verse | Character |
+| Period | Event | Verse | Nature |
 |:---:|:---|:---:|:---:|
-| 1 Sam 10 | Anointed by Samuel. The Spirit of God came upon him | 10:1,6 | ✅ Beginning of obedience |
-| 1 Sam 11 | The Spirit of God came upon him and defeated Ammon — Saved Israel | 11:6-11 | ✅ God's power |
+| 1 Sam 10 | Anointed by Samuel. **God gave Saul another heart** (10:9) + **Spirit of God came upon him and he prophesied** (10:10-11) | 10:1,6,**9-11** | ✅ Start of obedience + **Evidence of new birth** |
+| 1 Sam 11 | Spirit of God came, defeated Ammon — Delivered Israel | 11:6-11 | ✅ Power of God |
 | 1 Sam 14:35 | **Built an altar unto the LORD — The first altar Saul built** | 14:35 | ✅ Act of worship |
-| 1 Sam 13 | Offered a burnt offering without waiting for Samuel | 13:9 | ❌ 1st Disobedience |
-| 1 Sam 15 | War against Amalek — Spared Agag and the livestock | 15:9 | ❌ 2nd Disobedience |
-| 1 Sam 15:23 | Samuel's final declaration: **"Rebellion is as the sin of witchcraft"** | 15:23 | ⚠️ Core warning |
-| 1 Sam 15:24 | *"I have sinned... because I feared the people"* — 1st Confession | 15:24 | ⚠️ Doubtful |
-| 1 Sam 15:30 | *"I have sinned... honour me now"* — 2nd Confession | 15:30 | ❌ Immediate self-interest |
-| 1 Sam 15:35 | **Samuel did not see Saul until the day of his death** | 15:35 | — |
-| 1 Sam 15~24 | ⚠️ **Record of Saul visiting a medium = Not even once** | — | 🟡 Meaningful |
-| 1 Sam 24:2 | Pursued David — Engedi (While Samuel was alive) | 24:2 | ❌ |
-| 1 Sam 24:17 | *"Thou art more righteous than I"* — Acknowledged David would be king | 24:17 | 🟡 Partial acknowledgment |
+| 1 Sam 13 | Offered burnt offering without waiting for Samuel | 13:9 | ❌ 1st Disobedience |
+| 1 Sam 15 | War with Amalek — Spared Agag and livestock | 15:9 | ❌ 2nd Disobedience |
+| 1 Sam 15:23 | Samuel's last declaration: **"rebellion is as the sin of witchcraft"** | 15:23 | ⚠️ Core warning |
+| 1 Sam 15:24 | *"I have sinned... because I feared the people"* — 1st confession | 15:24 | ⚠️ Doubtful |
+| 1 Sam 15:30 | *"I have sinned... honour me now"* — 2nd confession | 15:30 | ❌ Immediate self-interest |
+| 1 Sam 15:35 | **Samuel came no more to see Saul until the day of his death** | 15:35 | — |
+| 1 Sam 15~24 | ⚠️ **Record of Saul visiting a witch = Not even once** | — | 🟡 Meaningful |
+| 1 Sam 24:2 | Pursuing David — Engedi (During Samuel's lifetime) | 24:2 | ❌ |
+| 1 Sam 24:17 | *"Thou art more righteous than I"* — Acknowledged David will be king | 24:17 | 🟡 Partial acknowledgment |
 | **1 Sam 25:1** | **Samuel died — Buried in Ramah** | 25:1 | ☠️ |
-| **1 Sam 26:2** | Pursued David **after** Samuel's death — Wilderness of Ziph | 26:2 | ❌ |
-| **1 Sam 26:21** | *"I have sinned... I will no more do thee harm"* — 3rd Confession + No record of pursuit afterward | 26:21,25 | 🟡 Appears to have kept the promise |
-| **1 Sam 28:3** | **Put away those that had familiar spirits, and the wizards, out of the land** (Strong expression — Complete removal) | 28:3 | 🟡 Core act |
-| **1 Sam 28:6** | **Inquired of the LORD first — No answer by dreams, Urim, or prophets** | 28:6 | 🟡 Normal channels first |
-| **1 Sam 28:7** | Visited the medium after God's silence | 28:7 | ❌ |
-| 1 Sam 31:4 | Fell upon his own sword and died in battle. No record of conversion | 31:4 | — |
+| **1 Sam 26:2** | Pursuing David **after** Samuel's death — Wilderness of Ziph | 26:2 | ❌ |
+| **1 Sam 26:21** | *"I have sinned... I will no more do thee harm"* — 3rd confession + No record of pursuit afterwards | 26:21,25 | 🟡 Seems to have kept promise |
+| **1 Sam 28:3** | **Put away those that had familiar spirits, and the wizards, out of the land** (Strong expression — complete removal) | 28:3 | 🟡 Core act |
+| **1 Sam 28:6** | **Asked God first — No answer by dreams, Urim, or prophets** | 28:6 | 🟡 Normal channels first |
+| **1 Sam 28:7** | Visited witch after God's silence | 28:7 | ❌ |
+| 1 Sam 31:4 | Fell upon his own sword in battle and died. No record of conversion | 31:4 | — |
 
 ---
 
-#### 🔑 Core Argument — Theological Interpretation of 1 Sam 28:3
+#### 🔑 Core Argument — Theological Interpretation of 1 Samuel 28:3
 
 **KJV Text:**
 > *"Now Samuel was dead... And Saul had put away those that had familiar spirits, and the wizards, out of the land."*
 
-The biblical author **placed Samuel's death** and the **expulsion of mediums** **side-by-side in the same verse**. This might not be a simple parallel description.
+The biblical author placed **Samuel's death** and the **expulsion of witches** side-by-side in the **same verse**. This might not be a simple parallel narrative.
 
 | Analysis Item | Content |
 |:---:|:---|
-| **Samuel's last words** | "Rebellion is as the sin of witchcraft" (1 Sam 15:23) |
-| **Saul's action** | Right after Samuel's death, he **put away** those that had familiar spirits (strong removal verb) |
-| **Connectable Interpretation** | Remembered Samuel's warning, recognized that rebellion = sin of witchcraft as spoken, and removed the mediums |
-| **Intensity of putting away** | Complete removal, not simple expulsion — **Active action**, not passive obedience |
-| **History of visiting mediums** | **Zero** records of contacting mediums during Samuel's entire life (1 Sam 10-25) |
+| **Samuel's last words** | "rebellion is as the sin of witchcraft" (1 Sam 15:23) |
+| **Saul's action** | Immediately after Samuel's death, **put away** those with familiar spirits (Strong removal verb) |
+| **Plausible Interpretation** | Remembered Samuel's warning, recognized that rebellion = sin of witchcraft as he said, and removed witches |
+| **Intensity of putting away** | Complete removal, not simple expulsion — An **active action**, not passive obedience |
+| **History of visiting witches** | **Zero** records of demonic contact during Samuel's entire lifetime (1 Sam 10~25) |
 
-> **Conclusion:** Saul's wiping out of the mediums **might not have been a simple execution of the law.** It can be interpreted as an act responding to Samuel's final words ("Rebellion = sin of witchcraft") by remembering them. The strong action of removal in a situation where there was no particular reason to eliminate mediums can function as external evidence of an **Act of Repentance**.
-
+> **Conclusion:** Saul putting away the witches **might not be a simple enforcement of the law.** It can be interpreted as an act of remembering Samuel's last words ("rebellion = sin of witchcraft") and responding to them. The strong removal action in a situation where there was no particular reason to erase witches can function as external evidence of an **Act of Repentance**.
 ---
 
-#### 🧭 Saul's Last Night — The Order of Seeking God First
+#### 🧭 Saul's Last Night — The Sequence of Seeking God First
 
 > **1 Sam 28:6 (KJV):** *"And when Saul enquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets."*
 
@@ -1002,34 +1057,34 @@ The biblical author **placed Samuel's death** and the **expulsion of mediums** *
 | **1st** | Dreams | ❌ No answer |
 | **2nd** | Urim | ❌ No answer |
 | **3rd** | Prophets | ❌ No answer |
-| **Last Resort** | Medium | ❌ Forbidden channel |
+| **Last** | Witch | ❌ Forbidden channel |
 
-> **This order is important:** Saul did not visit the medium as his **first choice**. He **attempted all normal channels** permitted by God first. It was after God's complete silence that he collapsed in extreme fear (the Philistine army).
+> **This sequence is important:** Saul did not seek the witch as his **first choice**. He **first tried all normal channels** permitted by God. After God's complete silence, he collapsed in extreme fear (the Philistine army).
 
 ---
 
-#### ⚖️ Comprehensive Verdict — The statement "There is absolutely no record of repentance" must be corrected
+#### ⚖️ Comprehensive Verdict — The statement "There is no record of repentance at all" must be corrected
 
-| Classification | Previous Claim | Corrected Evaluation |
+| Category | Existing Claim | Revised Evaluation |
 |:---:|:---|:---|
-| **Confession Record** | "None" | ❌ Incorrect — Exists three times: 1 Sam 15:24, 15:30, 26:21 |
-| **Removal of Mediums** | Simple law execution | 🟡 Recalling Samuel's warning + strong removal = Possibility of an act of repentance |
-| **History of visiting mediums** | No mention | ✅ Zero during Samuel's entire life |
-| **Last night's order** | "Visited a medium" | 🟡 God first → Silence → Medium (last resort) |
-| **Action after 3rd Confession** | "Chased David again" | ❌ Incorrect — No record of pursuit afterward |
+| **Confession record** | "None" | ❌ Incorrect — Three instances exist: 1 Sam 15:24, 15:30, 26:21 |
+| **Removal of witches** | Simple law enforcement | 🟡 Associating Samuel's warning + strong removal = Possibility of act of repentance |
+| **History of witch visits** | Not mentioned | ✅ None during Samuel's entire lifetime |
+| **Last night sequence** | "Visited witch" | 🟡 God first → Silence → Witch (Last resort) |
+| **Action after 3rd confession** | "Chased David again" | ❌ Incorrect — No record of pursuit afterwards |
 
-> **📌 Corrected Evaluation:** There is a pattern of repentance in Saul. It was incomplete and failed every time, but it was not completely absent either. His final action (the medium) was a **collapse in an extreme situation of God's silence**, which reveals his limits in faith, but the claim that there was **no attempt at repentance at all** has no basis in the text.
-
----
+> **📌 Revised Evaluation:** There is a pattern of repentance in Saul. It was not perfect and failed every time, but it was not completely absent either. The final action (witch) was a **collapse in the extreme situation of God's silence**, and while this reveals the limits of his faith, the claim that **there was no attempt at repentance at all** has no textual basis.
 
 ---
 
-### ❓ FAQ-6: The **Final Defeat** of the Claim that "With me" = Comprehensive Entry into Sheol
+---
 
-**Summary of the Question:**
-> *"Sheol includes both Paradise and the place of torment. 'With me' could mean 'You will enter the Sheol system where I am.' After entering, they are sorted into Paradise and the place of torment."*
+### ❓ FAQ-6: The **Final Defeat** of the Claim "with me" = Comprehensive Entry into Sheol
 
-**⚖️ BVCAP Verdict: ✅ Completely defeated by the great gulf argument in Luke 16:26**
+**Summary of Question:**
+> *"Sheol includes both Paradise and the Place of Torment. 'with me' could mean 'You will enter the Sheol system where I am.' They are sorted into Paradise and the Place of Torment after entry."*
+
+**⚖️ BVCAP Verdict: ✅ Completely defeated by the Luke 16:26 great gulf argument**
 
 #### 🔑 Decisive Evidence — Luke 16:26
 
@@ -1038,225 +1093,594 @@ The biblical author **placed Samuel's death** and the **expulsion of mediums** *
 
 | Internal Structure of Sheol | Content |
 |:---:|:---|
-| **Paradise Zone** | Abraham's bosom — Where Samuel and Jonathan are |
-| **Great Gulf** | Cannot pass (Fixed) — Luke 16:26 |
+| **Paradise Compartment** | Abraham's Bosom — Where Samuel and Jonathan are |
+| **Great Gulf** | Cannot cross (fixed) — Luke 16:26 |
 | **Place of Torment** | Where the rich man is |
 
-#### 🏹 TYPE-G + TYPE-L: Grammar Chain + Sequential Inference
+#### 🏹 TYPE-G + TYPE-L: Grammar Chain + Chained Inference
 
 ```
-[Premise 1] Between Paradise and the place of torment in Sheol = Great gulf fixed (Luke 16:26)
+[Premise 1] Between Paradise and Place of Torment in Sheol = Great gulf fixed (Luke 16:26)
 [Premise 2] Samuel = In Paradise (disquieted = peaceful rest disturbed)
-[Premise 3] Samuel says: "thou and thy sons be with me (עִמִּי)"
+[Premise 3] Samuel says: "thou and thy sons with me (עִמִּי)"
 
-[Operational Supplement — 🚨 Principle of Impossible Dual Destination Indication]
-If, as the prosecution claims, Saul goes to the place of torment and righteous Jonathan goes to Paradise:
+[Operational Supplement — 🚨 Principle of No Dual Destination Indication]
+If, as the Prosecution claims, Saul went to the Place of Torment and righteous Jonathan went to Paradise:
 
-Samuel would be saying, "thou (torment) and thy sons (Paradise) be with me (עִמִּי)."
-  → This would mean Samuel indicated two completely different spaces on opposite sides of the great gulf simultaneously with the single word "with me."
-  → Grammatically, a dual indication of "with me (in Torment) and with me (in Paradise)" cannot be established.
+Samuel would be saying "thou (Torment) and thy sons (Paradise) with me (עִמִּי)".
+  → This means Samuel pointed to two completely different spaces on opposite sides of the great gulf simultaneously with a single word "with me".
+  → Grammatically, the dual indication of "with me (in Torment) and with me (in Paradise)" cannot be established.
 
-Conclusion: If Saul and Jonathan were grouped together and called "with me," it is only linguistically valid if both are on the same side of the great gulf (Paradise, where Samuel is). 
-Therefore, "with me" cannot be an idiomatic expression for the afterlife, but indicates the exact same location (Paradise). ✅
+Conclusion: If Samuel grouped Saul and Jonathan together and called them "with me," it only works linguistically if both are on the same side of the great gulf (Paradise where Samuel is). 
+Therefore, "with me" cannot be an idiomatic expression for the afterlife, and accurately points to the exact same location (Paradise). ✅
 ```
 
-#### 🏹 TYPE-P: Declaration of Reverse Regression of the Macro-Sheol Interpretation
+#### 🏹 TYPE-P: Declaration of Reverse Regression for Macro-Sheol Interpretation
 
-> *"For the Macro-Sheol entry theory to be established, a person in the place of torment separated by the great gulf must also be able to be said to be 'with me (עִמִּי)' by Samuel in Paradise. However, Luke 16:26 has Jesus directly declare that this crossing is physically impossible. Therefore, 'with me' can only indicate the same zone without a gulf — Paradise."*
+> *"For the Macro-Sheol entry theory to be established, a person in the Place of Torment, separated by the great gulf, must also be able to say they are 'with (עִמִּי)' Samuel in Paradise. However, Jesus directly declared in Luke 16:26 that crossing over is physically impossible. Therefore, 'with me' can only indicate the same compartment without a gulf — Paradise."*
 
-#### 🏹 TYPE-E: Final Dismissal of Competing Models
+#### 🏹 TYPE-E: Final Rejection of Competing Models
 
-| Model | Result of Applying Luke 16:26 | Survival |
+| Model | Application Result of Luke 16:26 | Survival Status |
 |:---:|:---|:---:|
-| **Macro-Sheol Entry Theory** | Place of Torment → Separated from Samuel by a great gulf → "With" impossible | ❌ **Dismissed** |
-| **Paradise Specific Model** | Paradise → Same zone as Samuel, no gulf → "With" established | ✅ **Sole Survivor** |
+| **Macro-Sheol Entry Theory** | Place of Torment → Separated from Samuel by great gulf → "with" impossible | ❌ **Rejected** |
+| **Paradise Specific Model** | Paradise → Same compartment as Samuel, no gulf → "with" established | ✅ **Sole Survivor** |
 
-#### 🛡️ The Prosecution's Last Escape Route — "Luke 16 is a parable"
+#### 🛡️ Prosecution's Final Escape Route — "Luke 16 is a Parable"
 
 | Escape Route | Result |
 |:---:|:---|
-| "Since Luke 16 is a parable, the great gulf is also a figurative expression" | **Self-Contradiction** — If it's a parable, the division between Paradise/place of torment is also a parable. The entire structure of the afterlife collapses, destroying the prosecution's entire rationale |
-| "The great gulf is symbolic separation, not physical blockage" | **Luke 16:26 Original Text** *"cannot"* — Declaration of absolute impossibility. Definitive impossibility, not symbolic |
+| "Since Luke 16 is a parable, the great gulf is also a figurative expression" | **Self-Contradiction** — If it's a parable, the division of Paradise/Torment is also a parable. The structure of the afterlife itself collapses, destroying the Prosecution's entire foundation of argument |
+| "The great gulf is symbolic separation, not physical blockade" | **Luke 16:26 Original Text** *"cannot"* — Declaration of absolute impossibility. Definitive impossibility, not symbolic |
 
-> **📌 FAQ-6 Verdict:** The Macro-Sheol entry theory is completely defeated by Luke 16:26. It is confirmed that "with me" is not a declaration of entry into the Sheol system, but a **declaration of the same location in the Paradise zone**. With this, the last remaining ambiguity is removed, and the verdict is established as **✅ PARADISE CONFIRMED**.
+> **📌 FAQ-6 Verdict:** The Macro-Sheol entry theory is completely defeated by Luke 16:26. It is confirmed that "with me" is not a declaration of entering the Sheol system, but a **declaration of the same location in the Paradise compartment**. With this, the final residual ambiguity is removed and the verdict is confirmed as **✅ PARADISE CONFIRMED**.
 
 ---
 
-### ❓ FAQ-7: Comprehensive Verification of Advanced Rebuttals (Repentance, Enemy Declaration, Prison Analogy)
+### ❓ FAQ-7: Comprehensive Verification of Advanced Objections (Repentance, Enemy Declaration, Prison Analogy)
 
-**Summary of the Question:**
-> *"Saul had no final repentance. Also, God becoming his enemy is heavier, meaning he crossed over to become a target of judgment. And the expression 'with me' is a comprehensive expression of lying down with the dead, just as prisoners in a prison can be grouped as being 'in prison together' even if they can't freely move between rooms."*
+**Summary of Question:**
+> *"Saul did not have a final repentance. Also, God becoming his enemy is heavier as it means he was handed over as an object of judgment. And the expression 'with me' is a comprehensive expression of lying down with the dead, just as prisoners in a prison can be grouped and said to be 'together in prison' even if they cannot freely move between rooms."*
 
 **⚖️ BVCAP Verdict:**
 
-However, as a result of inputting these rebuttals into the BVCAP 2.0 engine for cross-verification, these claims fail to overcome the precise structure of the biblical text (KJV original language, pronoun usage, cross-references) and are ultimately dismissed (❌).
+However, as a result of inputting these objections into the BVCAP 2.0 engine and cross-verifying them, these claims fail to overcome the precise structure of the biblical text (KJV original language, pronoun usage, cross-references) and are finally rejected (❌).
 
-The following is the result of BVCAP dissecting and refuting these rebuttals one by one.
+Here is the result of BVCAP dissecting and refuting these objections one by one.
 
-#### 🛡️ [BVCAP Defense 1] On the claim that "there is no final repentance"
+#### 🛡️ [BVCAP Defense 1] Regarding the claim that "There is no final repentance"
 
-> **Summary of Rebuttal:** Saul repented in the middle but continued to sin, and since there was no final repentance, he was not saved.
+> **Summary of Objection:** Saul repented intermittently but continued to sin, and since there was no final repentance, he was not saved.
 
-**⚖️ Verdict: ⚠️ UNRESOLVED (Partially accepted but cannot be a decisive counter-proof)**
+**⚖️ Verdict: ⚠️ UNRESOLVED (Partially accepted but cannot definitively disprove)**
 
-This part was already covered in FAQ-3 and 4. It is **true** that explicit records of Saul's repentance are lacking. However, BVCAP adheres to the principle that **"absence of record (silence) cannot immediately be proof of going to hell"** (dismissal of the argument from silence). Above all, the thief on the cross had absolutely no 'fruit of life,' yet went to Paradise based on a single confession at the last moment. On Saul's last night, the record that he **"enquired of the LORD (1 Sam 28:6)"** before seeking the medium leaves room to see it not as him completely abandoning God, but as the result of human weakness collapsing when he received no answer amidst extreme fear. The absence of a repentance record is merely a weakness that prevents the confirmation of Saul's salvation; it cannot be a weapon that confirms his descent to hell.
+This part was already covered in FAQ-3, 4. It is a **fact** that explicit records of Saul's repentance are lacking. However, BVCAP adheres to the principle that **"the absence of a record (silence) cannot be evidence of going to Hell"** (rejection of argument from silence). Above all, the thief on the cross had no 'fruit of life' at all, but went to Paradise with just one confession at the final moment. On Saul's last night, the record that he **"first enquired of the LORD (1 Sam 28:6)"** before seeking the witch leaves room to view it not as completely abandoning God, but as the result of weakness collapsing in extreme fear after receiving no answer. The absence of a repentance record is merely a weakness that prevents confirming Saul's salvation, but it cannot be a weapon to confirm his damnation.
 
-#### 🛡️ [BVCAP Defense 2] Defense Against the Rebuttal of "God Became His Enemy"
+#### 🛡️ [BVCAP Defense 2] Defense against the re-objection on "God becoming his enemy"
 
-> **Summary of Rebuttal:** Whether 'Saul is the enemy' or 'God is the enemy', the essence is 'destruction of relationship' and 'discipline/judgment'. God becoming an enemy means passing out of His protection and becoming a target of judgment, which is far heavier.
+> **Summary of Objection:** Whether 'Saul is the enemy' or 'God is the enemy,' the essence is 'destruction of relationship' and 'discipline/judgment.' God becoming his enemy means he is no longer under protection but handed over for judgment, so it is heavier.
 
-**⚖️ Verdict: ❌ Dismissed (TYPE-C: Category Confusion - Judgment of the Flesh vs. Destruction of the Soul)**
+**⚖️ Verdict: ❌ Rejected (TYPE-C: Category Confusion - Judgment of the flesh vs Ruin of the soul)**
 
-This rebuttal commits a fatal leap in logic (E-09) by confusing **"fleshly/dispensational discipline"** with **"eternal spiritual destruction."** The Bible clearly shows instances where God turns to be the 'enemy' against His own people, judging their flesh but saving their souls.
+This objection commits a fatal leap (E-09) by confusing **"fleshly/temporal discipline"** with **"eternal spiritual ruin."** The Bible clearly shows precedents where God acts as an 'enemy' to His own people to judge their flesh, but saves their souls.
 
-**1. Isaiah 63:10 (KJV) — An Instance of God Becoming His People's Enemy**
+**1. Isaiah 63:10 (KJV) — Case of God becoming the enemy of His people**
 > *"But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, and he fought against them."*
-*   **Analysis:** When the people of Israel rebelled, God "was turned to be their enemy" and fought against them. But did the entirety of Israel go to hell eternally? No. This is the 'heaviest dispensational/fleshly discipline' upon a covenant people, not a sentence to hell.
+*   **Analysis:** When the Israelites rebelled, God "turned to be their enemy" and fought against them. But did the entire nation of Israel go to Hell forever? No. This is the 'heaviest temporal/fleshly discipline' upon covenant people, not a sentence to Hell.
 
-**2. 1 Corinthians 5:5 (KJV) — Destruction of the Flesh and Salvation of the Spirit**
+**2. 1 Corinthians 5:5 (KJV) — Destruction of the flesh and salvation of the spirit**
 > *"To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus."*
-*   **Analysis:** Even for a saved person, if they commit severe sin, God withdraws His protection and delivers them to Satan to 'destroy the flesh (death penalty/disease).' Saul, too, had God become his adversary, withdrawing his physical life and kingship (1 Chron 10:13). Saul paid the price for his sin by having his flesh judged and dying in battle, but this does not guarantee the destruction (hell) of his soul.
+*   **Analysis:** Even if a saved person commits a grievous sin, God withdraws His protection and delivers them to Satan to bring about the 'destruction of the flesh (execution/disease).' For Saul as well, God became an adversary and took away his fleshly life and kingship (1 Chron 10:13). Saul paid for his sin by having his flesh judged and dying in battle, but this does not guarantee the ruin of his soul (Hell).
 
-#### 🛡️ [BVCAP Defense 3] Complete Refutation of the 'Prison Analogy' and 'Comprehensive Expression of Death'
+#### 🛡️ [BVCAP Defense 3] Complete Refutation of the 'Prison Analogy' and 'Comprehensive With'
 
-> **Summary of Rebuttal:** The expression 'with me' is a comprehensive expression like lying down together with the dead. Even if prisoners in a jail cannot freely visit each other's cells, if asked, "Where are you?", they can say, "We are in prison together."
+> **Summary of Objection:** The expression 'with' is a comprehensive expression like lying together with the dead. Even if prisoners cannot freely move between rooms, if asked "Where are you?", they can say "We are together in prison."
 
-**⚖️ Verdict: ❌ Dismissed (TYPE-L: Inductive Chain Reasoning / Conflict with Luke 16 Anchor)**
+**⚖️ Verdict: ❌ Rejected (TYPE-L: Inductive Chained Inference / Clash with Luke 16 Anchor)**
 
-The 'prison analogy' put forth by this rebuttal seems very plausible by human logic, but it is shattered as it directly collides with how the Bible explicitly uses pronouns for the afterlife (Sheol).
+The 'prison analogy' put forward by this objection is very plausible in human logic, but it shatters as it directly clashes with the pronoun usage the Bible uses to describe the afterlife (Sheol).
 
-Let's look at Luke 16, the only record in the Bible of a conversation occurring between the two compartments in Sheol (Paradise and the place of torment). According to the opponent's argument, Abraham (the warden/righteous man) in Paradise and the rich man (prisoner) in the place of torment, even though separated by a great gulf (prison wall), should be able to say, "We are together in the same prison called Sheol."
+Let's look at Luke 16, the only record of conversation occurring between the two compartments (Paradise and the Place of Torment) within Sheol in the Bible. If the objector's claim is true, Abraham (Warden/Righteous) in Paradise and the rich man (Inmate) in the Place of Torment should be able to say, "We are together in this same prison called Sheol," even though they are separated by a great gulf (prison wall).
 
-Does the Bible actually express it that way?
+Does the Bible express it that way?
 
 > **Luke 16:26 (KJV)**
 > *"And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence."*
 
-*   **Fatal Contradiction Detected:** Abraham never collectively expresses to the rich man, "We are with me (together) in this Sheol." He strictly and perfectly separates the pronouns into **"Us - Paradise"** and **"You - Place of Torment"**.
-*   **Reductio ad absurdum (TYPE-P):** If Saul went to the place of torment and Samuel was in Paradise, Samuel's line, according to the usage in Luke 16, should rightly be: *"To morrow shalt thou be on the other side of the great gulf (You), and I will be on this side (Us)."*
-*   However, Samuel grouped Jonathan (a righteous man) and Saul and called them **"with me (עִמִּי)"**. Across a gulf, one can never use the first-person spatial sharing pronoun 'with me'. It is only grammatically established when entering the same Paradise compartment on this side of the gulf.
+*   **Fatal Contradiction Detected:** Abraham never groups himself and the rich man together by saying, "We are with (with me) each other in this Sheol." He perfectly separates the pronouns into **"Us - Paradise"** and **"You - Place of Torment"**.
+*   **Reductio ad absurdum (TYPE-P):** If Saul went to the Place of Torment and Samuel was in Paradise, Samuel's line should have been, according to the usage in Luke 16, *"Tomorrow you will be on the other side of the great gulf (You), and I will be on this side (Us)."*
+*   However, Samuel grouped Jonathan (righteous) and Saul together and said **"with me (עִמִּי)."** Across the gulf, one can never use the 1st person spatial sharing pronoun 'with me'. It is only grammatically established when they enter the same Paradise compartment on this side of the gulf.
 
 #### 🏛️ Final Summary and Feedback Guidelines
 
-We summarize the core logic so that you can respond to the rebuttals of critics as follows:
+We summarize the core logic so you can respond to the objections of critics as follows.
 
-*   **Response to "God became his enemy":**
-    "As you said, the destruction of relationship and discipline is correct. However, just because God 'turned to be their enemy' and fought against Israel in Isaiah 63:10 does not mean the entire people of Israel went to hell. As in 1 Corinthians 5:5, Saul had his protection withdrawn and received the tremendous discipline of the destruction of his flesh (execution) and the deprivation of his kingship; he did not receive a sentence of hell for his soul."
-*   **Response to "The prison analogy and comprehensive 'with me' (immi)":**
-    "The prison analogy makes some sense. But it's different if we look at how the Bible portrays the afterlife (Sheol). In Luke 16:26, although Abraham in Paradise and the rich man in hell were in the same Sheol, Abraham never said, 'We are in Sheol together.' He strictly separated the compartments with the pronouns 'Us' and 'You.' The fact that Samuel grouped the righteous Jonathan and Saul and said 'with me' can only indicate the same Paradise compartment, not a comprehensive place across the gulf."
+*   **Response to "God became the enemy":**
+    "As you said, it is a destruction of relationship and discipline. However, just because God 'turned to be their enemy' and struck Israel in Isaiah 63:10, it does not mean all the Israelites went to Hell. Like 1 Corinthians 5:5, Saul's protection was withdrawn and he received a massive discipline of the destruction of his flesh (execution) and deprivation of kingship; he did not receive a sentence of the soul to Hell."
+*   **Response to "Prison Analogy and Comprehensive With (immi)":**
+    "The prison analogy makes sense. But it's different if you look at how the Bible describes the afterlife (Sheol). In Luke 16:26, Abraham in Paradise and the rich man in Hell were in the same Sheol, but Abraham never said 'We are together in Sheol.' He thoroughly separated the compartments with pronouns into 'Us' and 'You.' Samuel grouping the righteous Jonathan and Saul and saying 'With me' cannot point to a comprehensive place across the gulf, but must point to the same Paradise compartment."
 
-In this way, the BVCAP system defends against any clever human analogy by reflecting it in the mirror of **'other usages within the Bible (Luke 16, Isa 63)'** to verify if that analogy aligns with biblical grammar. This rebuttal was excellent, but it failed to pass the cross-verification of the Bible.
+As such, the BVCAP system defends against any cunning human analogies that come in by verifying whether the analogy aligns with biblical grammar by reflecting it in the mirror of **'other usages within the Bible (Luke 16, Isa 63)'**. This objection was excellent, but it failed to pass the Bible's cross-verification.
+---
+
+### 🥊 Advanced Issue H: The "gods" Seen by the Witch of Endor and the Spirit World Communication Mechanism
+
+> **Summary of Objection:** How could a witch summon Samuel? Aren't the "gods ascending out of the earth" that she saw devils? If they are devils, that is evidence that Samuel is not real.
+
+**⚖️ Verdict: ❌ Rejected (Broken through by perfect cross-verification with the spiritual ecosystem of Luke 16)**
+
+Analyzing the witch's mediumship mechanism through the spiritual ecosystem of the entire Bible clearly reveals why this was an exceptional event where the real Samuel was summoned, and why the woman screamed in terror.
+
+**1. The Identity of the "gods" and Spiritual Escort (Luke 16:22)**
+The Hebrew word for "gods ascending out of the earth" seen by the woman is 'Elohim,' which in the Old Testament can also mean spiritual beings (angels). Luke 16:22 specifies that when the saved Lazarus died, he was **"carried by the angels"** into Abraham's bosom (Paradise). 
+In contrast, when the unsaved rich man goes to Hell, there is no angelic escort. Devils, having the power to go back and forth between Hell and the world, drag his soul down to the underworld (Hell). 
+At that time, Paradise was in the heart of the earth (underground Sheol). When the righteous Samuel, who was in Paradise, came up to the earth, he did not come alone. **He came up escorted by holy angels (who appeared as Elohim/gods to the woman's eyes) who escort saved souls.**
+
+**2. The Real Reason the Witch Screamed (Samuel's Actual Descent and Saul's Identity Revealed)**
+The witch had a 'familiar spirit (devil)' that she ordinarily used. General mediumship operates as follows: The witch's familiar spirit connects a communication network (like making a phone call) with the devils of the underworld (Hell) to ask and gather information about the dead from those in Hell. Because devils are not omniscient, they impersonate the dead acquaintances through their communication network and deliver past information.
+However, this time it was different. The witch made a proxy call to the underworld as usual, but the **'real Samuel,' completely outside the witch's control, broke through the earth and came up directly, escorted by holy angels (gods).** The decisive reason the witch screamed was not simply because the gods came up (1 Sam 28:12). It was because the moment she saw with her own eyes that the one who came up was the **'real Samuel,'** she realized that the disguised man who came to her and demanded mediumship was none other than **'King Saul,'** who had enacted the national law to execute all witches, and she felt the terror of death.
+
+**Conclusion:** The "gods" seen by the woman were not evil spirits of Satan, but holy angels escorting Samuel. Also, the fact that Samuel could respond immediately as soon as Saul requested is because the communication and movement of the spirit world transcend physical time and are connected by an instantaneous communication network (Luke 16) that crosses the great gulf. This is powerful cross-evidence confirming Samuel's identity.
 
 ---
 
-### 🥊 In-depth Issue H: The "Gods" Seen by the Woman with a Familiar Spirit at Endor and the Mechanism of Spiritual Realm Communication
+### 📊 FAQ Comprehensive Verdict Table
 
-> **Summary of Rebuttal:** How could a woman with a familiar spirit summon Samuel? Aren't the "gods ascending out of the earth" that she saw actually demons? If they are demons, it proves that Samuel was not real.
-
-**⚖️ Verdict: ❌ Dismissed (Broken through by perfect cross-verification with the spiritual ecosystem of Luke 16)**
-
-When analyzing the necromancy mechanism of the woman with a familiar spirit (medium) through the entire spiritual ecosystem of the Bible, it becomes clear why this incident exceptionally summoned the real Samuel, and why the woman screamed in terror.
-
-**1. The Identity of the Gods and Spiritual Escort (Luke 16:22)**
-The Hebrew word for "gods ascending out of the earth" seen by the woman is 'Elohim,' which in the Old Testament can also mean spiritual beings (angels). Luke 16:22 specifies that when the saved Lazarus died, he was **"carried by the angels"** to Abraham's bosom (Paradise).
-In contrast, when the unsaved rich man went to hell, there was no escort of angels. Demons, possessing authority to travel back and forth between hell and the earthly realm, drag the soul down to the underworld (hell).
-At that time, Paradise was in the heart of the earth (underworld Sheol). When the righteous Samuel, who was in Paradise, came up to the surface, he did not come alone. He came up **escorted by holy angels (who appeared as Elohim/gods to the woman's eyes) who escort saved souls**.
-
-**2. The Real Reason the Medium Screamed (The actual descent of Samuel and the exposure of Saul's identity)**
-The medium had a 'familiar spirit (demon)' that she normally commanded. Typical necromancy operates like this: The medium's familiar spirit connects to the communication network of the demons in the underworld (like making a phone call), and queries and collects information about the dead from those in hell. Since demons are not omniscient, they impersonate deceased acquaintances through their communication network and deliver information from the past.
-But this time was different. The medium initiated proxy communication to the underworld as usual, but the **'real Samuel,' completely outside the medium's scope of control, directly pierced through the earth and came up, escorted by holy angels (gods)**. The decisive reason the medium screamed was not simply because gods came up (1 Sam 28:12). The moment she confirmed with her own eyes that the one coming up was the **'real Samuel,'** she realized that this disguised man who came seeking her and demanding necromancy was none other than **'King Saul'**, who had enacted the national law to execute all mediums, and she felt the terror of death.
-
-**Conclusion:** The "gods" the woman saw were not evil spirits of Satan, but holy angels escorting Samuel. Furthermore, the reason Samuel could respond instantly as soon as Saul requested it was because communication and movement in the spiritual world transcend physical time and are connected by an instantaneous communication network bridging across the great gulf (Luke 16). This is powerful cross-evidence confirming Samuel's identity.
-
----
-
-### 📊 Comprehensive FAQ Verdict Table
-
-| FAQ | Strength | Accept/Dismiss | Impact on Verdict |
+| FAQ | Strength | Acceptance/Rejection | Impact on Verdict |
 |:---:|:---:|:---:|:---:|
-| **FAQ-1** Comprehensive Death Interpretation | ⭐⭐⭐⭐ | ❌ **Dismissed** — Completely defeated by FAQ-6 | Ambiguity removed |
-| **FAQ-2** Interpretation of Judgment Declaration | ⭐⭐⭐ | 🟡 Partially Accepted | Context explained, restriction to Paradise maintained |
-| **FAQ-3** Sincerity of Repentance | ⭐⭐⭐⭐ | 🟡 Partially Accepted | Supplemented by the counter-example of the thief on the cross |
-| **FAQ-4** Absence of Repentance Record | ⭐⭐⭐ | ❌ **Dismissed** — Factual Error | Rebutted by FAQ-5 |
-| **FAQ-5** Saul's Timeline | ⭐⭐⭐⭐ | ✅ Defense Reinforced | Secured basis for act of repentance |
-| **FAQ-6** Great Gulf Argument | ⭐⭐⭐⭐⭐ | ✅ **Completely Defeated** | **Verdict CONFIRMED Finalized** |
-| **FAQ-7** Comprehensive Verification of In-depth Rebuttals | ⭐⭐⭐⭐⭐ | ❌ **Dismissed** — Luke 16 Anchor, 1 Cor 5:5 Application | Human analogy blocked at the source |
-| **FAQ-8** Spiritual Comm Network & Identity of Gods | ⭐⭐⭐⭐⭐ | ✅ **Completely Defeated** | Spiritual ecosystem (Luke 16) cross-verification complete |
+| **FAQ-1** Comprehensive Death Interpretation | ⭐⭐⭐⭐ | ❌ **Rejected** — Completely defeated by FAQ-6 | Removed Ambiguity |
+| **FAQ-2** Judgment Declaration Interpretation | ⭐⭐⭐ | 🟡 Partially Accepted | Context explanation, maintains Paradise specification |
+| **FAQ-3** Sincerity of Repentance | ⭐⭐⭐⭐ | 🟡 Partially Accepted | Supplemented by thief on the cross counter-example |
+| **FAQ-4** No Record of Repentance | ⭐⭐⭐ | ❌ **Rejected** — Factual error | Refuted by FAQ-5 |
+| **FAQ-5** Saul's Timeline | ⭐⭐⭐⭐ | ✅ Reinforced Defense | Secured basis for act of repentance |
+| **FAQ-6** Great Gulf Argument | ⭐⭐⭐⭐⭐ | ✅ **Complete Defeat** | **Confirmed Verdict CONFIRMED** |
+| **FAQ-7** Comprehensive Verification of Advanced Objections | ⭐⭐⭐⭐⭐ | ❌ **Rejected** — Luke 16 anchor, 1 Cor 5:5 application | Fundamental blockade of human analogies |
+| **FAQ-8** Spirit World Communication Network and Identity of "gods" | ⭐⭐⭐⭐⭐ | ✅ **Complete Defeat** | Spiritual ecosystem (Luke 16) cross-verification complete |
 
-> **📌 Final FAQ Opinion:** FAQ-6 (Luke 16:26 Great Gulf), FAQ-7 (In-depth Rebuttals), and the newly established FAQ-8 (Spiritual Comm Network) have completely sealed the final escape route of the Macro-Sheol interpretation, the human prison analogy, and the error of necromancy. It is physically, grammatically, and theologically confirmed that "with me" cannot include the place of torment. All weapons of the prosecution have collapsed, and the active evidence of the defense has not been refuted. The verdict is **✅ PARADISE CONFIRMED**.
+> **📌 FAQ Final Opinion:** FAQ-6 (Luke 16:26 Great Gulf), FAQ-7 (Advanced Objections), and the newly established FAQ-8 (Spirit World Communication Network) perfectly sealed the final escape route of the Macro-Sheol interpretation, human prison analogies, and mediumship errors. It is physically, grammatically, and theologically confirmed that "with me" cannot include the Place of Torment. All of the Prosecution's weapons collapsed, and the Defense's active evidence was not refuted. The verdict is **✅ PARADISE CONFIRMED**.
 
 ---
 
-## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
-This is the most intuitive and shocking approach for pastors accustomed to dispensational charts and timelines.
+## 📎 [Appendix A] Additional Weapon Firing Results (v2.0 Supplement)
+
+> As a result of cross-verifying 48 weapons in the armory, we fire 8 additional weapons that were unused in the existing report but have high applicability.
+
+---
+
+### 🔫 Additional Weapon 0-A: 1 Sam 16:14 + Job 1:12 — God's Sovereign Disciplinary Structure (TYPE-C Category Separation + Spiritual Beings Classification Table Cross)
+
+**KJV Text:**
+> *"But the Spirit of the LORD departed from Saul, and an evil spirit **from the LORD** troubled him."* (1 Sam 16:14)
+> *"And the LORD said unto **Satan**, Behold, all that he hath is **in thy power**; only upon himself put not forth thine hand."* (Job 1:12)
+
+**Core Argument — Categorial Meaning of "from the LORD":**
+
+| Classification | Devil's Voluntary Attack (Satan's Kingdom) | Evil Spirit from the LORD (God's Sovereignty) |
+|:---|:---|:---|
+| **Dispatch Subject** | Satan (ὁ διάβολος) | **God sovereignly dispatches** |
+| **Purpose** | Destruction, deception, idol worship | **Tool of discipline** (1 Cor 5:5 pattern) |
+| **KJV Precedents** | Mark 5:9, Matt 12:43 | **1 Sam 16:14, 1 Sam 18:10, 1 Sam 19:9, Job 1:12** |
+| **Scope of Control** | Voluntary dispatch from Satan's kingdom | Within limits set by God (Job 1:12 "only upon himself put not forth thine hand") |
+
+**Application to Saul Debate:**
+
+```
+1 Sam 16:14 — Evil spirit "from the LORD"
+    → Not Satan's voluntary attack
+    → Same structure as Job: Discipline within limits permitted by God
+    → 1 Cor 5:5 "To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved"
+    → A disciplinary process led by God from 16:14 to Chapter 28
+    ∴ Saul is not a "man completely handed over to the devil" but a "man being disciplined under God's sovereign control"
+```
+
+**Spiritual Beings Classification Table Cross-Verification (TYPE-AL):**
+- "evil spirit **from** the LORD" ≠ "Spirit **of** the LORD"
+- **"from"** = God's sovereign permission/dispatch (tool)
+- **"of"** = God's own Spirit (Holy Spirit)
+- Just by separating the category of this **one preposition**, the argument that "God completely abandoned Saul" is neutralized.
+
+**Connection with the "Empty House" Principle of Matt 12:44:**
+> *"Then he saith, I will return into **my house** from whence I came out; and when he is come, he findeth it **empty**, swept, and garnished."* (Matt 12:44)
+
+The Spirit of the LORD departs from Saul (1 Sam 16:14a) → Empty space occurs → An evil spirit from the LORD occupies that empty space (1 Sam 16:14b) — This is the disciplinary mechanism sovereignly permitted by God.
+
+> ✅ **Verdict:** The "from the LORD" in 1 Sam 16:14 proves that Saul was not completely handed over to Satan's kingdom, but was under God's sovereign discipline. This perfectly converges with the "destruction of the flesh + salvation of the spirit" pattern of 1 Cor 5:5, and confirms that the entire narrative up to 1 Sam 28 was a disciplinary process led by God.
+
+---
+
+### 🔫 Additional Weapon 0-B: 1 Sam 10:9 "Another Heart" — Evidence of Saul's New Birth (TYPE-G Precise Lexical Anatomy)
+
+**KJV Text:**
+> *"And it was so, that when he had turned his back to go from Samuel, **God gave him another heart**: and all those signs came to pass that day."* (1 Sam 10:9)
+> *"And the Spirit of God **came upon him**, and he **prophesied** among them."* (1 Sam 10:10)
+
+**Core Argument — Theological Weight of "another heart":**
+
+| Verse | Expression | Meaning |
+|:---|:---|:---|
+| 1 Sam 10:9 | **"God gave him another heart"** | A new heart given directly by God |
+| Ezek 36:26 | "A **new heart** also will I give you" | Prophecy of a new heart (Same pattern) |
+| 1 Sam 10:10 | "Spirit of God **came upon him**" | Experience of the Holy Spirit — Prophesied among prophets |
+
+Saul was not simply chosen as king. **God directly gave him "another heart."** This is a spiritual change of the same structure as the "new heart" prophecy in Ezek 36:26.
+
+**Application to Saul Debate:**
+
+```
+IF God gave Saul "another heart" (1 Sam 10:9)
+AND the Spirit of God came upon Saul and he prophesied among the prophets (1 Sam 10:10)
+THEN Saul was once a man who received the Spirit of God
+
+Later in 1 Sam 16:14 "Spirit of the LORD departed" = Retraction of official gift
+    → Samson precedent: Judg 16:20 "the LORD was departed" + Heb 11:32 inclusion in salvation list
+    → Official departure of the Holy Spirit ≠ Loss of salvation
+```
+
+> ✅ **Verdict:** The "another heart" in 1 Sam 10:9 proves that Saul was a man who received spiritual change from God before becoming king. The "departing of the Spirit" in 1 Sam 16:14 is not a cancellation of this spiritual change, but a **retraction of the official gift** accompanying the kingship. The precedent of Samson (Judg 16:20 + Heb 11:32) directly supports this interpretation.
+
+---
+
+### 🔫 Additional Weapon 0-C: Precise Forensic of God's Direct Sentence Texts (TYPE-AG + TYPE-L)
+
+The Prosecution (Hell Theory) claims, "If you look at **the words of judgment God directly gave to Saul**, not the words of Samuel or David, it is certain he went to Hell." In response, the BVCAP engine conducts an exhaustive verification of God's disciplinary wording (KJV literal words).
+
+**1. Collection of Sentence Texts:**
+*   1 Sam 15:23 "he hath also **rejected thee from being king**."
+*   1 Sam 28:6 "when Saul enquired of the LORD, the LORD **answered him not**..."
+*   1 Chron 10:14 "...therefore **he slew him**, and turned the kingdom unto David the son of Jesse."
+
+**2. TYPE-AG (Reverse Use of Argument from Silence) — Complete Absence of Eternal Damnation Sentence:**
+When listing Saul's sins, God is extremely specific, and He also extremely clearly specified the punishment as "deprivation of the throne," "handing over to the Philistines," and "death." However, nowhere in the Bible is there a single line where God sentences Saul, **"I will cast you into the lake of fire (Hell)" or "You shall fall into the torments of Hades."** It is a category error (TYPE-C) of adding to the Bible what is not there for a later reader to arbitrarily increase the sentence infinitely with a 'ruin of the soul (Hell)' that is absent from the Judge's (God's) official verdict.
+
+**3. TYPE-L (Reverse Inference of Chained Logic) — Substitution of Moses and the Man of God (1 Kings 13):**
+If the hypothesis "A man whom God silenced and directly struck down for sinning goes unconditionally to Hell" is true, it must be equally applied to the following Old Testament saints:
+*   **Moses:** Received discipline for disobedience (striking the rock twice); God disallowed his entry into Canaan and caused him to die in the wilderness.
+*   **Man of God (1 Kings 13):** Disobeyed God's command after being deceived by an old prophet, and was torn to death by a lion as discipline.
+These men suffered **"physical death by God's discipline"** due to clear disobedience, but no believer believes they went to Hell. Saul also perfectly fits the category (1 Cor 5:5 pattern) of an "Old Testament saint who was deprived of his kingship and received the extreme discipline of physical death for disobedience."
+
+> ✅ **Verdict:** Even isolating only "the words God spoke directly," the verdict is strictly **limited to "deprivation of office (throne) on earth" and "physical execution."** There is no spiritual sentence to Hell. This perfectly aligns with Samuel's testimony and even more strongly supports the Paradise Theory.
+
+---
+
+### 🔫 Additional Weapon 1: TYPE-AC (Reverse Hypothesis Substitution) — 3-Fold Contradiction When Substituting "Saul did not go to Paradise (¬A)"
+
+```
+Hypothesis ¬A: Saul did not go to Paradise (went to Place of Torment)
+
+[Substitution 1] 1 Sam 28:19 — "thou and thy sons shall be with me (עִמִּי)"
+  → Samuel is in Paradise (Righteous)
+  → "with me" = Place of Torment? → Contradiction that Samuel is in the Place of Torment ❌
+  → Or "with" ≠ same place? → Clashes with exhaustive usage of עִמִּי ❌
+
+[Substitution 2] 2 Sam 1:23 — "in their death they were not divided"
+  → Saul (Torment) + Jonathan (Paradise) = Permanently divided by great gulf ❌
+  → Head-on collision with the inspired historical statement of the Bible ❌
+
+[Substitution 3] Luke 16:26 — Great gulf uncrossable
+  → Samuel (Paradise) cannot call Saul (Torment) "with me"
+  → Even Abraham called the rich man separately as "us" and "you" (Luke 16:25-26)
+  → Even within the same Sheol, 1st person spatial sharing pronouns are only possible for the same compartment ❌
+
+Conclusion: ¬A explodes internal biblical contradictions in 3 independent verses simultaneously.
+     Escape routes: 0 → ¬A rejected → A (Going to Paradise) confirmed ✅
+```
+
+---
+
+### 🔫 Additional Weapon 2: TYPE-AI (Reductio ad absurdum) — Proving the Self-Destruction of the Assumption "Saul went to Hell"
+
+```
+Reductio ad absurdum Assumption: Saul went to the Place of Torment [Assume true]
+
+Tracking Logical Consequences:
+  Step 1: Saul goes to Hell
+  Step 2: Samuel declares "thou and thy sons with me" (1 Sam 28:19)
+  Step 3: "with me" = The place where Samuel is (Spatial proximity of עִמִּי)
+  Step 4: If Saul is in Hell → Samuel must also be in Hell
+  Step 5: But Samuel is righteous → Contradiction that a righteous man is in Hell 💥
+
+  Or:
+  Step 4': "with me" ≠ same place (Macro-Sheol interpretation)
+  Step 5': Then Jonathan (righteous) is also "with" → Jonathan also in Hell? 💥
+  Step 6': The conclusion that righteous Jonathan is in Hell = Collapse of entire biblical theology of the righteous 💥
+
+  Or:
+  Step 4'': Only Saul is in Hell, Jonathan is in Paradise (Accept separation)
+  Step 5'': 2 Sam 1:23 "not divided in death" = False statement 💥
+  Step 6'': Inspired record of the Bible is false = Collapse of KJV inerrancy 💥
+
+Consequence: Internal biblical contradictions occur in all paths.
+     The assumption itself "Saul=Hell" is false → Saul is in Paradise ✅
+```
+
+---
+
+### 🔫 Additional Weapon 3: TYPE-U (Principle of First Mention) — Comparison of First Appearance of "with me in Paradise"
+
+| Verse | Speaker | Original Text | Target | Result |
+|:---:|:---:|:---|:---:|:---:|
+| **1 Sam 28:19** | Samuel | *"thou and thy sons shall be **with me**"* | Saul + sons | **→ Paradise** |
+| **Luke 23:43** | **Jesus** | *"Today shalt thou be **with me** in paradise"* | Thief on the cross | **→ Paradise** |
+
+> **TYPE-U Verdict**: The most explicit usage of "with me" + post-mortem destination context is **Luke 23:43**. Jesus directly spoke to a criminal, "thou shalt be **with me** in paradise." Samuel also used the exact same structure ("thou shalt be with me"). In both cases, **a righteous person speaks to a sinner, saying "with me," and indicating Paradise**.
+>
+> Especially the thief on the cross **had no fruit, and his record of repentance was just a single sentence at the last moment**, yet he went to Paradise. The structural similarity with Saul parallels at the TYPE-F (Typology) level.
+
+---
+
+### 🔫 Additional Weapon 4: TYPE-B (Sequential Integration) — Saul's Last Day Timeline
+
+```
+[Saul's Spiritual Trajectory — Sequential Timeline]
+
+1 Sam 15:24  "I have sinned" — 1st confession of repentance
+    ↓
+1 Sam 26:21  "I have played the fool" — 2nd confession of repentance
+    ↓
+1 Sam 28:3   Saul had put away those that had familiar spirits — Act of obedience to law
+    ↓
+1 Sam 28:6   "when Saul enquired of the LORD" — Sought God first
+    ↓ [God did not answer]
+1 Sam 28:7   Extreme fear → Visited a witch — Fall due to weakness
+    ↓
+1 Sam 28:15  Samuel summoned — "tomorrow with me"
+    ↓
+1 Sam 31:4   Attempted suicide in battle → Died in battle
+```
+
+> **TYPE-B Verdict**: Looking at Saul's final trajectory sequentially, **there was a religious act of seeking God first right before visiting the witch**. His final fall was a "weakness in an extreme situation," not a "premeditated apostasy." This is structurally parallel to Samson's final prayer (Judg 16:28).
+
+---
+
+### 🔫 Additional Weapon 5: TYPE-M (Doubt Detection) — 5 Anomaly Signals Organized
+
+| # | Anomaly Signal | Direction Set |
+|:---:|:---|:---|
+| M-1 | Why did Samuel group a **righteous man (Jonathan) and a sinner (Saul) together in one "with me"?** | → TYPE-G (Group pronoun cannot indicate dual destinations) |
+| M-2 | Why did the biblical author name this being **"Samuel" 15 times?** Why if it were a devil? | → TYPE-P (Retorsion) + OVERRIDE-0 |
+| M-3 | In "thine enemy," **who is the subject?** Saul or God? | → TYPE-R (Subject confusion detected) |
+| M-4 | Is "disquieted" **confusion or disturbance of rest?** | → TYPE-G (Precise lexical anatomy) |
+| M-5 | Does 2 Sam 1:23 "not divided" **indicate post-mortem space or is it a rhetorical expression?** | → Defense section below |
+
+---
+
+### 🛡️ Additional Defense: Defeating the Rhetorical Expression Objection of 2 Sam 1:23 "Not Divided"
+
+**Expected Objection**: *"2 Sam 1:23 is David's elegy, and 'not divided in their death' is a poetic/rhetorical expression. It doesn't mean identity of post-mortem dwelling, but that they 'died on the same battlefield on the same day'."*
+
+**⚖️ BVCAP Defeat — 3-Fold Counter-Proof:**
+
+**① Context Verification — Scope of "in their death"**
+> 2 Sam 1:23: *"in their **lives**... and in their **death** they were not divided"*
+> - "lives" and "death" form an **antithesis** structure.
+> - "lovely in their lives" = the entire duration of their lives (not a single event).
+> - "not divided in their death" = the entire state of death (not a single event).
+> - If it only meant "died on the same day," the scope of the antithesis is asymmetrical → violation of Hebrew poetic parallelism.
+
+**② Biblical Usage — Spatial Meaning of "divided"**
+> "divided" (Hebrew נִפְרָד, nifrad) consistently means **physical/spatial separation** in the Bible:
+> - Gen 2:10 "it was **parted (divided)**, and became into four heads" — Spatial separation
+> - Gen 10:25 "in his days was the earth **divided**" — Geographic separation
+> - "not divided" = Not spatially divided → being in the same place
+
+**③ Luke 16:26 Cross-Verification — "Divided" if separated by the gulf**
+> If Saul (Torment) and Jonathan (Paradise) were permanently separated by the great gulf, this is by definition **divided (separated)**. Once the Bible declared they were "not divided," they cannot be on opposite sides of the gulf.
+
+> **Verdict: ❌ Rhetorical expression objection rejected.** Defended by the triple barrier of ① symmetry of antithesis scope, ② consistency of spatial usage of נִפְרָד, and ③ Luke 16:26 cross-verification. "Not divided in death" = **Placed in the same post-mortem space (Paradise)**. ✅
+
+---
+
+## 📎 [Appendix B] COMBO-VERIFY — Combo Verification
+
+### Activated Combos
+
+| Combo Code | Combination | Result |
+|:---|:---|:---|
+| **COMBO-L2** | TYPE-G (עִמִּי grouping pronoun) + TYPE-R (Subject confusion detected) | "with me" = Paradise compartment confirmed + "Enemy of God" argument nullified → **Double Blockade** |
+| **COMBO-L4** | TYPE-P (Retorsion: Samuel naming) + TYPE-E (Rejection of competing models) | Actual Samuel confirmed → Devil theory & Macro-Sheol theory completely rejected → **Sole Surviving Model Confirmed** |
+| **COMBO-G7** | TYPE-AC (Reverse hypothesis 3-fold contradiction) + TYPE-AI (Reductio ad absurdum self-destruction) | Contradiction upon ¬A substitution + Self-destruction upon A assumption → **Two-way refutation complete** |
+| **COMBO-L8** | TYPE-G (Grammar) + TYPE-U (First Mention: Luke 23:43) | Spatial proximity of עִמִּי + clearest usage of "with me in paradise" → **Double Confirmation of Paradise specification** |
+| **COMBO-L10** | TYPE-B (Sequential timeline) + TYPE-L (Evidence chain) | Saul's spiritual trajectory (Repentance→Witch removal→Asking God) + Chain of accumulated evidence → **Weakness interpretation confirmed** |
+
+**Combo Verdict Rating**: ✅✅✅ **IRONCLAD** (5 combos converging, two-way refutation complete)
+
+---
+
+## 📎 [Appendix C] STRESS-TEST-7 — Final Verdict Stress Test
+
+> We attempt to destroy the final verdict "✅ Saul went to Paradise" from 7 angles.
+
+| # | Stress | Attack Content | Survival Status |
+|:---:|:---|:---|:---:|
+| **S-1** | Subject Reversal | Reinterpreting "thine enemy" as "Saul=God's enemy" | ✅ Survived — TYPE-R Detection: "thine" = Saul's enemy (God opposes) |
+| **S-2** | Macro-Sheol Re-attack | "with" = Entire Sheol system | ✅ Survived — FAQ-6 Luke 16:26 great gulf + Us/You pronoun separation |
+| **S-3** | Devil Disguise Theory | Summoned being = Devil | ✅ Survived — Biblical author naming "Samuel" 15 times + 3-fold self-destruct |
+| **S-4** | Absence of Fruit Attack | No fruit of repentance in Saul | ✅ Survived — Thief on the cross counter-example (Paradise without fruit) |
+| **S-5** | Num 15:30 Attack | Presumptuous sin → Unpardonable | ✅ Survived — David self-contradiction (Salvation maintained after intentional adultery/murder) |
+| **S-6** | 2 Sam 1:23 Rhetorical Interpretation | "not divided" = Poetic expression | ✅ Survived — נִפְרָד spatial usage + Antithesis scope symmetry + Luke 16:26 cross |
+| **S-7** | Dispensational Attack | Cannot retroactively apply Luke 16 (NT) to Saul (OT) | ✅ Survived — Luke 16 is Jesus describing the **structure of Sheol in the OT era**. It's not a dispensational distinction but an explanation of the same structure |
+
+> **STRESS-TEST Result: 7/7 Survived.** The verdict is not destroyed from any angle. **IRONCLAD rating confirmed.**
+
+---
+
+## 📎 [Appendix D] ANALOGY-5 — Modern Analogy
+
+> **Perfect Reversal of the "Prison Analogy":**
+>
+> The Prosecution analogized, "Being inside a prison = not being in the same room." If we exactly update this analogy to the Bible's conditions:
+>
+> Inside the prison, there is an **uncrossable massive canyon (great gulf)**, so one cannot move between Block A (Paradise) and Block B (Torment) forever. Inmate Samuel leaves Block A and says to Saul: *"Tomorrow you and your son Jonathan will be with me."* 
+>
+> Since Jonathan is righteous, he is unconditionally assigned to Block A. Samuel is also in Block A. But what if only Saul is assigned to Block B? **The word "with" becomes a lie, and Jonathan and Saul are permanently divided by the canyon.** Yet the official record of the prison (2 Sam 1:23) says, "they were not divided in their death."
+>
+> Conclusion: **Saul was assigned to Block A (Paradise).** This alone explains "with," "not divided," and Jonathan's location without contradiction.
+
+> **"Thief on the Cross" Analogy:**
+>
+> A criminal right before execution says just one thing to the judge next to him: *"remember me when thou comest into thy kingdom."* The judge replies: *"To day shalt thou be **with me** in paradise."*
+>
+> This criminal had no fruit, no life of repentance, and is not in Hebrews 11. Only a confession at the final moment. Yet, **he went to Paradise.**
+>
+> Saul too, on his last night, **before** seeking the witch, first enquired of God (1 Sam 28:6). When there was no answer, he collapsed in weakness. But the action right before that — was seeking God first.
+
+---
+
+## 📎 [Appendix E] TYPE-AJ (Cumulative Argument) — Final Seal
+
+### Independent Evidence Convergence Table
+
+| # | Independent Evidence | TYPE | Direction |
+|:---:|:---|:---:|:---:|
+| 1 | Biblical author naming "Samuel" 15 times | TYPE-P | → Actual Samuel ✅ |
+| 2 | darash (successful communication) completed record | TYPE-P | → Actual communication ✅ |
+| 3 | ragaz (actual agitation) — Rest disturbed | TYPE-G | → Summoned from Paradise ✅ |
+| 4 | עִמִּי exhaustive usage — Spatial proximate co-existence | TYPE-G | → Paradise compartment specified ✅ |
+| 5 | Jonathan (righteous) included — Gulf uncrossable | TYPE-E | → Same Paradise compartment ✅ |
+| 6 | 2 Sam 1:23 "not divided in death" | TYPE-AC | → Same post-mortem place ✅ |
+| 7 | Luke 16:26 Us/You pronoun separation | TYPE-G | → "with" impossible between compartments ✅ |
+| 8 | "thine enemy" subject confusion detected | TYPE-R | → Attribute conflict nullified ✅ |
+| 9 | Num 15:30 David self-contradiction | TYPE-AI | → Presumptuous sin ≠ Loss of salvation ✅ |
+| 10 | Luke 23:43 "with me in paradise" structural parallel | TYPE-U | → "with me" = Paradise ✅ |
+| 11 | Saul timeline — Asked God first (1 Sam 28:6) | TYPE-B | → Not complete apostasy ✅ |
+| 12 | Put away witches (1 Sam 28:3) — Act of legal obedience | TYPE-B | → Religious act exists ✅ |
+
+> **TYPE-AJ Seal Declaration:**
+>
+> All **12 independent pieces of evidence** point to the same conclusion (Saul = Paradise).
+> To overturn this conclusion, **12 independent refutations** for each of the 12 are required.
+> The Prosecution has **not refuted a single one** of these.
+>
+> **Convergence Verdict: ✅✅✅ IRONCLAD — Convergence of 12-fold independent evidence confirmed. Verdict seal complete.**
+
+---
+
+*Engine: BVCAP_GHQ.md (Verdict Form) + BVCAP_Pipeline.md v1.0 (Execution Engine)*
+*Case Number: BVCAP-SAUL-001*
+
+*Cross-Examination Issues: 8 items | Defense Total 64 : Prosecution 17*
+*FAQs Added: 8 items (Reflecting actual debates + Final defense line of spirit world communication mechanism complete)*
+*v2.1 Supplement: 7 additional weapons deployed (Saul-Adam pattern cross-verification and Samuel/David voice forensics)*
+*Final Verdict: ✅ PARADISE CONFIRMED — IRONCLAD*
+
+---
+
+## 📌 [Appendix B] 2026-07-14 Update: List of Forensic Verification Expansion Verses (New Armory)
+
+This is a list of core biblical text weapons additionally deployed to completely crush the Hell Theory through the update of this report (v2.1).
+
+| Category | Verse (KJV) | Core Content | Applied Issue |
+|:---:|:---|:---|:---|
+| **Disciplinary Principle** | **Heb 12:6-8** | "For whom the Lord loveth he chasteneth." Discipline (opposing) is not abandonment but **evidence of sonship**. | Issue C |
+| **Forgiveness of Sin** | **2 Sam 12:13** | Immediate declaration of forgiveness despite David's intentional sin (adultery, murder). Directly destroys the formula: Presumptuous sin = Hell. | Issue D |
+| **Covenant of Grace** | **1 Sam 12:22** | "For his great name's sake" He will not forsake His people (including Saul). | Issue D |
+| **Evidence of New Birth** | **1 Sam 10:9-11** | God gives Saul "another heart." Typological regeneration as the first king. | FAQ-5 |
+| **Category Separation** | **1 Sam 16:14<br>Job 1:12** | "Evil spirit from the LORD." Not Satan's voluntary attack, but God's sovereign disciplinary tool (1 Cor 5:5 pattern). | Appendix A |
+| **Mourning Contrast** | **1 Sam 15:33-35** | Samuel mercilessly hewed Agag (v.33), the seed of confirmed ruin, but mourned until death for Saul (v.35). | Issue G |
+| **Post-Mortem Indivisibility** | **2 Sam 1:23** | David's elegy: Saul and Jonathan (who went to Paradise) were "in their death they were not divided." | Issue H |
+
+---
+
+## 📊 [Appendix C] BVCAP v2.1 Masterpiece Final Specs and Statistics (Script Measured — Verification Complete)
+
+(※ These are figures exhaustively measured by an automatic counting script on 2026-07-21. The measurement scope is the **entire body of this report** — excluding the "[For KJV Pastors] Core Research Index" attached at the end of the file, as it is a separate document. The estimates from the previous edition have been replaced with actual measured values.)
+
+| Measurement Item | v2.1 Measured Value | Measurement Standard |
+|:---|:---|:---|
+| **Total Document Length** | **1,594 lines** | Entire body (Including Appendices A-C, excluding attached index) |
+| **Bible Verse Quotations** | **305 instances** | Exhaustive count of "Book+Chapter:Verse" patterns (e.g., 1 Sam 28:19) |
+| **Quoted Bible Books** | **21 books** | 13 OT books + 8 NT books (Approx. 32% of 66 books) |
+| **OT Quotations** | **211 instances** | Most frequent: 1 Sam (131) · 2 Sam (21) · 1 Chron (15) · Num (14) |
+| **NT Quotations** | **94 instances** | Most frequent: Luke (49) · Heb (20) · 1 Cor (11) |
+| **BVCAP Analysis Tools** | **14 types deployed** | TYPE-B·C·E·F·G·L·M·P·R·U·AC·AI·AJ·AL |
+| **Direct KJV References** | **40 instances** | Explicit mentions of "KJV" in text |
+| **Analysis Tables** | **273 rows** | Based on data rows (51 header separator rows excluded) |
+| **Total Number of Sections** | **108 sections** | All markdown headings (#~######) |
+
+> **BVCAP Evaluation Comment:** This report is an **Ironclad Defense Document (Masterpiece)** that mobilized 21 books of the Old and New Testaments, 305 verse quotations, and 14 types of logical tools to prove the salvation of a single biblical figure (King Saul). In particular, it adhered to the principle of close verification with primary historical materials by citing the single book of 1 Samuel 131 times.
+>
+> *Verification Note: The above figures are the results of a regular expression-based automatic count, and the approximate figures recorded in the first edition (295 instances / 26 books / 364 rows, etc.) have been corrected to measured values. The figures only count the "Book+Chapter:Verse" format, so mentions by chapter unit such as "Chapter 28" or "entire 1 Samuel" are not included — meaning the actual density of biblical references is even higher.*
+
+---
+
+# 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
+**— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
+
+This index is a **'reading order for persuasion and argument'** specially constructed for Independent Baptist Church (IFB) pastors and those who believe the KJV Bible as the absolutely inerrant Word of God. 
+
+While respecting the excellent framework of traditional dispensational theology (Scofield, Larkin, etc.), we have rearranged it into an optimal logical order tailored to pastors' perspectives so you can confirm the deeper consistency of the text testified by the KJV original text itself (especially the order of judgment in 2 Peter 2 and 3, and the physical contradictions of the Genesis 6 angel theory).
+
+---
+
+## 🧭 Part 1: Epistle and Macroscopic Framework (Documents to read first)
+This is the most intuitive and striking approach for pastors accustomed to dispensational charts and timelines.
 
 ### 📌 1. Reply to the Pastor
-* **File:** [`Reply_to_Pastor_Genesis_6_Fallen_Angels.md`](<./Reply_to_Pastor_Genesis_6_Fallen_Angels.md>)
-* **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
+* **File Name:** [`Genesis_6_Fallen_Angels_and_Spirits_in_Prison_Reply_to_Pastor.md`](<./Genesis_6_Fallen_Angels_and_Spirits_in_Prison_Reply_to_Pastor.md>)
+* **Summary:** A letter with a polite greeting to pastors, explaining the imperative of why we must strictly re-examine the 'sons of God = angels theory' of Genesis 6 solely through the KJV text, rather than external literature (like the Book of Enoch).
 
 ### 📌 2. IFB vs TSB — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
-* **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
+* **File Name:** [`REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md`](./REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md)
+* **Summary:** (★Highly Recommended) Compares the creation/judgment flowchart of existing IFB dispensationalism with the flowchart of this research using a 15-event comparison table. Through the 3 independent judgments specified in 2 Peter 2:4-6 and the distinction of the two worlds in 2 Peter 3, it intuitively proves the fatal self-contradiction (the error of recognizing floods twice but lumping the judgments into one) inherent in the existing IFB timeline with an intuitive chart.
 
 ---
 
-## ⚖️ Part 2: Biblical Dismissal of the 'Genesis 6 Angel Theory' (Core Forensic Verification)
-Once you have confirmed the errors in the macroscopic framework through the flowchart, it is time for a forensic audit of the highly debated text of 'Genesis 6' itself.
+## ⚖️ Part 2: Biblical Rejection of the 'Genesis 6 Angel Theory' (Core Court Verification)
+If you have confirmed the errors of the macroscopic framework through the flowchart, it is now time to forensically audit the text of the most controversial 'Genesis 6' itself.
 
-### 📌 3. Final Dismissal of the Angel Theory — Cross-Verification + IRONCLAD Argument
-* **File:** [`REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md`](./REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md)
-* **Summary:** A Masterpiece ruling that proves how the claim that the 'Sons of God' in Genesis 6 are fallen angels perfectly collides with cross-references within the KJV Bible (such as the inability of angels to reproduce and the contradictions regarding the punishment of fallen angels).
+### 📌 3. Final Rejection of Angel Theory — Cross-Verification + IRONCLAD Argument
+* **File Name:** [`REPORT_Genesis_6_Sons_of_God_Claim_Verification_Masterpiece.md`](./REPORT_Genesis_6_Sons_of_God_Claim_Verification_Masterpiece.md)
+* **Summary:** A Masterpiece verdict documenting how the claim that the 'sons of God' in Genesis 6 are fallen angels perfectly collides with cross-reference verses within the KJV Bible (the angels' inability to reproduce, contradictions in the punishment of fallen angels, etc.).
 
-### 📌 4-A. Childbirth Before Eating the Forbidden Fruit (Basics) — 9 Forensic Verifications Dismissing the Angel Theory
-* **File:** [`REPORT_Genesis_3_6_Sons_of_God.md`](./REPORT_Genesis_3_6_Sons_of_God.md)
-* **Summary:** Covers 9 foundational legal principles proving the existence of childbirth prior to the forbidden fruit. This foundational document preemptively blocks any counterarguments through the separation of the Jude timeline, heterosis (hybrid vigor), the singularity of the Eden expulsion (Him), the anatomy of Romans 5:12, and Ezekiel 18:20 (prohibition of guilt by association and Achan's family).
+### 📌 4-A. Childbirth Before the Tree of Knowledge of Good and Evil (Basics) — 9 Court Verifications Rejecting Angel Theory
+* **File Name:** [`REPORT_Genesis_3_and_6_Sons_of_God.md`](./REPORT_Genesis_3_and_6_Sons_of_God.md)
+* **Summary:** Deals with 9 foundational legal principles proving the existence of childbirth before the Fall. It is the matrix (foundational) document that fundamentally blocks opponents' rigorous objections through Jude timeline separation, heterosis (hybrid vigor), the singularity of the Eden expulsion (Him), dissection of Romans 5:12, and Ezekiel 18:20 (prohibition of guilt by association and Achan's family).
 
-### 📌 4-B. Childbirth Before Eating the Forbidden Fruit (Advanced) — The Law of Resurrection and the Seed War
-* **File:** [`REPORT_ChildrenBeforeForbiddenFruit.md`](./REPORT_ChildrenBeforeForbiddenFruit.md)
-* **Summary:** Builds upon the basic document to deploy 6 new major arguments (the 120-year lifespan, the dust law of resurrection, the legal principle of 'His wife' in Gen 2:24, etc.). The latter half contains an advanced expansion document featuring the overwhelming **'Seed War Chronicle (12 Chapters)'**, spanning from Eden to the empty tomb of Jesus, and extending to the scene of His preaching to the spirits in hell.
+### 📌 4-B. Childbirth Before the Fall (Advanced) — The Law of Resurrection and the Seed War
+* **File Name:** [`REPORT_Pre_Fall_Children.md`](./REPORT_Pre_Fall_Children.md)
+* **Summary:** Based on the foundational document, it develops 6 major new arguments (120-year lifespan, the dust principle of resurrection, Gen 2:24 'His wife' legal principle, etc.). The second half is an advanced expansion document containing the overwhelming **'Chronicles of the Seed War (Chapter 12)'** leading from Eden to Jesus' empty tomb, and the scene of Him preaching to the spirits in Hell.
 
 ---
 
 ## 🌌 Part 3: The First World and Melchizedek (Unlocking Deep Mysteries)
-Once the enigma of Genesis 6 is resolved, the identities of the "morning stars" in Job 38 and "Melchisedec" in Hebrews finally fit together like pieces of a puzzle.
+Once the enigma of Genesis 6 is solved, the identities of the "morning stars" in Job 38 and "Melchisedec" in Hebrews finally fit together like a puzzle.
 
-### 📌 5. Morning Stars Are Not Angels — Exhaustive KJV Usage + The Dust Law
-* **File:** [`REPORT_First_World_Nation.md`](./REPORT_First_World_Nation.md)
-* **Summary:** The "morning stars" of Job 38:7 are not angels. This proves that angels have never 'sang' in the Bible, and reveals the intelligent beings of the first world through the law of dust (earth).
+### 📌 5. The Morning Stars Are Not Angels — Complete KJV Usage + Dust Principle
+* **File Name:** [`REPORT_First_World_Nations.md`](./REPORT_First_World_Nations.md)
+* **Summary:** The "morning stars" in Job 38:7 are not angels. It proves that angels have never 'sang' even once in the Bible, and reveals the intelligent beings of the first world through the dust principle.
 
 ### 📌 6. Who is Melchisedec? — Living Evidence of the "Morning Stars"
-* **File:** [`REPORT_Melchizedek_IdentityVerification_Masterpiece.md`](./REPORT_Melchizedek_IdentityVerification_Masterpiece.md)
-* **Summary:** Perfectly identifies the biblical identity of Melchisedec, King of Salem—a 'Man' without father, without mother, and without descent—from the perspective of the 'first world'.
+* **File Name:** [`REPORT_Melchizedek_Identity_Verification_Masterpiece.md`](./REPORT_Melchizedek_Identity_Verification_Masterpiece.md)
+* **Summary:** Perfectly identifies from the perspective of the 'first world' the identity of Melchisedec, the King of Salem, who has no parents and no genealogy but is a 'Man'.
 
-### 📌 7. The Full Picture of the First World — The Big Picture
-* **File:** [`REPORT_Melchizedek_FirstWorld_NationFormation.md`](./REPORT_Melchizedek_FirstWorld_NationFormation.md)
-* **Summary:** A massive big picture integrating all previous arguments: Creation (Bara) vs. Making (Asah), the nations and kingdoms of the first world found in Isaiah 14 and Ezekiel 28, and the three stages of light.
+### 📌 7. The Big Picture of the First World — The Big Picture
+* **File Name:** [`REPORT_Melchizedek_First_World_Nation_Formation.md`](./REPORT_Melchizedek_First_World_Nation_Formation.md)
+* **Summary:** The massive big picture that integrates all preceding arguments, such as Create (Bara) vs Make (Asah), the nations and kingdoms of the first world recorded in Isaiah 14 and Ezekiel 28, and the 3 stages of light.
 
 | Topic | Core Question |
 |:---|:---|
 | **Re-creation (Gap Theory)** | What happened between Gen 1:1 and Gen 1:2? Is "without form, and void" the original state or the result of judgment? |
-| **Creation (Bara) vs. Making (Asah/Yatsar)** | How do we distinguish between what God directly created and what He delegated His sons to make? |
-| **Nations, Cities, and Kingdoms of the First World** | Who are the peoples, cities, and kingdoms recorded in Isaiah 14:12-17 and Ezekiel 28:14-19? |
-| **Sons of God vs. Angels** | Are the "sons of God" in Job 38:7 and the "ministering spirits (angels)" in Hebrews 1:14 the same or different beings? |
-| **The "First Estate (ἀρχή)" of Jude 1:6** | What is the "first estate" lost by the fallen sons, and how does this relate to the status of Melchisedec? |
-| **Spirits in Prison in 1 Peter 3:19** | Are the "spirits in prison" angels, or are they men who died in the first world? |
-| **Three Stages of Light** | How does the light of the first world (Gen 1:3) differ from the light of the second world (Gen 1:14) and the light of the new heavens and new earth (Rev 21:23)? |
+| **Create (Bara) vs Make (Asah/Yatsar)** | How do we distinguish between what God directly created and what He delegated to the sons to make? |
+| **Nations, Cities, Kingdoms of the First World** | Who are the kingdoms, cities, and people recorded in Isa 14:12-17 and Ezek 28:14-19? |
+| **Sons of God vs Angels** | Are the "sons of God" in Job 38:7 and the "ministering spirits (angels)" in Heb 1:14 the same or different beings? |
+| **"First Estate" (ἀρχή) in Jude 1:6** | What is the "first estate" that the fallen sons lost, and what is its relationship to the status of Melchisedec? |
+| **Spirits in Prison in 1 Pet 3:19** | Are the "spirits in prison" angels or humans who died in the first world? |
+| **3 Stages of Light** | How do the light of the first world (Gen 1:3) → the light of the second world (Gen 1:14) → the light of the new heavens and new earth (Rev 21:23) differ? |
 
-> If you find the conclusions of this report persuasive, we invite you to review the subsequent documents to see the **full picture of the first world**. Melchisedec is just **one piece** of that massive picture, and becomes clearer when viewing the whole.
+> If the conclusion of this report felt persuasive, please check the **entire picture of the first world** through the subsequent documents. Melchisedec is just **one piece** of that massive picture, and it becomes clearer when you look at the whole.
 
 ---
 
-## 🗄️ Part 4: System Classification Chart and Live Debate Logs (Reference Materials)
-Technical and practical materials proving how all doctrines seamlessly interlock like gears within the text without any contradiction.
+## 🗄️ Part 4: System Classification Table and Actual Debate Logs (Reference Materials)
+Technical and practical materials proving how all doctrines interlock perfectly without conflict like gears within the text.
 
-### 📌 8. KJV Spiritual Beings Exhaustive Classification Chart — OOP Class Structure
-* **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
-* **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
+### 📌 8. KJV Spiritual Beings Complete Classification Table — OOP Class Structure
+* **File Name:** [`REPORT_Spiritual_Beings_Classification_Table.md`](./REPORT_Spiritual_Beings_Classification_Table.md)
+* **Summary:** A master reference document that maps all spiritual beings (sons of God, angels, devils, etc.) appearing in the 66 books of the KJV into an IT object-oriented programming (OOP) class structure, fundamentally blocking category errors of misreading "similar things as the same thing."
 
-### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
-Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
-* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
-* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
-* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
-* **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
-
+### ⚔️ Actual Offense and Defense Records (TheScriptureBeliever vs Researcher)
+Actual defense logs showing how the attacks of a researcher steeped in traditional theology were refuted and defended using only the KJV text.
+* **[Actual Case 1 (Refuting the 120-year countdown theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
+* **[Actual Case 2 (Defense battle dismantling traditional doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
+* **[Actual Case 3 (1 Pet 3:20 vs 2 Pet 2:4 Timing Verification)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
+* **[In-Depth Debate Log on Genesis 6 Sons of God (15-Stage Debate)](./REPORT_Genesis_6_Sons_of_God_In_Depth_Debate_Log.md)** (A record of a 15-stage turnaround offense and defense showing how the angel theory collapses before the text after an initial advantage)
