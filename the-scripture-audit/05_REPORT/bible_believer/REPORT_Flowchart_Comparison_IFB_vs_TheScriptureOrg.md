@@ -623,88 +623,96 @@ The KJV presents two grounds for giants without angel theory:
 
 ---
 
-
-
-
-
 # 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
-**— Biblical Apologetics on Genesis 6, Recreation, and the First World —**
+**— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
 
-This index is a **'reading sequence for persuasion and argumentation'** specially structured for independent Baptist (IFB) pastors and those who believe the KJV Bible to be the absolutely inerrant Word of God.
+This index is a **'persuasive and argumentative reading order'** specifically organized for pastors in Independent Fundamental Baptist (IFB) churches and those who believe the KJV Bible is the absolutely infallible Word of God.
 
-While respecting the excellent framework of traditional Dispensational theology (Scofield, Larkin, etc.), it has been logically rearranged for a pastor's perspective to verify the deeper textual coherence testified by the KJV original text itself (especially the judgment sequences in 2 Peter 2 and 3, and the physical contradictions of the Gen 6 angel theory).
+While respecting the excellent framework of traditional dispensational theology (Scofield, Larkin, etc.), we have rearranged the sequence into an optimal logical order tailored for pastors. This allows you to verify the deeper textual coherence testified by the original KJV text itself (especially the sequence of judgments in 2 Peter 2 and 3, and the physical contradictions of the angel theory in Genesis 6).
 
 ---
 
-## 🧭 Part 1: Epistles and Macro Framework (Read First)
-The most intuitive and striking approach for pastors accustomed to dispensational charts and timelines.
+## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
+This is the most intuitive and shocking approach for pastors accustomed to dispensational charts and timelines.
 
 ### 📌 1. Reply to the Pastor
-* **Filename:** [`Genesis_6_Fallen_Angels_and_Spirits_in_Prison_Reply_to_Pastor.md`](<./Genesis_6_Fallen_Angels_and_Spirits_in_Prison_Reply_to_Pastor.md>)
-* **Summary:** A courteous letter to pastors explaining why we must strictly re-examine the 'Sons of God = Angels theory' of Genesis 6 based solely on the KJV text, rather than external literature (like the Book of Enoch).
+* **File:** [`Reply_to_Pastor_Genesis_6_Fallen_Angels.md`](<./Reply_to_Pastor_Genesis_6_Fallen_Angels.md>)
+* **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
-### 📌 2. IFB vs TSB — Full Comparison of Recreation Flowcharts
-* **Filename:** [`REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md`](./REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md)
-* **Summary:** (★Highly Recommended) Contrasts the existing IFB dispensational creation/judgment flowchart with this study's flowchart across 15 event comparison tables. It intuitively demonstrates the fatal self-contradiction within the existing IFB timeline (the error of acknowledging 2 floods while bundling judgments into 1 case) through the 3 independent judgments specified in 2 Peter 2:4-6 and the distinction between the two worlds in 2 Peter 3.
+### 📌 2. IFB vs TSB — Full Comparison of Re-creation Flowcharts
+* **File:** [`REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md`](./REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md)
+* **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
 
-## ⚖️ Part 2: Biblical Dismissal of the 'Gen 6 Angel Theory' (Core Forensic Verification)
-Now that you have confirmed the errors in the macro framework via the flowchart, it is time to forensically audit the text of the highly controversial 'Genesis 6' itself.
+## ⚖️ Part 2: Biblical Dismissal of the 'Genesis 6 Angel Theory' (Core Forensic Verification)
+Once you have confirmed the errors in the macroscopic framework through the flowchart, it is time for a forensic audit of the highly debated text of 'Genesis 6' itself.
 
-### 📌 3. Final Dismissal of the Angel Theory — Cross-Verification + IRONCLAD Argumentation
-* **Filename:** [`REPORT_Genesis_6_Sons_of_God_Claim_Verification_Masterpiece.md`](./REPORT_Genesis_6_Sons_of_God_Claim_Verification_Masterpiece.md)
-* **Summary:** A Masterpiece ruling demonstrating how the claim that the 'Sons of God' in Gen 6 are fallen angels perfectly collides with cross-references within the KJV Bible (angels' inability to reproduce, contradictions in the punishment of fallen angels, etc.).
+### 📌 3. Final Dismissal of the Angel Theory — Cross-Verification + IRONCLAD Argument
+* **File:** [`REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md`](./REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md)
+* **Summary:** A Masterpiece ruling that proves how the claim that the 'Sons of God' in Genesis 6 are fallen angels perfectly collides with cross-references within the KJV Bible (such as the inability of angels to reproduce and the contradictions regarding the punishment of fallen angels).
 
-### 📌 4-A. Childbearing Before the Tree of Knowledge (Basics) — 9 Forensic Verifications Dismissing the Angel Theory
-* **Filename:** [`REPORT_Genesis_3_and_6_Sons_of_God.md`](./REPORT_Genesis_3_and_6_Sons_of_God.md)
-* **Summary:** Covers 9 basic legal principles proving the existence of childbearing prior to the Tree of Knowledge. This is a foundational document that completely blocks opponents' counterarguments, discussing the separation of the Jude timeline, hybrid vigor, the singularity of the Eden banishment (Him), the anatomy of Romans 5:12, and Ezekiel 18:20 (prohibition of guilt by association vs. Achan's family).
+### 📌 4-A. Childbirth Before Eating the Forbidden Fruit (Basics) — 9 Forensic Verifications Dismissing the Angel Theory
+* **File:** [`REPORT_Genesis_3_6_Sons_of_God.md`](./REPORT_Genesis_3_6_Sons_of_God.md)
+* **Summary:** Covers 9 foundational legal principles proving the existence of childbirth prior to the forbidden fruit. This foundational document preemptively blocks any counterarguments through the separation of the Jude timeline, heterosis (hybrid vigor), the singularity of the Eden expulsion (Him), the anatomy of Romans 5:12, and Ezekiel 18:20 (prohibition of guilt by association and Achan's family).
 
-### 📌 4-B. Childbearing Before the Tree of Knowledge (Advanced) — The Law of Resurrection and the Seed War
-* **Filename:** [`REPORT_Children_Before_Eating_the_Tree_of_Knowledge.md`](./REPORT_Children_Before_Eating_the_Tree_of_Knowledge.md)
-* **Summary:** Expands on the basic document to develop 6 new arguments (120-year lifespan, the law of dust in resurrection, Gen 2:24 'His wife' legality, etc.). The latter half features an overwhelming **'Chronicle of the Seed War (12 Chapters)'** extending from Eden to Jesus' empty tomb, and His proclamation to the spirits in hell.
+### 📌 4-B. Childbirth Before Eating the Forbidden Fruit (Advanced) — The Law of Resurrection and the Seed War
+* **File:** [`REPORT_Children_Before_Tree_Of_Knowledge.md`](./REPORT_Children_Before_Tree_Of_Knowledge.md)
+* **Summary:** Builds upon the basic document to deploy 6 new major arguments (the 120-year lifespan, the dust law of resurrection, the legal principle of 'His wife' in Gen 2:24, etc.). The latter half contains an advanced expansion document featuring the overwhelming **'Seed War Chronicle (12 Chapters)'**, spanning from Eden to the empty tomb of Jesus, and extending to the scene of His preaching to the spirits in hell.
+
+### 📌 4-C. Contrary-to-Fact Conditional: Gen 3:20 "was" Debate (Verification of Pre-Fall Birth Theory)
+* **File:** [`Contrary_to_Fact_Conditional_Gen3_20_was_Pre_Fall_Birth_Theory.md`](<./Contrary_to_Fact_Conditional_Gen3_20_was_Pre_Fall_Birth_Theory.md>)
+* **Summary:** A strong counterargument and self-verification document (BVCAP neutral audit) against the 'Pre-Fall Birth Theory' that could be raised based on the "was" (past tense) in Genesis 3:20. It breaks through the trap of literalism and serves as a standard document defending against collisions between the doctrine of original sin (Rom 5:12) and the Gen 4:1 timeline.
+
+### 📌 4-D. Transition Analysis of the Creation Archetype's Reproduction System and the Seed of Woman — Judicial Systematization
+* **File:** [`REPORT_Creation_Archetype_Reproduction_System_and_Seed_of_Woman_Transition_Analysis.md`](./REPORT_Creation_Archetype_Reproduction_System_and_Seed_of_Woman_Transition_Analysis.md)
+* **Summary:** Why did God create the woman from Adam's rib and place the tree of the knowledge of good and evil? An appendix document revealing the purpose of the woman's creation as a perfect 'Judicial Systematization' designed to prevent the recurrence of the cross-breeding (satyr) crimes committed by the angels of the first world.
 
 ---
 
 ## 🌌 Part 3: The First World and Melchizedek (Unlocking Deep Mysteries)
-Once the dilemma of Genesis 6 is solved, the identities of the "morning stars" in Job 38 and "Melchizedek" in Hebrews finally piece together like a puzzle.
+Once the enigma of Genesis 6 is resolved, the identities of the "morning stars" in Job 38 and "Melchisedec" in Hebrews finally fit together like pieces of a puzzle.
 
-### 📌 5. Morning Stars are Not Angels — Comprehensive KJV Usage + The Law of Dust
-* **Filename:** [`REPORT_First_World_Nations.md`](./REPORT_First_World_Nations.md)
-* **Summary:** The "morning stars" in Job 38:7 are not angels. It proves that angels never 'sang' in the Bible, and reveals the intelligent beings of the first world through the law of dust.
+### 📌 5. Morning Stars Are Not Angels — Exhaustive KJV Usage + The Dust Law
+* **File:** [`REPORT_First_World_Nation.md`](./REPORT_First_World_Nation.md)
+* **Summary:** The "morning stars" of Job 38:7 are not angels. This proves that angels have never 'sang' in the Bible, and reveals the intelligent beings of the first world through the law of dust (earth).
 
-### 📌 6. Who is Melchizedek? — The Living Evidence of the "Morning Stars"
-* **Filename:** [`REPORT_Melchizedek_Identity_Verification_Masterpiece.md`](./REPORT_Melchizedek_Identity_Verification_Masterpiece.md)
-* **Summary:** Perfectly identifies from a biblical perspective the identity of Melchizedek, King of Salem, who is a 'Man' without father, mother, or descent, through the lens of the 'First World'.
+### 📌 6. Who is Melchisedec? — Living Evidence of the "Morning Stars"
+* **File:** [`REPORT_Melchizedek_IdentityVerification_Masterpiece.md`](./REPORT_Melchizedek_IdentityVerification_Masterpiece.md)
+* **Summary:** Perfectly identifies the biblical identity of Melchisedec, King of Salem—a 'Man' without father, without mother, and without descent—from the perspective of the 'first world'.
 
-### 📌 7. The Big Picture of the First World
-* **Filename:** [`REPORT_Melchizedek_First_World_Nation_Formation.md`](./REPORT_Melchizedek_First_World_Nation_Formation.md)
-* **Summary:** A massive big picture integrating all previous arguments: Create (Bara) vs Make (Asah/Yatsar), the first world nations and kingdoms in Isaiah 14 and Ezekiel 28, and the 3 stages of light.
+### 📌 7. The Full Picture of the First World — The Big Picture
+* **File:** [`REPORT_Melchizedek_FirstWorld_NationFormation.md`](./REPORT_Melchizedek_FirstWorld_NationFormation.md)
+* **Summary:** A massive big picture integrating all previous arguments: Creation (Bara) vs. Making (Asah), the nations and kingdoms of the first world found in Isaiah 14 and Ezekiel 28, and the three stages of light.
 
 | Topic | Core Question |
 |:---|:---|
-| **Recreation (Gap Theory)** | What happened between Gen 1:1 and Gen 1:2? Is "without form and void" the original state or the result of judgment? |
-| **Create (Bara) vs Make (Asah/Yatsar)** | How do we distinguish between what God directly created and what He delegated to His sons to make? |
-| **Nations/Cities/Kingdoms of the First World** | Who are the kingdoms, cities, and peoples recorded in Isa 14:12-17 and Ezek 28:14-19? |
-| **Sons of God vs Angels** | Are the "Sons of God" in Job 38:7 and the "ministering spirits (angels)" in Heb 1:14 the same or different beings? |
-| **The "First Estate" (ἀρχή) of Jude 1:6** | What is the "first estate" lost by the fallen sons, and how does it relate to Melchizedek's position? |
-| **Spirits in Prison in 1 Pet 3:19** | Are the "spirits in prison" angels or people who died in the first world? |
-| **The 3 Stages of Light** | How do the light of the first world (Gen 1:3) → light of the second world (Gen 1:14) → light of the new heaven and new earth (Rev 21:23) differ? |
+| **Re-creation (Gap Theory)** | What happened between Gen 1:1 and Gen 1:2? Is "without form, and void" the original state or the result of judgment? |
+| **Creation (Bara) vs. Making (Asah/Yatsar)** | How do we distinguish between what God directly created and what He delegated His sons to make? |
+| **Nations, Cities, and Kingdoms of the First World** | Who are the peoples, cities, and kingdoms recorded in Isaiah 14:12-17 and Ezekiel 28:14-19? |
+| **Sons of God vs. Angels** | Are the "sons of God" in Job 38:7 and the "ministering spirits (angels)" in Hebrews 1:14 the same or different beings? |
+| **The "First Estate (ἀρχή)" of Jude 1:6** | What is the "first estate" lost by the fallen sons, and how does this relate to the status of Melchisedec? |
+| **Spirits in Prison in 1 Peter 3:19** | Are the "spirits in prison" angels, or are they men who died in the first world? |
+| **Three Stages of Light** | How does the light of the first world (Gen 1:3) differ from the light of the second world (Gen 1:14) and the light of the new heavens and new earth (Rev 21:23)? |
 
-> If you find the conclusions of this report persuasive, please verify the **entire picture of the first world** through the subsequent documents. Melchizedek is **one piece** of that massive picture, and becomes clearer when you see the whole.
+> If you find the conclusions of this report persuasive, we invite you to review the subsequent documents to see the **full picture of the first world**. Melchisedec is just **one piece** of that massive picture, and becomes clearer when viewing the whole.
 
 ---
 
-## 🗄️ Part 4: System Classification Tables and Real-World Debate Logs (Reference Materials)
-Technical and practical materials demonstrating how all doctrines flawlessly interlock like gears within the text without conflict.
+## 🗄️ Part 4: System Classification Chart and Live Debate Logs (Reference Materials)
+Technical and practical materials proving how all doctrines seamlessly interlock like gears within the text without any contradiction.
 
-### 📌 8. Complete KJV Spiritual Beings Classification Table — OOP Class Structure
-* **Filename:** [`REPORT_Spiritual_Beings_Classification_Table.md`](./REPORT_Spiritual_Beings_Classification_Table.md)
-* **Summary:** A master reference document mapping all spiritual beings (Sons of God, angels, devils, etc.) appearing in the KJV 66 books into an IT Object-Oriented Programming (OOP) class structure to fundamentally block category errors that misread "similar things as the same thing."
+### 📌 8. KJV Spiritual Beings Exhaustive Classification Chart — OOP Class Structure
+* **File:** [`REPORT_Spiritual_Beings_Classification_Table.md`](./REPORT_Spiritual_Beings_Classification_Table.md)
+* **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
 
-### ⚔️ Real-World Debate Logs (TheScriptureBeliever vs Researcher)
-Live defense logs showing how the attacks of a researcher steeped in traditional theology were refuted and defended using only the KJV text.
-* **[Real-World Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)**
-* **[Real-World Case 2 (Defense Against Dismantling Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
-* **[Real-World Case 3 (Verifying the Timing of 1 Pet 3:20 vs 2 Pet 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
-* **[In-Depth Debate Log on the Sons of God in Genesis 6 (15 Stages)](./REPORT_Genesis_6_Sons_of_God_In_Depth_Debate_Log.md)** (A 15-stage reversal record showing how the angel theory collapses before the text after an initial advantage)
+### 📌 9. Hybrid Spirits and the Divine Council of God — The Evil Spirit of King Saul
+* **File:** [`REPORT_First_World_Hybrid_Spirits_and_Divine_Council_Verification_Masterpiece.md`](./REPORT_First_World_Hybrid_Spirits_and_Divine_Council_Verification_Masterpiece.md)
+* **Summary:** Identifies the nature of the 'evil spirit from the LORD' upon King Saul. An in-depth document proving how hybrid spirits (devils) who lost their bodies in the first world are legitimately used as tools of judicial judgment under God's 'Divine Council'.
+
+### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
+Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
+* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
+* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
+* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
+* **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)

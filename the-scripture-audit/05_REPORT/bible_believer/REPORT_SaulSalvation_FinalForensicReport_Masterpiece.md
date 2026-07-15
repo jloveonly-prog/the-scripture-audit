@@ -207,6 +207,13 @@ graph TD
     N --> O
 ```
 
+# 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
+**— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
+
+This index is a **'persuasive and argumentative reading order'** specifically organized for pastors in Independent Fundamental Baptist (IFB) churches and those who believe the KJV Bible is the absolutely infallible Word of God.
+
+While respecting the excellent framework of traditional dispensational theology (Scofield, Larkin, etc.), we have rearranged the sequence into an optimal logical order tailored for pastors. This allows you to verify the deeper textual coherence testified by the original KJV text itself (especially the sequence of judgments in 2 Peter 2 and 3, and the physical contradictions of the angel theory in Genesis 6).
+
 ---
 
 ## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
@@ -217,7 +224,7 @@ This is the most intuitive and shocking approach for pastors accustomed to dispe
 * **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
 
 ### 📌 2. IFB vs TSB — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md`](./REPORT_FlowchartComparison_IFB_vs_TheScriptureOrg.md)
+* **File:** [`REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md`](./REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md)
 * **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
 
 ---
@@ -234,8 +241,16 @@ Once you have confirmed the errors in the macroscopic framework through the flow
 * **Summary:** Covers 9 foundational legal principles proving the existence of childbirth prior to the forbidden fruit. This foundational document preemptively blocks any counterarguments through the separation of the Jude timeline, heterosis (hybrid vigor), the singularity of the Eden expulsion (Him), the anatomy of Romans 5:12, and Ezekiel 18:20 (prohibition of guilt by association and Achan's family).
 
 ### 📌 4-B. Childbirth Before Eating the Forbidden Fruit (Advanced) — The Law of Resurrection and the Seed War
-* **File:** [`REPORT_ChildrenBeforeForbiddenFruit.md`](./REPORT_ChildrenBeforeForbiddenFruit.md)
+* **File:** [`REPORT_Children_Before_Tree_Of_Knowledge.md`](./REPORT_Children_Before_Tree_Of_Knowledge.md)
 * **Summary:** Builds upon the basic document to deploy 6 new major arguments (the 120-year lifespan, the dust law of resurrection, the legal principle of 'His wife' in Gen 2:24, etc.). The latter half contains an advanced expansion document featuring the overwhelming **'Seed War Chronicle (12 Chapters)'**, spanning from Eden to the empty tomb of Jesus, and extending to the scene of His preaching to the spirits in hell.
+
+### 📌 4-C. Contrary-to-Fact Conditional: Gen 3:20 "was" Debate (Verification of Pre-Fall Birth Theory)
+* **File:** [`Contrary_to_Fact_Conditional_Gen3_20_was_Pre_Fall_Birth_Theory.md`](<./Contrary_to_Fact_Conditional_Gen3_20_was_Pre_Fall_Birth_Theory.md>)
+* **Summary:** A strong counterargument and self-verification document (BVCAP neutral audit) against the 'Pre-Fall Birth Theory' that could be raised based on the "was" (past tense) in Genesis 3:20. It breaks through the trap of literalism and serves as a standard document defending against collisions between the doctrine of original sin (Rom 5:12) and the Gen 4:1 timeline.
+
+### 📌 4-D. Transition Analysis of the Creation Archetype's Reproduction System and the Seed of Woman — Judicial Systematization
+* **File:** [`REPORT_Creation_Archetype_Reproduction_System_and_Seed_of_Woman_Transition_Analysis.md`](./REPORT_Creation_Archetype_Reproduction_System_and_Seed_of_Woman_Transition_Analysis.md)
+* **Summary:** Why did God create the woman from Adam's rib and place the tree of the knowledge of good and evil? An appendix document revealing the purpose of the woman's creation as a perfect 'Judicial Systematization' designed to prevent the recurrence of the cross-breeding (satyr) crimes committed by the angels of the first world.
 
 ---
 
@@ -272,8 +287,12 @@ Once the enigma of Genesis 6 is resolved, the identities of the "morning stars" 
 Technical and practical materials proving how all doctrines seamlessly interlock like gears within the text without any contradiction.
 
 ### 📌 8. KJV Spiritual Beings Exhaustive Classification Chart — OOP Class Structure
-* **File:** [`REPORT_SpiritualBeingsClassification.md`](./REPORT_SpiritualBeingsClassification.md)
+* **File:** [`REPORT_Spiritual_Beings_Classification_Table.md`](./REPORT_Spiritual_Beings_Classification_Table.md)
 * **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
+
+### 📌 9. Hybrid Spirits and the Divine Council of God — The Evil Spirit of King Saul
+* **File:** [`REPORT_First_World_Hybrid_Spirits_and_Divine_Council_Verification_Masterpiece.md`](./REPORT_First_World_Hybrid_Spirits_and_Divine_Council_Verification_Masterpiece.md)
+* **Summary:** Identifies the nature of the 'evil spirit from the LORD' upon King Saul. An in-depth document proving how hybrid spirits (devils) who lost their bodies in the first world are legitimately used as tools of judicial judgment under God's 'Divine Council'.
 
 ### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
 Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
@@ -281,4 +300,3 @@ Live defense logs demonstrating how the attacks of a researcher steeped in tradi
 * **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
 * **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
 * **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
-
