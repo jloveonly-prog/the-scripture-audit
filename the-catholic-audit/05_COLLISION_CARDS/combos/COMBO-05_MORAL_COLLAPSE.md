@@ -1,16 +1,26 @@
-# 💥 COMBO-05: The Collapse of Moral Absolutes and the Blessing of Same-Sex Couples (IRONCLAD)
+---
+id: "catholic-collision_cards-106"
+title_ko: "💥 COMBO-05: 도덕적 절대성의 붕괴와 동성 축복 (IRONCLAD)"
+file_ko: "COMBO-05_MORAL_COLLAPSE.md"
+file_en: "COMBO-05_MORAL_COLLAPSE.md"
+category: "collision_cards"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# 💥 COMBO-05: 도덕적 절대성의 붕괴와 동성 축복 (IRONCLAD)
 
-## 📌 Target of Strike: The Blessing of Same-Sex Couples (Fiducia Supplicans) and the Doctrine of Intrinsic Evil
-**Applied CVCAP 3.0 Filter Combination**: `Filter 2 (Hermeneutical Rupture)` + `Filter 4 (Practical Contradiction)` + `Filter 5 (Moving the Goalposts)`
+## 📌 타격 목표: 동성 커플 축복(Fiducia Supplicans) 및 본질적 악 교리
+**적용된 CVCAP 3.0 필터 조합**: `필터 2(해석학적 단절)` + `필터 4(실천적 모순)` + `필터 5(목표대 이동)`
 
-### 1. [Filter 2] A Hermeneutical Rupture in a Mere Two Years (Hermeneutical Rupture)
-In the year 2021, the Congregation for the Doctrine of the Faith (CDF) declared an absolute prohibition (Anathema): "The Church doth not have the power to give the blessing to unions of persons of the same sex. For God cannot bless sin." Yet a mere two years later, in 2023, Pope Francis's *Fiducia Supplicans* declared that "it is possible to bless couples in irregular situations (same-sex couples) pastorally." This is the worst hermeneutical rupture, wherein the absoluteness of the doctrine of 'intrinsic evil' is turned upside down by the spirit of the age and political pressure.
+### 1. [필터 2] 단 2년 만의 해석학적 단절 (Hermeneutical Rupture)
+2021년 교황청 신앙교리성(CDF)은 "교회는 동성 결합을 축복할 권한이 없다. 하느님은 죄를 축복하실 수 없기 때문이다(God cannot bless sin)"라고 절대적 불가(Anathema)를 선언했습니다. 그러나 불과 2년 뒤인 2023년, 프란치스코 교황의 *Fiducia Supplicans*는 "비정상적 상황(동성 커플)에 있는 이들을 사목적으로 축복할 수 있다"고 선언했습니다. 이는 '본질적 악'이라는 교리의 절대성이 시대정신과 정치적 압박에 의해 180도 뒤집힌 최악의 해석학적 단절입니다.
 
-### 2. [Filter 5] Moving the Goalposts: 'Liturgical' vs 'Pastoral' Blessing (Moving Goalposts)
-When confronted head-on by the declaration of 2021 that "God cannot bless sin," the Magisterium employeth sophistry. "What we have permitted is not a 'liturgical' blessing like the sacrament of matrimony, but a 'pastoral' blessing seeking mercy." This is but typical wordplay, stealthily dividing and moving the definition of blessing (the goalposts) to cover the absurdity of the doctrine. The intrinsic sinfulness of the object of blessing (the same-sex couple) remaineth exactly the same, yet they have bypassed the doctrine merely by changing the form of the blessing.
+### 2. [필터 5] '전례적' vs '사목적' 축복이라는 목표대 이동 (Moving Goalposts)
+"죄를 축복할 수 없다"는 2021년의 선언과 정면 충돌하자, 교도권은 궤변을 동원합니다. "우리가 허용한 것은 혼인 성사와 같은 '전례적(Liturgical) 축복'이 아니라, 자비를 구하는 '사목적(Pastoral) 축복'이다." 이는 교리의 부조리를 덮기 위해 축복의 정의(목표대)를 슬그머니 쪼개고 이동시킨 전형적인 말장난(Wordplay)에 불과합니다. 축복받는 대상(동성 커플)의 본질적 죄악성은 그대로인데, 축복의 형식만 바꾸어 교리를 우회한 것입니다.
 
-### 3. [Filter 4] Practical Contradiction and Hypocrisy (Action-vs-Doctrine Discrepancy)
-Through its catechism (CCC-2357), Catholicism defineth homosexual acts as acts of "grave depravity" that "under no circumstances can they be approved." Yet in the realm of practice (Action), a priest formally invoketh the mercy and blessing of God upon a couple continuing in such acts. This proveth the hypocrisy of a perfect artificial bureaucratic organization, which pretendeth to defend orthodoxy (conservative) in text, while compromising with the world (progressive) in practice.
+### 3. [필터 4] 실천적 모순과 위선 (Action-vs-Doctrine Discrepancy)
+가톨릭은 교리문답(CCC-2357)을 통해 동성애 행위를 "어떤 경우에도 인정될 수 없는 본질적 악"이라고 규정합니다. 그러나 실천(Action)의 영역에서는 그 행위를 지속하고 있는 커플에게 사제가 공식적으로 하느님의 자비와 축복을 빌어줍니다. 이는 텍스트로는 정통(보수)을 수호하는 척하면서, 실천으로는 세속(진보)과 타협하는 완벽한 인위적 관료 조직의 위선을 증명합니다.
 
-### ⚖️ Final Verdict: [IRONCLAD REFUTATION]
-By the combo strike of these three filters, it is 100% established that the modern Catholic Magisterium is not the 'guardian of unchanging divine truth', but a political organization that 'moveth the goalposts according to the pressure of the age (Filter 5), overturneth past declarations (Filter 2), and deceiveth by separating practice from doctrine (Filter 4)'.
+### ⚖️ 최종 판결: [IRONCLAD REFUTATION]
+이 세 가지 필터의 콤보 타격으로, 현대 가톨릭 교도권은 '불변하는 신적 진리의 수호자'가 아니라 '시대의 압박에 따라 목표대를 옮기고(필터 5), 과거의 선언을 뒤집으며(필터 2), 교리와 실천을 분리해 기만하는(필터 4)' 정치적 조직임이 100% 확정되었습니다.

@@ -1,16 +1,26 @@
-# 💥 COMBO-01: The Chain Collapse of Mariology (IRONCLAD)
+---
+id: "catholic-collision_cards-102"
+title_ko: "💥 COMBO-01: 마리아론(Mariology) 연쇄 붕괴 (IRONCLAD)"
+file_ko: "COMBO-01_MARIOLOGY_COLLAPSE.md"
+file_en: "COMBO-01_MARIOLOGY_COLLAPSE.md"
+category: "collision_cards"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# 💥 COMBO-01: 마리아론(Mariology) 연쇄 붕괴 (IRONCLAD)
 
-## 📌 Target of Strike: The Dogmas of the Immaculate Conception and the Bodily Assumption of Mary
-**Applied CVCAP 3.0 Filter Combination**: `Filter 1 (Reductio ad absurdum)` + `Filter 8 (First Mention and Silence)` + `Filter 5 (Moving the Goalposts)`
+## 📌 타격 목표: 마리아 무염시태 및 몽소승천 교의
+**적용된 CVCAP 3.0 필터 조합**: `필터 1(귀류법)` + `필터 8(첫 언급과 침묵)` + `필터 5(목표대 이동)`
 
-### 1. [Filter 8] The Perfect Silence of the First-Century Apostles (Argument from Silence)
-In the entirety of the New Testament (the Acts of the Apostles, the Pauline Epistles, etc.), which is the sole infallible record of the early Church, there is not a single line recorded concerning 'the sinlessness of Mary' or her 'bodily assumption'. The perfect silence of the Apostles concerning such cosmic events proveth that this doctrine is no Apostolic tradition, but an invention forged hundreds of years later, mingled with pagan goddess worship.
+### 1. [필터 8] 1세기 사도들의 완벽한 침묵 (Argument from Silence)
+초대교회의 유일한 무류한 기록인 신약성경 전체(사도행전, 바울 서신 등)에서 '마리아의 죄 없음'이나 '육체 승천'에 대한 기록이 단 한 줄도 존재하지 않습니다. 우주적 대사건에 대한 사도들의 완벽한 침묵은, 이 교리가 사도적 전승이 아니라 수백 년 뒤 이교 여신 숭배 사상과 융합되어 창작된 것임을 증명합니다.
 
-### 2. [Filter 1] Original Sin and the Wages of Death (Reductio ad absurdum)
-Because the doctrine was fabricated in later ages, a fatal logical collapse (a bug) hath occurred. Catholicism declareth that Mary was 'conceived without original sin (Immaculate Conception)'. But if there be no original sin, she ought not to suffer its penalty, which is 'bodily death (the wages of sin)'. Yet Catholic tradition teacheth that Mary suffered bodily dormition (death). The premise (no original sin) and the consequence (death) collide head-on, shattering the doctrine by reductio ad absurdum.
+### 2. [필터 1] 원죄와 사망의 삯 (Reductio ad absurdum)
+후대에 교리가 창작되다 보니 치명적 논리적 붕괴(버그)가 발생했습니다. 가톨릭은 마리아가 '원죄 없이 잉태되었다(무염시태)'고 선언합니다. 그러나 원죄가 없다면 그 형벌인 '육체적 죽음(사망의 삯)'도 겪지 않아야 합니다. 하지만 가톨릭 전승은 마리아가 육체적 영면(죽음)을 맞이했다고 가르칩니다. 전제(원죄 없음)와 결과(죽음)가 정면 충돌하여 교리 자체가 귀류법적으로 파괴됩니다.
 
-### 3. [Filter 5] Moving the Goalposts Detected (Moving Goalposts)
-When confronted with this logical absurdity (if she had no original sin, why did she die?), Catholic theologians stealthily moved the goalposts of the doctrine, adding the absurd excuse: "Just as Jesus was without sin yet died, Mary also voluntarily accepted death to be united with her Son." This is but a post-hoc apologetic (Ad hoc) utterly devoid of biblical foundation.
+### 3. [필터 5] 목표대 이동 적발 (Moving Goalposts)
+논리적 부조리(원죄가 없는데 왜 죽었는가?)에 직면하자, 가톨릭 신학자들은 "예수님도 죄가 없으셨지만 죽으신 것처럼, 마리아도 아들과 일치하기 위해 자발적으로 죽음을 받아들인 것"이라는 황당한 변명을 덧붙이며 교리의 목표대를 슬그머니 옮겼습니다. 이는 성경적 근거가 전무한 사후 변증(Ad hoc)에 불과합니다.
 
-### ⚖️ Final Verdict: [IRONCLAD REFUTATION]
-By the combo strike of these three filters, it is 100% established that Mariology is a false doctrine wrought by men, proceeding from 'no biblical foundation (Silence)' ➔ 'logical absurdity (Reductio ad absurdum)' ➔ 'sophistical excuse (Moving the Goalposts)'.
+### ⚖️ 최종 판결: [IRONCLAD REFUTATION]
+세 가지 필터의 콤보 타격으로, 마리아론은 '성경적 근거 없음(침묵) ➔ 논리적 부조리(귀류법) ➔ 궤변적 변명(목표대 이동)'으로 이어지는 인간이 만든 거짓 교리임이 100% 확정되었습니다.

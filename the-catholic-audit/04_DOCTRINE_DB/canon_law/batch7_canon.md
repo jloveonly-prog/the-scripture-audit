@@ -1,98 +1,117 @@
-# CANON-GEN Canon Law General (Application, Heresy, Apostasy)
+---
+id: "catholic-doctrine_db-032"
+title_ko: "CANON-GEN  교회법 일반 (적용 대상, 이단, 배교)"
+file_ko: "batch7_canon.md"
+file_en: "batch7_canon.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# CANON-GEN  교회법 일반 (적용 대상, 이단, 배교)
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | CANON-GEN |
-| **Source** | Code of Canon Law (1983) |
-| **Article** | Canon 11, 96, 204-207, 751 |
-| **Dogmatic Tier** | Authoritative (Positive Canon Law) |
-| **Infallibility** | 🟡 Authoritative |
-| **Anathema** | Varies by clause |
-| **Year** | 1983 |
+| **출처** | 1983년 교회법전 (Code of Canon Law) |
+| **조항** | Canon 11, 96, 204-207, 751 |
+| **교의 등급** | 권위적 (실정 교회법) |
+| **무류 여부** | 🟡 권위적 |
+| **파문(Anathema)** | 조항에 따라 다름 |
+| **연도** | 1983 |
 
-## Original Text (Summary)
-> Catholic positive law binds only those baptized in or received into the Catholic Church. Heresy is the obstinate denial of dogma; apostasy is the total repudiation of the Christian faith; schism is the refusal of submission to the Supreme Pontiff.
+## 원문 (요약)
+> 가톨릭 교회의 실정법은 세례를 받아 가톨릭 교회에 편입되었거나 받아들여진 이들에게만 구속력을 가진다. 이단은 교의를 고집스럽게 부정하는 것이고, 배교는 신앙의 전면적 포기이며, 이교는 교황의 권위에 복종하기를 거부하는 것이다.
 
-## Tags
-`Canon Law`, `Application`, `Heresy`, `Apostasy`
+## 태그
+`교회법`, `적용대상`, `이단`, `배교`
 
-## Claims — ⚠️ Most Important
-1. The legal binding force of Canon Law applies only to those baptized in or converted to the Catholic Church.
-2. 'Heresy' is the obstinate post-baptismal denial of some truth which must be believed with divine and catholic faith.
+## 주장 (Claims)   가장 중요
+1. 교회법의 법적 구속력은 가톨릭 교회에서 세례를 받았거나 교회로 회심한 이들에게만 적용된다(이성 사용 능력이 있는 자).
+2. '이단'은 세례 받은 자가 하느님이 계시하시고 교회가 정의한 교리를 고의로 지속적으로 부정하거나 의심하는 행위이다.
 
-## Negates — ⚠️ Most Important
-1. Unbaptized persons or members of other religions are bound by Catholic positive law.
+## 부정 (Negates)   가장 중요
+1. 세례를 받지 않은 자나 타종교인도 가톨릭 교회 실정법의 구속을 받는다.
 
 ---
 
-# CANON-SACR Sacraments General and Restrictions on Eucharist
+# CANON-SACR  성사 일반과 성체 영성체의 제한
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | CANON-SACR |
-| **Source** | Code of Canon Law (1983) |
-| **Article** | Canon 844, 915 |
-| **Dogmatic Tier** | Authoritative |
-| **Infallibility** | 🟡 Authoritative |
-| **Anathema** | Yes (Sanctions upon violation) |
-| **Year** | 1983 |
+| **출처** | 1983년 교회법전 |
+| **조항** | Canon 844, 915 |
+| **교의 등급** | 권위적 |
+| **무류 여부** | 🟡 권위적 |
+| **파문(Anathema)** | 예 (위반 시 제재) |
+| **연도** | 1983 |
 
-## Original Text (Summary)
-> Catholic ministers administer the sacraments licitly to Catholic members alone. Those excommunicated or obstinately persevering in manifest grave sin are not to be admitted to holy communion (Canon 915). However, in danger of death, Catholic ministers may administer sacraments to other Christians under certain conditions.
+## 원문 (요약)
+> 가톨릭 성직자는 원칙적으로 가톨릭 신자에게만 성사를 수여하며, 파문 처벌을 받았거나 고집스럽게 명백한 대죄 중에 머무는 자들(예: 제915조)은 영성체를 할 수 없다. 단, 죽을 위험 등의 특정 상황에서 타 기독교인에게 성사 상호 교류(고해, 성체, 병자)가 예외적으로 허용될 수 있다.
 
-## Claims — ⚠️ Most Important
-1. Those obstinately persevering in manifest grave sin are not to be admitted to holy communion under any circumstances (Canon 915).
-2. In exceptional circumstances like danger of death, sacraments can be licitly administered to non-Catholic Christians (Canon 844).
+## 태그
+`성사법`, `성체성사`, `제915조`, `성사 교류`
 
-## Negates — ⚠️ Most Important
-1. Catholic sacraments must never be given to other Christian denominations even in danger of death.
-2. Those in manifest grave sin can autonomously participate in the Eucharist depending on their personal conscience.
+## 주장 (Claims)   가장 중요
+1. 공개적이고 명백한 대죄 상태를 고집스럽게 유지하는 자는 어떠한 경우에도 성체를 영접하도록 허용되어서는 안 된다(Canon 915).
+2. 죽을 위험 등 극히 예외적인 상황에서는, 일정한 조건을 갖춘 비가톨릭 기독교인에게도 성사(고해, 성체, 병자)를 합법적으로 수여할 수 있다(Canon 844).
+
+## 부정 (Negates)   가장 중요
+1. 타 기독교 종파 신자에게는 죽음의 위험 앞에서도 절대로 가톨릭 성사를 주어서는 안 된다.
+2. 명백한 대죄 중에 있는 자라도 개인의 양심적 판단에 의존하여 성체성사에 자율적으로 참여할 수 있다.
 
 ---
 
-# CANON-MARRIAGE Marriage Law
+# CANON-MARRIAGE  혼인법
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | CANON-MARRIAGE |
-| **Source** | Code of Canon Law (1983) |
-| **Article** | Canon 1055-1165 |
-| **Dogmatic Tier** | Authoritative |
-| **Infallibility** | 🟡 Authoritative |
-| **Anathema** | No |
-| **Year** | 1983 |
+| **출처** | 1983년 교회법전 |
+| **조항** | Canon 1055-1165 |
+| **교의 등급** | 권위적 |
+| **무류 여부** | 🟡 권위적 |
+| **파문(Anathema)** | 아니오 |
+| **연도** | 1983 |
 
-## Original Text (Summary)
-> The matrimonial covenant is a lifelong partnership of the whole of life between a man and a woman, characterized by unity and indissolubility. A ratified and consummated sacramental marriage cannot be dissolved by any human power except death.
+## 원문 (요약)
+> 혼인은 남녀가 전 생애의 공동 운명체를 이루는 맺음으로, 단일성과 불가해소성을 본질적 속성으로 지닌다. 세례 받은 이들 사이의 혼인은 항상 성사이며, 합법적으로 완성된 성사적 혼인은 죽음 이외의 어떠한 인간적 권력으로도 해소될 수 없다.
 
-## Claims — ⚠️ Most Important
-1. A validly ratified and consummated sacramental marriage can never be dissolved or divorced until the death of one spouse.
-2. The Church has the authority to declare through proper procedures that a marriage was never validly established from the beginning (annulment).
+## 태그
+`혼인법`, `불가해소성`, `혼인무효`
 
-## Negates — ⚠️ Most Important
-1. A valid marriage bond can be broken and one can legally divorce and remarry due to loss of affection or adultery.
+## 주장 (Claims)   가장 중요
+1. 유효하게 맺어지고 완성된 성사적 혼인(Ratified and Consummated)은 부부 중 한 명이 죽기 전까지는 절대 파기되거나 이혼될 수 없다.
+2. 교회는 합당한 절차를 통해 애초에 혼인이 유효하게 성립되지 않았음을 선언할(혼인 무효 판결) 권한을 가진다.
+
+## 부정 (Negates)   가장 중요
+1. 부부간의 애정 상실이나 간음 등의 이유로 유효한 혼인 유대를 끊고 합법적으로 이혼 및 재혼할 수 있다.
 
 ---
 
-# CANON-PENAL Penal Law and Latae Sententiae
+# CANON-PENAL  형법과 자동 파문(Latae Sententiae)
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | CANON-PENAL |
-| **Source** | Code of Canon Law (1983) |
-| **Article** | Canon 1364, 1398 |
-| **Dogmatic Tier** | Authoritative |
-| **Infallibility** | 🟡 Authoritative |
-| **Anathema** | Yes |
-| **Year** | 1983 |
+| **출처** | 1983년 교회법전 |
+| **조항** | Canon 1364, 1398 |
+| **교의 등급** | 권위적 (형법) |
+| **무류 여부** | 🟡 권위적 |
+| **파문(Anathema)** | 예 |
+| **연도** | 1983 |
 
-## Original Text (Summary)
-> An apostate, a heretic, or a schismatic incurs a latae sententiae (automatic) excommunication. Furthermore, a person who procures a completed abortion incurs a latae sententiae excommunication.
+## 원문 (요약)
+> 이단자, 배교자, 이교자는 범죄 사실 자체로 인한 '자동 처벌 파문(Latae sententiae)'의 제재를 받는다. 또한 낙태를 주선하여 그 효과를 얻는 자 역시 자동 처벌 파문의 제재를 받는다.
 
-## Claims — ⚠️ Most Important
-1. If a Catholic falls into heresy or apostasy, they incur automatic excommunication by the very commission of the offense, without an explicit declaration by the Church.
-2. Anyone who procures or participates in a completed abortion incurs automatic excommunication.
+## 태그
+`교회형법`, `파문`, `낙태`, `배교`
 
-## Negates — ⚠️ Most Important
-1. Excommunication is only effective when there is an explicit trial and written sentence by a bishop or the Pope.
-2. Abortion is a moral crime but not a legal crime subject to the supreme penalty of excommunication.
+## 주장 (Claims)   가장 중요
+1. 가톨릭 신자가 이단이나 배교에 빠질 경우, 교회의 명시적 선고 없이도 범죄 행위 자체만으로 즉시 자동 파문된다.
+2. 낙태를 주도하거나 관여하여 실제로 낙태가 이루어지게 한 모든 자는 자동 파문의 제재를 받는다.
+
+## 부정 (Negates)   가장 중요
+1. 파문은 오직 주교나 교황의 명시적인 재판과 서면 선고가 있을 때만 효력이 발생한다(자동 처벌 파문의 부정).
+2. 낙태는 중대한 도덕적 범죄일 수는 있으나, 교회의 최고 형벌인 파문에 해당하는 법적 범죄는 아니다.

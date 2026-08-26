@@ -1,38 +1,48 @@
-# AMORIS-LAETITIA-CH8 — Allusion to Eucharistic Access for the Remarried
+---
+id: "catholic-doctrine_db-054"
+title_ko: "AMORIS-LAETITIA-CH8 — 재혼자 성체 접근 암시"
+file_ko: "AMORIS_LAETITIA_CH8.md"
+file_en: "AMORIS_LAETITIA_CH8.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# AMORIS-LAETITIA-CH8 — 재혼자 성체 접근 암시
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | AMORIS-LAETITIA-CH8 |
-| **Source** | Pope Francis, Apostolic Exhortation Amoris Laetitia |
-| **Article** | Chapter 8 (esp. paragraphs 300-305, footnote 351) |
-| **Dogmatic Grade** | Pastoral |
-| **Anathema** | ❌ No |
-| **Year** | 2016 |
+| **출처** | 교황 프란치스코, 사도 권고 Amoris Laetitia |
+| **조항** | 제8장 (특히 300-305항, 각주 351) |
+| **교의 등급** | Pastoral |
+| **파문(Anathema)** | ❌ 아니오 |
+| **연도** | 2016 |
 
-## Original Text (Summary)
-> **Paragraph 300**: "There is a need to accompany the process of discernment (discernimiento) of conscience for those in 'irregular' situations."
-> **Paragraph 301**: "It is possible that in an objective situation of sin, one may not be subjectively fully culpable, and can live in God's grace."
-> **Paragraph 305**: "A pastor's discernment must recognize that people in irregular situations may need the help of the sacraments."
-> **Footnote 351**: "In certain cases, this can include the help of the sacraments" — widely interpreted as an allusion to the possibility of access to the Eucharist for the remarried.
+## 원문 (요약)
+> **300항**: "비정규적 상황에 있는 이들의 양심의 식별(discernimiento) 과정을 동반해야 한다."
+> **301항**: "객관적 죄의 상태에 있더라도 주관적으로 온전히 책임지지 않을 수 있으며, 은총의 상태에서 살 수 있다."
+> **305항**: "사목자의 식별은 비정규적 상황에 있는 이들이 성사의 도움을 필요로 할 수 있음을 인식해야 한다."
+> **각주 351**: "어떤 경우에는 이것이 성사의 도움을 포함할 수 있다" — 이는 재혼자에 대한 성체 접근 가능성을 암시한 것으로 널리 해석됨.
 
-## Tags
-`Sacramental Theology`, `Matrimony`, `Eucharist`, `Ecclesiology`, `Pastoral`, `Conditional`
+## 태그
+`성사론`, `혼인`, `성체`, `교회론`, `pastoral`, `사목적`, `조건부`
 
-## Claims
-1. A process of individual discernment (discernimiento) of conscience is required for those in irregular situations (e.g., divorced and remarried).
-2. Though objectively in an irregular situation, subjective culpability may be mitigated.
-3. By reason of mitigating factors, one may live in a state of grace.
-4. It alludeth that those in irregular situations may "in certain cases" receive the help of the sacraments (including the Eucharist).
-5. Pastoral accompaniment and discernment may take precedence over the mechanical application of general norms.
+## 주장 (Claims)
+1. 비정규적 상황(이혼 후 재혼 등)에 있는 이들에 대해 개별적 양심의 식별(discernimiento) 과정이 필요하다
+2. 객관적으로 비정규적 상황에 있더라도 주관적 책임이 감경될 수 있다
+3. 감경 요인에 의해 은총의 상태에서 살 수 있다
+4. 비정규적 상황에 있는 이들이 "어떤 경우에는" 성사의 도움(성체 포함)을 받을 수 있음을 암시한다
+5. 사목적 동반과 식별이 일반적 규범의 기계적 적용보다 우선할 수 있다
 
-## Negates
-1. The proposition that all who are divorced and remarried are automatically excluded from receiving the Eucharist (blanket ban).
-2. The proposition that no process of discernment is needed for those in irregular situations.
-3. The proposition that a state of grace can be determined solely by an objective state.
+## 부정 (Negates)
+1. 이혼 후 재혼한 모든 이들이 자동적으로 성체 배령에서 배제된다는 명제 (일괄적 금지)
+2. 비정규적 상황에 있는 이들에 대해 어떤 식별 과정도 필요 없다는 명제
+3. 객관적 상태만으로 은총의 상태를 판단할 수 있다는 명제
 
-## Related Collisions
-- → TRENT-S24-MARRIAGE (The Indissolubility of Marriage)
-- → CCC-1650 (The remarried cannot receive the Eucharist)
-- → John Paul II Familiaris Consortio 84 (Exclusion of the remarried from the Eucharist)
-- → CCC-2384 (Divorce is a grave offense against the natural law)
-- → FIDUCIA-SUPPLICANS (Expansion of pastoral approach to irregular situations)
+## 관련 충돌
+- → TRENT-S24-MARRIAGE (혼인의 불가해소성)
+- → CCC-1650 (재혼자는 성체를 받을 수 없다)
+- → 요한 바오로 2세 Familiaris Consortio 84항 (재혼자 성체 배제)
+- → CCC-2384 (이혼은 자연법에 대한 중대한 위반)
+- → FIDUCIA-SUPPLICANS (비정규적 상황에 대한 사목적 접근의 확대)

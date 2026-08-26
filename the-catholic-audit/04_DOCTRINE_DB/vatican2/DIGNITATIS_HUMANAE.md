@@ -1,36 +1,46 @@
-# DIGNITATIS-HUMANAE — Declaration on Religious Liberty
+---
+id: "catholic-doctrine_db-068"
+title_ko: "DIGNITATIS-HUMANAE — 종교 자유에 관한 선언"
+file_ko: "DIGNITATIS_HUMANAE.md"
+file_en: "DIGNITATIS_HUMANAE.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# DIGNITATIS-HUMANAE — 종교 자유에 관한 선언
 
-| Item | Details |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | DIGNITATIS-HUMANAE |
-| **Source** | Second Vatican Council, Declaration Dignitatis Humanae |
-| **Article** | Preface (especially Paragraphs 2, 3) |
-| **Dogmatic Rank** | Pastoral |
-| **Anathema** | ❌ No |
-| **Year** | 1965 |
+| **출처** | 제2차 바티칸 공의회, 선언 Dignitatis Humanae |
+| **조항** | 전문 (특히 2항, 3항) |
+| **교의 등급** | Pastoral |
+| **파문(Anathema)** | ❌ 아니오 |
+| **연도** | 1965 |
 
-## Original Text (Summary)
-> **Paragraph 2**: "This Vatican Council declareth that the human person hath a right to religious freedom. This freedom meaneth that all men are to be immune from coercion on the part of individuals or of social groups and of any human power, in such wise that no one is to be forced to act in a manner contrary to his own beliefs, whether privately or publicly, whether alone or in association with others, within due limits."
+## 원문 (요약)
+> **2항**: "이 바티칸 공의회는 인간이 종교 자유에 대한 권리를 가진다고 선언한다. 이 자유는 모든 인간이 개인적으로든 사회적으로든 종교 문제에서 어떤 사람이나 사회 집단이나 어떤 인간 권력의 강제로부터 면제됨을 뜻한다. 따라서 아무도 자기 양심에 반하여 행동하도록 강요받거나, 사적으로든 공적으로든 종교 문제에서 자기 양심에 따라 행동하는 것이 방해받아서는 안 된다."
 
-## Tags
-`Ecclesiology`, `Papacy`, `pastoral`, `Pastoral`, `Permitted`
+## 태그
+`교회론`, `교황론`, `pastoral`, `사목적`, `허용`
 
-## Claims
-1. Every man hath a right to religious liberty.
-2. This right is founded upon the very dignity of the human person (natural law).
-3. No man shall be compelled to act contrary to his conscience in matters of religion.
-4. No man shall be hindered from exercising his religion according to his conscience.
-5. This right to liberty is recognized within the bounds of the public order of society.
-6. The true religion doth subsist in the Catholic Church, but it cannot be compelled upon others.
+## 주장 (Claims)
+1. 모든 인간은 종교 자유에 대한 권리를 가진다
+2. 이 권리는 인간 존엄성 자체에 기초한다 (자연법)
+3. 아무도 자기 양심에 반하여 종교 행위를 강요받아서는 안 된다
+4. 아무도 자기 양심에 따라 종교를 실천하는 것이 방해받아서는 안 된다
+5. 이 자유의 권리는 사회의 공적 질서(공공 질서) 범위 내에서 인정된다
+6. 참된 종교는 가톨릭 교회 안에 존재하지만, 타인에게 강요할 수 없다
 
-## Negates
-1. The proposition that the state must protect only the true religion (Catholicism) and suppress false religions.
-2. The proposition that heretics have no right to religious liberty.
-3. The proposition that religious coercion by the state is lawful.
-4. The unconditional application of the principle that "Error hath no rights."
+## 부정 (Negates)
+1. 국가가 참된 종교(가톨릭)만을 보호하고 거짓 종교를 억압해야 한다는 명제
+2. 이단자들에게는 종교 자유의 권리가 없다는 명제
+3. 국가에 의한 종교적 강제가 정당하다는 명제
+4. 오류에는 권리가 없다("Error has no rights")는 원칙의 무조건적 적용
 
-## Related Collisions
-- → Gregory XVI Mirari Vos (1832) — Liberty of conscience is a "madness" (deliramentum)
-- → Pius IX Quanta Cura / Syllabus Errorum (1864) — Condemnation of religious liberty as an "error"
-- → Leo XIII Immortale Dei (1885) — The duty of the state to protect the true religion
-- → VAT1-PASTOR-AETERNUS (Papal infallibility — concerning whether the opposition of former pontiffs to religious liberty was infallible)
+## 관련 충돌
+- → 그레고리오 16세 Mirari Vos (1832) — 양심의 자유는 "광기"(deliramentum)
+- → 비오 9세 Quanta Cura / Syllabus Errorum (1864) — 종교 자유를 "오류"로 단죄
+- → 레오 13세 Immortale Dei (1885) — 국가의 참된 종교 보호 의무
+- → VAT1-PASTOR-AETERNUS (교황 무류성 — 이전 교황들의 종교 자유 반대가 무류적이었는지의 문제)

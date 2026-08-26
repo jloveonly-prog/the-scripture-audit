@@ -1,36 +1,46 @@
-# TRENT-S06-C32 — Anathema if one saith good works have no merit
+---
+id: "catholic-doctrine_db-060"
+title_ko: "TRENT-S06-C32 — 선한 행위가 공로 없다 하면 파문"
+file_ko: "TRENT_S06_C32.md"
+file_en: "TRENT_S06_C32.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# TRENT-S06-C32 — 선한 행위가 공로 없다 하면 파문
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S06-C32 |
-| **Source** | Council of Trent (Concilium Tridentinum) |
-| **Article** | Session 6, Decree on Justification, Canon 32 |
-| **Dogmatic Grade** | De Fide |
-| **Anathema** | ✅ Yes |
-| **Year** | 1547 |
+| **출처** | 트렌트 공의회 (Concilium Tridentinum) |
+| **조항** | 제6차 회기, 의화에 관한 교령, Canon 32 |
+| **교의 등급** | De Fide |
+| **파문(Anathema)** | ✅ 예 |
+| **연도** | 1547 |
 
-## Original Text (Summary)
-> "If any one saith, that the good works of one that is justified are in such manner the gifts of God, as that they are not also the good merits of him that is justified; or, that the said justified, by the good works... doth not truly merit increase of grace, eternal life, and the attainment of that eternal life (an increase of glory); let him be anathema."
+## 원문 (요약)
+> "의화된 자의 선한 행위가 하느님의 은총으로 말미암아 참으로 하느님 앞에서 공로(meritum)가 되고, 영원한 생명의 증가와 영원한 생명 자체의 획득(영광의 증가)에 대한 참된 공로가 된다는 것을 부정하는 자는 파문될지어다."
 
-## Latin Original
+## 라틴어 원문
 > "Si quis dixerit, hominis iustificati bona opera ita esse dona Dei, ut non sint etiam bona ipsius iustificati merita, aut ipsum iustificatum bonis operibus... non vere mereri augmentum gratiae, vitam aeternam et ipsius vitae aeternae... consecutionem atque etiam gloriae augmentum: anathema sit."
 
-## Tags
-`Soteriology`, `Justification`, `Merit`, `Grace`, `Sanctification`, `de_fide`, `necessary`, `forbidden`
+## 태그
+`구원론`, `칭의`, `공로`, `은총`, `성화`, `de_fide`, `필수`, `금지`
 
-## Claims
-1. The good works of the justified man become true merit (meritum) before God.
-2. Through good works, one can truly merit an increase of grace (mereri).
-3. Through good works, one can truly merit eternal life.
-4. Through good works, one can truly merit an increase of glory.
-5. Merit is the result of God's grace and man's cooperation combined.
+## 주장 (Claims)
+1. 의화된 자의 선한 행위는 하느님 앞에서 참된 공로(meritum)가 된다
+2. 선한 행위를 통해 은총의 증가를 참으로 얻을 수 있다(mereri)
+3. 선한 행위를 통해 영원한 생명을 참으로 얻을 수 있다
+4. 선한 행위를 통해 영광의 증가를 참으로 얻을 수 있다
+5. 공로는 하느님의 은총과 인간의 협력이 결합된 결과이다
 
-## Negates
-1. The proposition that the good works of the justified man have no merit.
-2. The proposition that good works are solely the gift of God, and not the merit of man.
-3. The proposition that grace or eternal life cannot be increased by man's works.
-4. The proposition that salvation dependeth entirely upon grace alone (exclusive interpretation of Sola Gratia).
+## 부정 (Negates)
+1. 의화된 자의 선한 행위에 공로가 없다는 명제
+2. 선한 행위가 오직 하느님의 선물일 뿐, 인간의 공로는 아니라는 명제
+3. 인간의 행위로 은총이나 영원한 생명이 증가될 수 없다는 명제
+4. 구원이 전적으로 은총에만 의존한다는 명제 (Sola Gratia의 배타적 해석)
 
-## Related Collisions
-- → TRENT-S06-C09 (Anathema for Sola Fide)
-- → CCC-2010 (Merit and grace)
+## 관련 충돌
+- → TRENT-S06-C09 (오직 믿음 파문)
+- → CCC-2010 (공로와 은총)

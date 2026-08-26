@@ -1,99 +1,121 @@
-# CCC-1322_1419 The Sacrament of the Eucharist and Transubstantiation
+---
+id: "catholic-doctrine_db-034"
+title_ko: "CCC-1322_1419  성체성사와 화체설"
+file_ko: "batch2_sacraments.md"
+file_en: "batch2_sacraments.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# CCC-1322_1419  성체성사와 화체설
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | CCC-1322_1419 |
-| **Source** | Catechism of the Catholic Church |
-| **Article** | 1322-1419 |
-| **Dogmatic Tier** | De Fide Definita |
-| **Infallibility** | 🟡 Authoritative |
-| **Anathema** | No |
-| **Year** | 1992 |
+| **출처** | 가톨릭 교회 교리서 |
+| **조항** | 1322-1419항 |
+| **교의 등급** | De Fide Definita (트렌트 공의회 정의 기반) |
+| **무류 여부** | 🟡 권위적 (개정 가능 - 교리서 자체 기준, 내용의 근원은 무류) |
+| **파문(Anathema)** | 아니오 |
+| **연도** | 1992 |
 
-## Original Text (Summary)
-> The Eucharist is the source and summit of the Christian life. Through the priest's consecration at Mass, the bread and wine undergo a change of substance (transubstantiation) into the true body, blood, soul, and divinity of Christ, and the sacrifice of the cross and the sacrifice of the Mass are one single sacrifice.
+## 원문 (요약)
+> 성체성사는 그리스도교 생활의 원천이며 정점이다. 미사 중 사제의 축성을 통해 빵과 포도주는 그리스도의 참된 몸과 피, 영혼과 신성으로 실체 변화(화체)를 일으키며, 십자가의 제사와 미사의 제사는 단일하고 동일한 제사이다.
 
-## Claims — ⚠️ Most Important
-1. The bread and wine of the Eucharist substantially change into the actual body, blood, soul, and divinity of Christ through the prayer of consecration (Transubstantiation).
-2. The sacrifice of the cross and the sacrifice of the Mass are essentially one single sacrifice.
+## 태그
+`성사론`, `성체`, `화체설`, `미사`
 
-## Negates — ⚠️ Most Important
-1. Christ's presence in the Eucharist is merely symbolic or spiritual.
-2. The substance of bread and wine remains along with the body and blood of Christ after consecration (Consubstantiation).
+## 주장 (Claims)   가장 중요
+1. 성체성사의 빵과 포도주는 축성 기도를 통해 그리스도의 실제 몸과 피, 영혼과 신성으로 본질적(실체적)으로 변화한다(화체설).
+2. 십자가의 구원 제사와 제대 위에서 거행되는 미사의 제사는 본질적으로 단일하고 동일한 제사이다.
+
+## 부정 (Negates)   가장 중요
+1. 성체 안의 그리스도의 현존은 단순히 상징적이거나 영적인 것에 불과하다.
+2. 축성 후에도 빵과 포도주의 실체가 그리스도의 몸과 피와 함께 남아 있다(공재설).
 
 ---
 
-# CCC-1422_1498 The Sacrament of Penance and the Power of Absolution
+# CCC-1422_1498  고해성사와 사죄권
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | CCC-1422_1498 |
-| **Source** | Catechism of the Catholic Church |
-| **Article** | 1422-1498 |
-| **Dogmatic Tier** | De Fide Definita |
-| **Infallibility** | 🟡 Authoritative |
-| **Anathema** | No |
-| **Year** | 1992 |
+| **출처** | 가톨릭 교회 교리서 |
+| **조항** | 1422-1498항 |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🟡 권위적 (개정 가능) |
+| **파문(Anathema)** | 아니오 |
+| **연도** | 1992 |
 
-## Original Text (Summary)
-> Mortal sins committed after Baptism can only be forgiven through the Sacrament of Penance. The priest has the divine authority to remit sins acting in the person of Christ, and the penitent must undergo contrition, confession, and satisfaction (penance).
+## 원문 (요약)
+> 세례 받은 이후 지은 대죄는 고해성사를 통해서만 사함 받을 수 있다. 사제는 그리스도를 대리하여 죄를 사하는 신적 권한을 지니며, 참회자는 통회, 죄의 고백, 그리고 보속의 단계를 거쳐야 한다.
 
-## Claims — ⚠️ Most Important
-1. To obtain forgiveness for mortal sins committed after Baptism, the Sacrament of Penance (confessing to a priest and receiving absolution) is essential.
-2. An ordained priest possesses the divine authority to remit the sins of the faithful, acting as Christ's representative.
-3. For the remission of sins, the penitent must not only confess but also perform appropriate satisfaction (penance).
+## 태그
+`성사론`, `고해성사`, `사죄권`
 
-## Negates — ⚠️ Most Important
-1. A believer who commits mortal sin can fully restore saving grace simply by confessing directly to God without the priest's absolution.
-2. Priests have no authority to forgive sins, and the Sacrament of Penance is merely a human institution.
+## 주장 (Claims)   가장 중요
+1. 세례 이후 지은 대죄를 용서받기 위해서는 사제에게 고백하고 사죄경을 받는 고해성사가 필수적이다.
+2. 서품받은 사제는 그리스도를 대리하여 신자들의 죄를 사면할 수 있는 신적 권한을 가진다.
+3. 죄의 용서를 위해 참회자는 죄를 고백할 뿐만 아니라, 적절한 보속(행위)을 완수해야 한다.
+
+## 부정 (Negates)   가장 중요
+1. 대죄를 지은 신자가 사제의 사죄 없이 하느님께 직접 고백하는 것만으로 구원의 은총을 온전히 회복할 수 있다.
+2. 사제에게는 죄를 사할 권한이 없으며, 고해성사는 인간이 만든 제도에 불과하다.
 
 ---
 
-# CCC-1030_1032 Purgatory
+# CCC-1030_1032  연옥 (Purgatorium)
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | CCC-1030_1032 |
-| **Source** | Catechism of the Catholic Church |
-| **Article** | 1030-1032 |
-| **Dogmatic Tier** | De Fide Definita |
-| **Infallibility** | 🟡 Authoritative |
-| **Anathema** | No |
-| **Year** | 1992 |
+| **출처** | 가톨릭 교회 교리서 |
+| **조항** | 1030-1032항 |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🟡 권위적 (개정 가능) |
+| **파문(Anathema)** | 아니오 |
+| **연도** | 1992 |
 
-## Original Text (Summary)
-> Those who die in God's grace and friendship but are still imperfectly purified must undergo purification in purgatory before entering the joy of heaven. The prayers and Masses of the earthly Church can assist the souls in purgatory in their purification.
+## 원문 (요약)
+> 하느님의 은총과 사랑 안에서 죽었으나 완전히 정화되지 않은 영혼들은 천국의 기쁨에 들기 전 연옥에서 정화의 과정을 거쳐야 한다. 지상 교회의 기도와 미사 봉헌은 연옥 영혼들의 정화를 도울 수 있다.
 
-## Claims — ⚠️ Most Important
-1. Souls dying in a state of grace but not fully purified must undergo purification in purgatory before entering heaven.
-2. Prayers, Masses, and almsgiving by living believers can alleviate the sufferings and aid the purification of souls in purgatory.
+## 태그
+`종말론`, `연옥`, `죽은 이를 위한 기도`
 
-## Negates — ⚠️ Most Important
-1. Immediately after death, souls go straight to heaven or hell, and no intermediate state of purification like purgatory exists.
-2. Prayers or acts of satisfaction for the dead have no effect on them.
+## 주장 (Claims)   가장 중요
+1. 은총 상태에서 죽었지만 완전히 정화되지 않은 영혼들은 천국에 들어가기 전 연옥에서 정화를 거쳐야 한다.
+2. 살아있는 신자들의 기도와 미사 봉헌, 자선은 연옥에 있는 영혼들의 고통을 줄이고 정화를 도울 수 있다.
+
+## 부정 (Negates)   가장 중요
+1. 죽은 직후 영혼은 오직 천국 아니면 지옥으로 직행하며 연옥과 같은 중간 정화 상태는 존재하지 않는다.
+2. 죽은 자를 위한 기도나 속죄 행위는 죽은 자에게 아무런 효력을 미치지 못한다.
 
 ---
 
-# CCC-1471_1479 Indulgences
+# CCC-1471_1479  대사 (면죄부, Indulgentia)
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | CCC-1471_1479 |
-| **Source** | Catechism of the Catholic Church |
-| **Article** | 1471-1479 |
-| **Dogmatic Tier** | Sententia Certa |
-| **Infallibility** | 🟡 Authoritative |
-| **Anathema** | No |
-| **Year** | 1992 |
+| **출처** | 가톨릭 교회 교리서 |
+| **조항** | 1471-1479항 |
+| **교의 등급** | Sententia Certa |
+| **무류 여부** | 🟡 권위적 (개정 가능) |
+| **파문(Anathema)** | 아니오 |
+| **연도** | 1992 |
 
-## Original Text (Summary)
-> An indulgence is a remission before God of the temporal punishment due to sins whose guilt has already been forgiven, which the Church grants by applying the infinite treasury of the merits of Christ and the saints. Indulgences can be applied to the living or the dead.
+## 원문 (요약)
+> 대사는 죄책이 이미 용서된 죄에 대하여 이승이나 연옥에서 치러야 할 잠벌(시간적 벌)을 교회가 면제해 주는 것이다. 교회는 그리스도와 성인들의 무한한 공로 보화를 관리하며, 대사는 산 이와 죽은 이 모두에게 적용될 수 있다.
 
-## Claims — ⚠️ Most Important
-1. Even after the guilt of sin is forgiven in Penance, 'temporal punishment' remains, which must be suffered in this life or in purgatory.
-2. The Church manages the spiritual treasury of the merits of Christ and the saints, and has the authority to remit temporal punishment through indulgences.
-3. Living believers can obtain indulgences and apply them to the souls in purgatory.
+## 태그
+`성사론`, `대사`, `잠벌`, `공로의 보화`
 
-## Negates — ⚠️ Most Important
-1. Forgiveness of sin (confession) simultaneously and completely remits all punishment (including temporal) due to that sin.
-2. The Church has no authority to distribute the treasury of merits of Christ and the saints to other believers or the dead.
+## 주장 (Claims)   가장 중요
+1. 고해성사로 죄책이 용서된 후에도 죄로 인한 '잠벌'이 남아 있으며, 이는 이승이나 연옥에서 치러야 한다.
+2. 교회는 그리스도와 성인들의 영적 보화를 관리하며, 대사(면벌)를 통해 신자들의 잠벌을 면제해 줄 권한이 있다.
+3. 살아있는 신자들은 대사를 얻어 연옥에 있는 영혼들에게 양도할 수 있다.
+
+## 부정 (Negates)   가장 중요
+1. 죄의 용서(고해)와 동시에 그 죄로 인한 모든 벌(잠벌 포함)이 완전히 단번에 사면된다.
+2. 교회는 그리스도와 성인들의 공로 보화를 다른 신자나 죽은 자에게 나누어 줄 권한이 없다.

@@ -1,24 +1,34 @@
-# VATICAN2-GS — Gaudium et Spes (Pastoral Constitution)
+---
+id: "catholic-doctrine_db-069"
+title_ko: "VATICAN2-GS — Gaudium et Spes (사목 헌장)"
+file_ko: "GAUDIUM_ET_SPES.md"
+file_en: "GAUDIUM_ET_SPES.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# VATICAN2-GS — Gaudium et Spes (사목 헌장)
 
-| Item | Details |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | VATICAN2-GS |
-| **Source** | Second Vatican Council |
-| **Article** | Gaudium et Spes |
-| **Dogmatic Rank** | Pastoral |
-| **Infallibility** | 🟢 Pastoral |
-| **Anathema** | No |
-| **Year** | 1965 |
+| **출처** | 제2차 바티칸 공의회 |
+| **조항** | Gaudium et Spes |
+| **교의 등급** | Pastoral |
+| **무류 여부** | 🟢 사목적 |
+| **파문(Anathema)** | 아니오 |
+| **연도** | 1965 |
 
-## Original Text (Summary)
-> "The joys and the hopes," the griefs and the anxieties of the men of this age, are the joys and hopes, the griefs and anxieties of the followers of Christ. The Church, instead of holding the world in enmity, must stand in solidarity, cooperating in the advancement of human rights, peace, social justice, and the dignity of man.
+## 원문 (요약)
+> "기쁨과 희망", 현대 세계의 슬픔과 번뇌는 곧 교회의 슬픔과 번뇌이다. 교회는 세상을 적대시하는 대신 연대하며 인권, 평화, 사회 정의, 인간의 존엄성을 증진하는 데 협력해야 한다.
 
-## Tags
-`Modern World`, `Social Justice`, `Human Rights`
+## 태그
+`현대 세계`, `사회 정의`, `인권`
 
-## Claims
-1. The Church must not remain in a ghetto separated from the secular world, but rather actively stand in solidarity with and minister unto the afflictions of the modern world.
-2. To defend all human life and dignity, human rights, and peace is a weighty mission of the Church.
+## 주장 (Claims)
+1. 교회는 세속 사회와 분리된 게토(Ghetto)에 머무는 것이 아니라, 현대 세계의 문제들에 적극적으로 연대하고 봉사해야 한다.
+2. 모든 인간 생명과 존엄성, 인권, 평화를 옹호하는 것은 교회의 중요한 사명이다.
 
-## Negates
-1. That the Church ought not to meddle in secular politics, society, or human rights, but focus solely on the spiritual salvation of the world to come.
+## 부정 (Negates)
+1. 교회는 세속 정치, 사회, 인권 문제에 개입하지 말고 오직 영적인 사후 세계의 구원에만 집중해야 한다.

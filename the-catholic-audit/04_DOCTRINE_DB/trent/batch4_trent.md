@@ -1,228 +1,238 @@
-# TRENT-S05 Decree on Original Sin
+---
+id: "catholic-doctrine_db-058"
+title_ko: "TRENT-S05  원죄 교령"
+file_ko: "batch4_trent.md"
+file_en: "batch4_trent.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# TRENT-S05  원죄 교령
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S05 |
-| **Source** | Council of Trent, Session 5 |
-| **Article** | Decree concerning Original Sin (Canons 1-5) |
-| **Dogmatic Grade** | De Fide Definita |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1546 |
+| **출처** | 트렌트 공의회 5차 회기 |
+| **조항** | 원죄에 관한 교령 (Canons 1-5) |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1546 |
 
-## Original Text (Summary)
-> By the fall of Adam, death and original sin entered into mankind, and this original sin is transmitted by propagation, not by imitation. Original sin is remitted solely by baptism through the merits of Jesus Christ, and even infants must be baptized for the remission of original sin. Whosoever denieth this is anathematized.
+## 원문 (요약)
+> 아담의 타락으로 인류에게 죽음과 원죄가 들어왔으며, 이 원죄는 모방이 아니라 번식을 통해 유전된다. 원죄는 유일하게 예수 그리스도의 공로를 통한 세례로만 사해지며, 갓난아기들도 원죄 사함을 위해 세례를 받아야 한다. 이를 부인하는 자는 파문한다.
 
-## Tags
-`Original Sin`, `Baptism`, `Infant Baptism`
+## 태그
+`원죄`, `세례`, `영아세례`
 
-## Claims (Most Important)
-1. The original sin of Adam is transmitted to all mankind without exception through propagation (descent), save Mary.
-2. Baptism completely remitteth the guilt of original sin, and even infants must needs be baptized for the remission of original sin.
+## 주장 (Claims)   가장 중요
+1. 아담의 원죄는 혈통(번식)을 통해 모든 인류에게 예외 없이 전수된다(마리아 제외).
+2. 세례는 원죄의 죄책을 완전히 사면하며, 영아들도 원죄를 씻기 위해 세례가 필수적이다.
 
-## Negates (Most Important)
-1. Adam's sin injured himself alone and was not passed down to his posterity.
-2. Infant baptism is invalid and unnecessary (condemnation of Anabaptists).
+## 부정 (Negates)   가장 중요
+1. 아담의 죄는 그 자신만 해쳤을 뿐, 후손들에게 유전되지 않았다.
+2. 영아 세례는 무효하며 불필요하다(재세례파 단죄).
 
 ---
 
-# TRENT-S06 Decree on Justification
+# TRENT-S06  칭의(의화) 교령
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S06 |
-| **Source** | Council of Trent, Session 6 |
-| **Article** | Decree on Justification (Canons 1-33) |
-| **Dogmatic Grade** | De Fide Definita |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1547 |
+| **출처** | 트렌트 공의회 6차 회기 |
+| **조항** | 칭의에 관한 교령 (Canons 1-33) |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1547 |
 
-## Original Text (Summary)
-> Justification includeth the remission of sins and the inward sanctification. Man must cooperate with God's prevenient grace by his free will, and the proposition that man is justified 'by faith alone (Sola Fide)' is rejected. The justified believer can earn the merit of eternal life through good works.
+## 원문 (요약)
+> 칭의는 죄의 사면과 함께 내적 성화를 포함한다. 인간은 선행하는 하느님의 은총에 자유의지로 협력해야 하며, '오직 믿음만으로(Sola Fide)' 의롭게 된다는 주장을 배척한다. 칭의를 얻은 신자는 선행으로 영생의 공로를 얻을 수 있다.
 
-## Tags
-`Justification`, `Grace`, `Merit`, `Counter-Reformation`
+## 태그
+`칭의`, `은총`, `공로`, `반종교개혁`
 
-## Claims (Most Important)
-1. Justification is attained through the cooperation of God's grace and man's free will.
-2. The justified man, by keeping the commandments and doing good works, layeth up true spiritual merit and earneth the right to eternal life.
-3. Justification is not merely God covering sins, but an inward renewal of human nature.
+## 주장 (Claims)   가장 중요
+1. 칭의는 하느님의 은총과 인간의 자유의지의 협력을 통해 성취된다.
+2. 의롭게 된 자는 계명을 지키고 선행을 실천함으로써 진정한 영적 공로를 쌓고 영생을 얻을 권리를 얻는다.
+3. 칭의는 단지 하느님이 죄를 덮어주시는 것이 아니라 인간 본성이 내적으로 쇄신되는 것이다.
 
-## Negates (Most Important)
-1. Man is justified by faith alone (Sola Fide), or good works are irrelevant to salvation.
-2. Man's free will was utterly destroyed by sin and is merely passive to grace.
-3. A righteous man once saved can never lose grace (denial of eternal security).
+## 부정 (Negates)   가장 중요
+1. 인간은 오직 믿음만으로 의롭게 된다(Sola Fide)고 말하거나, 선행은 구원과 무관하다.
+2. 인간의 자유의지는 죄로 인해 완전히 파괴되어 은총에 수동적일 뿐이다.
+3. 한 번 구원받은 의인은 절대 은총을 잃지 않는다(구원의 항구적 보장 부정).
 
 ---
 
-# TRENT-S07 Sacraments in General and Baptism
+# TRENT-S07  성사 일반과 세례
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S07 |
-| **Source** | Council of Trent, Session 7 |
-| **Article** | Sacraments and Baptism (Canons 1-14) |
-| **Dogmatic Grade** | De Fide Definita |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1547 |
+| **출처** | 트렌트 공의회 7차 회기 |
+| **조항** | 성사 및 세례 (Canons 1-14) |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1547 |
 
-## Original Text (Summary)
-> The sacraments of the New Testament are 7 (Baptism, Confirmation, Eucharist, Penance, Extreme Unction, Holy Orders, Matrimony) directly instituted by Jesus Christ, and these sacraments are not mere signs of grace but truly confer the grace of salvation by the act performed (ex opere operato).
+## 원문 (요약)
+> 신약의 성사는 예수 그리스도께서 직접 제정하신 7가지(세례, 견진, 성체, 고해, 병자, 신품, 혼인)이며, 이 성사들은 단지 은총의 상징이 아니라 사효적(ex opere operato)으로 구원의 은총을 실제로 수여한다.
 
-## Tags
-`Sacramental Theology`, `7 Sacraments`, `Ex Opere Operato`
+## 태그
+`성사론`, `7성사`, `사효성`
 
-## Claims (Most Important)
-1. All 7 sacraments of the Catholic Church were directly instituted by Jesus Christ.
-2. The sacraments do not depend solely on the faith of the receiver, but through the act performed (ex opere operato) they confer grace when the proper form is observed.
-3. Baptism, Confirmation, and Holy Orders imprint an indelible mark upon the soul.
+## 주장 (Claims)   가장 중요
+1. 가톨릭 교회의 7성사는 모두 예수 그리스도께서 직접 제정하셨다.
+2. 성사는 수령자의 믿음에만 의존하지 않고, 합당한 절차를 거치면 성사 자체의 행위로 은총을 부여한다(사효론).
+3. 세례, 견진, 신품 성사는 영혼에 지울 수 없는 인호를 남긴다.
 
-## Negates (Most Important)
-1. There are not 7 sacraments, or they were arbitrarily invented by the Church.
-2. Sacraments are merely outward signs to stir up faith and cannot confer saving grace.
+## 부정 (Negates)   가장 중요
+1. 성사는 7개가 아니거나 교회가 임의로 만들어낸 것이다.
+2. 성사는 단지 믿음을 북돋기 위한 외적 표징일 뿐 구원 은총을 수여하지 못한다.
 
 ---
 
-# TRENT-S13 The Eucharist and Transubstantiation
+# TRENT-S13  성체성사와 화체설
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S13 |
-| **Source** | Council of Trent, Session 13 |
-| **Article** | Decree on the Most Holy Eucharist (Canons 1-11) |
-| **Dogmatic Grade** | De Fide Definita |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1551 |
+| **출처** | 트렌트 공의회 13차 회기 |
+| **조항** | 성체에 관한 교령 (Canons 1-11) |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1551 |
 
-## Original Text (Summary)
-> In the Eucharist, the body and blood, soul and divinity of our Lord Jesus Christ are truly, really, and substantially present. It is most fitting to call the conversion of the whole substance of bread and wine into the substance of Christ 'transubstantiation'.
+## 원문 (요약)
+> 성체 안에는 우리 주 예수 그리스도의 몸과 피, 영혼과 신성이 참으로, 실재적으로, 실체적으로 현존한다. 빵과 포도주 전체가 그리스도의 실체로 변화하는 것을 '화체'라고 부르는 것은 가장 적절하다.
 
-## Tags
-`Eucharist`, `Transubstantiation`, `Substantial Conversion`
+## 태그
+`성체`, `화체설`, `실체변화`
 
-## Claims (Most Important)
-1. In the consecrated host and the precious blood, the whole Christ is truly, really, and substantially present.
-2. The dogma of 'transubstantiation', whereby the substance of bread and wine is entirely changed into the body and blood of Christ, is the true Catholic faith.
-3. Beneath the species of bread, none of the substance of bread remaineth.
+## 주장 (Claims)   가장 중요
+1. 축성된 성체와 성혈 안에는 그리스도 전체가 참되고 실재하며 실체적으로 현존한다.
+2. 빵과 포도주의 본질(실체)이 완전히 그리스도의 몸과 피로 변하는 '화체설'은 참된 가톨릭 신앙이다.
+3. 빵의 형상 아래에 빵의 실체는 전혀 남아있지 않다.
 
-## Negates (Most Important)
-1. The presence in the Eucharist is merely a sign, figure, or spiritual influence (refutation of Zwingli/Calvin).
-2. The substance of bread remaineth alongside the body of Christ in the Eucharist (consubstantiation, refutation of Luther).
+## 부정 (Negates)   가장 중요
+1. 성체 안의 현존은 표징이나 상징, 혹은 영적인 영향력에 불과하다(츠빙글리/칼뱅 반박).
+2. 성체 안에 그리스도의 몸과 함께 빵의 실체도 그대로 남아 있다(공재설, 루터 반박).
 
 ---
 
-# TRENT-S14 The Sacraments of Penance and Extreme Unction
+# TRENT-S14  고해성사와 병자성사
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S14 |
-| **Source** | Council of Trent, Session 14 |
-| **Article** | Sacrament of Penance (Canons 1-15) |
-| **Dogmatic Grade** | De Fide Definita |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1551 |
+| **출처** | 트렌트 공의회 14차 회기 |
+| **조항** | 고해성사 (Canons 1-15) |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1551 |
 
-## Original Text (Summary)
-> The sacrament of Penance is a true sacrament of remission of sins instituted by the Lord for the salvation of those who have fallen after baptism. The faithful must necessarily confess to a priest in secret all mortal sins committed after baptism, by kind and number.
+## 원문 (요약)
+> 고해성사는 세례 이후 타락한 자들의 구원을 위해 주님이 제정하신 참된 성사이다. 신자들은 세례 후 지은 대죄에 대해 종류와 횟수 등을 반드시 사제에게 구두로 은밀히 고백해야 한다.
 
-## Tags
-`Sacrament of Penance`, `Contrition`, `Secret Confession`
+## 태그
+`고해성사`, `참회`, `비밀고해`
 
-## Claims (Most Important)
-1. The sacrament of Penance is a true sacrament of remission of sins instituted by Christ Himself.
-2. For salvation, it is necessary by divine law to confess secretly to a priest all mortal sins committed after baptism, by kind and number.
-3. The priest's absolution is not a mere declaration, but a judicial act pronounced as a judge.
+## 주장 (Claims)   가장 중요
+1. 고해성사는 그리스도께서 직접 제정하신 죄 사함의 참된 성사이다.
+2. 구원을 위해서는 세례 후 지은 모든 대죄를 사제에게 구두로 은밀하게 고백하는 것이 신법으로 필수적이다.
+3. 사제의 사죄 선언은 단순한 선포가 아니라 재판관으로서 내리는 사법적 행위이다.
 
-## Negates (Most Important)
-1. The sacrament of Penance is not a sacrament but a human tradition devised by the Church for oppression.
-2. It is sufficient to confess sins directly to God without confessing them individually to a priest.
+## 부정 (Negates)   가장 중요
+1. 고해성사는 성사가 아니라 교회가 억압을 위해 고안한 인간적 전통이다.
+2. 죄를 사제에게 낱낱이 고백하지 않고 하느님께 직접 고백하는 것만으로 충분하다.
 
 ---
 
-# TRENT-S22 The Holy Sacrifice of the Mass
+# TRENT-S22  미사의 거룩한 제사
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S22 |
-| **Source** | Council of Trent, Session 22 |
-| **Article** | Sacrifice of the Mass (Canons 1-9) |
-| **Dogmatic Grade** | De Fide Definita |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1562 |
+| **출처** | 트렌트 공의회 22차 회기 |
+| **조항** | 미사의 제사 (Canons 1-9) |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1562 |
 
-## Original Text (Summary)
-> The Mass is a true and proper sacrifice that re-presenteth the sacrifice of the cross. It is not merely a sacrifice of praise and thanksgiving, but a propitiatory sacrifice for sins, and it can be offered for the living and the dead.
+## 원문 (요약)
+> 미사는 십자가 제사를 재현하는 참되고 고유한 제사이다. 이는 단순히 찬양과 감사의 희생제물이 아니라 죄를 속죄하는 제사이며, 산 이와 죽은 이를 위해 봉헌될 수 있다.
 
-## Tags
-`Mass`, `Sacrifice`, `Propitiatory Sacrifice`
+## 태그
+`미사`, `제사`, `속죄제사`
 
-## Claims (Most Important)
-1. The Mass is a true and proper sacrifice of salvation that sacramentally re-presenteth the sacrifice of the cross.
-2. The Mass can be validly offered not only for the living faithful but also to purge the temporal punishments of the souls of the dead in purgatory.
+## 주장 (Claims)   가장 중요
+1. 미사는 십자가의 속죄 제사를 성사적으로 재현하는 진정한 구원의 제사이다.
+2. 미사는 살아있는 신자뿐만 아니라 연옥에 있는 죽은 영혼들의 죄벌을 씻기 위해서도 유효하게 바쳐질 수 있다.
 
-## Negates (Most Important)
-1. The Mass is merely a memorial of the sacrifice of the cross, not a sacrifice possessing the power to remit sins.
-2. Christ offered His sacrifice once and for all upon the cross; thus, to call the Mass a sacrifice is a blasphemy against the uniqueness of the cross.
+## 부정 (Negates)   가장 중요
+1. 미사는 단지 십자가 제사의 기념일 뿐, 죄를 사하는 능력이 있는 제사가 아니다.
+2. 그리스도는 십자가에서 단 한 번 제사를 드렸으므로, 미사를 제사로 부르는 것은 십자가의 유일성을 모독하는 것이다.
 
 ---
 
-# TRENT-S24 The Sacrament of Matrimony
+# TRENT-S24  혼인성사
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S24 |
-| **Source** | Council of Trent, Session 24 |
-| **Article** | Matrimony (Canons 1-12) |
-| **Dogmatic Grade** | De Fide Definita |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1563 |
+| **출처** | 트렌트 공의회 24차 회기 |
+| **조항** | 혼인 (Canons 1-12) |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1563 |
 
-## Original Text (Summary)
-> Matrimony is one of the true 7 sacraments conferring the grace of the Gospel. Matrimony in the New Testament is indissoluble, and the Church hath the right to establish diriment impediments to matrimony.
+## 원문 (요약)
+> 혼인은 복음의 은총을 수여하는 참된 7성사 중 하나이다. 신약의 혼인은 분해될 수 없으며(불가해소성), 교회는 혼인 무효 장애를 제정할 권리를 가진다.
 
-## Tags
-`Sacrament of Matrimony`, `Indissolubility`
+## 태그
+`혼인성사`, `불가해소성`
 
-## Claims (Most Important)
-1. Matrimony among Christians is one of the true 7 sacraments conferring grace.
-2. A validly contracted sacramental marriage can never be dissolved for any reason (including adultery) before the death of one of the spouses.
+## 주장 (Claims)   가장 중요
+1. 그리스도교 신자 사이의 혼인은 은총을 수여하는 참된 성사이다.
+2. 합법적으로 성립된 성사적 혼인은 배우자 중 한 명이 죽기 전까지 어떤 이유(간음 포함)로도 절대 해소될 수 없다.
 
-## Negates (Most Important)
-1. The bond of matrimony can be broken by adultery or other causes, and remarriage after divorce is permitted.
-2. Matrimony is merely a secular contract and not a sacrament.
+## 부정 (Negates)   가장 중요
+1. 간음이나 기타 사유로 혼인 유대가 끊어질 수 있으며, 이혼 후 재혼이 허용된다.
+2. 혼인은 단지 세속적인 계약일 뿐 성사가 아니다.
 
 ---
 
-# TRENT-S25 Purgatory, the Invocation of Saints, and Indulgences
+# TRENT-S25  연옥, 성인 공경, 대사
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S25 |
-| **Source** | Council of Trent, Session 25 |
-| **Article** | Decree on Purgatory, Invocation of Saints, and Indulgences |
-| **Dogmatic Grade** | De Fide Definita |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1563 |
+| **출처** | 트렌트 공의회 25차 회기 |
+| **조항** | 연옥, 성인 공경, 대사 교령 |
+| **교의 등급** | De Fide Definita |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1563 |
 
-## Original Text (Summary)
-> Purgatory existeth, and the souls therein are assisted by the prayers of the living faithful. It is proper to venerate the saints, their relics, and sacred images. Furthermore, the Church hath the authority to grant indulgences which remit the temporal punishment of the faithful.
+## 원문 (요약)
+> 연옥은 존재하며 살아있는 신자들의 기도로 도움을 받는다. 성인과 그들의 성유물, 성화를 공경하는 것은 정당하다. 또한 교회에는 신자들의 잠벌을 면제해 주는 대사(면죄부)를 수여할 권한이 있다.
 
-## Tags
-`Purgatory`, `Veneration of Saints`, `Sacred Images`, `Indulgences`
+## 태그
+`연옥`, `성인 공경`, `성화`, `대사`
 
-## Claims (Most Important)
-1. Purgatory existeth, and the souls in purgatory can be helped by the suffrages (Masses and prayers) of the living.
-2. It is proper to venerate the saints, their relics, and sacred images in the churches.
-3. The power to grant indulgences, which remit the temporal punishment of the faithful, belongeth to the Church and cometh from Christ.
+## 주장 (Claims)   가장 중요
+1. 연옥은 존재하며 연옥 영혼들은 미사와 기도의 도움을 받을 수 있다.
+2. 그리스도와 성모, 성인들의 형상(성화/성상)을 성당에 모시고 공경하는 것은 합당하다.
+3. 대사를 수여하는 교회의 권한은 그리스도께로부터 온 것이며 신자들에게 유익하다.
 
-## Negates (Most Important)
-1. Purgatory doth not exist, and prayers for the dead are vain.
-2. The veneration of images or statues is idolatry.
-3. The issuing of indulgences by the Church is a deception and hath no spiritual efficacy.
+## 부정 (Negates)   가장 중요
+1. 연옥은 존재하지 않으며 죽은 이를 위한 기도는 쓸모없다.
+2. 성화나 성상 공경은 우상숭배에 해당한다.
+3. 교회가 대사(면죄부)를 발급하는 것은 속임수이며 아무런 영적 효과가 없다.

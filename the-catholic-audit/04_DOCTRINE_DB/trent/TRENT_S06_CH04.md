@@ -1,34 +1,44 @@
-# TRENT-S06-CH04 — Baptism of Desire (Votum Baptismi)
+---
+id: "catholic-doctrine_db-061"
+title_ko: "TRENT-S06-CH04 — 세례의 열망(Votum Baptismi)"
+file_ko: "TRENT_S06_CH04.md"
+file_en: "TRENT_S06_CH04.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# TRENT-S06-CH04 — 세례의 열망(Votum Baptismi)
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S06-CH04 |
-| **Source** | Council of Trent (Concilium Tridentinum) |
-| **Article** | Session 6, Decree on Justification, Chapter 4 |
-| **Dogmatic Grade** | Sententia Certa |
-| **Anathema** | ❌ No |
-| **Year** | 1547 |
+| **출처** | 트렌트 공의회 (Concilium Tridentinum) |
+| **조항** | 제6차 회기, 의화에 관한 교령, 제4장 |
+| **교의 등급** | Sententia Certa |
+| **파문(Anathema)** | ❌ 아니오 |
+| **연도** | 1547 |
 
-## Original Text (Summary)
-> "Since the promulgation of the Gospel, this translation (translatio) to justification cannot be effected without the laver of regeneration [baptism] or the desire (votum) thereof. As it is written, 'Unless a man be born again of water and the Holy Ghost, he cannot enter into the kingdom of God' (John 3:5)."
+## 원문 (요약)
+> "복음이 공포된 이래 의화로의 전이(translatio)는 재생의 씻음[세례] 또는 그에 대한 열망(votum) 없이는 이루어질 수 없다. '누구든지 물과 성령으로 다시 태어나지 않으면 하느님의 나라에 들어갈 수 없다'(요한 3:5)고 기록된 바와 같다."
 
-## Latin Original
+## 라틴어 원문
 > "...translationem... post Evangelium promulgatum sine lavacro regenerationis aut eius voto fieri non posse..."
 
-## Tags
-`Sacramental Theology`, `Baptism`, `Soteriology`, `Justification`, `sententia_certa`, `conditional`
+## 태그
+`성사론`, `세례`, `구원론`, `칭의`, `sententia_certa`, `조건부`
 
-## Claims
-1. Translation to justification is impossible without baptism or the desire for baptism (votum baptismi).
-2. Even when actual baptism cannot be received, justification is possible if there is a desire for baptism.
-3. This principle is applied to the age after the Gospel was promulgated.
-4. John 3:5 is the biblical foundation of this doctrine.
+## 주장 (Claims)
+1. 의화(칭의)로의 전이는 세례 또는 세례에 대한 열망(votum baptismi) 없이는 불가능하다
+2. 실제 세례를 받지 못한 경우에도 세례에 대한 열망이 있으면 의화가 가능하다
+3. 이 원리는 복음이 공포된 이후의 시대에 적용된다
+4. 요한 3:5은 이 교리의 성경적 근거이다
 
-## Negates
-1. The proposition that justification is possible without baptism or the desire for baptism.
-2. The proposition that baptism alone is the only means of justification, and desire cannot substitute (rigorism).
+## 부정 (Negates)
+1. 세례도 세례에 대한 열망도 없이 의화가 가능하다는 명제
+2. 세례만이 유일한 의화의 수단이며, 열망은 대체될 수 없다는 명제 (엄격주의)
 
-## Related Collisions
-- → TRENT-S07-C05 (Baptism is necessary — Canon 5 doth not explicitly mention baptism of desire)
-- → LG-16 (Extension to the possibility of salvation for those who know not Christ/the Church)
-- → CCC-1258, CCC-1259 (Baptism of desire and baptism of blood)
+## 관련 충돌
+- → TRENT-S07-C05 (세례 필수 — Canon 5는 열망 세례를 명시적으로 언급하지 않음)
+- → LG-16 (그리스도/교회를 모르는 이들의 구원 가능성까지 확장)
+- → CCC-1258, CCC-1259 (열망 세례와 혈세례)

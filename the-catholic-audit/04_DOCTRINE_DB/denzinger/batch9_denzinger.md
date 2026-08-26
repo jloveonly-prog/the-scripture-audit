@@ -1,51 +1,61 @@
-# DENZINGER-SYLLABUS Syllabus Errorum and the Denial of Religious Liberty
+---
+id: "catholic-doctrine_db-053"
+title_ko: "DENZINGER-SYLLABUS  Syllabus Errorum (오류표)와 종교 자유 부정"
+file_ko: "batch9_denzinger.md"
+file_en: "batch9_denzinger.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# DENZINGER-SYLLABUS  Syllabus Errorum (오류표)와 종교 자유 부정
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | DENZINGER-SYLLABUS |
-| **Source** | Pope Pius IX, Syllabus Errorum (DH 2803-2804) |
-| **Article** | Condemned Propositions 77, 78 |
-| **Dogmatic Grade** | Sententia Certa / De Fide (Infallibility controversy exists) |
-| **Infallibility** | 🔴 🟡 (Authoritative as an official papal condemnation within Catholicism) |
-| **Anathema** | Yes (Condemned as error) |
-| **Year** | 1864 |
+| **출처** | 비오 9세 교황, Syllabus Errorum (DH 2803-2804) |
+| **조항** | 단죄된 명제 77, 78항 |
+| **교의 등급** | Sententia Certa / De Fide (무류성 논쟁 존재) |
+| **무류 여부** | 🔴 🟡 (가톨릭 내에서 교황의 공식 단죄로 권위적임) |
+| **파문(Anathema)** | 예 (오류로 단죄) |
+| **연도** | 1864 |
 
-## Original Text (Summary)
-> The following propositions are condemned and proscribed: "In our time, there is no reason why the Catholic religion should be held as the only religion of the State", "It is praiseworthy that immigrants of other nations into Catholic countries should be allowed the public exercise of their own worship." That is, the public exercise of non-Catholic religions is opposed.
+## 원문 (요약)
+> 다음의 명제들은 단죄되고 배척된다: "우리 시대에 가톨릭 종교가 유일한 국가 종교로 간주되어야 할 이유가 없다", "이민족들이 가톨릭 국가로 이주해 올 때 그들의 공적 예배를 허용하는 것은 칭찬받을 만하다." 즉, 비가톨릭 종교의 공적 예배 허용을 반대함.
 
-## Tags
-`Syllabus of Errors`, `Opposition to Religious Liberty`, `State Religion`
+## 태그
+`오류표`, `종교 자유 반대`, `국교주의`
 
-## Claims (Most Important)
-1. In Catholic nations, the Catholic religion alone ought to enjoy an exclusive status as the sole religion of the State.
-2. Non-Catholics or followers of other religions dwelling in a Catholic State must not be granted the right to publicly exercise their religion.
+## 주장 (Claims)   가장 중요
+1. 가톨릭 국가에서 가톨릭 종교만이 유일한 국가 종교로서 배타적인 지위를 누려야 한다.
+2. 가톨릭 국가 내에 거주하는 비가톨릭 신자나 타종교인들에게 자신들의 종교를 공개적으로 예배할 권리를 허용해서는 안 된다.
 
-## Negates (Most Important)
-1. Every man hath the right to religious liberty, to choose and publicly exercise his religion according to his conscience (a perfect collision with the core tenet of Dignitatis Humanae of the Second Vatican Council).
+## 부정 (Negates)   가장 중요
+1. 모든 인간은 자신의 양심에 따라 종교를 선택하고 공적으로 예배할 수 있는 종교 자유의 권리를 가진다 (제2차 바티칸 공의회 Dignitatis Humanae의 핵심 주장과 완벽히 충돌).
 
 ---
 
-# DENZINGER-FEENEY Condemnation of Feeneyism and 'Baptism of Desire'
+# DENZINGER-FEENEY  Feeney주의 정죄와 '열망의 세례'
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | DENZINGER-FEENEY |
-| **Source** | Letter of the Holy Office (now the Dicastery for the Doctrine of the Faith) (DH 3866-3873) |
-| **Article** | Letter to the Archbishop of Boston |
-| **Dogmatic Grade** | Authoritative Magisterial Declaration |
-| **Infallibility** | 🟡 Authoritative |
-| **Anathema** | Excommunication of Fr. Feeney |
-| **Year** | 1949 |
+| **출처** | 성무성성(현 신앙교리부) 서한 (DH 3866-3873) |
+| **조항** | 보스턴 대주교에게 보낸 서한 |
+| **교의 등급** | 권위적 교도권 선언 |
+| **무류 여부** | 🟡 권위적 |
+| **파문(Anathema)** | 피니 신부 파문 |
+| **연도** | 1949 |
 
-## Original Text (Summary)
-> The doctrine that "outside the Church there is no salvation" is true, yet this doth not mean that only those visibly enrolled in the Catholic Church and baptized with water are saved. Even an 'unconscious or implicit desire (votum)' for the Church sufficeth to obtain the grace necessary for salvation.
+## 원문 (요약)
+> "교회 밖에는 구원이 없다"는 교리는 참되지만, 이것이 오직 가톨릭 교회에 가시적으로 등록되고 물의 세례를 받은 자만 구원받는다는 의미는 아니다. 교회를 향한 '무의식적이거나 암묵적인 열망(votum)'만으로도 구원에 필요한 은총을 얻을 수 있다.
 
-## Tags
-`Soteriology`, `Condemnation of Rigorism`, `Baptism of Desire`
+## 태그
+`구원론`, `엄격주의 정죄`, `열망의 세례`
 
-## Claims (Most Important)
-1. A man who hath not received visible baptism of water and is not outwardly enrolled in the Catholic Church may yet be saved if he hath a good conscience and an implicit desire directed toward God.
-2. The extreme rigorism of Feeneyism, which restricteth "no salvation outside the Church" solely to visible membership and water baptism, is heretical.
+## 주장 (Claims)   가장 중요
+1. 가시적인 물의 세례를 받지 않고 가톨릭 교회에 외적으로 등록되지 않은 사람도, 하느님을 향한 선한 양심과 암묵적 열망이 있다면 구원받을 수 있다.
+2. "교회 밖 구원 없음"을 오로지 가시적 교적과 수세(물의 세례)로만 한정하는 피니(Feeney)주의의 극단적 엄격주의는 이단적이다.
 
-## Negates (Most Important)
-1. An implicit desire or good conscience can by no means substitute for baptism, and one must unconditionally be within the visible Church to be saved (paradoxically contrasted with the rigorism of the Council of Florence).
+## 부정 (Negates)   가장 중요
+1. 암묵적인 열망이나 선한 양심만으로는 결코 세례를 대체할 수 없으며 무조건 가시적 교회 안에 있어야만 구원받는다 (역설적으로 피렌체 공의회의 엄격주의와 비교됨).

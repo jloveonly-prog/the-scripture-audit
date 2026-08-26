@@ -1,78 +1,88 @@
-# PAPAL-INEFF Ineffabilis Deus (The Immaculate Conception of the Virgin Mary)
+---
+id: "catholic-doctrine_db-055"
+title_ko: "PAPAL-INEFF  Ineffabilis Deus (원죄 없이 잉태되신 동정 마리아)"
+file_ko: "batch6_papal.md"
+file_en: "batch6_papal.md"
+category: "doctrine_db"
+status: "copied"
+source: "KO"
+updated: "2026-08-26"
+---
+# PAPAL-INEFF  Ineffabilis Deus (원죄 없이 잉태되신 동정 마리아)
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | PAPAL-INEFF |
-| **Source** | Pope Pius IX Bull Ineffabilis Deus |
-| **Article** | Dogmatic Definition of the Immaculate Conception |
-| **Dogmatic Grade** | De Fide Definita (Ex Cathedra) |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1854 |
+| **출처** | 비오 9세 교황 헌장 Ineffabilis Deus |
+| **조항** | 무염시태 교의 정의 선언문 |
+| **교의 등급** | De Fide Definita (Ex Cathedra) |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1854 |
 
-## Original Text (Summary)
-> The most Blessed Virgin Mary, in the first instant of her conception, by a singular grace and privilege of Almighty God, in view of the merits of Jesus Christ the Savior of mankind, was preserved free from all stain of original sin. This is a doctrine revealed by God.
+## 원문 (요약)
+> 복되신 동정 마리아는 그녀가 잉태되는 첫 순간부터 전능하신 하느님의 특별한 은총과 특전으로, 인류의 구세주 예수 그리스도의 예견된 공로로 말미암아 원죄의 온갖 물듦에서 면제되었다. 이는 하느님이 계시하신 교리이다.
 
-## Tags
-`Mariology`, `Immaculate Conception`, `Original Sin`
+## 태그
+`마리아론`, `무염시태`, `원죄`
 
-## Claims (Most Important)
-1. The Virgin Mary, from the very moment of her conception, was preserved from the stain of original sin by a special grace of God.
-2. Because this doctrine is a truth revealed by God, it must be firmly believed by all the faithful.
+## 주장 (Claims)   가장 중요
+1. 성모 마리아는 잉태되는 순간부터 하느님의 특별한 은총으로 원죄에 물들지 않고 보존되었다.
+2. 이 교리는 하느님에 의해 계시된 진리이므로 모든 신자가 확고하게 믿어야 한다.
 
-## Negates (Most Important)
-1. The Virgin Mary, even as all the rest of mankind, was conceived with original sin.
+## 부정 (Negates)   가장 중요
+1. 성모 마리아 역시 다른 모든 인류와 마찬가지로 원죄를 지니고 잉태되었다.
 
 ---
 
-# PAPAL-MUNIF Munificentissimus Deus (The Assumption of the Blessed Virgin)
+# PAPAL-MUNIF  Munificentissimus Deus (성모 몽소승천)
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | PAPAL-MUNIF |
-| **Source** | Pope Pius XII Bull Munificentissimus Deus |
-| **Article** | Dogmatic Definition of the Assumption |
-| **Dogmatic Grade** | De Fide Definita (Ex Cathedra) |
-| **Infallibility** | 🔴 Infallible (Inerrant) |
-| **Anathema** | Yes |
-| **Year** | 1950 |
+| **출처** | 비오 12세 교황 헌장 Munificentissimus Deus |
+| **조항** | 몽소승천 교의 정의 선언문 |
+| **교의 등급** | De Fide Definita (Ex Cathedra) |
+| **무류 여부** | 🔴 무류 (오류 불가) |
+| **파문(Anathema)** | 예 |
+| **연도** | 1950 |
 
-## Original Text (Summary)
-> We pronounce, declare, and define it to be a divinely revealed dogma: that the Immaculate Mother of God, the ever Virgin Mary, having completed the course of her earthly life, was assumed body and soul into heavenly glory.
+## 원문 (요약)
+> 원죄에 물들지 않은 평생 동정녀 하느님의 어머니 마리아가 지상 생애의 여정을 마친 다음, 그 영혼과 육신이 함께 하늘의 영광으로 올림을 받았다는 것은 하느님에 의해 계시된 교의임을 선언하고 정의한다.
 
-## Tags
-`Mariology`, `Assumption`, `Eschatology`
+## 태그
+`마리아론`, `몽소승천`, `종말론`
 
-## Claims (Most Important)
-1. The Virgin Mary, upon completing her earthly life, was taken up (assumed) into heaven in body and soul without suffering corruption of the flesh.
-2. Whosoever doth willfully deny or doubt this faith hath fallen away from the Catholic faith.
+## 주장 (Claims)   가장 중요
+1. 성모 마리아는 지상 생애를 마친 뒤 영혼과 함께 육신이 부패하지 않고 천국으로 승천(몽소승천)하였다.
+2. 이 신앙을 고의로 부인하거나 의심하는 자는 가톨릭 신앙에서 떨어져 나간 것이다.
 
-## Negates (Most Important)
-1. The body of Mary, after her earthly life, was buried in the grave and corrupted, and the resurrection of the flesh cometh to pass only at the end of the world.
+## 부정 (Negates)   가장 중요
+1. 마리아의 육신은 지상 생애 이후 무덤에 묻혀 썩어 없어졌으며, 육신의 부활은 세상 끝날에만 일어난다.
 
 ---
 
-# PAPAL-FRATELLI Fratelli Tutti and the Abolition of the Death Penalty (Revision of CCC 2267)
+# PAPAL-FRATELLI  Fratelli Tutti와 사형제 폐지 (CCC 2267 개정)
 
-| Item | Description |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | PAPAL-FRATELLI |
-| **Source** | Pope Francis Encyclical Fratelli Tutti / Revision of the Catechism |
-| **Article** | Encyclical 263-269 / CCC 2267 |
-| **Dogmatic Grade** | Sententia Communis / Pastoral Development |
-| **Infallibility** | 🟢 Pastoral (Yet received into the magisterium as a doctrinal determination) |
-| **Anathema** | No |
-| **Year** | 2018 (CCC Revision), 2020 (Encyclical) |
+| **출처** | 프란치스코 교황 회칙 Fratelli Tutti / 교리서 개정 |
+| **조항** | 회칙 263-269항 / CCC 2267항 |
+| **교의 등급** | Sententia Communis / Pastoral 발전 |
+| **무류 여부** | 🟢 사목적 (단, 교리적 확정으로 교도권에 수용됨) |
+| **파문(Anathema)** | 아니오 |
+| **연도** | 2018 (CCC 개정), 2020 (회칙) |
 
-## Original Text (Summary)
-> In times past, the death penalty was admitted as a means of safeguarding the common good; however, today, with an increasing awareness of the dignity of the person, the death penalty is "an attack on the inviolability and dignity of the person," and therefore it is inadmissible under any circumstance and must be completely abolished.
+## 원문 (요약)
+> 과거에는 사형 제도를 공동선 수호를 위한 수단으로 인정했으나, 오늘날에는 인간 존엄성에 대한 인식이 깊어짐에 따라 사형 제도는 "인간의 앗아갈 수 없는 존엄성에 대한 공격"이므로 어떠한 상황에서도 용납될 수 없고(inadmissible) 전면 폐지되어야 한다고 선언한다.
 
-## Tags
-`Death Penalty`, `Right to Life`, `Human Dignity`
+## 태그
+`사형제도`, `생명권`, `인간 존엄성`
 
-## Claims (Most Important)
-1. The death penalty executed by the State is an offense against human dignity from a modern perspective, and thus it cannot be justified and is inadmissible under any circumstance.
-2. The Catholic Church must labor resolutely for the worldwide abolition of the death penalty.
+## 주장 (Claims)   가장 중요
+1. 국가에 의한 사형 제도는 오늘날의 관점에서 인간 존엄성을 침해하는 것이므로 어떠한 상황에서도 정당화될 수 없고 용납되지 않는다(inadmissible).
+2. 가톨릭 교회는 전 세계적인 사형제 폐지를 위해 결연히 노력해야 한다.
 
-## Negates (Most Important)
-1. Legitimate State authority hath the right to lawfully put grave criminals to death for the sake of defending society (a denial of past traditional doctrine).
+## 부정 (Negates)   가장 중요
+1. 정당한 국가 권력은 중대한 범죄자를 사회 보호를 명목으로 합법적으로 사형에 처할 권리를 가진다(과거 전통 교리 부정).
