@@ -1,7 +1,7 @@
-# 🔬 SKILL-05: TYPE-E — Competing Models Exhaustive Rejection Pipeline
+# 🔬 SKILL-05: TYPE-E — Exhaustive Rejection Pipeline of Competing Models
 
-> **When to trigger**: When dealing with a conundrum where multiple interpretations compete, or when there is an attempt to dismiss it as a "transcription error."
-> **Core suspicion**: "Are there other possibilities besides the interpretation currently presented? Why are they rejected?"
+> **When to Trigger**: In dilemmas where multiple interpretations compete, or when attempts are made to treat it as a "scribal error".
+> **Core Doubt**: "Are there other possibilities besides the interpretation currently presented? Why are they rejected?"
 
 ---
 
@@ -9,86 +9,90 @@
 
 ```
 [STEP 1] List All Competing Models
-  → List all interpretation models attempting to explain the conundrum (at least 3 or more).
+  → List all interpretative models attempting to explain the dilemma (at least 3 or more).
   → | # | Model Name | Core Argument |
-  → ⚠️ Subject of the Verb Change Rule (Added in v1.1):
-     In conundrums dealing with the same verb/action, you MUST include at least one model that has a different **Subject** of the action. Even with the same verb, if the subject is different, it becomes a completely different interpretation.
-     Example: "shall follow" → (A) Peter physically follows, (B) Peter spiritually emulates, (C) All disciples follow — If the subject differs (Peter only vs. all disciples), they are separate models.
-  → 📌 Battle Record: SKILL-01 CIE Failure Case — Missed the 3rd interpretation by listing only 2 subjects of "scanning".
+  → ⚠️ Verb Subject Change Rule (Added in v1.1):
+     In dilemmas dealing with the same verb/action, models that vary the **Subject** of the action
+     MUST be included at least once. Even with the same verb, a different subject constitutes a completely different interpretation.
+     Example: "thou shalt follow" → (A) Peter follows physically, (B) Peter emulates spiritually,
+                        (C) All disciples follow — Different subjects (Peter alone vs all disciples) mean separate models.
+  → 📌 Battle Log: SKILL-01 CIE Failure Case — Listed only 2 subjects for "scanning", omitting the 3rd interpretation.
 
-[STEP 2] Detect Fatal Flaws in Each Model (Apply all 5 Validation Criteria)
-  Check the following for each model:
-  □ Textual Preservation: Can it be explained without modifying/deleting a single Bible verse?
-  □ Exhaustive Consistency: Does it align simultaneously with all related records?
-  □ Biological Plausibility: Are ages/durations within realistic numerical ranges?
-  □ Event Gap: Is there a gap in time/space to perform the necessary physical actions?
-  □ Mathematical Consistency: When reverse-calculated, does it match the third biblical figure?
+[STEP 2] Detect Fatal Flaws in Each Model (Apply all 5 verification criteria)
+  Verify the following for each model:
+  □ Textual Preservation: Can it be explained without altering/deleting a single verse of scripture?
+  □ Exhaustive Consistency: Does it align with all related records simultaneously?
+  □ Biological Plausibility: Are the age/duration within a realistic numerical range?
+  □ Event Gap: Does a time/space gap exist to perform the necessary physical actions?
+  □ Mathematical Consistency: When calculated backwards, does it match a third biblical figure?
 
-[STEP 3] Create a Rejection Table
+[STEP 3] Create Rejection Table
   → | Competing Model | Fatal Flaw | Survival Status |
-  → If there is even one fatal flaw, ❌ Rejected.
+  → If there is even one fatal flaw, ❌ Reject.
 
-[STEP 4] Adopt the Surviving Model and Exhaustive Cross-Validation
-  → Adopt the surviving model, substitute all related verses, and confirm exhaustive consistency as the final step.
+[STEP 4] Adopt Surviving Model and Exhaustive Cross-Verification
+  → Adopt the surviving model, and apply all related verses to finally confirm exhaustive consistency.
 ```
 
 ---
 
-## 📌 Reference Case: Crucifixion Day of the Week Validation
+## 📌 Reference Case: Crucifixion Day Verification
 
 ```
-[Competing Model List]:
+[List of Competing Models]:
 
   Model 1: Friday Crucifixion Theory
-  - Core Argument: Jesus was executed on Friday.
-  - Fatal Flaw: Friday to Sunday = Maximum 36~40 hours → Matt 12:40 "three days and three nights" (72 hours) not met ❌
+  - Core Argument: Jesus was crucified on Friday
+  - Fatal Flaw: Friday to Sunday = max 36-40 hours → Matt 12:40 "three days and three nights" (72 hours) unmet ❌
 
   Model 2: Thursday Crucifixion Theory
-  - Core Argument: Executed on Thursday → Friday is High Sabbath → Saturday is regular Sabbath.
-  - Fatal Flaw: The weekday (Friday) between the two Sabbaths disappears.
-    → Conflicts with Mark 16:1 record of "buying spices when the sabbath was past" (The weekday to buy spices is gone) ❌
+  - Core Argument: Thursday crucifixion → Friday high sabbath → Saturday regular sabbath
+  - Fatal Flaw: The weekday (Friday) between the two sabbaths disappears
+    → Conflicts with Mark 16:1 "when the sabbath was past, they had bought sweet spices" (the weekday to buy spices vanishes) ❌
 
   Model 3: Wednesday Crucifixion Theory
-  - Core Argument: Executed on Wednesday → Thursday is High Sabbath → Friday is spice purchase → Saturday is regular Sabbath → Sunday is resurrection.
-  - Textual Preservation: Explained without modifying any verses ✅
-  - Exhaustive Consistency: Mark 16:1, Luke 23:56, Matt 12:40 all met simultaneously ✅
-  - Mathematical Consistency: Wed to Sat = Exactly 72 hours (3 days and 3 nights) ✅
+  - Core Argument: Wednesday crucifixion → Thursday high sabbath → Friday spice purchase → Saturday regular sabbath → Sunday resurrection
+  - Textual Preservation: Explains without altering any verses ✅
+  - Exhaustive Consistency: Simultaneously satisfies Mark 16:1, Luke 23:56, Matt 12:40 ✅
+  - Mathematical Consistency: Wed~Sat = Exactly 72 hours (three days and three nights) ✅
 
-[Timeline Exhaustive Validation]:
-  Wednesday: Passover meal, then execution and burial
-  Thursday: High Sabbath (Passover special Sabbath)
-  Friday: Gap to buy spices (Meets Mark 16:1)
-  Saturday: Resting on the regular Sabbath (Meets Luke 23:56)
-  Sunday Dawn: Resurrection (Meets Matt 12:40 72 hours) ✅
+[Exhaustive Timeline Verification]:
+  Wednesday: Crucifixion and burial after the Passover meal
+  Thursday: High sabbath (Special Passover sabbath)
+  Friday: Spice purchase gap (Satisfies Mark 16:1)
+  Saturday: Rested on the regular sabbath (Satisfies Luke 23:56)
+  Sunday dawn: Resurrection (Satisfies Matt 12:40 72 hours) ✅
 
-[Adoption]: Wednesday Crucifixion Theory — The only surviving model that passed all 5 validations.
+[Adopted]: Wednesday Crucifixion Theory — The only surviving model to pass all 5 verifications
 ```
 
 ---
 
-## 📌 Reference Case 2: Peter's Martyrdom Location Competing Models Rejection
+## 📌 Reference Case 2: Rejection of Competing Models for Peter's Martyrdom Location
 
 ```
-[Competing Model List]:
+[List of Competing Models]:
 
   Model 1: Rome Martyrdom Theory
-  - Core Argument: Martyred in Rome according to early church tradition.
-  - Fatal Flaw: No biblical record of Peter visiting Rome. Tradition appears after 180 AD ❌
+  - Core Argument: Martyred in Rome according to early church tradition
+  - Fatal Flaw: Absolutely no biblical record of Peter visiting Rome. Traditions appear after AD 180 ❌
 
   Model 2: Babylon Martyrdom Theory
-  - Core Argument: Martyred while ministering in Babylon per 1 Peter 5:13.
-  - Fatal Flaw: Jonah typology (East to West return to Calvary) incomplete.
-    Stopping in Babylon destroys the typological structure ❌ (TYPE-F)
+  - Core Argument: Martyred while ministering in Babylon per 1 Peter 5:13
+  - Fatal Flaw: Jonah's type (East → Return to Calvary in the West) incomplete.
+    Stopping at Babylon destroys the typological structure ❌ (TYPE-F)
 
-  Model 3: Another Location in Jerusalem Theory
-  - Core Argument: Jerusalem, but a place other than Calvary.
-  - Fatal Flaw: The θέλω+ὅπου+ἀκολουθήσεις chain points to the exact location where Jesus died → Another location is impossible ❌ (TYPE-S+G)
+  Model 3: Alternative Jerusalem Location Theory
+  - Core Argument: In Jerusalem but a place other than Calvary
+  - Fatal Flaw: The θέλω+ὅπου+ἀκολουθήσεις (I will + whither + thou shalt follow) chain
+    Points to the exact place where Jesus died → No other location possible ❌ (TYPE-S+G)
 
-  Model 4: Location Unrecorded Theory
-  - Core Argument: Since the Bible did not record the location, it is unknown.
-  - Fatal Flaw: John 13:36 gave the location prophecy, and through Narrowing Pressure, only Calvary maintains exclusivity ❌ (TYPE-N)
+  Model 4: Unrecorded Location Theory
+  - Core Argument: Cannot be known because the scripture did not record the location
+  - Fatal Flaw: John 13:36 provided the location prophecy, and
+    Calvary alone maintains exclusivity through Narrowing Pressure ❌ (TYPE-N)
 
-[Adoption]: Calvary (Golgotha) Martyrdom Theory — The only surviving model.
+[Adopted]: Calvary (Golgotha) Martyrdom Theory — The only surviving model
 ```
 
-**Battle Log File**: `03_WAR_LOG/[F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md`
+**Battle Log File**: `03_WAR_LOG(전투기록)/[F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md`

@@ -1,60 +1,61 @@
 # 🔬 SKILL-03: TYPE-C — Functional/Spatial Category Separation Pipeline
 
-> **When to trigger**: When there is a multiple difference (10x, 100x) in the number of words that seem identical (e.g., stalls, horses).
-> **Core suspicion**: "Are the two numbers counting the same thing? Or are they counting different functions/scales/units?"
+> **When Activated**: When the number of seemingly identical words (e.g., stalls, horses) differs by a multiple (10x, 100x).
+> **Core Suspicion**: "Are the two numbers counting the same thing? Or are they counting different functions/scales/units?"
 
 ---
 
 ## Execution Steps
 
 ```
-[STEP 1] Ultra-Precise Comparison of KJV Original Prepositions/Grammar
-  → Place the KJV English originals of the two verses side by side, and definitely find the differences in prepositions (of/for/and).
-  → | Verse | KJV Original | Core Difference (Prepositions/Modifiers) |
+[STEP 1] Ultra-Precise Comparison of Prepositions/Grammar in the KJV Original Text
+  → Place the KJV original English texts of the two verses side by side, and necessarily find the differences in prepositions (of/for/and).
+  → | Verse | KJV Original Text | Core Difference (Prepositions/Modifiers) |
 
 [STEP 2] Functional Classification
-  → Define "What unit are the two numbers counting?" for each.
-  → Larger number = Total/Individual unit / Smaller number = Operational/Organizational unit
+  → Define respectively, "What unit are the two numbers counting?"
+  → Larger number = Overall/individual unit / Smaller number = Operational/organizational unit
 
-[STEP 3] Reverse Calculation Cross-Validation with a Third Biblical Figure
-  → Find a third number in related verses (e.g., 1,400 chariots, 12,000 horsemen).
-  → Mathematically reverse-calculate one of the two numbers from this third figure to prove consistency numerically.
-  → | Formula | Result | Matches Biblical Figure? |
+[STEP 3] Reverse Calculation Cross-Verification using a Third Biblical Figure
+  → Find a third number (e.g., 1,400 chariots, 12,000 horsemen) from related verses.
+  → From this third figure, mathematically reverse-calculate one of the two numbers to numerically prove consistency.
+  → | Formula | Result | Consistency with Biblical Figure |
 
 [STEP 4] Creation of Modern Analogy (Mandatory)
-  → Create at least one modern analogy that people today can understand in just 5 seconds.
+  → Necessarily create at least one modern analogy that contemporary people can understand in just 5 seconds.
   → Utilize everyday concepts such as military, transportation, architecture: "It is as if ___ is ___, and ___ is ___."
 
-[STEP 5] Textual Criticism Rebuttal
-  → Prove that a transcription error of "adding/removing one zero" is impossible in the Hebrew numeral system (alphabetical notation). (Hebrew expresses numbers with alphabets → simple typos are impossible)
+[STEP 5] Textual Criticism Refutation
+  → Prove that with the Hebrew numeral system (alphabetical notation), a scribal error of 
+    "adding/deleting one zero" is impossible. (Hebrew writes numbers as alphabets → simple typos are impossible)
 ```
 
 ---
 
-## 📌 Reference Case: Solomon's 40,000 vs. 4,000 Stalls
+## 📌 Reference Case: Solomon's Stalls 40,000 vs 4,000
 
 ```
-[KJV Original Comparison]:
+[KJV Original Text Comparison]:
   1 Kings 4:26 "forty thousand stalls OF horses FOR his chariots"
-               → "Stalls for horses" (Individual horse accommodation unit)
-  2 Chron 9:25  "four thousand stalls FOR horses AND chariots"
-               → "Composite garage for horses and chariots" (Operational deployment unit)
+             → "Stalls for horses" (Individual horse accommodation unit)
+  2 Chronicles 9:25  "four thousand stalls FOR horses AND chariots"
+             → "Composite depot for horses and chariots" (Operational unit)
 
 [Functional Classification]:
-  40,000 = Individual accommodation stalls for horses (Individual hangars)
-  4,000 = Operational unit of one set of chariot+horses+rider (Fighter wing)
+  40,000 = Individual horse accommodation stalls (Individual hangars)
+  4,000 = Operational unit of chariot+horses+rider as one set (Fighter wing)
 
-[Third Figure Reverse Calculation]:
+[Reverse Calculation of Third Figure]:
   1 Kings 10:26 — 1,400 chariots, 12,000 horsemen
-  1,400 (chariots) × approx. 3 (horses/chariot) = 4,200 ≈ 4,000 (Operational units) ✅
-  4,000 (Operational units) × 10 (Individual stalls) = 40,000 (Total stalls) ✅
+  1,400 (chariots) × approx. 3 (horses/chariot) = 4,200 ≈ 4,000 (Operational unit) ✅
+  4,000 (Operational unit) × 10 (Individual stalls) = 40,000 (Total stalls) ✅
 
 [Modern Analogy]:
   "4,000 = Fighter wing (Operational unit of aircraft+pilot+maintenance team as one set)"
-  "40,000 = National aircraft hangars (Total sum of individual accommodation bays for all aircraft)"
-  → In the Air Force, '4 fighter wings' and '40 hangars' can be true simultaneously ✅
+  "40,000 = Nationwide aircraft hangars (Total sum of all individual aircraft accommodation bays)"
+  → In the Air Force, '4 fighter wings' and '40 hangars' can both be true simultaneously ✅
 
-[Textual Criticism Rebuttal]:
-  Hebrew numeral notation: 4,000 (ד אֲלָפִים) vs. 40,000 (אַרְבָּעִים אֶלֶף)
-  → Completely different words, not a simple addition/removal of a single zero — Transcription error theory dismissed ✅
+[Textual Criticism Refutation]:
+  Hebrew numeral notation: 4,000 (ד אֲלָפִים) vs 40,000 (אַרְבָּעִים אֶלֶף)
+  → Completely different words, not a simple addition/deletion of one zero — scribal error theory dismissed ✅
 ```

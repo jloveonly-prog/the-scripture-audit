@@ -1,263 +1,294 @@
-# 📖 LEXICON — Biblical Names, Places, and Customs Dictionary
+# 📖 LEXICON — 성경 인명·지명·관례 사전
 **"The entrance of thy words giveth light" — Psalm 119:130 KJV**
 
-> **This document is a reference dictionary to prevent confusion over names, places, and customs during analysis.**
-> Before writing an analysis report, check if the characters/places are in this dictionary.
-> If a new entry not in the dictionary is found, add it immediately (Living Document).
+> **이 문서는 분석 중 발생하는 인명·지명·관례 혼선을 방지하기 위한 참조 사전이다.**
+> 분석 보고서 작성 전, 등장 인물/지명이 이 사전에 있는지 확인하라.
+> 사전에 없는 새 항목 발견 시 즉시 추가한다 (살아있는 문서).
 
 ---
 
-## 📌 Section 1. Disambiguation Table (Same Name, Different People)
+## 📌 섹션 1. 동명 인물 식별자 표 (同名人物 — Disambiguation)
 
-> **If there are 2 or more people with the same name, they MUST be denoted in the format `Name(Identifier)`.**
+> **같은 이름을 가진 인물이 2명 이상이면 반드시 `이름(식별자)` 형식으로 표기한다.**
 
-### 📜 Old Testament
+### 📜 구약 (Old Testament)
 
-| Name | Identifier | Notation Example | Risk Level |
+| 이름 | 식별자 | 표기 예시 | 위험도 |
 |:---|:---|:---|:---:|
-| Jehoram, King of Judah | (King of Judah) | Jehoram(King of Judah) | 🔴 |
-| Jehoram = Joram, King of Israel | (King of Israel) | Jehoram(King of Israel) | 🔴 |
-| Ahaziah, King of Judah | (King of Judah) | Ahaziah(King of Judah) | 🔴 |
-| Ahaziah, King of Israel, son of Ahab | (King of Israel) | Ahaziah(King of Israel) | 🔴 |
-| Jeroboam I, 1st King of Northern Israel | (1st) | Jeroboam(1st) | 🔴 |
-| Jeroboam II, King of Northern Israel ~100 yrs later | (2nd) | Jeroboam(2nd) | 🔴 |
-| Joash, King of Judah | (King of Judah) | Joash(King of Judah) | 🔴 |
-| Joash = Jehoash, King of Israel | (King of Israel) | Joash(King of Israel) | 🔴 |
-| Judah, son of Jacob | (Son of Jacob) | Judah(Son of Jacob) | 🟡 |
-| Tribe of Judah | (Tribe) | Judah(Tribe) | 🟡 |
-| Kingdom of Judah | (Kingdom) | Judah(Kingdom) | 🟡 |
-| Manasseh, son of Joseph | (Son of Joseph) | Manasseh(Son of Joseph) | 🟡 |
-| Manasseh, King of Judah | (King of Judah) | Manasseh(King of Judah) | 🟡 |
-| Jonathan, son of Saul | (Son of Saul) | Jonathan(Son of Saul) | 🟡 |
-| Jonathan, son of Abiathar | (Son of Abiathar) | Jonathan(Son of Abiathar) | 🟡 |
-| Levi, son of Jacob | (Son of Jacob) | Levi(Son of Jacob) | 🟡 |
-| Tribe of Levi | (Tribe) | Levi(Tribe) | 🟡 |
-| Daniel the Prophet | (Prophet) | Daniel(Prophet) | 🟡 |
-| Daniel, son of David | (Son of David) | Daniel(Son of David) | 🟡 |
+| 유다 왕 여호람 | (유다왕) | 여호람(유다왕) | 🔴 |
+| 이스라엘 왕 여호람 = 요람 | (이스라엘왕) | 여호람(이스라엘왕) | 🔴 |
+| 유다 왕 아하시야 | (유다왕) | 아하시야(유다왕) | 🔴 |
+| 이스라엘 왕 아하시야, 아합의 아들 | (이스라엘왕) | 아하시야(이스라엘왕) | 🔴 |
+| 여로보암 1세, 분열왕국 북이스라엘 초대 왕 | (1세) | 여로보암(1세) | 🔴 |
+| 여로보암 2세, 약 100년 후 북이스라엘 왕 | (2세) | 여로보암(2세) | 🔴 |
+| 유다 왕 요아스 | (유다왕) | 요아스(유다왕) | 🔴 |
+| 이스라엘 왕 요아스 = 여호아스 | (이스라엘왕) | 요아스(이스라엘왕) | 🔴 |
+| 야곱의 아들 유다 | (야곱 아들) | 유다(야곱 아들) | 🟡 |
+| 유다 지파 | (지파) | 유다(지파) | 🟡 |
+| 유다 왕국 | (왕국) | 유다(왕국) | 🟡 |
+| 요셉의 아들 므낫세 | (요셉 아들) | 므낫세(요셉 아들) | 🟡 |
+| 유다 왕 므낫세 | (유다왕) | 므낫세(유다왕) | 🟡 |
+| 사울의 아들 요나단 | (사울 아들) | 요나단(사울 아들) | 🟡 |
+| 아비아달의 아들 요나단 | (아비아달 아들) | 요나단(아비아달 아들) | 🟡 |
+| 야곱의 아들 레위 | (야곱 아들) | 레위(야곱 아들) | 🟡 |
+| 레위 지파 | (지파) | 레위(지파) | 🟡 |
+| 선지자 다니엘 | (선지자) | 다니엘(선지자) | 🟡 |
+| 다윗의 아들 다니엘 | (다윗 아들) | 다니엘(다윗 아들) | 🟡 |
 
-### ✝️ New Testament
+### ✝️ 신약 (New Testament)
 
-| Name | Identifier | Notation Example | Risk Level |
+| 이름 | 식별자 | 표기 예시 | 위험도 |
 |:---|:---|:---|:---:|
-| Mary Magdalene | (Magdalene) | Mary(Magdalene) | 🔴 |
-| Mary, mother of James and Joses | (Mother of James) | Mary(Mother of James) | 🔴 |
-| Mary, mother of Jesus | (Mother of Jesus) | Mary(Mother of Jesus) | 🟡 |
-| James, son of Zebedee, Apostle | (Son of Zebedee) | James(Son of Zebedee) | 🔴 |
-| James, son of Alphaeus, Apostle | (Son of Alphaeus) | James(Son of Alphaeus) | 🔴 |
-| James, the Lord's brother, Jerusalem leader | (Lord's brother) | James(Lord's brother) | 🔴 |
-| John the Apostle, son of Zebedee | (Apostle) | John(Apostle) | 🟡 |
-| John the Baptist | (Baptist) | John(Baptist) | 🟡 |
-| Simon the Apostle = Peter | (Peter) | Simon(Peter) | 🟡 |
-| Simon the Zealot, Apostle | (Zealot) | Simon(Zealot) | 🟡 |
-| Judas (Iscariot), the betrayer | (Iscariot) | Judas(Iscariot) | 🔴 |
-| Judas, son of James, Apostle | (Son of James) | Judas(Son of James) | 🔴 |
-| Jude, the Lord's brother, author of Jude | (Lord's brother) | Jude(Lord's brother) | 🔴 |
-| Levi of NT = Matthew the publican | (Matthew) | Levi(Matthew) | 🟡 |
-| Joseph of Arimathaea | (Arimathaea) | Joseph(Arimathaea) | 🟡 |
-| Joseph, father of Jesus | (Father of Jesus) | Joseph(Father of Jesus) | 🟡 |
+| 막달라 마리아 | (막달라) | 마리아(막달라) | 🔴 |
+| 야고보와 요셉의 어머니 마리아 | (야고보 어머니) | 마리아(야고보 어머니) | 🔴 |
+| 예수님의 어머니 마리아 | (예수님 어머니) | 마리아(예수님 어머니) | 🟡 |
+| 세베대의 아들 야고보, 사도 | (세베대 아들) | 야고보(세베대 아들) | 🔴 |
+| 알패오의 아들 야고보, 사도 | (알패오 아들) | 야고보(알패오 아들) | 🔴 |
+| 주의 형제 야고보, 예루살렘 교회 지도자 | (주의 형제) | 야고보(주의 형제) | 🔴 |
+| 사도 요한, 세베대 아들 | (사도) | 요한(사도) | 🟡 |
+| 세례 요한 | (세례) | 요한(세례) | 🟡 |
+| 사도 시몬 = 베드로 | (베드로) | 시몬(베드로) | 🟡 |
+| 열심당원 시몬, 사도 | (열심당) | 시몬(열심당) | 🟡 |
+| 유다(가룟), 예수를 판 자 | (가룟) | 유다(가룟) | 🔴 |
+| 야고보의 아들 유다, 사도 | (야고보 아들) | 유다(야고보 아들) | 🔴 |
+| 주의 형제 유다, 유다서 저자 | (주의 형제) | 유다(주의 형제) | 🔴 |
+| 신약의 레위 = 마태, 세리 | (마태) | 레위(마태) | 🟡 |
+| 아리마대 요셉 | (아리마대) | 요셉(아리마대) | 🟡 |
+| 예수님의 아버지 요셉 | (예수님 아버지) | 요셉(예수님 아버지) | 🟡 |
 
-> 🔴 = Contemporaries with same name exist — Without identifier, analysis is completely polluted.
-> 🟡 = Possible confusion — Omission allowed depending on context, but recommended.
-> If unconfirmed: Denote as `Name(Unconfirmed)` and consider triggering TYPE-M.
+> 🔴 = 동시대 동명 인물 존재 — 식별자 없으면 분석 전체 오염
+> 🟡 = 혼선 가능 — 맥락에 따라 생략 가능하나 권장
+> 식별자 미확정 시: `이름(미확정)` 표기 후 TYPE-M 발동 검토
 
 ---
 
-## 📌 Section 2. Alias Dictionary (Same Person, Different Names)
+## 📌 섹션 2. 이명 사전 (異名 — Same Person, Different Names)
 
-> **When the same person is called by different names within the Bible. Failing to recognize them as the same person causes analysis errors.**
+> **동일 인물이 성경 내에서 다른 이름으로 불리는 경우. 두 이름이 같은 사람임을 인식 못하면 분석 오류 발생.**
 
-| Primary Name | Alias | Reason for Alias | Verse |
+| 주된 이름 | 이명 | 이명 부여 근거 | 구절 |
 |:---|:---|:---|:---|
-| Jacob | Israel | Renamed after wrestling with God at Jabbok | Gen 32:28 |
-| Abram | Abraham | Renamed at covenant renewal ("Father of many nations") | Gen 17:5 |
-| Sarai | Sarah | Renamed at covenant renewal | Gen 17:15 |
-| Simon | Peter / Cephas | Name given by Jesus (Cephas=Aramaic, Peter=Greek) | John 1:42 |
-| Saul (Apostle) | Paul | Used Hellenistic name after starting Gentile missions | Acts 13:9 |
-| Joshua (OT) | Jesus (NT) | OT/NT transliteration difference of same Hebrew name יֵשׁוּעַ | Heb 4:8 |
-| Thomas | Didymus | Thomas(Aramaic)=Twin, Didymus(Greek)=Twin | John 11:16 |
-| Levi (Publican) | Matthew | Same person, Gospel author | Mark 2:14, Matt 9:9 |
-| Barnabas | Joses | Apostles called him by nickname "Barnabas (Son of consolation)" | Acts 4:36 |
-| Naomi | Mara | Self-renamed upon returning home after losing husband/sons | Ruth 1:20 |
-| Azariah | Uzziah | King of Judah, Kings and Chronicles spell differently | 2 Kings 15:1, 2 Chron 26:1 |
-| Deborah | — | No name confusion, but means "bee" — Beware confusing name with meaning | Judg 4:4 |
+| 야곱 | 이스라엘 | 얍복 강에서 하나님과 씨름 후 개명 | 창 32:28 |
+| 아브람 | 아브라함 | 언약 갱신 시 개명 ("열국의 아버지") | 창 17:5 |
+| 사래 | 사라 | 언약 갱신 시 개명 | 창 17:15 |
+| 시몬 | 베드로 / 게바 | 예수께서 지어주신 이름 (게바=아람어, 베드로=헬라어) | 요 1:42 |
+| 사울(사도) | 바울 | 이방 선교 시작 후 헬라식 이름 사용 | 행 13:9 |
+| 여호수아(OT) | 예수(NT) | 동일 히브리 이름 יֵשׁוּעַ의 OT/NT 음역 차이 | 히 4:8 |
+| 도마 | 디두모 | 도마(아람어)=쌍둥이, 디두모(헬라어)=쌍둥이 | 요 11:16 |
+| 레위(세리) | 마태 | 동일 인물, 복음서 저자 | 막 2:14, 마 9:9 |
+| 바나바 | 요셉 | 사도들이 별명 "바나바(위로의 아들)"로 부름 | 행 4:36 |
+| 나오미 | 마라 | 남편·아들 잃고 귀향 시 스스로 개명 선언 | 룻 1:20 |
+| 아사랴 | 웃시야 | 유다 왕, 동일 인물을 역왕과 역대기가 다르게 표기 | 왕하 15:1, 대하 26:1 |
+| 드보라 | — | 고유명 혼선 없으나 "벌"의 뜻 — 인명과 의미 혼동 주의 | 삿 4:4 |
 
 ---
 
-## 📌 Section 3. Transliteration Table (OT Hebrew → NT Greek → KJV)
+## 📌 섹션 3. 음역 대조표 (音譯 — OT Hebrew → NT Greek → KJV)
 
-> **When the same person/place is transliterated differently in the OT (Hebrew) and NT (Greek).**
-> The KJV uses different spellings in OT and NT, so cross-checking is mandatory.
+> **동일 인물/장소가 구약(히브리어)과 신약(헬라어)에서 다르게 음역된 경우.**
+> KJV는 OT와 NT에서 다른 철자를 사용하므로 반드시 교차 확인.
 
-| OT Spelling (KJV) | NT Spelling (KJV) | Hebrew Root | Note |
+| OT 표기 (KJV) | NT 표기 (KJV) | 히브리어 원형 | 비고 |
 |:---|:---|:---|:---|
-| Elijah | Elias | אֵלִיָּהוּ | Mal 4:5 vs Matt 11:14 |
-| Isaiah | Esaias | יְשַׁעְיָהוּ | Isa 1:1 vs Matt 3:3 |
-| Melchizedek | Melchisedec | מַלְכִּי-צֶדֶק | Gen 14:18 vs Heb 7:1 |
-| Jeremiah | Jeremy | יִרְמְיָהוּ | Jer 1:1 vs Matt 2:17 |
-| Noah | Noe | נֹחַ | Gen 6:9 vs Luke 17:26 |
-| Hosea | Osee | הוֹשֵׁעַ | Hos 1:1 vs Rom 9:25 |
-| Joshua | Jesus | יֵשׁוּעַ | Josh 1:1 vs Heb 4:8 ⚠️ |
-| Solomon | Solomon | שְׁלֹמֹה | KJV Match |
+| Elijah (엘리야) | Elias (엘리아스) | אֵלִיָּהוּ | 말 4:5 vs 마 11:14 |
+| Isaiah (이사야) | Esaias (에사야) | יְשַׁעְיָהוּ | 사 1:1 vs 마 3:3 |
+| Melchizedek (멜기세덱) | Melchisedec (멜기세덱) | מַלְכִּי-צֶדֶק | 창 14:18 vs 히 7:1 |
+| Jeremiah (예레미야) | Jeremy (예레미) | יִרְמְיָהוּ | 렘 1:1 vs 마 2:17 |
+| Noah (노아) | Noe (노에) | נֹחַ | 창 6:9 vs 눅 17:26 |
+| Hosea (호세아) | Osee (오세에) | הוֹשֵׁעַ | 호 1:1 vs 롬 9:25 |
+| Joshua (여호수아) | Jesus (예수) | יֵשׁוּעַ | 수 1:1 vs 히 4:8 ⚠️ |
+| Solomon (솔로몬) | Solomon (동일) | שְׁלֹמֹה | KJV 일치 |
 
-> ⚠️ **"Jesus" in Heb 4:8 refers to Joshua, not Jesus Christ.**
-> Must be distinguished by context when auditing KJV original text.
+> ⚠️ **히 4:8의 "Jesus"는 예수 그리스도가 아니라 여호수아를 가리킨다.**
+> KJV 원문 감수 시 반드시 문맥으로 구분해야 함.
 
 ---
 
-## 📌 Section 4. Genealogical Title Conventions
+## 📌 섹션 4. 족보 칭호 법칙 (族譜稱號 — Genealogical Title Conventions)
 
-> **Hebrew has a convention of using parent/child titles skipping generations.**
-> Ignorance of this causes errors in genealogical chronology. Must check before applying DE-OVERLAP.
+> **히브리어는 세대를 뛰어넘어 부모/자녀 호칭을 사용하는 관례가 있다.**
+> 이것을 모르면 족보 연대 계산에서 오류 발생. DE-OVERLAP 원칙 적용 전 반드시 확인.
 
-### Core Laws
+### 핵심 법칙
 
-```text
-Law 1. Extended meaning of "Mother (אֵם)"
-  → Mother = Grandmother = Great-grandmother = Ancestress
-  → Example: 1 Kings 15:10 — Maachah recorded as Asa's "mother"
-             is actually Asa's grandmother (cross-check 2 Chron 3:10)
-  → Trigger TYPE-D (Hebrew Narrative Customs) immediately.
+```
+법칙 1. "어머니(אֵם)"의 확장적 의미
+  → 어머니 = 할머니 = 증조할머니 = 조상모 포괄 가능
+  → 예: 왕상 15:10 — 아사의 "어머니(mother)"로 기록된 마아가
+         실제로는 아사의 할머니 (대상 3:10 교차 확인)
+  → TYPE-D (히브리 서사 관습) 즉시 발동
 
-Law 2. Extended meaning of "Son (בֵּן)"
-  → Son = Grandson = Great-grandson = Descendant
-  → Example: Matt 1:1 — Jesus is the "son" of David = descendant of David
-             Not a biological direct son.
-  → Check this law when generations "skip" in genealogies.
+법칙 2. "아들(בֵּן)"의 확장적 의미
+  → 아들 = 손자 = 증손자 = 후손 포괄 가능
+  → 예: 마 1:1 — 예수는 다윗의 "아들" = 다윗의 후손
+         생물학적 직계 아들이 아님
+  → 족보에서 세대가 "건너뛰는" 경우 이 법칙 확인
 
-Law 3. Extended meaning of "Father (אָב)"
-  → Father = Grandfather = Ancestor
-  → Example: "Our father Abraham" — Used by descendants hundreds of years later.
+법칙 3. "아버지(אָב)"의 확장적 의미
+  → 아버지 = 할아버지 = 조상 포괄 가능
+  → 예: "우리 조상 아브라함" — 수백 년 후 후손들도 사용
 
-Law 4. Hebrew Genealogical Telescoping Convention
-  → Intentionally omitting intermediate generations in genealogies is normal.
-  → "A begat B" includes the meaning "B came from the descendants of A".
-  → The 14 generations in Matthew 1 are resolved by this law (See CHRONICLE).
+법칙 4. 히브리 족보 압축 관습 (Telescoping)
+  → 족보에서 중간 세대를 의도적으로 생략하는 것이 정상
+  → "A가 B를 낳았다" = "A의 후손 중 B가 나왔다"는 의미 포함
+  → 마태복음 1장 14세대는 이 법칙으로 해소 (CHRONICLE 참조)
 ```
 
-### Core Example Cases
+### 핵심 예시 케이스
 
-| Verse | Record | Actual Relationship | Law |
+| 구절 | 기록 | 실제 관계 | 법칙 |
 |:---|:---|:---|:---|
-| 1 Kings 15:10 | Maachah = Asa's "mother" | Actually grandmother | Law 1 |
-| Matt 1:1 | Jesus = David's "son" | Descendant ~1000 yrs later | Law 2 |
-| Matt 1:8 | Joram "begat" Ozias | Skipped 3 actual generations | Law 4 |
-| Gen 10:21 | Shem = "father" of Eber | Actually great-grandfather | Law 3 |
+| 왕상 15:10 | 마아가 = 아사의 "어머니" | 실제는 할머니 | 법칙 1 |
+| 마 1:1 | 예수 = 다윗의 "아들" | 약 1,000년 후 후손 | 법칙 2 |
+| 마 1:8 | 요람이 웃시야를 "낳았다" | 실제 3세대 건너뜀 | 법칙 4 |
+| 창 10:21 | 셈 = 에벨의 "아버지" | 실제 증조부 | 법칙 3 |
 
 ---
 
-## 📌 Section 5. Place Name Dictionary (Same Place, Different Names)
+## 📌 섹션 5. 지명 대조표 (地名 — Same Place, Different Names)
 
-| Primary Place Name | Alias | Note |
+| 주된 지명 | 이명 | 비고 |
 |:---|:---|:---|
-| Calvary | Golgotha / Place of a skull | Luke 23:33 vs Matt 27:33 |
-| Sea of Galilee | Sea of Tiberias / Lake of Gennesaret | John 6:1, Luke 5:1 |
-| Jerusalem | Zion | In poetic/prophetic contexts |
-| Hebron | Kirjath-arba | Gen 23:2 — Old/New name for same place |
-| Beersheba | The well of the oath/seven | Semantic translation of the name |
-| Babylon | Capital of Neo-Babylonian Empire | Beware confusion in historical/prophetic contexts |
+| 갈바리(Calvary) | 골고다(Golgotha) / 해골의 곳 | 눅 23:33 vs 마 27:33 |
+| 갈릴리 바다 | 디베랴 바다 / 게네사렛 호수 | 요 6:1, 눅 5:1 |
+| 예루살렘 | 시온(Zion) | 시적/예언적 문맥에서 |
+| 헤브론 | 기럇 아르바 | 창 23:2 — 동일 장소의 구/신 이름 |
+| 브엘세바 | 일곱 우물의 성읍 | 이름의 의미적 번역 |
+| 바벨론 | 신바빌로니아 제국 수도 | 역사·예언서 문맥 혼선 주의 |
 
 ---
 
-## 📌 Section 6. Biblical Idioms & Euphemisms
+## 📌 섹션 6. 성경 관용어·완곡어 (Biblical Idioms & Euphemisms)
 
-> **Expressions that are misread if read literally in the KJV original.**
-> Ignorance of this list causes errors in TYPE-D and TYPE-G analysis.
-> Hebrew idioms, especially in chronology/action descriptions, alter the direction of analysis.
+> **KJV 원문을 글자 그대로 읽으면 오독하는 표현들.**
+> 이 목록을 모르면 TYPE-D, TYPE-G 분석에서 오류가 발생한다.
+> 히브리어 관용어는 특히 연대기·행동 서술에서 분석 방향을 바꾼다.
 
-### 🔴 Sexual Euphemisms
+### 🔴 완곡어 — 성적 관계 (Sexual Euphemisms)
 
-| KJV Expression | Actual Meaning | Verse Example |
+| KJV 표현 | 실제 의미 | 구절 예시 |
 |:---|:---|:---|
-| **"knew" / "know"** | Sexual union | Gen 4:1 "Adam knew Eve his wife; and she conceived" |
-| **"went in unto"** | Sexual intercourse | Gen 16:4 "he went in unto Hagar, and she conceived" |
-| **"lay with"** | Sexual intercourse | Gen 19:32 "lie with our father" |
-| **"uncovered his feet"** | Sexual proposal/approach | Ruth 3:4 "uncover his feet, and lay thee down" |
-| **"feet"** | Euphemism for lower body/genitals | Isa 6:2 "covered his feet" (Seraphim covering lower body) |
-| **"skirt"** | Protection/Marriage covenant | Ruth 3:9 "spread thy skirt over thine handmaid" |
-| **"seed"** | Sperm/Descendants | Gen 38:9 "he spilled it on the ground" |
+| **"knew" / "know"** (알다) | 성적 결합 | 창 4:1 "Adam knew Eve his wife; and she conceived" |
+| **"went in unto"** (~에게 들어가다) | 성관계 | 창 16:4 "he went in unto Hagar, and she conceived" |
+| **"lay with"** (~와 눕다) | 성관계 | 창 19:32 "lie with our father" |
+| **"uncovered his feet"** (발을 드러냄) | 성적 제안/접근 | 룻 3:4 "uncover his feet, and lay thee down" |
+| **"feet"** (발) | 하체/생식기 완곡 표현 | 사 6:2 "covered his feet" (스랍이 하체를 가림) |
+| **"skirt"** (옷자락) | 보호·결혼 언약 | 룻 3:9 "spread thy skirt over thine handmaid" |
+| **"seed"** (씨) | 정자·후손 | 창 38:9 "he spilled it on the ground" |
 
-### 🟡 Bodily Function Euphemisms
+### 🟡 완곡어 — 배설·신체 행위 (Bodily Function Euphemisms)
 
-| KJV Expression | Actual Meaning | Verse Example |
+| KJV 표현 | 실제 의미 | 구절 예시 |
 |:---|:---|:---|
-| **"ease himself"** | Defecation | 1 Sam 24:3 KJV context |
+| **"ease himself"** | 배변 행위 | 삼상 24:3 KJV 문맥 |
 
-### 🟠 Context-Determined Idioms
+### 🟠 다중 의미 표현 — 문맥으로 판별 필수 (Context-Determined Idioms)
 
-> **The same expression has entirely different meanings depending on context. Must determine meaning via adjacent verses in TYPE-G analysis.**
+> **같은 표현이 문맥에 따라 전혀 다른 의미를 가진다. TYPE-G 분석 시 반드시 인접 구절로 의미 확정.**
 
-| KJV Expression | Meaning A | Meaning B | Determination Method |
+| KJV 표현 | 의미 A | 의미 B | 판별 방법 |
 |:---|:---|:---|:---|
-| **"covereth his feet"** | **Sleep** — Lying down covered with a blanket | **Defecation** — Posture where long robe covers the feet | Determine via adjacent verses |
+| **"covereth his feet"** (발을 가린다) | **잠자다** — 이불로 발을 덮고 누워있음 | **배변 행위** — 긴 옷이 발을 덮는 자세 | 인접 구절로 판별 |
 
-**Detailed Determination:**
-```text
-[Meaning A — Sleep]
-  Ruth 3:4  "uncover his feet, and lay thee down"
-  Ruth 3:7  "she came softly, and uncovered his feet"
-  → When Boaz fell asleep on the threshing floor, Ruth uncovered the blanket at his feet and lay down.
-  → "Cover feet" = Sleeping covered with a blanket
-  → Book of Ruth context: Clear sleeping scene ✅
+**상세 판별:**
+```
+[의미 A — 잠자다]
+  룻 3:4  "uncover his feet, and lay thee down"
+  룻 3:7  "she came softly, and uncovered his feet"
+  → 보아스가 타작마당에서 잠들었을 때, 룻이 그의 발치 이불을 걷고 누움
+  → "발을 가린다" = 이불을 덮고 자는 행위
+  → 룻기 문맥: 잠자는 장면임이 명확 ✅
 
-[Meaning B — Defecation]
-  Judg 3:24  "he covereth his feet in his summer chamber"
-  1 Sam 24:3 "Saul went in to cover his feet"
-  → Squatting down while wearing an outer robe causes the garment to cover the feet = Defecation.
-  → Context: Entering a closed room alone / private act in a cave = Likely defecation ✅
+[의미 B — 배변 행위]
+  삿 3:24  "he covereth his feet in his summer chamber"
+  삼상 24:3 "Saul went in to cover his feet"
+  → 겉옷(긴 로브)을 걸치고 쭈그려 앉으면 옷자락이 발을 덮는 자세 = 배변
+  → 문맥: 홀로 들어가 문을 잠근 밀실 / 동굴 안 사적 행위 = 배변 가능성 ✅
 
-[Determination Principles]
-  → Blanket/cover context (lying down) → Meaning A (Sleep)
-  → Context of entering an enclosed space alone → Meaning B (Defecation)
-  → If neither is clear: Trigger TYPE-M → Collect adjacent verbs/nouns.
+[판별 원칙]
+  → 이불/담요 문맥(누워있는 상태) → 의미 A (잠)
+  → 밀폐된 공간 홀로 들어간 문맥 → 의미 B (배변)
+  → 어느 쪽도 불명확하면: TYPE-M 발동 → 인접 동사·명사 추가 수집
 ```
 
-### 🔵 Death Euphemisms
 
-| KJV Expression | Actual Meaning | Verse Example |
+### 🔵 완곡어 — 죽음 (Death Euphemisms)
+
+| KJV 표현 | 실제 의미 | 구절 예시 |
 |:---|:---|:---|
-| **"sleep" / "fell asleep"** | Death | John 11:11-14 "Lazarus sleepeth... he is dead" |
-| **"gathered to his people"** | Death | Gen 25:8 "Abraham... was gathered to his people" |
-| **"gave up the ghost"** | Breathed last/Died | Gen 25:8, Matt 27:50 |
-| **"rest with his fathers"** | Died and buried | 1 Kings 2:10 "David slept with his fathers" |
-| **"carried away"** | Captivity or Death | Requires context check |
+| **"sleep"** / **"fell asleep"** | 죽음 | 요 11:11-14 "Lazarus sleepeth... he is dead" |
+| **"gathered to his people"** | 죽음 | 창 25:8 "Abraham... was gathered to his people" |
+| **"gave up the ghost"** | 숨을 거둠·사망 | 창 25:8, 마 27:50 |
+| **"rest with his fathers"** | 죽어 장사됨 | 왕상 2:10 "David slept with his fathers" |
+| **"carried away"** | 포로됨 또는 죽음 | 문맥에 따라 확인 필요 |
 
-### 🟢 Body Part Symbolism
+### 🟢 신체 부위 상징 (Body Part Symbolism)
 
-| Body Part | Symbolic Meaning | Verse Example |
+| 신체 부위 | 상징 의미 | 구절 예시 |
 |:---|:---|:---|
-| **Heart** | Entire intellect/will/emotion (Modern "brain" role) | Prov 23:7 "as he thinketh in his heart" |
-| **Bowels** | Seat of compassion/deep emotion | Gen 43:30, 1 Kings 3:26 |
-| **Right hand** | Power/Authority/Favor | Psa 110:1 "Sit thou at my right hand" |
-| **Face/Countenance** | Presence/Being itself | Num 6:26 "lift up his countenance upon thee" |
-| **Hand** | Power/Rule/Action | Ex 9:3 "the hand of the LORD" |
-| **Feet** | ① Lower part of presence ② Sometimes euphemism for lower body | Isa 60:13, Ruth 3:4 |
-| **Bone and flesh** | Kinship/Blood relation | Gen 2:23 "bone of my bones" |
-| **Name** | Being/Essence/Authority/Reputation | Acts 3:6 "In the name of Jesus Christ" |
+| **심장/마음 (heart)** | 지성·의지·감정 전체 (현대의 "뇌" 역할) | 잠 23:7 "as he thinketh in his heart" |
+| **창자/내장 (bowels)** | 긍휼·깊은 감정의 처소 | 창 43:30, 왕상 3:26 |
+| **오른손 (right hand)** | 권능·권위·총애 | 시 110:1 "Sit thou at my right hand" |
+| **얼굴/낯 (face/countenance)** | 임재·존재 자체 | 민 6:26 "lift up his countenance upon thee" |
+| **손 (hand)** | 권능·통치·행동 | 출 9:3 "the hand of the LORD" |
+| **발 (feet)** | ① 임재의 낮은 부분 ② 때로 하체 완곡 표현 | 사 60:13, 룻 3:4 |
+| **뼈와 살 (bone and flesh)** | 동족·혈연 관계 | 창 2:23 "bone of my bones" |
+| **이름 (name)** | 존재·본질·권위·명성 | 행 3:6 "In the name of Jesus Christ" |
 
-### 🟣 Number Symbolism
+### 🟣 숫자 상징 (Number Symbolism)
 
-| Number | Symbolic Meaning | Example |
+| 숫자 | 상징 의미 | 예시 |
 |:---:|:---|:---|
-| **3** | Perfection/Confirmation/Divine testimony | 1 John 5:7-8, Isaiah's Trisagion |
-| **7** | Number of completeness/Covenant/Rest | Gen 2:2, Entire Revelation |
-| **12** | Complete number of God's people | 12 Tribes, 12 Apostles |
-| **40** | Period of testing/purification/judgment | 40 years in wilderness, Jesus' 40-day fast |
-| **70** | 7 × 10 = Perfect perfection | Septuagint, 70 Elders, 70 Weeks |
-| **10** | Completeness/Sufficiency | Ten Commandments, Tithe |
-| **1000** | Infinitely many (Literary exaggeration) | Psa 50:10 "cattle upon a thousand hills" |
+| **3** | 완전·확증·하나님의 증언 | 요일 5:7-8, 이사야의 삼창 |
+| **7** | 완전수·언약·안식 | 창 2:2, 계시록 전체 |
+| **12** | 하나님 백성의 완전한 수 | 12지파, 12사도 |
+| **40** | 시험·정제·심판의 기간 | 광야 40년, 예수 40일 금식 |
+| **70** | 7 × 10 = 완전한 완전수 | 70인역, 70장로, 70이레 |
+| **10** | 완전·충분 | 십계명, 십분의 일 |
+| **1000** | 무한히 많음 (문학적 과장) | 시 50:10 "cattle upon a thousand hills" |
 
-### ⚪ Hebrew Narrative Conventions
+### ⚪ 히브리어 서술 관습 (Hebrew Narrative Conventions)
 
-| Convention | Meaning | Example |
+| 관습 | 의미 | 예시 |
 |:---|:---|:---|
-| **Double Emphasis** (Word repetition) | Superlative/Emphasis | "holy, holy, holy" = absolute holiness |
-| **Contrastive Parallelism** (A//B structure) | Poetic completion | ab//a'b' structure throughout Psalms |
-| **Singular as Collective Noun** | Individual represents group | "the Philistine" = Philistine army |
-| **Past described with Present Tense** | Vivid dramatic effect (Waw-consecutive) | KJV "and he said" repetitive pattern |
-| **Silence = Agreement** | No objection = Acceptance | At Joshua's covenant making |
-| **Royal "We"** | Expressing majesty with 1st person plural | Gen 1:26 "Let us make man" — Trinity or plural of majesty debate |
+| **이중 강조** (같은 단어 반복) | 최상급·강조 | "holy, holy, holy" = 절대 거룩 |
+| **대조적 병렬** (A//B 구조) | 시적 완성 | 시편 전체의 ab//a'b' 구조 |
+| **단수로 집합명사** | 개인이 집단을 대표 | "the Philistine" = 블레셋 군대 |
+| **현재형으로 과거 서술** | 생생한 극적 효과 (Waw-consecutive) | KJV "and he said" 반복 패턴 |
+| **침묵 = 동의** | 반박 없음 = 수용 | 여호수아 언약 체결 시 |
+| **왕의 "우리"** | 1인칭 복수로 위엄 표현 | 창 1:26 "Let us make man" — 삼위일체 or 왕의 복수 논쟁 |
 
 ---
 
-*LEXICON v2.0 — Added Section 6 (Biblical Idioms & Euphemisms)*
+## 📌 섹션 7. 대문자/소문자 신적 칭호 경보표 (Capitalization Homonym Alert)
+
+> **원리**: 히브리어·헬라어 원문에는 대소문자 구분이 없다. KJV의 대문자/소문자 표기는 **번역자가 문맥을 판단해 넣은 편집적 신호**이지, 그 자체가 영감된 원어 구분은 아니다. 그러나 바로 그렇기 때문에 무시해서는 안 되는 **강력한 보조 신호**다 — 대문자 용례(고유 칭호)의 결론을 소문자 용례(일반 범주)에 무의식적으로 자동 적용하면 TYPE-AL(어의 중의성) 오류가 발생한다.
+> **발견 경위**: 2026-07-19, `bible_believer` 문서군에서 히 1:5 "Son"(즉위 선언)을 욥 1:6·38:7 "sons"(창조 범주 일반 용례)에 자동 적용한 오류 발견·정정.
+> **표기 원칙 (신학체계 라벨 금지, 2026-08-12)**: 아래 "지시 대상" 칸은 삼위일체·위격·Godhead 같은 특정 신학체계 전문용어를 쓰지 않는다. 해당 구절이 KJV 문자로 직접 말하는 지시 대상만 기술한다 — `CREED_Override.md` "C-4 세부 시행 지침" 참조.
+
+| 대문자 표기 (고유 칭호) | 지시 대상 | 소문자 표기 (일반 범주) | 지시 대상 | 자동 적용 시 위험 사례 |
+|:---|:---|:---|:---|:---|
+| **Son** (히 1:5 "Thou art my **Son**"; 시 2:7 인용 — 즉위 선언) | 그리스도의 유일한 메시아적 아들됨 | **son(s)** (욥 1:6·38:7 "sons of God"; 눅 3:38 아담; 롬 8:14 성도; 창 6:2,4) | 창조 범주 전체(천사·아담·성도 등, 다수) | "천사 중 누구도 Son이라 불린 적 없다" → "그러므로 sons of God도 천사일 수 없다"로 비약 (2026-07-19 정정 사례) |
+| **Spirit** (요 4:24 "God is a **Spirit**"; 창 1:2 "**Spirit** of God") | 요 4:24·창 1:2 문맥상 하나님을 가리키는 고유 칭호(문법상 단수) | **spirit(s)** (히 1:14 "ministering spirits"; 벧전 3:19 "spirits in prison") | 피조된 영적 존재(천사·죽은 자의 영 등) | 대문자 용례의 속성을 소문자 피조 영에게, 또는 그 역으로 자동 전이 — 현재까지 미발생, 잠재 위험으로 등재 |
+| **Word** (요 1:1 "the **Word** was God") | 로고스(Λόγος) — 요 1:1,14 문맥상 태초에 하나님과 함께 계셨고 후에 육신이 되신 존재를 가리키는 고유 칭호 | **word(s)** (시 119:11 "thy word"; 벧전 1:23 "word of God") | 기록·선포된 계시 일반 | 요 1:1의 고유 칭호적 "Word" 용법을 성경 텍스트 일반론에 그대로 대입 — 현재까지 미발생, 잠재 위험으로 등재 |
+
+> **실행 규칙 (TYPE-AL 연동 의무)**: 위 표의 대문자 칭호가 등장하는 구절을 근거로 소문자 용례 전체를 배제/포함하는 결론을 내리기 전, 반드시 ① 원어(헬라어/히브리어)에 실제로 별도 어휘·문법 구조(예: 관사 유무, 격 변화)가 있는지, ② 아니면 KJV 번역자의 문맥적 편집 판단(대문자화)일 뿐인지를 구분한다. ②로 판명되면 대문자 표기는 "참고용 보조 신호"로만 쓰고, 그것을 결론의 유일 근거로 삼지 않는다. → 상세 발동 절차는 `04_QUIVER(무기고)/TYPE-AL_EquivocationDetection.md`의 "TYPE-AL-cap" 서브 프로토콜 참조.
+
+---
+
+## 📌 섹션 8. 원어 유사성 오용 경보표 (False Linguistic Kinship Alert) — v1.0 신설 (2026-07-24)
+
+> **원리**: 두 원어 단어가 "닮아 보인다"는 이유만으로 신학적 연결의 근거로 쓰이는 경우, 아래 3가지 독립 질문을 반드시 통과해야 한다 — ① 진짜 같은 어근인가? ② 신약시대(코이네)에도 그 구분/연결이 유효한가, 아니면 고전기(호메로스 등) 시어(詩語)에서만 성립하던 것인가? ③ 예수님/화자가 실제로 발화하신 기저언어(아람어·히브리어)에도 그 구분이 존재하는가?
+
+| 원어쌍 | 실제 관계 | 흔한 오용 | 정확한 처리 |
+|:---|:---|:---|:---|
+| Πέτρος (베드로) / λίθος (돌, 눅 13:34 λιθοβολέω 등) | **별개 어근**(πετρ- vs λιθ-), KJV 영어 "stone" 번역에서만 우연히 겹침 | "둘 다 영어로 Stone이니 헬라어로도 완전히 일치한다" | 벧전 2:5 λίθοι(산 돌)만 λιθοβολέω와 헬라어 어근이 실제로 같다. Πέτρος 쪽은 영어 번역 층위의 언어유희일 뿐, 어근 일치의 증거로 쓰지 않는다. |
+| Πέτρος (베드로, 남성) / πέτρα (반석, 여성 — 마 16:18) | **동일 어근**(πετρ-) 계열의 문법적 성(gender) 변형. "작은 돌 vs 큰 바위"의 크기 구분은 고전기 시어(詩語)의 잔재이며, 코이네(신약시대) 헬라어에서는 이 구분이 사실상 소멸해 사람 이름(남성형 필요)과 일반 명사(여성형)로 갈렸을 뿐이다. | "문법적 성별이 다르므로 예수님이 가리키신 대상(반석)은 베드로가 아니다 — 원어가 증명한다" | 예수님이 실제 쓰셨을 아람어 "게바(Kepha)"는 두 절 모두 동일 단일어이며 성별 구분 자체가 없다(요 1:42, 페시타역도 구분 없음). 문법적 성별 차이는 "베드로라는 사람 이름에 여성 명사를 못 쓴다"는 언어학적 불가피성일 뿐, 신학적 신호로 단정할 수 없다. D.A. Carson 등 다수 복음주의 학자도 "πέτρα = 베드로(또는 그의 신앙고백)"로 해석 가능함을 인정한다 — 성별 차이 하나로 "반석≠베드로"를 확정 짓는 것은 과잉 추론(TYPE-AL 어의 확대에 인접). |
+
+> **실행 규칙**: 이 표에 해당하는 원어쌍을 근거로 논증을 세울 때는 반드시 `04_QUIVER(무기고)/TYPE-G_Grammar.md`의 "원어 유사성 자기검증 (Linguistic Kinship Self-Check)" 서브 프로토콜(STEP 1~5)을 통과한 뒤에만 결론에 반영한다. 새로 발견된 원어쌍은 이 표에 즉시 등재한다(살아있는 문서 원칙).
+
+---
+
+*LEXICON v2.2 — 섹션 8 (원어 유사성 오용 경보표) 추가*
 *"The natural man receiveth not the things of the Spirit of God" — 1 Corinthians 2:14 KJV*
+

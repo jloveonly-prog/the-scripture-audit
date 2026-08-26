@@ -1,35 +1,36 @@
-# 🔬 SKILL-06: TYPE-F — Typology Triple Parallel Structure Validation Pipeline
+# 🔬 SKILL-06: TYPE-F — Pipeline for Proving Threefold Typological Parallel Structure
 
-> **When to trigger**: When a specific figure's martyrdom location, method, or mission conflicts with biblical tradition or external historical records.
-> **Core suspicion**: "Does the 3-stage structure of Old Testament Type → New Testament Antitype → Fulfillment (Successor) hold true in this figure's life?"
+> **When to trigger**: When a specific figure's place, manner, and mission of martyrdom conflict with biblical tradition or external historical records.
+> **Core doubt**: "Does the threefold structure of Old Testament Type → New Testament Antitype → Fulfillment hold true in this figure's life?"
 
 ---
 
 ## Execution Steps
 
 ```
-[STEP 1] Identify Old Testament Typological Figure
-  → First, check if Jesus or the biblical authors directly named the New Testament figure as the "son of ~" or the "sign of ~".
-  → Example: Matt 16:17 "Simon Bar-jona (son of Jonah)" → Jesus directly declared Jonah as the typological figure.
+[STEP 1] Identify the Old Testament Type Figure
+  → First verify cases where Jesus or biblical authors directly designate the New Testament figure as
+    the "son of ~" or "sign of ~".
+  → Ex: Matt 16:17 "Simon Barjona" → Jesus directly declares Jonah as the type figure.
 
-[STEP 2] Create Triple Parallel Element Table
+[STEP 2] Create the Threefold Parallel Elements Table
   → | Pattern Item | Type (OT) | Antitype (Jesus) | Fulfillment (NT Figure) |
-  → Find at least 7 parallel elements and fill the table:
-     Region of origin / 3-day structure / Sleep and awakening / Lots / Water incident / Tabernacle / Bird (Dove/Name) / Geographical movement direction
+  → Find at least 7 parallel elements and fill them in the table:
+     Region of origin / 3-day structure / Sleep and awaking / Casting lots / Water event / Tabernacle / Bird (dove/name) / Direction of geographical movement
 
-[STEP 3] Original Language Analysis of the Prophecy
-  → Analyze the verb in the core prophecy verse in the original language (Greek/Hebrew).
-  → For "follow (ἀκολουθήσεις)": Is it spiritual emulation? Or physical following to a location?
-  → Determine the inclusion of locational fulfillment by checking the meaning scope of movement/following of the original verb.
+[STEP 3] Analyze Original Language of Prophecy
+  → Analyze the verbs of core prophetic verses in the original language (Greek/Hebrew).
+  → In the case of "follow (ἀκολουθήσεις)": Is it spiritual imitation? Or following to a physical place?
+  → Confirm the semantic range of movement/following of the original verb to determine if it includes locational fulfillment.
 
-[STEP 4] Verify Biblical Gaps in External Traditions
-  → Regarding existing traditions (e.g., Rome martyrdom theory): Check "In which biblical verse is this tradition directly recorded?"
-  → If there is no record, determine the origin point of the tradition (How many centuries later did it appear?).
-  → Clearly present the hierarchy of reliability between the Biblical text vs. later traditions.
+[STEP 4] Verify Biblical Void of External Traditions
+  → For existing traditions (e.g., Roman martyrdom theory): Verify "In which verse of Scripture is this tradition directly recorded?"
+  → If there is no record, identify the point of origin of the tradition (how many centuries later did it appear?).
+  → Clearly present the hierarchy of reliability between the scriptural text and later tradition.
 
-[STEP 5] Determine Completeness of the Triple Parallel Structure
-  → If 7 or more parallel elements hold true: Judged as a structural design (not a coincidence).
-  → If location/method matches: Adopted as a rationale for the locational fulfillment of the prophecy.
+[STEP 5] Determine Completeness of the Threefold Parallel Structure
+  → If 7 or more parallel elements are established: Determined as structural design (not a coincidence).
+  → If it matches even in place/manner: Adopt as an argument for the locational fulfillment of prophecy.
 ```
 
 ---
@@ -37,57 +38,57 @@
 ## 📌 Reference Case: Peter's Calvary Martyrdom Theory
 
 ```
-[Typology Declaration]: Matt 16:17 "Simon Bar-jona" → Jesus' direct declaration ✅
+[Type Declaration]: Matt 16:17 "Simon Barjona" → Jesus' direct declaration ✅
 
-[Triple Parallel Table]:
-  | Pattern Item | Jonah (Type)        | Jesus (Antitype)        | Peter (Fulfillment)      |
-  |:-------------|:--------------------|:------------------------|:-------------------------|
-  | Origin       | Galilee             | Galilee                 | Galilee                  |
-  | 3-Day Struct.| 3 days in fish belly| 3 days in tomb          | 3 denials → 3 confessions|
-  | Sleep        | Asleep in boat storm| Asleep in boat storm    | Asleep at Gethsemane     |
-  | Lots         | Lots to cast blame  | Lots cast for garments  | Lots to elect Matthias   |
-  | Water        | Saved from water    | Walked on water         | Rescued from water       |
-  | Tabernacle   | Built booth to wait | Tabernacle of flesh (John 1:14)| Wanted to build 3 tabernacles|
-  | Dove(Name)   | Jonah = Dove        | Spirit as a dove        | Spirit's Pentecost descent|
-  → 7/7 perfectly established ✅
+[Threefold Parallel Table]:
+  | Pattern Item | Jonah (Type) | Jesus (Antitype) | Peter (Fulfillment) |
+  |:-----------|:-----------------|:-------------------|:-----------------|
+  | Region of Origin | Galilee | Galilee | Galilee |
+  | 3-Day Structure | 3 days in the fish's belly | 3 days in the sepulchre | 3 denials → 3 confessions |
+  | Sleep | Slept in the ship during the tempest | Slept in the ship during the tempest | Slept in Gethsemane |
+  | Casting Lots | Cast lots to seek fault | Cast lots for His vesture | Cast lots to choose Matthias |
+  | Water | Saved from drowning in the water | Walked on the water | Rescued from sinking in the water |
+  | Tabernacle | Made a booth and tarried | Fleshly tabernacle (John 1:14) | Desired to make three tabernacles |
+  | Dove (Name) | Jonah = dove | The Holy Ghost descended like a dove | Presence of the Holy Ghost at Pentecost |
+  → 7/7 Fully established ✅
 
-[Tradition Gap]:
-  Rome Martyrdom Theory → Appeared after 180 AD, no biblical record ❌
-  Calvary Martyrdom Theory → Aligns with the structural prophecy pattern of the Bible ✅
+[Tradition Void]:
+  Roman martyrdom theory → Appeared after 180 AD, completely absent from scriptural record ❌
+  Calvary martyrdom theory → Accords with the structural prophetic pattern of Scripture ✅
 
-[Original Language Validation]:
-  John 21:19 "Follow me" — ἀκολούθει (Present imperative, continuous following)
-  John 13:36 ἀκολουθήσεις (Future tense) = "You shall physically follow later"
-  → Includes the meaning of physical, locational following ✅
+[Original Language Verification]:
+  John 21:19 "Follow thou me" — ἀκολούθει (present imperative, continuous following)
+  John 13:36 ἀκολουθήσεις (future) = "thou shalt follow me afterwards" (physically)
+  → Includes the meaning of physical and locational following ✅
 ```
 
 ---
 
-## 🆕 Sub-Technique: Cross-Bearing Vector Alignment — v1.1
+## 🆕 Sub-technique: Cross-Bearing Vector Alignment — v1.1
 
-> **Trigger Condition**: When the issue is whether "Follow me" is merely a match of method, or a match up to the location.
-> **Core Question**: *"Are the commands 'Follow' and 'Do' the same?"*
+> **Trigger condition**: When it is at issue whether "Follow me" is merely a match of manner, or also a match of place.
+> **Core question**: *"Are 'Follow' and 'Do' the same commandment?"*
 
 ```
-[STEP 1] Extract the Movement Vector of the Typological Figure (Jesus)
-  → Confirm movement verb + destination
-  → Example: Jesus — βαστάζων (bearing) → ἐξῆλθεν (went forth) → Golgotha (John 19:17)
+[STEP 1] Extract the movement vector of the Type figure (Jesus)
+  → Confirm movement verb + final destination
+  → Ex: Jesus — βαστάζων (bearing) → ἐξῆλθεν (went forth) → Golgotha (John 19:17)
 
-[STEP 2] Extract the Movement Vector of the Fulfillment Figure (Peter)
-  → Confirm movement verb + destination
-  → Example: Peter — φέρω (carry) → ὅπου οὐ θέλεις (where thou wouldest not) → ??? (John 21:18)
+[STEP 2] Extract the movement vector of the Fulfillment (Peter)
+  → Confirm movement verb + final destination
+  → Ex: Peter — φέρω (carry) → ὅπου οὐ θέλεις (whither thou wouldest not) → ??? (John 21:18)
 
-[STEP 3] Determine the Meaning Scope of the Command Verb
-  → ἀκολούθει (follow) = physical accompaniment → Requires alignment of direction + destination
-  → ποίει (do) = imitation of method → Independent of location
-  → Since Jesus used ἀκολούθει and not ποίει:
+[STEP 3] Determine the semantic range of the imperative verb
+  → ἀκολούθει (follow) = physical accompanying → Demands match of direction + final destination
+  → ποίει (do) = imitation of manner → Irrelevant to place
+  → If Jesus used ἀκολούθει and not ποίει:
     → "Follow me" ≠ "Do as I did"
-    → Follow = Same path = Same destination
+    → Follow = same way = same final destination
 
-[STEP 4] Determine Vector Alignment
-  → If the direction + destination of both vectors match → Locational fulfillment confirmed
-  → If the location is different, it should be "Do as I did" rather than "Follow me"
-    → However, since the original text uses Follow → Same location confirmed
+[STEP 4] Determine vector alignment
+  → If the direction + final destination of the two vectors match → Locational fulfillment confirmed
+  → If the place differed, it should have been "Do as I did" instead of "Follow me"
+    → However, since the original text uses Follow → Same place confirmed
 ```
 
-**Battle Log**: `[F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md` — §3-2-C TYPE-F Enhancement
+**Battle Record**: `[F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md` — §3-2-C TYPE-F Reinforcement

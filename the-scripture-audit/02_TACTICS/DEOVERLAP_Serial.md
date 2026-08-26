@@ -1,171 +1,173 @@
-# 🔧 DE-OVERLAP Rule (Overlap Dismantling — Mandatory Protocol)
+# 🔧 DE-OVERLAP Rule (중첩 해체 — 의무 프로토콜)
 **"Prove all things" — 1 Thessalonians 5:21 KJV**
 
 > [!CAUTION]
-> The moment you violate this rule, you repeat the errors of academia.
-> **Unless the text explicitly states "simultaneously", all events are serial (sequential).**
+> 이 규칙을 위반하는 순간 학계의 오류를 그대로 반복한다.
+> **텍스트가 "동시에"라고 명시하지 않는 한, 모든 사건은 직렬(순서대로)이다.**
 
 ---
 
-## 📐 The 4 Principles of DE-OVERLAP
+## 📐 DE-OVERLAP 4원칙
 
-### Principle 1. Time Serialization
-> If two periods conflict, they MUST be arranged serially as **A then B**.
-> The assumption that "A and B happened simultaneously" is not adopted without basis in the KJV text.
+### 원칙 1. 시간 직렬화 (Time Serialization)
+> 두 기간이 충돌하면 반드시 **A 이후 B**로 직렬 배치한다.
+> "A와 B가 동시에 일어났다"는 가정은 KJV 원문 근거 없이 채택하지 않는다.
 
-```text
-❌ Academic Method: 8 yrs reign + 2 yrs sickness = 8 yrs (treated as overlapping periods)
-✅ DE-OVERLAP:      8 yrs reign → 2 yrs sickness = Total 10 yrs (serial arrangement)
-                    → 32 yrs accession + 8 + 2 = 42 yrs at death ← Resolves 42 in 2 Chron 22:2
+```
+❌ 학계 방식:  8년 통치 + 2년 투병 = 8년 (겹치는 기간으로 처리)
+✅ DE-OVERLAP: 8년 통치 → 2년 투병 = 총 10년 (직렬 배치)
+               → 32세 즉위 + 8 + 2 = 42세 사망 ← 대하 22:2의 42세 해소
 ```
 
-**📌 CHRONICLE War Log**: `[A]_Ahaziah_42vs22.md`
+**📌 CHRONICLE 전투기록**: `[A]_아하지야_42vs22.md`
 
 ---
 
-### Principle 2. Space/Scope Separation
-> If two numbers referred to by the same word conflict, separate them by **differences in function/scale**.
-> → Immediately trigger TYPE-C (Functional Category Separation).
+### 원칙 2. 공간 분리화 (Space/Scope Separation)
+> 같은 단어가 가리키는 두 숫자가 충돌하면, **기능/규모의 차이**로 분리한다.
+> → TYPE-C(기능적 범주 분리) 즉시 발동
 
-```text
-❌ Academic Method: 40,000 vs 4,000 = Copyist error
-✅ DE-OVERLAP:      40,000 = Individual horse partitions (Total capacity)
-                    4,000  = Chariot operation units (Only those ready for deployment)
-                    → They do not overlap. The units are different.
+```
+❌ 학계 방식:  40,000 vs 4,000 = 필사 오류
+✅ DE-OVERLAP: 40,000 = 개별 말 수용칸 (전체)
+               4,000  = 병거 운용 작전 단위 (가동 준비된 것만)
+               → 겹치지 않는다. 단위가 다르다.
 ```
 
-**📌 CHRONICLE War Log**: `[C]_Solomon_Stalls_40k_vs_4k.md`
+**📌 CHRONICLE 전투기록**: `[C]_솔로몬_외양간_4만vs4천.md`
 
 ---
 
-### Principle 3. Speech Sequence Preservation
-> If the speech/event order differs between two records,
-> arrange them serially: what happened first as **1st**, and later as **2nd**.
-> Before assuming "the two records are the exact same 1-second snapshot," determine if it's a process.
+### 원칙 3. 발화 순서 보존 (Speech Sequence Preservation)
+> 두 기록의 발화/사건 순서가 다르면,
+> 먼저 일어난 것을 **1차**, 나중을 **2차**로 직렬 배치한다.
+> "두 기록이 동일한 1초의 스냅샷이다"라는 가정 전에 반드시 프로세스 판별 선행.
 
-```text
-❌ Academic Method: Acts 9:7 (Heard voice) vs Acts 22:9 (Heard not voice) = Contradiction
-✅ DE-OVERLAP:      1st Speech (Saul's exclusive voice) → Companions did not hear (Acts 22:9)
-                    2nd Speech (Command voice)          → Companions heard (Acts 9:7)
-                    → It's not the same moment, but two speeches — No contradiction.
+```
+❌ 학계 방식:  행 9:7(소리 들음) vs 행 22:9(소리 못 들음) = 모순
+✅ DE-OVERLAP: 1차 발화(사울 전용 음성) → 동행자 못 들음 (행 22:9)
+               2차 발화(명령 음성)       → 동행자 들음    (행 9:7)
+               → 동일 순간이 아니라 두 번의 발화 — 모순 없음
 ```
 
-**📌 CHRONICLE War Log**: `[B]_Saul_Damascus.md`
+**📌 CHRONICLE 전투기록**: `[B]_사울_다마스쿠스.md`
 
 ---
 
-### Principle 4. Sabbath Overlap Rejection
-> When academia treats "two Sabbaths as overlapping,"
-> first verify if there is a basis in the KJV text. If not, reject immediately.
+### 원칙 4. 안식일 중첩 기각 (Sabbath Overlap Rejection)
+> 학계가 "두 안식일이 겹친다"고 처리하는 경우,
+> KJV 원문에 근거가 있는지 먼저 확인한다. 없으면 즉시 기각.
 
-```text
-❌ Academic Method: Friday crucifixion → High Sabbath + Regular Sabbath overlap → Cannot buy spices
-                    (Cannot resolve Mark 16:1 vs Luke 23:56 = Leads to Thursday/Friday crucifixion theory)
-✅ DE-OVERLAP:      Wednesday crucifixion → Thursday (High Sabbath) + Friday (Blank weekday) + Saturday (Regular Sabbath)
-                    → Bought spices during the Friday weekday gap (Fulfills Mark 16:1)
-                    → Rested on the Saturday Sabbath (Fulfills Luke 23:56)
-                    → Fully satisfies 3 days and 3 nights (72 hours) (Matt 12:40)
+```
+❌ 학계 방식:  금요일 십자가 → 큰 안식일 + 정규 안식일 겹침 → 향품 구매 불가
+               (마 16:1 vs 눅 23:56 해소 불가 = 목요일/금요일 십자가설 도출)
+✅ DE-OVERLAP: 수요일 십자가 → 목요일(큰 안식일) + 금요일(평일 공백) + 토요일(정규 안식일)
+               → 금요일 평일 공백에서 향품 구매 (막 16:1 충족)
+               → 토요일 안식일에 쉼 (눅 23:56 충족)
+               → 3일 낮밤 72시간 완전 충족 (마 12:40)
 ```
 
-**📌 CHRONICLE War Log**: `[B+E]_Passion_Week_Timeline.md`
+**📌 CHRONICLE 전투기록**: `[B+E]_고난주간_타임라인.md`
 
 ---
 
-### Principle 5. Hazakah (Principle of State Continuity)
-> Until a clear, physical 'state-changing verse (counter-evidence)' appears,
-> the state or timeline established in the first (or previous) verse is considered to continue.
-> Blocks baseless academic leaps like "Something must have changed in between."
+### 원칙 5. 하자카 (Hazakah: 상태 지속성의 원리)
+> 명백하고 물리적인 '상태 변경 구절(반대 증거)'이 등장하기 전까지는,
+> 최초(또는 이전) 구절에서 정립된 상태나 타임라인이 계속 유지되는 것으로 간주한다.
+> "이 사이에 무언가 변했을 것이다"라는 증거 없는 학계의 비약적 가정을 차단한다.
 
-```text
-❌ Academic Method: It's not written here, but surely it changed in between.
-✅ DE-OVERLAP:      Initial state is permanently maintained until counter-evidence verses appear.
+```
+❌ 학계 방식: 여기서는 안 적혀있지만 분명 이 사이에 변했을 것이다.
+✅ DE-OVERLAP: 반대 증거 구절이 나타나기 전까지 최초 상태 영구 유지.
 ```
 
 ---
 
-### Principle 6. Single Gospel Internal Sequence Lock (Internal Narrative Sequence Lock)
+### 원칙 6. 단일 복음서 내부 순서 불가침 (Internal Narrative Sequence Lock)
 
-> **The internal narrative sequence of historical/narrative documents can NEVER be reversed when reconstructing a timeline.**
-> Placement locations between Gospels can differ — because each author has different theological emphases.
-> However, **if recorded in the order of A → B → C within a single document, the timeline MUST also be A < B < C.**
+> **역사·서사 문서의 내부 서술 순서는 타임라인 재구성 시 절대 역전할 수 없다.**
+> 복음서 간 배치 위치는 달라도 된다 — 각 저자가 신학적 강조점이 다르기 때문.
+> 그러나 **한 문서 안에서 A → B → C 순서로 기록됐다면, 타임라인에서도 A < B < C여야 한다.**
 
-```text
-Core Principle:
-  Cross-gospel: The same event can be placed in different locations ✅ Allowed
-  Within-gospel: The order within one Gospel MUST be maintained ❌ Reversal Forbidden
+```
+핵심 원칙:
+  복음서 간 (cross-gospel): 같은 사건이 서로 다른 위치에 배치될 수 있다 ✅ 허용
+  복음서 내 (within-gospel): 한 복음서 안의 순서는 반드시 유지해야 한다 ❌ 역전 불가
 ```
 
 > [!IMPORTANT]
-> **⚠️ Genre Scope Application**
+> **⚠️ 장르 적용 범위 (Genre Scope)**
 >
-> | Target | Applies Principle 6? | Reason |
+> | 적용 대상 | 원칙 6 적용 여부 | 이유 |
 > |:---|:---:|:---|
-> | Historical Books (Gen, Ex, Kings, Chron, Acts) | ✅ Applies | Narrative of event sequences |
-> | Gospels (Matt, Mark, Luke, John) | ✅ Applies | Narrative of event sequences |
-> | **Wisdom/Poetic Books (Job, Psa, Prov, Eccl, Song)** | **❌ Does Not Apply** | **Logical/Thematic structure, not chronological** |
-> | Prophetic Books (Isa, Jer, Eze, Dan) | ⚠️ Partially Applies | Applies to historical prophecy, not poetic parts |
-> | Epistles (Rom, Cor, Gal, Eph...) | ❌ Does Not Apply | Logical argument structure, not chronological |
-> | Revelation | ⚠️ Partially Applies | Visions have order, but not strictly historical time sequence |
+> | 역사서 (창·출·왕상·대하·행전) | ✅ 적용 | 사건 순서 서술 |
+> | 복음서 (마·막·눅·요) | ✅ 적용 | 사건 순서 서술 |
+> | **시가서 (욥·시·잠·전·아)** | **❌ 미적용** | **논리·주제 구조, 시간 순서 없음** |
+> | 예언서 (사·렘·겔·단) | ⚠️ 부분 적용 | 역사적 예언은 적용, 시적 부분은 미적용 |
+> | 서신서 (로·고·갈·엡...) | ❌ 미적용 | 논리 전개 구조, 연대기 아님 |
+> | 계시록 | ⚠️ 부분 적용 | 환상 자체는 순서 있으나 역사적 시간순 아님 |
 
-**The Book of Job is a primary exception:**
-```text
-Job chapters 3~37 = Arguments of Job + 3 friends + Elihu
-→ This is not a chronological sequence, but 'rounds of argument'.
-→ Analyzing that "Eliphaz spoke first, so he must chronologically precede Bildad" is meaningless.
-→ Principle 6 Does Not Apply ← Genre: Wisdom Debate Literature
+**욥기가 대표 예외:**
+```
+욥기 3~37장 = 욥 + 세 친구 + 엘리후의 논쟁 변론
+→ 이것은 시간 순서가 아니라 '논증의 라운드'다
+→ "엘리파스가 먼저 말했으니 시간상 빌닷보다 앞서야 한다"는 분석은 무의미
+→ 원칙 6 미적용 ← 장르: 지혜 논쟁 문학
 ```
 
-**Historical Book Application Example — Resurrection Morning in the Gospel of John:**
-```text
-John 20:1 → T1 / John 20:3 → T4 / John 20:11 → T5 / John 20:14 → T6
-→ The sequence T1 < T4 < T5 < T6 can NEVER be reversed ← Genre: Historical Narrative
+**역사서 적용 예 — 부활 아침 요한복음:**
+```
+요 20:1  → T1 / 요 20:3 → T4 / 요 20:11 → T5 / 요 20:14 → T6
+→ T1 < T4 < T5 < T6 순서는 절대 역전 불가 ← 장르: 역사 서사
 ```
 
-**📌 CHRONICLE War Log**: `05_REPORT/REPORT_Resurrection_Morning_Sequence.md`
+**📌 CHRONICLE 전투기록**: `05_REPORT(전과보고서)/REPORT_부활아침_무덤사건_순차통합.md`
+
 
 ---
 
-### Principle 7. Pronoun Coherence Lock
+### 원칙 7. 대명사 일관성 잠금 (Pronoun Coherence Lock)
 
-> **If a plural pronoun (WE/they/us) is found in a sentence that started with a singular subject,**
-> **the presence of companions is confirmed. Must re-establish the number of people before performing TYPE-B.**
+> **단수 주어로 시작한 문장에서 복수 대명사(WE/they/우리)가 발견되면,**
+> **동행자가 존재한다는 것이 확정된다. TYPE-B 수행 전 인물 수를 재확정해야 한다.**
 
-```text
-Rule:
-  Singular subject A acts → "WE/us" spoken in the same or adjacent verse
-  → A is not alone — Confirm companions, adjust headcount, then perform TYPE-B.
+```
+규칙:
+  단수 주어 A가 행동하다 → 같은 구절 또는 인접 구절에서 "우리/WE" 발화
+  → A는 혼자가 아니다 — 동행자를 확정하고 인물 수 수정 후 TYPE-B 수행
 
-Failure Case (Real error lesson):
-  John 20:1 "cometh Mary Magdalene" → Assumed Mary (Magdalene) was alone.
-  John 20:2 "WE know not" → Did not verify plural.
-  → Set T1 as solitary visit → Failed to align with Mark 16:3.
-  → If Principle 7 was applied: Companions confirmed at "WE" → Solitary assumption discarded → Naturally aligns with Mark 16:3.
+실패 사례 (실확 교훈):
+  요 20:1 "cometh Mary Magdalene" → 마리아(막달라) 혼자로 가정
+  요 20:2 "WE know not" → 복수 확인 안 함
+  → T1 단독 방문 설정 → 막 16:3 정합 불가
+  → 원칙 6 적용했다면: "WE"에서 동행자 확정 → 단독 가정 폐기 → 막 16:3 자연스럽게 정합
 ```
 
-**Discard Triggers:**
+**폐기 트리거:**
 
-| Detection Signal | Principle 7 Reaction |
+| 발견 신호 | 원칙 7 반응 |
 |:---|:---|
-| "It stated a singular subject" | Request check for explicit "alone" |
-| WE/they appears in adjacent verse | Companion presence confirmed → Trigger TYPE-M |
-| Singular verb + plural pronoun | Direct complete timeline review |
+| "단수 주어라고 했다" | "alone" 명시 여부 확인 요청 |
+| 인접 구절에 WE/they 등장 | 동행자 존재 확정 → TYPE-M 발동 |
+| 단수 동사 + 복수 대명사 | 타임라인 전면 재검토 지시 |
 
-**📌 War Log**: Lesson case in `05_REPORT/REPORT_Resurrection_Morning_Sequence.md` John 20:2
+**📌 전투기록**: `05_REPORT(전과보고서)/REPORT_부활아침_무덤사건_순차통합.md` 요 20:2 교훈 사례
 
 ---
 
-## ⚠️ DE-OVERLAP Immediate Rejection Triggers
+## ⚠️ DE-OVERLAP 즉시 기각 트리거
 
-| Academic/Attacker Expression | DE-OVERLAP Reaction |
+| 학계/공격자 표현 | DE-OVERLAP 반응 |
 |:---|:---|
-| "The two periods seem to overlap" | Demand verification of "simultaneously" expression in KJV |
-| "There was a co-regency period" | Reject immediately if no textual basis |
-| "These two records are the exact same moment" | Determine first: "Process or snapshot?" |
-| "Numbers overlap due to copyist error" | Require ANCHOR collection + MATRIX reverse calculation first |
-| "This Gospel is out of order with that Gospel" | Check internal order of single Gospel first — Apply Principle 6 |
-| "Singular subject means no companions" | Check adjacent verses for WE/they — Apply Principle 7 |
+| "두 기간이 겹치는 것으로 보인다" | KJV 원문에서 "동시에" 표현 확인 요구 |
+| "공동 통치 기간이 있었다" | 원문 근거 없으면 즉시 기각 |
+| "이 두 기록은 같은 사건의 같은 순간" | "프로세스인가, 스냅샷인가?" 판별 먼저 |
+| "필사 오류로 숫자가 겹쳤다" | ANCHOR 수집 + MATRIX 역산 선행 요구 |
+| "이 복음서는 저 복음서와 순서가 다르다" | 단일 복음서 내부 순서부터 확인 — 원칙 6 적용 |
+| "단수 주어라고 동행자 없다" | 인접 구절 WE/they 확인 — 원칙 7 적용 |
 
 ---
 
-*DE-OVERLAP v5.0 — Added Principle 5 (Hazakah) and updated numbering*
-*"Order is the law of heaven" — Application of 1 Cor 14:40 KJV*
+*DE-OVERLAP v5.0 — 원칙 5 (하자카/지속성) 추가 및 번호 업데이트*
+*"Order is the law of heaven" — 고전 14:40 KJV 적용 원칙*
+

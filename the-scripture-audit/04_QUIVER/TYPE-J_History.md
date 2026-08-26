@@ -1,69 +1,70 @@
-## 🔬 SKILL-10: TYPE-J — External Historical Literature Cross-Verification Pipeline
+## 🔬 SKILL-10: TYPE-J — External Historical Literature Cross-Validation Pipeline
 
-> **When to trigger**: When you need to verify or strengthen biblical historical claims (figures, events, places, transmissions) with non-biblical historical texts or archaeological data.  
-> **Core Suspicion**: "Is there an external historical text corresponding to this biblical record? Does it support, refute, or remain neutral toward the Bible?"
+> **When to invoke**: When biblical historical claims (persons, events, places, traditions) must be verified or strengthened through non-biblical historical texts or archaeological data.
+> **Core inquiry**: "Is there a corresponding external historical document for this biblical record? Does it support, contradict, or remain neutral toward the Scripture?"
 
 ### Execution Steps
 
-```text
-[STEP 1] Clarify Biblical Claim
-  → Clearly define the target biblical claim to be verified in a single sentence.
-  → Ex: "It is possible that the gospel of Pentecost's descent of the Holy Spirit was transmitted to Silla."
-  → Ex: "Jesus was a historical figure." (Tacitus Verification)
+```
+[STEP 1] Clarification of Biblical Claim
+  → Clearly define the biblical claim to be verified in a single line.
+  → Ex: "The possibility that the gospel of the descent of the Holy Ghost at Pentecost reached as far as Silla."
+  → Ex: "Jesus is a historically existent person" (Tacitus verification)
 
 [STEP 2] Exhaustive Collection of Related External Literature
   → Collect external historical records related to the biblical era/region/event by category:
-     □ Roman History: Tacitus' *Annals*, Suetonius' *The Twelve Caesars*
-     □ Jewish History: Josephus' *Antiquities of the Jews*, *The Jewish War*
-     □ Assyria/Babylon: Nineveh tablets, Babylonian Chronicles
-     □ Egypt: Pharaoh Chronicles, Merneptah Stele
-     □ Eastern History: Samguk Sagi, Samguk Yusa, Indian/Syrian church records
+     □ Roman history: Tacitus' *Annals*, Suetonius' *The Twelve Caesars*
+     □ Jewish history: Josephus' *Antiquities of the Jews*, *The Jewish War*
+     □ Assyria·Babylon: Nineveh tablets, Babylonian Chronicles
+     □ Egypt: Pharaoh chronicles, Merneptah Stele
+     □ Eastern history: *Samguksagi*, *Samgukyusa*, Indian·Syrian church records
      □ Archaeology: Excavated artifacts, inscriptions, coins, architectural structures
 
-[STEP 3] Classify Literature Reliability Grade
+[STEP 3] Classification of Literature Reliability Grades
   → Assign a reliability grade to each document:
-     🔴 Direct Evidence: Explicitly mentions/confirms the biblical record
-     🟠 Strong Indirect: Independent records of the same era/region/event
-     🟡 Weak Indirect: Circumstantial evidence (traces of place names, customs, language)
-     ⬛ Neutral: Remains silent on the claim (Absence ≠ Disproof)
+     🔴 Direct evidence: Explicitly mentions and confirms the biblical record
+     🟠 Strong indirect: Independent record of the same era, region, and event
+     🟡 Weak indirect: Circumstantial evidence (traces of place names, customs, languages)
+     ⬛ Neutral: Silent on the claim (absence ≠ disproof)
 
-[STEP 4] Backtrack Etymology of Place Names/Language/Archaeology
+[STEP 4] Etymological Tracing of Place Names, Language, and Archaeology
   → If a place name is the basis:
-     - Verify the Hanja (Chinese characters) / language spelling in the oldest official record.
-     - If the spelling changed in later generations, investigate the time and reason for the change.
-     - Analyze whether the meaning of the original spelling connects to theological concepts.
-  → Ex: Record of King Gyeongdeok in Samguk Sagi, 757 AD → 舌化縣 (Seolhwa-hyeon) = Tongue(舌) + Fire/Transform(火/化)
-       → Crosses meaning with Pentecost "cloven tongues like as of fire" (Acts 2:3) concept.
+     - Check the Chinese character/language notation in the oldest official record
+     - If the notation was changed in later generations, investigate the time and reason for the change
+     - Analyze whether the meaning of the original notation connects with theological concepts
+  → Ex: *Samguksagi* King Gyeongdeok AD 757 record → Seolhwahyeon (舌化縣) = tongue (舌) + fire/change (火/化)
+       → Cross-validation of concept and meaning with the "cloven tongues like as of fire" (Acts 2:3) at Pentecost
 
-[STEP 5] Output 3-Tier Verdict
-  → ✅ Supports: External literature directly/indirectly confirms the biblical claim.
-  → ⚠️ Circumstantial: Plausibility exists but direct connecting evidence is absent (Maintain hypothesis).
-  → ❌ Refutes: External literature explicitly denies the biblical claim.
-  → Must clearly specify the "Strength of Evidence (🔴/🟠/🟡)" along with the verdict.
+[STEP 5] Output 3-Tier Judgment
+  → ✅ Support: External literature directly/indirectly confirms the biblical claim
+  → ⚠️ Circumstantial: Plausible but lacking direct connecting evidence (hypothesis retained)
+  → ❌ Contradict: External literature explicitly denies the biblical claim
+  → Must specify "evidence strength (🔴/🟠/🟡)" alongside the judgment
 ```
 
-### 📌 Reference Case 1: Samguk Sagi's 舌化縣 (Seolhwa-hyeon) and Pentecost Transmission Possibility
+### 📌 Reference Case 1: *Samguksagi* Seolhwahyeon and the Possibility of Pentecost Transmission
 
-```text
-[Biblical Claim]: The possibility that the Pentecostal gospel was transmitted to Silla through the Apostle Thomas or early missionaries.
-[External Literature]: Samguk Sagi Geography Section — King Gyeongdeok 757 AD "Hwawon area in Dalseong-gun = 舌化縣 (Seolhwa-hyeon)"
-[Etymology Analysis]:
-  舌 (Tongue Seol) + 化 (Become Hwa) or 火 (Fire Hwa)
-  → "Tongue transforms" or "Tongues of fire" → Matches meaning with Acts 2:3 Pentecost "tongues of fire" concept.
-  → Later replaced by the Hanja 雪花 (Snowflake) → Daegu is an area where it rarely snows → Meaning mismatch.
-[Reliability]: 🟡 Weak Indirect (Circumstantial evidence) — No direct connecting literature.
-[Verdict]: ⚠️ Circumstantial — Linguistic plausibility exists, but UNRESOLVED.
+```
+[Biblical Claim]: The possibility that the Pentecostal gospel was transmitted to Silla through the apostle Thomas or early missionaries
+[External Literature]: *Samguksagi* Geography — King Gyeongdeok AD 757 "Hwawon region of Dalseong-gun = Seolhwahyeon (舌化縣)"
+[Etymological Analysis]:
+  舌 (tongue Seol) + 化 (change Hwa) or 火 (fire Hwa)
+  → "tongue changing" or "tongues of fire" → Matches the concept and meaning of "cloven tongues like as of fire" at Pentecost in Acts 2:3
+  → Hanja replaced with Seolhwa (雪花, snowflake) in later times → Daegu is a region where it rarely snows → Meaning mismatch
+[Reliability]: 🟡 Weak indirect (circumstantial evidence) — No directly connecting literature
+[Judgment]: ⚠️ Circumstantial — Has linguistic plausibility but UNRESOLVED
 ```
 
 ### 📌 Reference Case 2: Tacitus' *Annals* and the Historicity of Jesus
 
-```text
-[Biblical Claim]: Jesus Christ was a historical figure.
-[External Literature]: Tacitus' *Annals* 15.44 (approx. 116 AD)
-  "Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus, and a most mischievous superstition, thus checked for the moment, again broke out not only in Judaea, the first source of the evil, but even in Rome..."
-[Reliability]: 🔴 Direct Evidence (Independent record by a Roman imperial historian)
-  → Recorded by a Roman historian hostile to Christians → Highest reliability grade.
-[Verdict]: ✅ Supports — Jesus' historicity confirmed by external literature.
+```
+[Biblical Claim]: Jesus Christ is a historically existent person
+[External Literature]: Tacitus' *Annals* 15.44 (circa AD 116)
+  "Christus was executed by the procurator Pontius Pilate during the reign of Emperor Tiberius.
+   That mischievous superstition was suppressed for a time, but flourished again in Rome."
+[Reliability]: 🔴 Direct evidence (independent record by Roman imperial historian)
+  → Recorded by a Roman historian hostile to Christians → Highest reliability grade
+[Judgment]: ✅ Support — Historicity of Jesus confirmed by external literature
 ```
 
 ---

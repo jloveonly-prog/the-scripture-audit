@@ -1,64 +1,65 @@
-# 🔬 SKILL-04: TYPE-D — Hebrew Narrative Convention Reverse Engineering Pipeline
+# 🔬 SKILL-04: TYPE-D — Hebrew Narrative Convention Reversal Pipeline
 
-> **When to trigger**: When the listing order of genealogies, the reference point of numbers, or character titles appear to conflict.
-> **Core suspicion**: "Is this an error? Or is it an established convention of ancient Hebrew literature?"
+> **When to Trigger**: When the order of genealogies, reference points for numbers, or titles of persons appear to conflict.
+> **Core Inquiry**: "Is this an error? Or is it an established convention of ancient Hebrew literature?"
 
 ---
 
 ## Execution Steps
 
 ```
-[STEP 1] Identify Convention Patterns
-  Find the applicable one among the following list of Hebrew literary conventions:
+[STEP 1] Identify Convention Pattern
+  Find the corresponding pattern among the following list of Hebrew literary conventions:
   □ Importance-First Listing
-    : Theologically significant figures, rather than the firstborn, are recorded first
+    : A theologically significant person is recorded first, rather than the firstborn.
   □ Genealogy Formula
-    : "Begat Y at age X" = Began begetting Y along with Z during that period
+    : "Begat Y at X years of age" = Began to beget Z also during that period alongside Y.
   □ Ben Idiom
-    : "Son of ~" = Means relationship/status/coordinates instead of age
+    : "Son of ~" = Signifies relationship/status/coordinate instead of age.
   □ Dual Inclusion
-    : Figures at the turning point of an era are included in two generations simultaneously
+    : A person at the turning point of eras is included in two generations simultaneously.
   □ Telescoping
-    : Skipping intermediate generations in ancient narratives
+    : Skipping intermediate generations in ancient narrative recording.
 
-[STEP 2] Collect Cross-Cases of the Same Pattern Within the Bible
-  → Find at least two other verses where the same convention is used and compare them in a table.
-  → | Case Verse | Actual Situation | Result of Convention Application |
-  → Prove internally within the Bible that this is an 'established pattern' rather than an error.
+[STEP 2] Collect Cross-References of the Same Pattern within the Scriptures
+  → Find at least two other passages where the same convention is used and contrast them in a table.
+  → | Example Passage | Actual Situation | Result of Convention Application |
+  → Prove from within the Scriptures that this is an 'established pattern' and not an error.
 
-[STEP 3] Apply Reductio ad Absurdum (Proof by Contradiction)
-  → Consider "If the attacker's interpretation is followed → what absurdity arises?" to collapse the attack logic itself.
+[STEP 3] Apply Reductio ad Absurdum
+  → By examining "If according to the adversary's interpretation → what absurdity arises?",
+    collapse the adversary's logic itself.
 
-[STEP 4] Cross-Validation with Josephus and External Historical Sources
+[STEP 4] Cross-Verify with Josephus and External Sources
   → Verify how ancient historians (like Josephus) interpreted the same event.
 ```
 
 ---
 
-## 📌 Reference Case: Terah's 70-Year-Old Abram Birth Conundrum
+## 📌 Reference Case: The Difficulty of Abram's Birth at Terah's 70 Years
 
 ```
-[Conflict]: Gen 11:26 "Terah lived seventy years, and begat Abram, Nahor, and Haran."
-            Gen 11:32 "the days of Terah were two hundred and five years: and Terah died in Haran."
-            Gen 12:4  "Abram was seventy and five years old when he departed out of Haran."
-            → 205 - 75 = 130 years old when Abram was born, so why did it say he begat him at 70?
+[Conflict]: Gen 11:26 "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+        Gen 11:32 "And the days of Terah were two hundred and five years: and Terah died in Haran."
+        Gen 12:4  "...and Abram was seventy and five years old when he departed out of Haran."
+        → 205 - 75 = Abram was born at 130 years of age, so why is it said he begat him at 70?
 
 [Convention Identification]: Genealogy Formula + Importance-First Listing
 
-[Cross-Cases]:
-  Gen 5:32 "Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
-  → Gen 10:21 reveals that Japheth is the elder brother → Noah's 500 years = Birth year of the youngest, Shem
-  → Not a simultaneous birth of three → Same convention confirmed ✅
+[Cross-References]:
+  Gen 5:32 "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+  → Gen 10:21 reveals Japheth is the elder → Noah's 500 years = birth year of the youngest, Shem
+  → They were not born simultaneously → Same convention confirmed ✅
 
-  Gen 11:26 "Terah lived seventy years, and begat Abram, Nahor, and Haran."
-  → Gen 11:32+12:4 reverse calculation = Abram born when Terah was 130
-  → 70 years = Birth year of Haran (Firstborn, proven by his dying first) / Abram is recorded first due to theological priority
+  Gen 11:26 "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+  → Backward calculation from Gen 11:32+12:4 = Abram born at Terah's 130 years
+  → 70 years = birth year of Haran (the firstborn, proven by his earlier death) / Abram is recorded first by theological priority
 
 [Reductio ad Absurdum]:
-  Applying "Simultaneous birth of three at age 70" to Noah → Did Noah also have triplets at age 500?
-  → Nowhere does the Bible support multiple twin/triplet births → Attack logic collapses ✅
+  Apply "three born simultaneously at 70" to Noah → Does it mean Noah also begat triplets at 500?
+  → Nowhere in Scripture is triplet birth supported here → Adversary's logic collapsed ✅
 
-[Reverse Calculation Validation]:
-  Terah's death at 205 - Abram's departure at 75 (Gen 12:4) = Abram born when Terah was 130
-  → 70 (Haran's birth) + 60 (Rest of Terah's life) = Abram born at 130 → Perfect consistency ✅
+[Backward Calculation Verification]:
+  Terah's death at 205 - Abram's departure at 75 (Gen 12:4) = Abram born at Terah's 130 years
+  → 70 (Haran's birth) + 60 (Terah's remaining life) = Abram born at 130 years → Perfect coherence ✅
 ```

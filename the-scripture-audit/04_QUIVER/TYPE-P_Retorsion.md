@@ -1,91 +1,92 @@
-# ↩️ SKILL-16: TYPE-P — Retorsion / Boomerang Argument
+﻿# ↩️ SKILL-16: TYPE-P — Retorsion / Boomerang Argument (Retorsion)
 **"Out of thine own mouth will I judge thee." — Luke 19:22 KJV**
 
-> **When to trigger**: When the opponent brings up an **analogy, comparison, or example** to defend themselves.
-> AND when dismantling the internal structure of that analogy **actually refutes the opponent's own claim**.
-> **Core Question**: *"What prerequisites are needed for this analogy to hold? Are those conditions met in the opponent's claim?"*
+> **When to trigger**: When the adversary bringeth up a **parable, analogy, or example** to defend themselves.
+> AND when dismantling the internal structure of that analogy **rather confuteth the adversary's own claim**.
+> **Core Question**: *"What prerequisite conditions are necessary for this analogy to be established? Are those conditions fulfilled in the adversary's claim as well?"*
 
 > [!IMPORTANT]
 > **Do not confuse with TYPE-E:**
-> - `TYPE-E` = I collect external competing models → dismiss them (Attack direction: External)
-> - `TYPE-P` = Reverse the analogy brought by the opponent and turn it back on them (Attack direction: Internal reversal)
-> "Judo throw" — using the opponent's strength against them.
+> - `TYPE-E` = I collect→reject an external competing model (Direction of attack: External)
+> - `TYPE-P` = Reverse the analogy brought up by the adversary and return it to them (Direction of attack: Internal reversal)
+> The "shoulder throw" of Judo — returning the adversary's strength back upon the adversary.
 
 ---
 
 ## ⚙️ Execution Steps
 
 ```
-[STEP 1] Extract the opponent's analogy/comparison exactly as stated
+[STEP 1] Extract the adversary's analogy/parable exactly as in the original text
   → Quote accurately without distortion.
 
-[STEP 2] Specify the preconditions (Premises) for the analogy to hold
-  → What conditions are absolutely necessary for this analogy to work validly?
-  → Extract at least 2 preconditions.
+[STEP 2] Specify the prerequisite condition (Premise) for the analogy to be established
+  → What condition is absolutely necessary for this analogy to operate validly?
+  → Extract at least 2 prerequisite conditions or more
 
-[STEP 3] Apply the same preconditions to the opponent's claim
-  → Compare using the table format below:
+[STEP 3] Substitute the same prerequisite conditions into the adversary's claim
+  → Compare in the table format below:
 
-  | Category | 🌿 Original Analogy | ❌ Opponent's Claim |
+  | Category | 🌿 Original Analogy | ❌ Adversary's Claim |
   |:---|:---|:---|
-  | Did it exist? | ✅ Yes | ✅ Claimed it did |
-  | Now? | ❌ No | ❌ No trace |
-  | Why did it disappear? | ✅ Recorded in the Bible | ❌ No biblical record |
+  | Was it there? | ✅ It was there | ✅ Claimed to be there |
+  | Now? | ❌ None | ❌ No trace |
+  | Why did it disappear? | ✅ Recorded in the Scripture | ❌ No record in the Scripture |
   | Evidence of disappearance? | ✅ Specific verses | ❌ None |
   | Promise of restoration? | ✅ Yes | ❌ None |
 
-[STEP 4] Unfulfilled preconditions → Declare Retorsion
-  → "The analogy you brought up actually refutes your claim."
+[STEP 4] Prerequisites not fulfilled → Declare Retorsion
+  → "The analogy thou hast brought forth rather confuteth thine own claim."
   → Official declaration format:
-     "The reason analogy [A] holds is that [Premise X] is met.
-      However, in your claim [B], there is no biblical record corresponding to [Premise X].
-      Therefore, this analogy supports [My claim], not [B]."
+     "The reason analogy [A] is established is because [Premise X] is fulfilled.
+      But in thy claim [B], there is no scriptural record corresponding to [Premise X].
+      Therefore, this analogy supporteth not [B] but [My claim]."
 ```
 
 ---
 
 ## 📌 Reference Case: Garden of Eden Analogy Retorsion
 
-**Background**: When the Millennial Kingdom past fulfillment theorist couldn't answer "Why do the beasts of Isaiah 11 bite humans now?", they tried to evade the point by bringing up the Garden of Eden analogy.
+**Background**: When the past fulfillment theorist of the Millennial Kingdom could not answer
+"Why do the wild beasts of Isaiah 11 bite men now?", they tried to evade the point by bringing up the Garden of Eden analogy.
 
 ```
-[STEP 1] Extract Opponent's Analogy:
-  "It was a paradise during the days of Adam and Eve, but why isn't it a paradise now?
-   Is it a lie that it was a paradise back then?"
+[STEP 1] Extract adversary's analogy:
+  "It was a paradise in the days of Adam and Eve, but why is it not a paradise now?
+   Is it a lie that it was a paradise then?"
 
-[STEP 2] Preconditions:
-  Condition A: The reason for Eden's conclusion must be clearly recorded in the Bible.
-  Condition B: Specific evidence (traces) of Eden's disappearance must be in the Bible.
+[STEP 2] Prerequisite conditions:
+  Condition A: The reason for the end of Eden must be clearly recorded in the Scripture
+  Condition B: Specific evidence (traces) of Eden's disappearance must be in the Scripture
 
-[STEP 3] Comparison Table:
+[STEP 3] Comparison table:
   | Category | Garden of Eden | Millennial Kingdom of Past Fulfillment Theory |
   |:---|:---|:---|
-  | Did it exist? | ✅ Yes | ✅ Claimed it did |
-  | Now? | ❌ No | ❌ No trace |
-  | Why did it disappear? | ✅ Gen 3 — Fall, Curse, Expulsion | ❌ No biblical record |
-  | Evidence of disappearance? | ✅ Thorns, labor pains, painful toil (Gen 3:16-19) | ❌ No verse stating beasts became fierce again |
-  | Promise of restoration? | ✅ Yes → Isa 11, Ezek 47 | ❌ No verse ending the Millennial Kingdom |
+  | Was it there? | ✅ It was there | ✅ Claimed to be there |
+  | Now? | ❌ None | ❌ No trace |
+  | Why did it disappear? | ✅ Genesis 3 — Fall, curse, expulsion | ❌ No record in the Scripture |
+  | Evidence of disappearance? | ✅ Thorns and thistles, sorrow in conception, sorrow of labor (Gen 3:16-19) | ❌ No verse of beasts becoming fierce again |
+  | Promise of restoration? | ✅ Yes → Isa 11, Ezek 47 | ❌ No verse of the end of the Millennial Kingdom |
 
 [STEP 4] Declare Retorsion:
-  "Genesis 3 perfectly explains the reason for the Garden of Eden's conclusion.
-   However, regarding the end of your Millennial Kingdom—
-   when the lions became fierce again (none),
-   why the Dead Sea became saltwater again (none),
-   where Ezekiel's temple disappeared to (none)—
-   there is not a single verse recorded anywhere in the Bible.
+  "The Garden of Eden perfectly explaineth the reason for its end in Genesis chapter 3.
+   But concerning the end of thy Millennial Kingdom,
+   when the lion became fierce again (none),
+   why the Dead Sea became salt water again (none),
+   and whither the temple of Ezekiel vanished (none) —
+   there is not a single verse of record anywhere in the Scripture.
 
-   The Garden of Eden analogy actually proves this:
-   God always records significant state changes in the Bible.
-   No record means that the change did not occur.
+   The Garden of Eden analogy proveth rather this:
+   God hath surely recorded significant changes of state in the Scripture.
+   The absence of record meaneth that the change did not occur.
 
-   The analogy you brought up has refuted your own claim."
+   The analogy thou hast brought forth hath confuted thine own claim."
 ```
 
-**Combat Log File**: `03_WAR_LOG/[O+P+Q]_Millennial_Kingdom_Little_Season.md`
+**Battle Log File**: `03_WAR_LOG(전투기록)/[O+P+Q]_천년왕국_리틀시즌.md`
 
 ---
 
-## 🔗 Linked TYPEs
+## 🔗 Linked TYPE
 
 ```
 TYPE-P (Retorsion)
@@ -94,71 +95,72 @@ TYPE-P (Retorsion)
     └─ Complete chain → TYPE-L
 ```
 
-*TYPE-P v1.0 — Garden of Eden Retorsion Case Combat Log Integrated*
+*TYPE-P v1.0 — Garden of Eden Retorsion Case Battle Log Integrated*
 
 ---
 
-## 🆕 Sub-function: Tradition Reversal — v1.1 Addition
+## 🆕 Sub-function: Tradition Reversal — Added in v1.1
 
-> **When to trigger**: When the enemy uses **extra-biblical Tradition** as evidence.
-> AND when backtracking the psychological and contextual background of that tradition **actually supports our argument**.
-> **Core Question**: *"What is the psychological motive behind the birth of this tradition? In what location/situation does that psychology hold true?"*
+> **When to trigger**: When the enemy useth an **extra-biblical tradition** as a basis.
+> AND when tracing back the psychological/contextual background of that tradition **rather supporteth our argument**.
+> **Core Question**: *"What is the psychological background from which this tradition was born? In what place/situation alone is that psychology established?"*
 
 ```
-[STEP 1] Extract the enemy's tradition exactly as stated
-  → Specify the source of the tradition (apocrypha, patristic literature, etc.).
+[STEP 1] Extract the enemy's tradition exactly as in the original text
+  → Specify the source of the tradition (Apocrypha, Patristic literature, etc.).
 
-[STEP 2] Backtrack the psychological motive contained in the tradition
-  → "Why did the figure in this tradition make this action/choice?"
-  → What physical conditions are needed for that psychological motive to hold?
+[STEP 2] Trace back the psychological motive contained in the tradition
+  → "Why did the figure in this tradition make such an action/choice?"
+  → What physical conditions are required for that psychological motive to be established?
 
-[STEP 3] Apply the psychological motive to the enemy's claim vs. our claim
-  → | Category | Enemy's Claim (Location/Situation) | Our Claim (Location/Situation) |
-  → | Psychological Weight | ??? | ??? |
+[STEP 3] Substitute the psychological motive into the enemy's claim vs our claim respectively
+  → | Category | Enemy's claim (Place/Situation) | Our claim (Place/Situation) |
+  → | Psychological weight | ??? | ??? |
 
 [STEP 4] Declare that the side with higher psychological coherence is the true background of the tradition
-  → "This tradition carries perfect weight only when it aligns with [Our claim]."
+  → "This tradition possesseth perfect weight only when it is [Our claim]."
 ```
 
-### 📌 Reference Case: 'Inverted Cross' Tradition → Calvary Reversal
+### 📌 Reference Case: 'Upside-down Cross' Tradition → Calvary Reversal
 
 ```
-[STEP 1] Extract Tradition:
-  "Peter was crucified upside down, saying he was not worthy to die in the same manner as the Lord." (Acts of Peter — Apocrypha)
+[STEP 1] Extract tradition:
+  "Peter, saying he is not worthy to die in the same manner as the Lord,
+   was crucified upside down and died." (Acts of Peter — Apocrypha)
 
-[STEP 2] Backtrack Psychological Motive:
-  Motive: "I dare not hang in the exact same manner as the Lord."
-  → For this bitter sense of unworthiness to hold true:
-    Condition A: It must be the exact place where the Lord actually died in the same manner (crucifixion).
-    Condition B: Peter himself must have a deep emotional connection to that place.
+[STEP 2] Trace back psychological motive:
+  Motive: "I dare not be hung in the exact same manner as the Lord"
+  → For this poignant sense of inferiority to be established:
+    Condition A: It must be the place where the Lord actually died in the same manner (cross)
+    Condition B: Peter himself must have a deep emotional connection to that place
 
-[STEP 3] Substitution Comparison:
-  | Category | Rome (Enemy's Claim) | Calvary (Our Claim) |
+[STEP 3] Substitution comparison:
+  | Category | Rome (Enemy's claim) | Calvary (Our claim) |
   |:---|:---|:---|
-  | Where the Lord died? | ❌ No | ✅ Exactly there |
-  | Peter's emotional connection? | ❌ Unfamiliar gentile execution ground | ✅ The scene of his betrayal where he denied Him thrice and fled |
-  | Weight of unworthiness? | ⚠️ Weak | ✅✅✅ Maximum |
+  | Place where the Lord died? | ❌ No | ✅ The very place |
+  | Peter's emotional connection? | ❌ Unfamiliar gentile execution ground | ✅ The scene of betrayal where he denied thrice and fled |
+  | Weight of the sense of inferiority? | ⚠️ Weak | ✅✅✅ Maximum |
 
 [STEP 4] Declare Reversal:
-  "The desperate sense of unworthiness contained in the inverted cross tradition
-   does not establish this level of weight in some gentile execution ground in Rome.
-   This psychology is 100% perfectly established only on the very dirt of Calvary
-   where the Lord bled.
+  "The desperate sense of inferiority of Peter contained in the upside-down cross tradition
+   cannot be established with this degree of weight in any gentile execution ground in Rome.
+   This psychology is established 100% perfectly
+   only on the very dirt floor of Calvary where the Lord shed His blood.
    If Peter truly died upside down,
-   it makes it even more certain that the location was Calvary, not Rome."
+   it becometh all the more certain that the place is Calvary, not Rome."
 ```
 
-**Combat Log File**: `03_WAR_LOG/[F+E+G+N+P+I+T+S]_Peter_Calvary_Martyrdom_Theory.md`
+**Battle Log File**: `03_WAR_LOG(전투기록)/[F+E+G+N+P+I+T+S]_베드로_갈보리순교설.md`
 
 ---
 
-## 🔗 Linked TYPEs
+## 🔗 Linked TYPE
 
 ```
 TYPE-P (Retorsion)
     ├─ Detect anomaly in analogy premise → TYPE-M (SUSPECT)
     ├─ Link physical traces → TYPE-O
-    ├─ Verify exclusivity when backtracking tradition → TYPE-N
+    ├─ Verify exclusivity during tradition reversal → TYPE-N
     └─ Complete chain → TYPE-L
 ```
 

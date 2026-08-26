@@ -1,60 +1,61 @@
 # 🏹 SKILL-44: TYPE-AQ — Audience Criticism
 **"How did the original audience understand this?"**
 
-> **When to trigger**: When analyzing how 1st-century Jews or disciples would have understood a specific utterance or passage upon hearing it, in order to block modern misreadings.
+> **When activated**: When hearing a specific utterance or passage,
+> to analyze how 1st-century Jews/disciples would have understood it, thus blocking modern misreadings.
 >
-> **One-line definition**: *"To hear the original meaning, you must listen with the ears of the original audience."*
+> **One-line definition**: *"One must hear with the ears of the original audience to hear the original meaning."*
 
 ---
 
-## Trigger Conditions
+## Activation Conditions
 `
 [General]
-1. When a modern interpretation conflicts with 1st-century culture, language, or context.
-2. When establishing how the original audience (Jews, Greeks, early church) understood a specific utterance.
-3. When preventing the mistranslation of biblical concepts into modern concepts 
-   (e.g., ancient Jewish marriage customs, purification rituals, the temple system, Sabbath regulations, etc.).
-4. When the core of a debate is: "How did this utterance sound to the audience at that time?"
+1. When a modern interpretation conflicts with 1st-century culture, language, and context.
+2. When determining how the original audience (Jews, Greeks, early church) understood a specific utterance.
+3. When blocking the mistranslation of biblical concepts into modern concepts.
+   (e.g., ancient Jewish marriage customs, purification rituals, temple system, sabbath ordinances, etc.)
+4. When "How did this utterance sound to the audience of that time?" is the core of the debate.
 
-[Typical Code] Trigger immediately upon detecting the following sentences:
+[Typical Code] Activate immediately upon detecting the following sentences:
   - "In the culture of that time, [Concept X] meant [Y]."
   - "To 1st-century Jews, [Utterance Z] sounded like [Meaning]."
-  - "Interpreting this from a modern perspective leads to misunderstanding."
+  - "Interpreting through a modern perspective causes misunderstanding."
 `
 
 ## Execution Steps
 `
-[STEP 1] Establish the Original Audience
+[STEP 1] Determine the original audience
   → Who is the primary audience of this utterance/record?
-  → (e.g., The Last Supper discourse = The Twelve Disciples)
+  → (e.g., Last Supper discourse = the twelve disciples)
 
-[STEP 2] Restore the 1st-Century Cultural and Linguistic Context
+[STEP 2] Restore 1st-century cultural and linguistic context
   → The cultural background of how the original audience would have understood this word/concept.
 
-[STEP 3] Restore the Original Understanding
+[STEP 3] Restore original understanding
   → How did this utterance sound to the ears of the primary audience?
 
-[STEP 4] Reject Modern Misreading
-  → If the modern interpretation differs from the primary audience's understanding — the modern interpretation is a misreading.
+[STEP 4] Reject modern misreadings
+  → If a modern interpretation differs from the understanding of the primary audience — the modern interpretation is a misreading.
 `
 
 ## 📌 Reference Case: Audience Analysis of the Last Supper in John 13:36
 
-**Audience**: The twelve disciples including Peter — 1st-century Jewish fishermen, tax collectors, etc.
+**Audience**: The twelve disciples including Peter — 1st-century Jewish fishermen, publicans, etc.
 
 | Question | 1st-Century Audience's Understanding |
 |:---|:---|
-| When they heard "Where I am going (ὅπου)" | Physical location — "Where are you going?" (Peter's question in 13:36a) |
-| When they heard "You will follow afterward" | Future promise of physical accompaniment |
-| When they heard ἀκολουθέω | The duty of a disciple to physically follow their master (1st-century rabbinic tradition) |
-| When they heard "afterward" | Temporal delay — "You cannot do it now, but you will later" |
+| Upon hearing "Whither I go (ὅπου)" | Physical location — "Lord, whither goest thou?" (Peter's question in 13:36a) |
+| Upon hearing "thou shalt follow me afterwards" | A future promise of physical accompaniment |
+| Upon hearing ἀκολουθέω | A disciple's duty to physically follow his master (1st-century rabbinic tradition) |
+| Upon hearing "afterwards" | Temporal delay — "Thou canst not follow me now; but thou shalt follow me afterwards" |
 
-> The interpretation that ὅπου = Heaven did not occur to the 1st-century Jewish disciples.
-> Peter himself asked in 13:36a, "Where are you going?" — **A question about a physical location**.
+> To 1st-century Jewish disciples, the interpretation of ὅπου = heaven did not occur.
+> Peter himself asked in 13:36a, "Lord, whither goest thou?" — **a question of physical location**.
 
 > **TYPE-AQ Verdict**: The original audience (the disciples) understood ὅπου as a physical location.
 > This is directly confirmed within the text by Peter's question in 13:36a.
-> The modern interpretation of "Heaven" is a misreading that falls outside the primary audience's understanding. ✅ CONFIRMED
+> The modern "heaven" interpretation is a misreading that deviates from the understanding of the primary audience. ✅ CONFIRMED
 
 ---
 *BVCAP System 2.0 — TYPE-AQ Weapon Entry v1.0 | Domain: Hermeneutics*

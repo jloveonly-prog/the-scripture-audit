@@ -1,136 +1,138 @@
-# 🏔️ SKILL-15: TYPE-O — Physical Marker Absence Verification Pipeline
+﻿# 🏔️ SKILL-15: TYPE-O — Physical Trace Absence Verification Pipeline
 **"By their fruits ye shall know them." — Matthew 7:20 KJV**
 
-> **[Primary Trigger Condition]** When the opponent claims "X event in the Bible has already been fulfilled in the past."
-> And when that event entails specific topographical, ecological, or physical changes in biblical prophecy.
+> **[Primary Trigger Condition]** When the opponent claims that **"Event X of the Bible was already fulfilled in the past."**
+> When the event is a biblical prophecy that entails specific topographical, ecological, or physical changes.
 > **Core Question**: *"If that event actually occurred, what physical marker must necessarily exist (or be absent) today?"*
 
-> **[Secondary Trigger Condition — v1.1 Addition]** When an **Exception Case** that completely deviates from the General Rule exists.
-> When it is necessary to physically and logically verify the **Boundary** of how far that exception affects the original category.
-> When applying Ishmael's 10th rule (Davar shehaya bikelal 2) in actual combat, trigger this in parallel with TYPE-E/TYPE-C.
+> **[Secondary Trigger Condition — Added in v1.1]** When there is an **Exception Case** that completely deviates from the General Rule.
+> When it is necessary to physically and logically confirm the **boundary of how far the exception affects** the original category.
+> Triggered in parallel with TYPE-E/TYPE-C upon practical application of Ishmael's 10th Rule (Davar shehaya b'chlal 2).
 
 > [!IMPORTANT]
 > **Do not confuse with TYPE-K:**
-> - `TYPE-K` = **"Could this event happen?"** (Possibility verification, Present→Past direction)
-> - `TYPE-O` = **"If this event happened, what should be here now?"** / **"How far does the exception reach?"** (Backtracking trace/boundary)
-> TYPE-K is a weapon to prove scientific possibility; TYPE-O is a weapon to backtrack the physical evidence of past claims and the limits of exceptions.
+> - `TYPE-K` = **"Can this event happen?"** (Verification of possibility, present→past direction)
+> - `TYPE-O` = **"If this event happened, what must exist now?"** / **"How far does the exception affect?"** (Trace/boundary backtracking)
+> TYPE-K is a weapon to prove scientific possibility, whereas TYPE-O is a weapon to backtrack the physical evidence of past claims and the limitation boundaries of exceptions.
 
 ---
 
 ## ⚙️ Execution Steps
 
 ```
-[STEP 1] Extract the list of 'Physical Markers' from biblical prophecy
-  → Collect the biblical prophecies in the KJV text that the opponent claims are "fulfilled."
+[STEP 1] Extract the list of 'Physical Markers' from the biblical prophecy
+  → Collect the biblical prophecy the opponent claims to be "fulfilled" in the KJV text.
   → Specify the concrete physical changes that must necessarily accompany each prophecy.
   → Classification:
      □ Topographical changes (mountains, islands, rivers, seas, etc.)
      □ Ecological changes (animal nature, plant characteristics, etc.)
-     □ Architecture / Cities (temples, city size, place names, etc.)
+     □ Architecture / City (the temple, city size, place names, etc.)
      □ Physiological changes (human lifespan, diseases, etc.)
      □ Astronomical/Climatic changes (sun, moon, star phenomena, etc.)
 
-[STEP 2] Check the presence/absence of each marker at the present time
-  → Is the marker identified on Earth today?
-  → Verification method: Cross-check geography, biology, archaeology, and historical records
-  → Create table: | # | Biblical Prophecy | Predicted Marker | Current Status | Match? |
+[STEP 2] Confirm the presence/absence of each marker at the present time
+  → Is the marker confirmed on the earth today?
+  → Verification methods: Cross-verification through geography, biology, archaeology, and historical records
+  → Table creation: | # | Biblical Prophecy | Predicted Marker | Current State | Match Status |
 
-[STEP 3] Search for biblical explanations for the absence of the marker
-  → Is there a biblical verse explaining the disappearance or alteration of the marker?
-  → Search area: After Revelation 20, latter parts of relevant prophetic books
-  → Format: "The biblical basis for prophecy fulfillment → marker disappearance is [Chapter/Verse]"
+[STEP 3] Search for the existence of biblical explanations regarding the absence of markers
+  → Is there a biblical verse explaining that the marker disappeared or changed?
+  → Search area: Revelation chapter 20 onwards, latter halves of relevant prophetic books
+  → Format: "The biblical basis for the disappearance of the marker after prophecy fulfillment is [Chapter/Verse]"
 
-[STEP 4] Verdict
-  → If the marker still exists or there is no biblical basis for the marker's disappearance → Dismiss the past fulfillment claim
+[STEP 4] Judgment
+  → If the marker exists as opposed to the prophecy, or if there is no biblical basis for the marker's disappearance → Dismiss the claim of past fulfillment
 
-[STEP 5] Declare shifting of the burden of proof
-  → Official declaration: "If the absence or reversal of this marker cannot be explained by biblical verses, the burden of proof for the past fulfillment claim rests on the claimant."
+[STEP 5] Declaration of the shift in the burden of proof
+  → Official declaration: "If you cannot explain the absence or reversal of this marker with biblical verses,
+     the burden of proof for the claim of past fulfillment lies with the claimant"
 ```
 
 ---
 
 ## 📊 Judgment Matrix
 
-| Current Marker Status | Biblical Basis for Marker Disappearance | Verdict |
+| Current Marker State | Biblical Basis for Marker Disappearance | Judgment |
 |:---:|:---:|:---:|
 | ❌ Marker absent (as prophesied) | — | ✅ Supports past fulfillment |
-| ✅ Marker present (contrary to prophecy) | ✅ Biblical explanation exists | ⚠️ UNRESOLVED (Further verification needed) |
-| ✅ Marker present (contrary to prophecy) | ❌ No biblical explanation | ❌ Dismiss past fulfillment claim |
+| ✅ Marker present (reverses prophecy) | ✅ Biblical explanation exists | ⚠️ UNRESOLVED (Requires further verification) |
+| ✅ Marker present (reverses prophecy) | ❌ No biblical explanation | ❌ Dismiss claim of past fulfillment |
 | ✅ Marker reversed (opposite state) | ❌ No biblical explanation | ❌ Strongly dismiss |
 
 ---
 
-## 📌 Reference Case: Verification of 7 Markers in the Past Fulfillment Theory of the Millennial Kingdom
+## 📌 Reference Case: Verification of the 7 Markers for the Past Fulfillment of the Millennial Kingdom
 
-> **Target Claim**: "The Millennial Kingdom was already fulfilled during the Byzantine/Tartarian Empire era around AD 70~1070."
+> **Target Claim**: "The Millennial Kingdom was already fulfilled around AD 70~1070 during the Byzantine/Tartarian Empire era."
 
 ```
 [STEP 1] Extract Physical Markers (KJV Text)
 
   M1. Rev 16:20 "And every island fled away, and the mountains were not found."
-      → Predicted Marker: No islands and mountains should exist on Earth today.
+      → Predicted Marker: There must be no islands and mountains on the earth today
 
   M2. Isa 11:7-8 "the lion shall eat straw like the ox...the sucking child shall play on
       the hole of the asp"
-      → Predicted Marker: Lions and snakes must be harmless today.
+      → Predicted Marker: Lions and snakes must be harmless today
 
   M3. Isa 2:18 "And the idols he shall utterly abolish."
       Zech 13:2 "...I will cut off the names of the idols out of the land..."
-      → Predicted Marker: There should be no idols worldwide.
+      → Predicted Marker: There must be no idols worldwide
 
   M4. Isa 65:22 "as the days of a tree are the days of my people"
-      → Predicted Marker: Current human lifespan must be ~1,000 years.
+      → Predicted Marker: Current human lifespan must be ~1,000 years
 
   M5. Isa 66:23-24 "...they shall go forth, and look upon the carcases of the men that
       have transgressed against me: for their worm shall not die, neither shall their
       fire be quenched"
-      → Predicted Marker: A visible earthly judgment site must exist near Jerusalem.
+      → Predicted Marker: There must be a visible terrestrial judgment site near Jerusalem
 
   M6. Ezek 48:30-35 "Jehovah-shammah" city
-      → Predicted Marker: Traces of a square city about 15km on each side must exist near Jerusalem.
+      → Predicted Marker: There must be traces of a square city of about 15km on each side near Jerusalem
 
-  M7. Ezek 47:8-10 Living waters from the sanctuary flow into the Dead Sea, making fish multiply
-      → Predicted Marker: Freshwater fish must inhabit the Dead Sea.
+  M7. Ezek 47:8-10 Living waters from the sanctuary flow into the Dead Sea, causing fish to multiply
+      → Predicted Marker: Freshwater fish must inhabit the Dead Sea
 
-[STEP 2] Check Current Status (As of 2026)
-  M1. Islands/Mountains → ✅ Currently exist (contrary to prophecy) ❌
-  M2. Nature of beasts/vipers → ✅ Currently attack humans (contrary to prophecy) ❌
-  M3. Worldwide idols → ✅ Bulguksa, Hindu temples, etc. exist (contrary to prophecy) ❌
-  M4. Human lifespan → ✅ Currently around 80 years (contrary to prophecy) ❌
-  M5. Earthly judgment site → ❌ No such topography near Jerusalem ❌
-  M6. Jehovah-shammah city → ❌ No archaeological traces ❌
-  M7. Dead Sea fish → ❌ Dead Sea is currently saltwater ❌
+[STEP 2] Check Current State (As of 2026)
+  M1. Islands/Mountains → ✅ Currently exist (Reverses prophecy) ❌
+  M2. Nature of beasts/vipers → ✅ Currently attack humans (Reverses prophecy) ❌
+  M3. Worldwide idols → ✅ Bulguksa, Hindu temples, etc. exist (Reverses prophecy) ❌
+  M4. Human lifespan → ✅ Currently around 80 years (Reverses prophecy) ❌
+  M5. Terrestrial judgment site → ❌ No such topography near Jerusalem ❌
+  M6. Jehovah-shammah city → ❌ Zero archaeological traces ❌
+  M7. Dead Sea fish → ❌ Dead Sea is currently saltwater (Dead Sea = Dead Sea) ❌
 
-[STEP 3] Search for biblical basis of marker disappearance
-  → Rev 20: Satan bound (Millennial Kingdom) → Loosed (Little Season) → Lake of Fire Judgment → New Heaven and New Earth
-  → Verse stating beastly nature returns during the Little Season: ❌ None
-  → Verse stating the Dead Sea turns into saltwater again: ❌ None
-  → Verse stating islands and mountains are formed again: ❌ None
+[STEP 3] Search for Biblical Basis for Marker Disappearance
+  → Rev 20: Binding of Satan (Millennial Kingdom) → Loosed (Little Season) → Lake of Fire Judgment → New Heaven and New Earth
+  → Verses stating the nature of beasts returns during the Little Season: ❌ None
+  → Verses stating the Dead Sea becomes saltwater again: ❌ None
+  → Verses stating islands and mountains reappear: ❌ None
 
-[STEP 4] Verdict
-  All 7 markers: ❌ Dismiss past fulfillment claim
-  Reality contrary to prophecy without biblical explanation = Proof of unfulfilled prophecy
+[STEP 4] Judgment
+  All 7 Markers: ❌ Dismiss claim of past fulfillment
+  Reality reversing the prophecy without biblical explanation = Proof of unfulfilled prophecy
 
-[STEP 5] Shift Burden of Proof
-  → "Prove with biblical verses (Chapter/Verse) when lions became fierce again, why the Dead Sea became saltwater again, and where the Jehovah-shammah city disappeared to.
-     If unprovable = Withdraw past fulfillment claim."
+[STEP 5] Shift in Burden of Proof
+  → "Prove with biblical verses (chapter/verse) when lions became fierce again, why the Dead Sea became saltwater again,
+     and where the city of Jehovah-shammah disappeared to.
+     Inability to prove = Withdrawal of the claim of past fulfillment."
 ```
 
-**Verdict**: ❌ `Past Fulfillment Theory of the Millennial Kingdom` — All 7 physical markers rejected
+**Judgment**: ❌ `Past Fulfillment of the Millennial Kingdom` — Total dismissal based on the 7 physical markers
 
 ---
 
-## 🔗 Linked TYPEs
+## 🔗 Linked TYPE
 
 ```
-TYPE-O (Physical Marker Absence Verification)
+TYPE-O (Verification of Absence of Physical Traces)
     │
-    ├─ Confirmed marker absence → TYPE-L (Logic Chain) — Link the results of the 7 markers in a chain
-    ├─ Opponent introduces analogy → TYPE-P (Retorsion) — Reverse the opponent's excuse
-    └─ Linguistic claim attack → TYPE-Q (Language Quantifier) — Constrain temporal language like "a little season"
+    ├─ Confirmed marker absence → TYPE-L (Chain) — Link the results of the 7 markers as a chain
+    ├─ Opponent introduces analogy → TYPE-P (Reverse Logic) — Reverse engineer the opponent's excuse
+    └─ Attack on linguistic claims → TYPE-Q (Linguistic Quantification) — Restrict time-language such as "a little season"
 ```
 
 ---
 
-*TYPE-O v1.0 — Past Fulfillment Theory of the Millennial Kingdom Case Combat Log Integrated*
+*TYPE-O v1.0 — Battle Record Integration for the Past Fulfillment of the Millennial Kingdom Case*
 *"Where are they? Show me the Bible." — BVCAP Standard Closing*
