@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-kjv_defense-073"
+title_en: "🔬 REPORT: KJV Romans 7:6 Original Text Error Forensic (TYPE-AL Error Correction and Final Confirmation)"
+title_ko: ""
+file_en: "REPORT_Romans_7_6_Law_Death_Audit_Masterpiece.md"
+file_ko: ""
+category: "kjv_defense"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # 🔬 REPORT: KJV Romans 7:6 Original Text Error Forensic (TYPE-AL Error Correction and Final Confirmation)
 > **"Are we dead (Majority Text), or is the law dead (KJV)?"**
 

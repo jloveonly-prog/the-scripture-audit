@@ -1,4 +1,16 @@
-﻿# ⚖️ Melchizedek and the Formation of Nations in the First World — BVCAP v2.0 Masterpiece Report
+﻿---
+id: "scripture-bible_believer-018"
+title_en: "⚖️ Melchizedek and the Formation of Nations in the First World — BVCAP v2.0 Masterpiece Report"
+title_ko: ""
+file_en: "REPORT_Melchizedek_FirstWorld_NationFormation.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
+# ⚖️ Melchizedek and the Formation of Nations in the First World — BVCAP v2.0 Masterpiece Report
 **— "Without father, without mother, without descent" (Heb 7:3) — The Secrets of the First World and the Design of God's Love —**
 
 > **STATUS**: Verification Complete | VERDICT: ✅✅✅ IRONCLAD [Self-adv ✓]

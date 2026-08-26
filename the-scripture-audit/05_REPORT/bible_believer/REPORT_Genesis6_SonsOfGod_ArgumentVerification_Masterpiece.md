@@ -1,4 +1,16 @@
-﻿# Genesis 6 "Sons of God" — Verification Report of Arguments Presented by Other AI (v2.0 Supplemental Edition)
+﻿---
+id: "scripture-bible_believer-015"
+title_en: "Genesis 6 "Sons of God" — Verification Report of Arguments Presented by Other AI (v2.0 Supplemental Edition)"
+title_ko: ""
+file_en: "REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
+# Genesis 6 "Sons of God" — Verification Report of Arguments Presented by Other AI (v2.0 Supplemental Edition)
 **— "Are the 6 arguments refuting the Angel Theory actually valid?" BVCAP v2.0 Neutral Audit Report —**
 
 > **STATUS**: Verification Complete + Supplemental Complete | MODE: B (Theological Court — Internal Doctrine Verification)

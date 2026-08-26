@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-042"
+title_en: "🏛️ Catholic Apologetics & Error Audit Report Index (BVCAP)"
+title_ko: ""
+file_en: "Report_Index.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # 🏛️ Catholic Apologetics & Error Audit Report Index (BVCAP)
 
 This index provides a catalog and quick-navigation links for the 'Criminal Record Reports' that forensically verify the doctrines and traditions of Roman Catholicism based on the Scripture (KJV).

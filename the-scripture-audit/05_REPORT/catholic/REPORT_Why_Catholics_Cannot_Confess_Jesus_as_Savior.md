@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-046"
+title_en: "BVCAP 2.0 Special Audit Report"
+title_ko: ""
+file_en: "REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # BVCAP 2.0 Special Audit Report
 ## Why Catholics Cannot Confess Jesus as Savior to Protestants
 **-- The Clash of Soteriology Revealed by a Single Yes/No Question --**

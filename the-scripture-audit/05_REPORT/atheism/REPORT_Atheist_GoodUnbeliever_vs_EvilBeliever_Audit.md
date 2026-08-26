@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-atheism-002"
+title_en: "🔬 BVCAP v2.0 MODE A Audit Report"
+title_ko: ""
+file_en: "REPORT_Atheist_GoodUnbeliever_vs_EvilBeliever_Audit.md"
+file_ko: ""
+category: "atheism"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # 🔬 BVCAP v2.0 MODE A Audit Report
 # The Atheist's "Good Unbeliever vs. Evil Believer" Dilemma — Exposing Logical Fallacies
 

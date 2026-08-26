@@ -1,4 +1,16 @@
-﻿# 🛡️ [BVCAP MODE A: External Defensive Battle] Location of Peter's Martyrdom: The Battle to Defend Calvary
+﻿---
+id: "scripture-bible_believer-020"
+title_en: "🛡️ [BVCAP MODE A: External Defensive Battle] Location of Peter's Martyrdom: The Battle to Defend Calvary"
+title_ko: ""
+file_en: "REPORT_PeterCalvaryA.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
+# 🛡️ [BVCAP MODE A: External Defensive Battle] Location of Peter's Martyrdom: The Battle to Defend Calvary
 
 > **STATUS**: 🟢 IRONCLAD (Ironclad reasoning — Defense complete)
 > **Rating Definition**: ✅ **EXPLICIT** = A fact directly recorded by the Bible (e.g., Peter's crucifixion, John 21:18). 🟢 **IRONCLAD** = Although not explicitly stated by the Bible, all alternative interpretations generate internal contradictions within the Bible, so it is the **only interpretation that establishes without contradiction** (e.g., Location of martyrdom = Calvary).

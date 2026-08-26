@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-023"
+title_en: "📜 [BVCAP 2.0 Integrated Edition] King Saul Salvation Debate Forensic Audit Record"
+title_ko: ""
+file_en: "REPORT_SaulSalvation_ParadiseReport_Masterpiece.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # 📜 [BVCAP 2.0 Integrated Edition] King Saul Salvation Debate Forensic Audit Record
 
 

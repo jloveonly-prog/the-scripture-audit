@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-026"
+title_en: "RED — "The sons of God" are not angels"
+title_ko: ""
+file_en: "REPORT_SonsOfGod_Angels_RED.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # RED — "The sons of God" are not angels
 
 > **Base Document**: This RED argument is developed based on [[REPORT_그하나님의아들들_천사인가_조사.md]] (results of the definite article investigation).

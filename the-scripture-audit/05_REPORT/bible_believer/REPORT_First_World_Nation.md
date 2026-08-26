@@ -1,4 +1,16 @@
-﻿# 🏛️ [BVCAP MODE B: Vocabulary Forensics] The Origin of the First World Nations (The Dust Law)
+﻿---
+id: "scripture-bible_believer-011"
+title_en: "🏛️ [BVCAP MODE B: Vocabulary Forensics] The Origin of the First World Nations (The Dust Law)"
+title_ko: ""
+file_en: "REPORT_First_World_Nation.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
+# 🏛️ [BVCAP MODE B: Vocabulary Forensics] The Origin of the First World Nations (The Dust Law)
 
 > **STATUS**: 🟢 Cross-text Verification Complete
 > **Subject of Analysis**: What were the nations of the first world (before Gen 1:2) made of?

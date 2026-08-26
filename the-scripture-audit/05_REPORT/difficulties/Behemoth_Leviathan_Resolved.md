@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-difficulties-056"
+title_en: "[Creationism/Job] Enigma: The Real Existence and Spiritual Identity of Behemoth and Leviathan"
+title_ko: ""
+file_en: "Behemoth_Leviathan_Resolved.md"
+file_ko: ""
+category: "difficulties"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # [Creationism/Job] Enigma: The Real Existence and Spiritual Identity of Behemoth and Leviathan
 **— "Mere metaphors, or real dinosaurs?" BVCAP v1.5 Neutral Audit Report —**
 

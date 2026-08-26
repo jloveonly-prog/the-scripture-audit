@@ -1,1 +1,3 @@
-# Repository of Excavated Zero-Day Collisions
+﻿# Zero Day Findings
+
+Recently discovered doctrinal issues and problems.

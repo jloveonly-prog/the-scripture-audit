@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-029"
+title_en: "The First Question of TheScriptureBeliever"
+title_ko: ""
+file_en: "REPORT_TheScriptureOrg_VS_Researcher_v2.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 > **Notice**: This document is a BVCAP verification report based on actual conversations, and some of the contents and script have been modified for smooth progression.
 
 > [!WARNING]

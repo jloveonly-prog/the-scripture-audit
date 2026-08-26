@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-044"
+title_en: "Doctrinal Challenge: Mary's Immaculate Conception & Bodily Assumption — Verification"
+title_ko: ""
+file_en: "REPORT_Mary_Immaculate_Assumption_Audit.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Doctrinal Challenge: Mary's Immaculate Conception & Bodily Assumption — Verification
 **— "Was Mary Born Without Original Sin and Bodily Assumed into Heaven?" BVCAP v2.0 Neutral Audit Report —**
 

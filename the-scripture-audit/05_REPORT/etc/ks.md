@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-etc-061"
+title_en: "[2.0] Basic Data for Analyzing the Millennial Kingdom Past Fulfillment Theory (Little Season) and Soteriology Corruption Controversy"
+title_ko: ""
+file_en: "ks.md"
+file_ko: ""
+category: "etc"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # [2.0] Basic Data for Analyzing the Millennial Kingdom Past Fulfillment Theory (Little Season) and Soteriology Corruption Controversy
 
 ```text

@@ -1,4 +1,16 @@
-﻿# 🏛️ [BVCAP MODE B: Court Mode] Identifying the "Sons of God" in Genesis 6
+﻿---
+id: "scripture-bible_believer-013"
+title_en: "🏛️ [BVCAP MODE B: Court Mode] Identifying the "Sons of God" in Genesis 6"
+title_ko: ""
+file_en: "REPORT_Genesis_3_6_Sons_of_God.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
+# 🏛️ [BVCAP MODE B: Court Mode] Identifying the "Sons of God" in Genesis 6
 
 > **STATUS**: 🟢 IRONCLAD (Ironclad Verification Complete)
 > **Engine Deployed**: BVCAP v2.0 (MODE B: Internal Doctrine Trial)

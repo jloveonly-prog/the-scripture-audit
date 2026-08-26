@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-037"
+title_en: "Internal Evidence Analysis of 1 John 5:7-8"
+title_ko: ""
+file_en: "REPORT_1_John_Comma.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Internal Evidence Analysis of 1 John 5:7-8
 ### — Internal Textual Apologetics on the Authenticity of the Comma Johanneum —
 

@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-difficulties-058"
+title_en: "📑 [BVCAP Forensic Report] Speaker Shift and In-Depth Analysis of 'Agentive Speech' in Revelation 22"
+title_ko: ""
+file_en: "REPORT_Revelation22_SpeakerTransition_AgentiveSpeech_Masterpiece.md"
+file_ko: ""
+category: "difficulties"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # 📑 [BVCAP Forensic Report] Speaker Shift and In-Depth Analysis of 'Agentive Speech' in Revelation 22
 
 > **STATUS**: 🟢 **IRONCLAD (Fully Verified)**

@@ -1,1 +1,3 @@
-Directory of 2~4 Tier Combo Collision Cards
+﻿# Collision Combinations
+
+Complex multi-source doctrinal conflicts.

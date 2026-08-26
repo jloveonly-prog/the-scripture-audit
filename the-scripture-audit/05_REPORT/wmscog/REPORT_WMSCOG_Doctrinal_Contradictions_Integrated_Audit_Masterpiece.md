@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-wmscog-074"
+title_en: "[WMSCOG] Dilemma: Fatal Collision Between Ahn Sahng-hong's Second Coming and Passover Doctrine"
+title_ko: ""
+file_en: "REPORT_WMSCOG_Doctrinal_Contradictions_Integrated_Audit_Masterpiece.md"
+file_ko: ""
+category: "wmscog"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # [WMSCOG] Dilemma: Fatal Collision Between Ahn Sahng-hong's Second Coming and Passover Doctrine
 **— "If the Second Coming Jesus has arrived, why do you still keep the Passover?" BVCAP v2.0 Neutral Audit Report —**
 

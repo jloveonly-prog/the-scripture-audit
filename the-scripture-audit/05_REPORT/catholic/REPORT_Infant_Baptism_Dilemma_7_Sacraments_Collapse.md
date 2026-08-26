@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-043"
+title_en: "Catholic Infant Baptism Doctrine Chain Collapse Audit"
+title_ko: ""
+file_en: "REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Catholic Infant Baptism Doctrine Chain Collapse Audit
 **— How a Single Question Collapses the Entire 7 Sacraments System —**
 **BVCAP v2.0 Audit Report**

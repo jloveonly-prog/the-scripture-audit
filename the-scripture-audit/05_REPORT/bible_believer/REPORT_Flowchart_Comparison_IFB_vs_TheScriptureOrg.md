@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-012"
+title_en: "⚔️ Flowchart Comparison Report — IFB Dispensationalism vs TheScriptureBeliever"
+title_ko: ""
+file_en: "REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # ⚔️ Flowchart Comparison Report — IFB Dispensationalism vs TheScriptureBeliever
 **— If the sequence of Creation, Judgment, and Recreation events differs, the entire doctrine changes —**
 

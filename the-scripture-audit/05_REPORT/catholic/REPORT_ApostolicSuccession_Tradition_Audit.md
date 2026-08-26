@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-038"
+title_en: "Doctrinal Dilemma: Claims of Historical Tradition of Papal and Apostolic Succession"
+title_ko: ""
+file_en: "REPORT_ApostolicSuccession_Tradition_Audit.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Doctrinal Dilemma: Claims of Historical Tradition of Papal and Apostolic Succession
 **— "Is the authority given to the Apostle Peter passed down through the testimonies of the Church Fathers to the Roman Pope with infallibility?" BVCAP v2.0 Neutral Audit Report (Part 2) —**
 

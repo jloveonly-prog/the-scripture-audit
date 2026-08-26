@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-040"
+title_en: "Catholic Doctrine of the Intercession of Saints: Biblical Consistency Verification"
+title_ko: ""
+file_en: "REPORT_Catholic_IntercessionOfSaints_Audit.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Catholic Doctrine of the Intercession of Saints: Biblical Consistency Verification
 **— "Does the command to pray for one another mean praying to dead saints?" BVCAP v2.0 Neutral Audit Report —**
 

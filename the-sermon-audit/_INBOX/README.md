@@ -1,3 +1,12 @@
+<!--
+TranslationID: [013]
+Category: sermon_audit
+Language: en
+Status: completed
+TranslatedDate: 2026-08-26
+SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\_INBOX(설교목록)\README.md
+-->
+
 # 📥 _INBOX
 
 > **This folder is where you input the sermon manuscripts targeted for verification.**

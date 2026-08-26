@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-005"
+title_en: "[Genesis 3:20] Enigma: Pre-Fall Birth Theory vs. Post-Fall Birth Theory"
+title_ko: ""
+file_en: "Contrary_to_Fact_Conditional_Gen3_20_was_Pre_Fall_Birth_Theory.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # [Genesis 3:20] Enigma: Pre-Fall Birth Theory vs. Post-Fall Birth Theory
 **— Is "was" in Gen 3:20 literal evidence of pre-fall childbirth, or a redemptive-historical declaration? — BVCAP v2.0 RETRIAL Verdict —**
 

@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-035"
+title_en: "⚖️ Forensic Supreme Court Verdict — FULL VERSION"
+title_ko: ""
+file_en: "Catholic_Court.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 > [!IMPORTANT]
 > ## ⚖️ BVCAP 2.0 — Forensic Theological Court FULL VERSION
 >

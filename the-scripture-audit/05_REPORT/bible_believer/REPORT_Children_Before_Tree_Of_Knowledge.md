@@ -1,4 +1,16 @@
-﻿# 🏛️ [BVCAP MODE B: Court Mode] Children Before the Tree of Knowledge — Biblical Evidence and Redemptive Historical Significance of Edenic Childbirth
+﻿---
+id: "scripture-bible_believer-008"
+title_en: "🏛️ [BVCAP MODE B: Court Mode] Children Before the Tree of Knowledge — Biblical Evidence and Redemptive Historical Significance of Edenic Childbirth"
+title_ko: ""
+file_en: "REPORT_Children_Before_Tree_Of_Knowledge.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
+# 🏛️ [BVCAP MODE B: Court Mode] Children Before the Tree of Knowledge — Biblical Evidence and Redemptive Historical Significance of Edenic Childbirth
 
 > **STATUS**: 🟢 IRONCLAD (Verification Complete)
 > **Engine Activated**: BVCAP v2.0 (MODE B: Internal Doctrinal Trial)

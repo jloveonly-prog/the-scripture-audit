@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-atheism-001"
+title_en: "Adam's Fruit of the Tree of Knowledge — Creation Responsibility Multi-Attack Forensic Audit"
+title_ko: ""
+file_en: "REPORT_AdamFruit_CreationResponsibility_Audit.md"
+file_ko: ""
+category: "atheism"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Adam's Fruit of the Tree of Knowledge — Creation Responsibility Multi-Attack Forensic Audit
 **— "If God created knowing the outcome, isn't it His responsibility?" BVCAP v2.0 Neutral Audit Report —**
 

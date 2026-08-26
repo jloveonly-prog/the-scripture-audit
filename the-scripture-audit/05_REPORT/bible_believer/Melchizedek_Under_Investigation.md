@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-006"
+title_en: "Melchisedec = The "Sons of God" of Job 38:7 Hypothesis — Under Investigation"
+title_ko: ""
+file_en: "Melchizedek_Under_Investigation.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Melchisedec = The "Sons of God" of Job 38:7 Hypothesis — Under Investigation
 
 > **Document Role**: 🏛️ General Headquarters. This document is not a final verdict. It is an investigative document that **reconstructs in the strongest possible form (steelman)** the hypothesis that "Melchisedec is one of the sons of God in Job 38:7", and explicitly records the remaining tasks.

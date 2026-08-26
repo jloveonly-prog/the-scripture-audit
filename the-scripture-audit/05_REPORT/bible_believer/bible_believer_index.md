@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-004"
+title_en: "🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order"
+title_ko: ""
+file_en: "bible_believer_index.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
 **— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
 

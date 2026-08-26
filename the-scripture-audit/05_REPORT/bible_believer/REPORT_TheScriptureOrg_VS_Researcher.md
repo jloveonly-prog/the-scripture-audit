@@ -1,4 +1,16 @@
-﻿# 📑 [BVCAP 2.0 Transition Report] Genesis 6 "Sons of God" — TheScriptureBeliever vs. Scripture Researcher Comparative Verification
+﻿---
+id: "scripture-bible_believer-028"
+title_en: "📑 [BVCAP 2.0 Transition Report] Genesis 6 "Sons of God" — TheScriptureBeliever vs. Scripture Researcher Comparative Verification"
+title_ko: ""
+file_en: "REPORT_TheScriptureOrg_VS_Researcher.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
+# 📑 [BVCAP 2.0 Transition Report] Genesis 6 "Sons of God" — TheScriptureBeliever vs. Scripture Researcher Comparative Verification
 
 > [!NOTE]
 > **※ Note (Meaning of TheScriptureBeliever)**

@@ -1,4 +1,16 @@
-﻿# 📝 The Pastor's Answer and Our Reply
+﻿---
+id: "scripture-bible_believer-007"
+title_en: "📝 The Pastor's Answer and Our Reply"
+title_ko: ""
+file_en: "Reply_to_Pastor_Genesis_6_Fallen_Angels.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
+# 📝 The Pastor's Answer and Our Reply
 
 ## ✉️ The Pastor's View (Question and Premise)
 > **"Genesis 6 is about fallen angels and the spirits in prison."**

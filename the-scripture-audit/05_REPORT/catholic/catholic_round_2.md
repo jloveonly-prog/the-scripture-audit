@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-036"
+title_en: "🏛️ Catholic Eucharist Debate Round 2: TheScriptureBeliever vs ThinkingPrince"
+title_ko: ""
+file_en: "catholic_round_2.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # 🏛️ Catholic Eucharist Debate Round 2: TheScriptureBeliever vs ThinkingPrince
 **— "The War of Transubstantiation, Melchizedek, the Three Fathers, and Tradition — Who is Right and Who is Cherry-picking?" —**
 **BVCAP v2.0 Theological Court Mode (MODE B) Comprehensive Audit Report**

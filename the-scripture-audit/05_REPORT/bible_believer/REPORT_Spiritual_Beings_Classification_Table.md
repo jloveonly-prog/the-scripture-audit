@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-027"
+title_en: "⚔️ KJV Spiritual Beings Complete Classification Table — BVCAP v2.0 Masterpiece Report"
+title_ko: ""
+file_en: "REPORT_Spiritual_Beings_Classification_Table.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # ⚔️ KJV Spiritual Beings Complete Classification Table — BVCAP v2.0 Masterpiece Report
 **— From "Sons of God" to Devils, the Complete Blueprint of Spiritual Beings Testified by the Text —**
 

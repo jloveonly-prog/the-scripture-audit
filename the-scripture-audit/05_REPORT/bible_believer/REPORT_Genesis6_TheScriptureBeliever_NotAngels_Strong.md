@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-017"
+title_en: "Genesis 6 Final Edition: RED vs BLUE Verse-by-Verse Cross-Verification"
+title_ko: ""
+file_en: "REPORT_Genesis6_TheScriptureBeliever_NotAngels_Strong.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Genesis 6 Final Edition: RED vs BLUE Verse-by-Verse Cross-Verification
 **— "TheScriptureBeliever" Integrated Judgment Series — BVCAP v3.0 MODE B Theological Court Mode —**
 

@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-024"
+title_en: "BLUE — The "sons of God" are angels"
+title_ko: ""
+file_en: "REPORT_SonsOfGod_Angels_BLUE.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # BLUE — The "sons of God" are angels
 
 > **Supporting Document**: Based on [[REPORT_Are_The_Sons_Of_God_Angels_Investigation.md]] (the definite article investigation results), the BLUE argument is developed.

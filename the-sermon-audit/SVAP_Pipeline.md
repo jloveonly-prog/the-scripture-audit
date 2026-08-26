@@ -1,3 +1,12 @@
+<!--
+TranslationID: [002]
+Category: sermon_audit
+Language: en
+Status: completed
+TranslatedDate: 2026-08-26
+SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\SVAP_Pipeline.md
+-->
+
 > [!IMPORTANT]
 > ## 📋 Tactical Manual (Execution Procedure)
 > **What this document doth**: GATE -1 (Exhaustive extraction of doctrinal claims) · BVCAP input loop · Comprehensive judgment · Report generation

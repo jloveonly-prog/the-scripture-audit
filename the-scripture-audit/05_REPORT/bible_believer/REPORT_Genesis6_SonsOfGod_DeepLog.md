@@ -1,4 +1,16 @@
-﻿# 📑 [Debate Analysis] The Identity of the "Sons of God" in Genesis 6
+﻿---
+id: "scripture-bible_believer-016"
+title_en: "📑 [Debate Analysis] The Identity of the "Sons of God" in Genesis 6"
+title_ko: ""
+file_en: "REPORT_Genesis6_SonsOfGod_DeepLog.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
+# 📑 [Debate Analysis] The Identity of the "Sons of God" in Genesis 6
 
 > **STATUS**: Chat log analysis and summary of core issues in Genesis 6/Job completed
 > **Purpose of Analysis**: To systematically classify the theological debate on whether the "Sons of God" are fallen angels or humans (descendants of Adam) and to evaluate their biblical consistency.

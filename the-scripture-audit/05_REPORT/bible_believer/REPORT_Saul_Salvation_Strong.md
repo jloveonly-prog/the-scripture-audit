@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-021"
+title_en: "⚖️ King Saul Salvation Debate — Final BVCAP In-Depth Audit and Integrated Forensic Report"
+title_ko: ""
+file_en: "REPORT_Saul_Salvation_Strong.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # ⚖️ King Saul Salvation Debate — Final BVCAP In-Depth Audit and Integrated Forensic Report
 **— "Did King Saul go to Hell (Torment), or to Paradise (Abraham's Bosom)?" —**
 

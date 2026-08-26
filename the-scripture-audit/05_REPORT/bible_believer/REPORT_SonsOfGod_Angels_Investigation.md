@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-025"
+title_en: "Investigation Document — "the sons of God" Article Usage Investigation"
+title_ko: ""
+file_en: "REPORT_SonsOfGod_Angels_Investigation.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Investigation Document — "the sons of God" Article Usage Investigation
 
 > **Document Role**: This document does not make claims on the "angel/not angel" debate. It is a fact-based investigation into the **English (KJV) and Hebrew article (definite article) usage** for the expression "the sons of God" appearing in Genesis 6:2, 6:4, Job 1:6, 2:1, and 38:7. Interpretations and arguments based on this investigation will be developed separately in the RED/BLUE documents.

@@ -1,3 +1,12 @@
+<!--
+TranslationID: [012]
+Category: sermon_audit
+Language: en
+Status: completed
+TranslatedDate: 2026-08-26
+SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\03_REPORT(설교감사보고서)\회피방법.md
+-->
+
 # 📊 02_REPORT
 
 > **This folder stores the final sermon audit reports of the SVAP engine.**

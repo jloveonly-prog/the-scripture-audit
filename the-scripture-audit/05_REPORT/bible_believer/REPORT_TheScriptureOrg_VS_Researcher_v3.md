@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-bible_believer-030"
+title_en: "📋 TheScriptureBeliever VS Researcher v3 — Summary of Researcher's Rebuttals & Q&A"
+title_ko: ""
+file_en: "REPORT_TheScriptureOrg_VS_Researcher_v3.md"
+file_ko: ""
+category: "bible_believer"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # 📋 TheScriptureBeliever VS Researcher v3 — Summary of Researcher's Rebuttals & Q&A
 
 > **Document Character**: Core Q&A for quick reference

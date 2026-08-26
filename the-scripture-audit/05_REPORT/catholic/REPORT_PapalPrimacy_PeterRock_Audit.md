@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-045"
+title_en: "Doctrinal Conundrum: The Apostle Peter's Primacy and the Claim of Papal Succession"
+title_ko: ""
+file_en: "REPORT_PapalPrimacy_PeterRock_Audit.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Doctrinal Conundrum: The Apostle Peter's Primacy and the Claim of Papal Succession
 **— "Was the Apostle Peter established as the rock of the church (Roman Pope) and given the key of David?" BVCAP v2.0 Neutral Audit Report —**
 

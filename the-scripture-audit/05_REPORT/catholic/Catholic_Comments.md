@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-catholic-034"
+title_en: "Catholic Doctrine Comment Debate Transcript"
+title_ko: ""
+file_en: "Catholic_Comments.md"
+file_ko: ""
+category: "catholic"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # Catholic Doctrine Comment Debate Transcript
 
 > [!WARNING]

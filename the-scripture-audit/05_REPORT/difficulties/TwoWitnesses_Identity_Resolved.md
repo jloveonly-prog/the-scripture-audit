@@ -1,3 +1,15 @@
+﻿---
+id: "scripture-difficulties-059"
+title_en: "[Eschatology/Revelation] Dilemma: The Identity of the 'Two Witnesses' in Revelation 11"
+title_ko: ""
+file_en: "TwoWitnesses_Identity_Resolved.md"
+file_ko: ""
+category: "difficulties"
+status: "published"
+updated: "2026-08-26"
+translated: true
+---
+
 # [Eschatology/Revelation] Dilemma: The Identity of the 'Two Witnesses' in Revelation 11
 **— Enoch and Elijah, or Moses and Elijah? —**
 **— BVCAP v2.0 Masterpiece Report —**

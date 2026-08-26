@@ -1,3 +1,12 @@
+<!--
+TranslationID: [010]
+Category: sermon_audit
+Language: en
+Status: completed
+TranslatedDate: 2026-08-26
+SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\02_TEMPLATE(템플릿·예시)\README.md
+-->
+
 # 📐 02_TEMPLATE (Templates & Examples)
 
 > **What this folder does**: Stores **blank templates** and **examples demonstrating length/depth** referenced when writing advanced SVAP audit reports.
