@@ -1,5 +1,14 @@
 # 📖 SVAP Writing Example (Excerpt Anthology) — 2026-08-20
 
+<!--
+TranslationID: [021]
+Category: sermon_audit
+Language: en
+Status: completed
+TranslatedDate: 2026-08-26
+SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\02_TEMPLATE(템플릿·예시)\SVAP_EXAMPLE.md
+-->
+
 > [!CAUTION]
 > **This document is not a completed audit report, but a collection of "well-written excerpts" drawn from actual reports.**
 > The sole purpose is — **to demonstrate the sense of volume, density, and narrative style.** The theological conclusions contained herein (such as judgments regarding the Godhead doctrine vs. the Trinity) are not to be carried over directly into actual audits. To avoid the path of contamination warned by `CREED_Override.md` C-4 detailed guidelines and `SVAP_GHQ.md` E-17 (appeal to authority self-verification) — "if theological content is embedded in examples, the AI inherits that conclusion without cross-checking the text" — in actual audits, one must **always perform a fresh comparison against `KJV_1769.txt` and `TheScripture_ko_en_search.json`**. The excerpts below are used solely as a benchmark for "how dense the format should be."

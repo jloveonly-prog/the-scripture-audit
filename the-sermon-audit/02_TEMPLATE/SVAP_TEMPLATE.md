@@ -1,229 +1,232 @@
-# 📐 SVAP 심화 감사 보고서 — 빈 템플릿 (v3.1, 2026-08-20 커버리지 강제 추가판)
+# 📐 SVAP In-Depth Audit Report — Blank Template (v3.1, 2026-08-20 Coverage Enforcement Edition)
 
-> 이 템플릿은 `SVAP_GHQ.md`의 PART A~D 양식과 동일하되, **PART B가 조용히 축약되는 문제**를 막기 위해 커버리지 강제 장치를 추가했다. 원본 규정은 항상 `SVAP_GHQ.md`가 우선하며, 이 파일은 그 규정을 실제로 채워 넣을 때 쓰는 작업용 뼈대다.
-> 완전히 작성된 예시는 같은 폴더의 `SVAP_EXAMPLE.md`를 본다.
+<!--
+TranslationID: [020]
+Category: sermon_audit
+Language: en
+Status: completed
+TranslatedDate: 2026-08-26
+SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\02_TEMPLATE(템플릿·예시)\SVAP_TEMPLATE.md
+-->
+
+> This template follows the same format as PART A~D in `SVAP_GHQ.md`, but adds coverage enforcement mechanisms to prevent **PART B from being inadvertently abbreviated**. The authoritative standard is always `SVAP_GHQ.md`; this file is the working skeleton used when actually filling in that specification.
+> A fully completed example can be found in `SVAP_EXAMPLE.md` in the same folder.
 
 ---
 
 ````markdown
-# [설교 제목] — SVAP 심화 교리 감사 보고서
-**— "[설교의 핵심 주제]" SVAP 교리 중립 감사 보고서 —**
+# [Sermon Title] — SVAP In-Depth Doctrine Audit Report
+**— "[Sermon's Core Topic]" SVAP Neutral Doctrine Audit Report —**
 
-> **STATUS**: 검증 완료 | SERMON VERDICT: [🟢 SOUND / 🟡 CAUTION / 🔴 ALERT]
-> **설교자**: [이름] | **날짜**: [날짜] | **출처**: [유튜브 URL 등]
-> **주제 구절**: [설교의 중심 성경 구절]
-> **핵심 명제 P**: "[설교자가 최종적으로 관철하려는 단일 명제 — 한 문장]"
-> **추출된 교리 주장 수**: [N]건 | **검증 완료**: [N]건 | **P-트랙 신규 앵커**: [N]건
+> **STATUS**: Verification Complete | SERMON VERDICT: [🟢 SOUND / 🟡 CAUTION / 🔴 ALERT]
+> **Preacher**: [Name] | **Date**: [Date] | **Source**: [YouTube URL, etc.]
+> **Topic Passage**: [Central Scripture passage of the sermon]
+> **Core Thesis P**: "[The single thesis the preacher ultimately establishes — one sentence]"
+> **Total Doctrinal Claims Identified**: [N] | **Verification Complete**: [N] | **P-Track New Anchors**: [N]
 
 ---
 
-# PART A — 판정 (GATE -1 ~ 6)
+# PART A — Verdict (GATE -1 ~ 6)
 
-## 1. 설교 교리 전개 요약 (AI 의역)
-* **도입부**: [본문 선택 배경 및 서론적 맥락]
-* **본론**: [주요 교리 전개 과정 및 핵심 논지]
-* **심화 및 결론**: [설교자가 청중에게 요구하는 최종 결단]
+## 1. Sermon Doctrinal Development Summary (AI Paraphrase)
+* **Introduction**: [Background for text selection and introductory context]
+* **Main Body**: [Major doctrinal development and core argument]
+* **Advanced Discussion and Conclusion**: [Final commitment required from the congregation]
 
-## 2. 추출된 교리 주장 매트릭스 (GATE -1)
+## 2. Extracted Doctrinal Claims Matrix (GATE -1)
 
-### 2-0. 커버리지 맵 (STEP 2.7) — 의무
-| 구간 | Claim 수 | 0건 사유 (해당 시) |
+### 2-0. Coverage Map (STEP 2.7) — Mandatory
+| Time Interval | Claims Count | Reason for Zero (if applicable) |
 |:---:|:---:|:---|
 | 00:00~05:00 | [N] | |
 | ... | | |
-| **합계** | **[N]건** | 0건 구간 [N]개 / 전부 사유 기재 [☐] |
+| **Total** | **[N] claims** | [N] zero-claim intervals / All reasons noted [☐] |
 
-### 2-1. 주장 매트릭스
-| # | 유형 | 시간대 | 주장 요약 | 인용 구절 | ⓪ 일소 | BVCAP 투입 | 판결 |
+### 2-1. Claims Matrix
+| # | Type | Timestamp | Claim Summary | Cited Scripture | ⓪ Dismissal | BVCAP Deployment | Verdict |
 |---|:---:|--------|-----------|-----------|:---:|:---:|------|
-| 1-a | 관찰 | [시각] | [텍스트 사실 진술] | [구절] | ✔ | 🟡 | ✅ BIBLICAL |
-| 1-b | 추론 | [시각] | [그 사실에서 도출한 결론] | (동일) | — | 🔴 | [등급] |
+| 1-a | Observation | [Timestamp] | [Textual fact statement] | [Passage] | ✔ | 🟡 | ✅ BIBLICAL |
+| 1-b | Inference | [Timestamp] | [Conclusion derived from that fact] | (same) | — | 🔴 | [Rating] |
 | ... | | | | | | | |
 
-### 2-P. 핵심 명제 P 트랙 (ANCHOR-1P)
-**P = "[핵심 명제 한 문장]"**
+### 2-P. Core Thesis P Track (ANCHOR-1P)
+**P = "[Core thesis as single sentence]"**
 
-| 단계 | 검색 내용 | 결과 | 등급 |
+| Stage | Search Content | Result | Rating |
 |:---:|:---|:---|:---:|
-| 4차 | P를 자구로 진술/부정하는 구절 전수 | | |
-| 5차 | P + [전제] → Q 의 전수 결과 | | |
-| 6차 | 미인용 구절 대입 붕괴 여부 | | |
+| Pass 4 | All passages that state/negate P verbatim | | |
+| Pass 5 | Exhaustive results of P + [premise] → Q | | |
+| Pass 6 | Whether collapse occurs with unused passages substituted | | |
 
-| 3중 관문 | 통과 여부 | 근거 |
+| Three-Part Gateway | Passage Status | Evidence |
 |:---:|:---:|:---|
-| ① 대입 붕괴 | | |
-| ② 교차증인(2저자+) | | |
-| ③ 역가설 생존 | | |
+| ① Substitution Collapse | | |
+| ② Cross-Witnesses (2+ authors) | | |
+| ③ Counter-hypothesis Survival | | |
 
-## 3. 심층 분석 프레임워크 (주장별 상세 검증)
+## 3. Deep Analysis Framework (Detailed Verification per Claim)
 
-> 🚨 **커버리지 규칙 (2026-08-20 추가)**: PART A §2-1에서 **❌ UNBIBLICAL 또는 ⚠️ UNSUPPORTED 판정을 받은 Claim 전부**를 이 절에서 다룬다. ✅·🟡는 선택. 동일 논증이 반복되는 Claim은 하나로 병합하되 **병합 사유를 명시**한다("#3-b와 동일 논증 구조 → 병합 서술"). 사유 없이 건너뛴 Claim이 남으면 §4 이중검증표에서 카운트가 어긋나 즉시 드러난다.
+> 🚨 **Coverage Rule (2026-08-20 addition)**: Address **all Claims in PART A §2-1 that received ❌ UNBIBLICAL or ⚠️ UNSUPPORTED verdicts** in this section. ✅ and 🟡 are optional. Merge identical arguments appearing in multiple Claims, but **explicitly note the reason for merging** ("#3-b uses identical argument structure → merged account"). If Claims are skipped without reason, the count will immediately show a mismatch in §4's cross-verification table.
 >
-> **형식 (2026-08-20, 실전 검증본으로 교체)**: 아래 4칸이면 충분하다. `SVAP_EXAMPLE.md` ①에서 실제 밀도를 확인한다 — 항목을 5개 이상으로 늘리면 오히려 축약된다.
+> **Format (2026-08-20, replaced with practical verification standard)**: Four blocks below are sufficient. Verify actual density in `SVAP_EXAMPLE.md` ① — expanding items to 5+ actually reduces conciseness.
 
-### Claim #[N]: [의역된 주장 요약]
-> **C-Code**: [코드] | **적용 TYPE**: [TYPE-X, TYPE-Y...]
-> **KJV**: [핵심 구절 원문 인용 — 판정을 가르는 단어를 굵게]
-> **분석**: [본문 문법·어휘·병행구절 등 구체적 근거로 2~5문장. "저자의 관찰 자체는 정당하다/아니다"를 먼저 밝히고, 그 관찰에서 결론으로 넘어가는 지점에 공백이 있는지 짚는다]
-> **판정**: [등급 — 이유 짧게 병기, 예: "❌ UNBIBLICAL — STRONG (TYPE-G + TYPE-AG 2종 수렴)"]
+### Claim #[N]: [Paraphrased claim summary]
+> **C-Code**: [Code] | **Application TYPE**: [TYPE-X, TYPE-Y...]
+> **KJV**: [Core verse original text — bold the word that determines the verdict]
+> **Analysis**: [Concrete evidence based on text grammar, vocabulary, parallel passages, etc., in 2-5 sentences. First clarify whether "the author's observation itself is justified or not," then identify whether there is a gap between that observation and the conclusion drawn from it]
+> **Verdict**: [Rating — reason noted briefly, e.g., "❌ UNBIBLICAL — STRONG (TYPE-G + TYPE-AG 2-way convergence)"]
 
 ### Claim #[N+1]: ...
 
-## 4. 이중 검증 요약표 (GATE 5.5)
-| # | 주장 | 적용 무기 | 대조 결과 | 신뢰도 |
+## 4. Cross-Verification Summary Table (GATE 5.5)
+| # | Claim | Applied Evidence | Comparison Result | Reliability |
 |---|------|----------|----------|--------|
 | | | | | |
 
-## 5. 종합 판정 (Sermon Verdict)
+## 5. Final Verdict (Sermon Verdict)
 ### SERMON VERDICT: [🟢 SOUND / 🟡 CAUTION / 🔴 ALERT]
-> **판정 이유**: [핵심 근거 요약]
-> **특이사항**: [주목할 발견 — 설교자의 관찰 중 정당한 것이 있으면 반드시 기재]
-> **통계**: ✅ BIBLICAL [N]건 / ⚠️ UNSUPPORTED [N]건 / ❌ UNBIBLICAL [N]건 / 🟡 OPINION [N]건
+> **Verdict Reason**: [Summary of key evidence]
+> **Noteworthy Findings**: [Notable discoveries — if the preacher's observations are justified, they must be included]
+> **Statistics**: ✅ BIBLICAL [N] / ⚠️ UNSUPPORTED [N] / ❌ UNBIBLICAL [N] / 🟡 OPINION [N]
 
 ---
 
-# PART B — 해설 (GATE 7)
+# PART B — Commentary (GATE 7)
 
-> 🚨 **커버리지 규칙 (2026-08-20 추가)**: 아래 표에 PART A §2-1의 **모든 Claim ID**를 나열하고, 각각 "해설 작성됨(§번호)" 또는 "병합됨(→ #N)" 또는 "생략 사유"를 반드시 채운다. 빈 칸이 남으면 저장 금지.
+> 🚨 **Coverage Rule (2026-08-20 addition)**: In the table below, **list all Claim IDs from PART A §2-1**, and for each one, mark "Commentary written (§number)" or "Merged (→ #N)" or "Omission reason" without fail. Do not save if blank cells remain.
 
-### 6-0. PART B 커버리지 표 (의무)
-| Claim ID | 처리 | 사유(병합·생략 시) |
+### 6-0. PART B Coverage Table (Mandatory)
+| Claim ID | Treatment | Reason (if merged/omitted) |
 |:---:|:---|:---|
-| 1-a | 해설 작성됨 (§6-1) | |
-| 1-b | 해설 작성됨 (§6-1) | 1-a와 동일 단락에서 함께 서술 |
+| 1-a | Commentary written (§6-1) | |
+| 1-b | Commentary written (§6-1) | Covered together with 1-a in same paragraph |
 | ... | | |
-| **검산** | PART A §2-1 총 [N]건 = 이 표의 총 [N]행 | 불일치 시 §8 진행 금지 |
+| **Cross-check** | PART A §2-1 Total [N] claims = This table total [N] rows | Do not proceed to §8 if mismatch |
 
-## 6. 챕터/파트별 해설
+## 6. Chapter/Section-by-Section Commentary
 
-> 🚨 **쉬운 말 원칙(D-1B, 2026-08-20 신설)**: "쉬운 비유" 칸만이 아니라 아래 4개 항목 전부 전문용어(거함·위격·범주오류·이중주어 등) 없이 쓴다. PART A(§3)는 정밀도를 위해 전문용어를 허용하지만, PART B는 그걸 그대로 옮기지 않고 D-1B 치환표대로 풀어 쓴다.
+> 🚨 **Plain Language Principle (D-1B, established 2026-08-20)**: Write all four items below — not just the "Simple Analogy" section — without technical jargon (indwelling, nominative case, category error, double subject, etc.). PART A (§3) allows technical terms for precision, but PART B must not carry them over directly; instead, use the D-1B substitution table to expand them plainly.
 
-### [챕터/파트 제목] — Claim #[N] 대응
-**논거**: [설교자 논증의 의역 재구성 — 원문 3문장 이상 연속 인용 금지]
-**왜 그럴듯하게 들리는가**: [설득력 있는 지점을 먼저 인정 — 스틸매닝]
-**실제로 왜 무너지는가**: [PART A 판정 근거를 쉬운 말로 풀어서 설명. 원어·문맥·병행구절의 전문용어는 D-1B 치환표대로 바꾼다]
-**쉬운 비유**: [신학 용어 없이 이해할 수 있는 일상 비유 1개]
-**판정**: [PART A와 동일 등급] → PART A #[N] 참조
+### [Chapter/Section Title] — Corresponding to Claim #[N]
+**Argument**: [Paraphrased reconstruction of preacher's argument — avoid 3+ consecutive sentences of direct quote]
+**Why it sounds plausible**: [Acknowledge the persuasive point first — steelmanning]
+**Why it actually falls apart**: [PART A verdict basis explained in plain language. Substitute technical terms from original language, context, and parallel passages using the D-1B substitution table]
+**Simple Analogy**: [One everyday analogy understandable without theological terms]
+**Verdict**: [Same rating as PART A] → See PART A #[N]
 
-## 7. 부록 — 댓글·추가자료 대조 (해당 시)
-* **원 댓글 요지**: [의역]
-* **BVCAP 반론**: [같은 검증 방식]
-* **자기모순 함정** (🔴, 있는 경우 최우선 강조)
+## 7. Appendix — Comments/Additional Resources Cross-check (if applicable)
+* **Original comment summary**: [Paraphrase]
+* **BVCAP Rebuttal**: [Same verification method]
+* **Self-Contradiction Trap** (🔴, if present, emphasize first)
 
-## 8. 종합 판정표 (PART A+B 전체 재집계)
-> 🚨 **게이트 (2026-08-20 추가)**: 이 표의 총 건수가 PART A §2-1 매트릭스 총 건수와 **반드시 일치**해야 한다. 불일치 시 PART B §6-0으로 돌아가 누락된 Claim을 보완한 뒤 다시 집계한다 — 이 확인 없이는 PART C로 진행하지 않는다.
+## 8. Comprehensive Verdict Table (PART A+B Full Recount)
+> 🚨 **Gateway (2026-08-20 addition)**: The total count in this table must **match exactly** the total in PART A §2-1 matrix. If mismatch occurs, return to §6-0 of PART B, supplement missing Claims, then recount — do not proceed to PART C without this verification.
 
-| § | 논거 | 판정 | 근거 |
+| § | Argument | Verdict | Evidence |
 |:---:|:---|:---:|:---|
 | | | | |
 
-**통계**: ✅ BIBLICAL [N]건 / ⚠️ UNSUPPORTED [N]건 / ❌ UNBIBLICAL [N]건 / 🟡 OPINION [N]건 / 무관 쟁점 [N]건
+**Statistics**: ✅ BIBLICAL [N] / ⚠️ UNSUPPORTED [N] / ❌ UNBIBLICAL [N] / 🟡 OPINION [N] / Irrelevant points [N]
 
 ---
 
-# PART C — 보강 논거 탐색 (GATE 8)
+# PART C — Search for Corroborating Arguments (GATE 8)
 
-## C-0. 사용자 지정 참고 자료 반영 (조건부, 2026-08-20 신설)
-> **자동 검색이 아니다** — AI가 `01_CLAIMS`·`03_REPORT`에 쌓인 문서 중 어느 게 진짜 관련 있는지 스스로
-> 판단할 근거가 없다(주제어 검색만으론 겉보기에 무관한 문서 속 함정을 못 찾음). **사용자가 "이 문서
-> 참고해"라고 특정 문서를 지정했을 때만** 그 문서에서 ⓐ 저자의 기존 답변(카드가 그 답변으로 못 빠져나가게
-> 막는 데 씀) ⓑ 이미 확정된 자기모순 함정을 찾아 반영한다. 지정이 없으면 이 단계는 생략 — AI가 스스로
-> 나서서 다른 감사 보고서를 뒤지지 않는다.
+## C-0. User-Specified Reference Materials Integration (Conditional, established 2026-08-20)
+> **Not automated search** — The AI has no basis to determine on its own which documents in `01_CLAIMS` and `03_REPORT` are truly relevant (keyword search alone cannot identify traps in ostensibly unrelated documents). **Only when the user specifically designates "reference this document"** does the system identify from that document: ⓐ Author's prior responses (preventing the card from escaping via that answer) ⓑ Already-established self-contradiction traps and integrate them. If no designation is made, this step is skipped — the AI does not independently search other audit reports.
 
-## C-1. 실행 규칙
-[대상] PART A에서 ❌/⚠️ 판정을 받은 Claim 중 반론에 가치 있는 것 전부
-[목표] Claim마다 같은 판정을 뒷받침하는 논거 최소 3개(상한 없음, 서로 다른 책/저자 기준)
-[미달 시] "확보 N개 / 추가 탐색 결과 없음"으로 정직하게 기록 — 억지 생성 금지
-[판정 불변] PART C는 등급을 바꾸지 않는다. 뒤집힐 증거 발견 시 GATE 3부터 재실행
+## C-1. Execution Rules
+[Target] All Claims in PART A that received ❌/⚠️ verdicts and merit counter-argument
+[Goal] For each Claim, minimum 3 arguments supporting the same verdict (no upper limit; separate books/authors as criterion)
+[If insufficient] Record honestly "Secured [N] / No further search results found" — Do not force-generate
+[Verdict unchanging] PART C does not change ratings. If refuting evidence appears, restart from GATE 3
 
-### Claim #[N] 보강 — [의역된 주장 요약]
-> **PART A 판정**: [등급 이월 — 변경 금지]
+### Claim #[N] Corroboration — [Paraphrased claim summary]
+> **PART A Verdict**: [Rating carried forward — do not change]
 
-| # | 보강 논거 | 근거 구절 | 소속 책/저자 | 적용 TYPE | 난이도 |
+| # | Corroborating Argument | Proof Text | Book/Author | Application TYPE | Difficulty |
 |:---:|:---|:---|:---|:---|:---:|
 | 1 | | | | | 🟢 |
 | 2 | | | | | 🟡 |
 | 3 | | | | | 🔴 |
 
-> **교차증인**: [N]개 독립 책/저자 / **🟢 확보**: [N]건
-> **탐색 종료 사유**: [완료/미달 정직 기록]
+> **Cross-witnesses**: [N] independent books/authors / **🟢 Secured**: [N]
+> **Reason for concluding search**: [Complete/Honestly noted if insufficient]
 
 ---
 
-# PART D — 실전 투입 (GATE 9)
+# PART D — Combat Deployment (GATE 9)
 
-## D-1B. 🗣️ 쉬운 말 원칙 (의무, 2026-08-20 신설)
-> "난이도"(🟢🟡🔴, 논증 검증 난도)와 "쉬운 말"(문장 자체의 이해 난도)은 다른 축이다. PART D 전체(투입
-> 문장·대화 트리·자기모순 함정 표)와 PART B 서술에 강제 적용, **PART A는 예외**(내부 판정 정밀도 우선).
-> 금지 어휘 예시: 거함/내재/위격/본질/호격/이중 주어/등위접속사/전치사구/범주 오류/어의 중의성/집합명사.
-> 치환 예 — "거함"→"~안에 들어와 계신다", "호격 구조"→"상대방을 부르는 말투", "범주 오류"→"원래 다른
-> 종류를 같은 걸로 섞음". 저장 전 금지 어휘로 전체 스캔하고 `[쉬운 말 스캔] — 발견 N건 / 전부 치환 완료 [☐]` 기록.
+## D-1B. 🗣️ Plain Language Principle (Mandatory, established 2026-08-20)
+> "Difficulty" (🟢🟡🔴, argument verification difficulty) and "plain language" (comprehensibility of the sentence itself) are different axes. Enforced across all PART D (deployment sentences, dialogue trees, self-contradiction trap table) and PART B narrative, **PART A is the exception** (internal verdict precision takes priority).
+> Prohibited vocabulary examples: indwelling/inherent/nominative case/essence/vocative/double subject/coordinate conjunction/prepositional phrase/category error/semantic ambiguity/collective noun.
+> Substitution examples — "indwelling"→"dwelling inside us", "vocative structure"→"the way someone is addressed", "category error"→"mixing things of fundamentally different kinds as if they were the same". Before saving, scan the whole text for prohibited vocabulary and record `[Plain Language Scan] — [N] instances found / All substituted [☐]`.
 
-## D-2. 🔨 망치 (Opening Hammer)
-**[이 감사 전체에서 가장 강한 단일 명제. IRONCLAD/STRONG + 교차증인 확보된 것 하나만]**
+## D-2. 🔨 Opening Hammer
+**[The strongest single thesis in this entire audit. Only one with IRONCLAD/STRONG + cross-witnesses secured]**
 
-## D-3. 카드 [N] — [제목]
-**투입 문장**
-> [실제로 붙여넣을 대화체 3문장 이내]
+## D-3. Card [N] — [Title]
+**Deployment Sentence**
+> [Conversational text to be directly quoted, 3 sentences maximum]
 
-**근거** — [구절+저자] · **난이도** [🟢/🟡] · **PART C 참조**
+**Basis** — [Passage + Author] · **Difficulty** [🟢/🟡] · **See PART C**
 
-**대화 트리**
-| 상대 예상 답변 | 우리 후속 수 |
+**Dialogue Tree**
+| Anticipated Opponent Response | Our Follow-up |
 |:---|:---|
 | | |
-| **회피·침묵** | 다음 카드로 이동 |
+| **Evasion/Silence** | Move to next card |
 
-## D-4. 🔴 자기모순 함정 (최우선 투입)
-| # | 함정 | 상대의 A 지점 해석 | 상대의 B 지점 해석 | 왜 양립 불가 |
+## D-4. 🔴 Self-Contradiction Trap (Highest Priority Deployment)
+| # | Trap | Opponent's Interpretation of Point A | Opponent's Interpretation of Point B | Why Incompatible |
 |:---:|:---|:---|:---|:---|
 | 1 | | | | |
 
-### D-4B. 📐 나란히 놓기 — 자기모순 함정의 **의무 출력 형식** (2026-08-20 신설)
+### D-4B. 📐 Side-by-Side Placement — **Mandatory Output Format** for Self-Contradiction Traps (2026-08-20 established)
 
-> 자기모순은 설명하면 약해지고 **나란히 놓으면 강해진다.** 아래 형식으로 **2건 이상** 만든다(1건은 "말실수"로 넘어가고, 2건부터 패턴이 된다). 못 채우면 "확보 1건 / 추가 탐색 결과 없음"으로 정직하게 기록.
+> Self-contradictions weaken under explanation and **strengthen when placed side-by-side.** Create **minimum 2** using the format below (1 can be dismissed as a "slip of tongue," but 2+ becomes a pattern). If unable to provide 2+, record honestly "Secured 1 / No additional search results."
 >
-> **🚨 의무 조건 4가지 — 어기면 카드가 우리를 친다**
-> 1. **원문 그대로 인용. 요약·의역·치환 절대 금지** — 실제 실패 기록 있음(`03_REPORT/AUDIT_미상_신격교리_그림_20260812.md`: "감사자가 요약·치환한 표현을 근거로 모순을 구성"해 두 차례 오판). 의역하면 "그렇게 말한 적 없다" 한 마디에 신뢰가 무너진다.
-> 2. **타임코드(몇 분 몇 초) 반드시 병기** — 상대와 제3자가 직접 열어 확인할 수 있어야 성립한다. 문서 대상이면 장·절·쪽수.
-> 3. **두 발언이 정말 같은 것을 두고 반대인지 확인** — 층위가 다르면 모순이 아니다.
-> 4. **질문은 닫힌 형태로** — "어떻게 생각하십니까"(✕) / "둘 중 어느 쪽이 입장입니까"(○)
+> **🚨 Four Mandatory Conditions — Violating these will undermine the card**
+> 1. **Quote source material exactly. Summary, paraphrase, or substitution absolutely prohibited** — Real failure cases exist (`03_REPORT/AUDIT_Anonymous_Godhead_Drawing_20260812.md`: "Auditor constructed contradiction based on summarized/substituted phrasing," leading to two misjudgments). Paraphrase once and trust collapses with "he never said that."
+> 2. **Timestamp (minutes:seconds) mandatory** — Both the opponent and third parties must be able to verify directly. For documents, include chapter/verse/page.
+> 3. **Verify that both statements really oppose each other on the exact same matter** — Different levels mean no contradiction.
+> 4. **Questions must be closed-ended** — "What do you think?" (✕) / "Which of these two is your position?" (○)
 
 ```markdown
-### 함정 [N] — [한 줄 이름]
+### Trap [N] — [One-line name]
 
-| | 설교자 발언 (원문 그대로) | 시각 |
+| | Preacher's Statement (original text, unchanged) | Timestamp |
 |:---:|:---|:---:|
-| **A** | "[따옴표 안은 손대지 않는다]" | **[분:초]** |
-| **B** | "[따옴표 안은 손대지 않는다]" | **[분:초]** |
+| **A** | "[Leave text in quotation marks as-is]" | **[min:sec]** |
+| **B** | "[Leave text in quotation marks as-is]" | **[min:sec]** |
 
-**⟶ 질문**: "[A와 B 중 어느 쪽이 목사님 입장입니까?]"
+**⟶ Question**: "[Which of A or B represents your position?]"
 
-**어느 쪽을 택해도 치르는 값**
-| 택하는 쪽 | 잃는 것 |
+**Cost of choosing either**
+| If you choose | What collapses |
 |:---:|:---|
-| A | [무엇이 무너지는지] |
-| B | [무엇이 무너지는지] |
+| A | [what is sacrificed] |
+| B | [what is sacrificed] |
 ```
 
-> **🔎 어디서 찾는가**: ① 유비를 세웠다 부순 자리("근데 하나님은…") ② 같은 낱말을 방어할 때와 공격할 때 다른 뜻으로 쓴 자리 ③ 자기가 세운 규칙을 자기가 어긴 자리 ④ **전수 주장을 한 자리**("성경 어디에도 ~는 없다" — 반례 하나로 무너지므로 가장 먼저 확인)
+> **Where to look**: ① Where an analogy was set up and then broken ("But God...") ② Where the same term is used with different meanings in defense vs. offense ③ Where the preacher breaks his own rule ④ **Where universal claims are made** ("Scripture nowhere says ~" — one counterexample collapses it, so check first)
 
-## D-7. 종합 반론 스트레스 테스트
-| 검사 | 결과 | 조치 |
+## D-7. Comprehensive Rebuttal Stress Test
+| Test | Result | Action |
 |:---|:---|:---|
-| ① 규칙 일관성 | | |
-| ② 독립성 | | |
-| ③ 역공 경로 | | |
+| ① Rule Consistency | | |
+| ② Independence | | |
+| ③ Counter-attack Vulnerability | | |
 
 ---
 
-## 📖 성경 본문 출처
-| 언어 | 판본 | 비고 |
+## 📖 Biblical Text Source
+| Language | Edition | Remark |
 |:---|:---|:---|
-| **영문** | **King James Version — 1769 캠브리지 판본** (`KJV_1769.txt`, 이탤릭 포함) | 판정 기준 정본(단일) |
-| **한글** | 〈⒜·⒝·⒞ 중 실제 사용한 것〉 | 〈해당 비고〉 |
+| **English** | **King James Version — 1769 Cambridge Edition** (`KJV_1769.txt`, including italics) | Standard text for judgment (single) |
+| **Korean** | 〈⒜·⒝·⒞ actually used among these〉 | 〈Corresponding remark〉 |
 
-[RLHF 희석 스캔] — [이상 없음 / 발견 내용]
-[C-4 라벨 스캔] — 판정 근거로 사용된 신학체계 라벨: [N]건
-[커버리지 검산] — PART A [N]건 = PART B [N]건 = §8 재집계 [N]건
+[RLHF Dilution Scan] — [No abnormalities / Findings]
+[C-4 Label Scan] — Theological systems used as judgment basis: [N]
+[Coverage Cross-check] — PART A [N] = PART B [N] = §8 Recount [N]
 ````
