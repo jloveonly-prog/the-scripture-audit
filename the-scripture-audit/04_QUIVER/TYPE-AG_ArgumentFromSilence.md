@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0037 | ver: 20260829_0942 -->
 # 🏹 SKILL-34: TYPE-AG — Argument from Silence
 **"The scriptures are not silent — it is always their grounds that are silent"** (Revised 2026-07-22)
 

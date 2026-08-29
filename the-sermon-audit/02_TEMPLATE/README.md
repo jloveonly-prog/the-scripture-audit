@@ -30,4 +30,4 @@ SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\02_TEMPLATE(템플릿·�
 ## 🔗 Linkages
 
 * For the actual usage scale of the `SVAP_GHQ.md` PART A~D format, see `SVAP_EXAMPLE.md` in this folder.
-* Completed actual audit reports are saved in `03_REPORT(설교감사보고서)/` (not this folder — this is exclusively for templates and examples).
+* Completed actual audit reports are saved in `03_REPORT/` (not this folder — this is exclusively for templates and examples).

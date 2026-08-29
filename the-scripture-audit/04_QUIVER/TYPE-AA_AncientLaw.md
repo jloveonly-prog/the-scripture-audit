@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0031 | ver: 20260829_0942 -->
 # ⚖️ TYPE-AA: Dissection of Ancient Law & Culture
 
 > **When to Invoke**: When the 'subject' of an action recorded in the biblical text differs (e.g., did the centurion come directly, or did he send a delegation?), or when figures or expressions appear that seem like obvious 'exaggerations' from a modern perspective.

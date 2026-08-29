@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0209 | ver: 20260829_0942 -->
 # ⚖️ Melchisedec and the Formation of Nations in the First World — BVCAP v2.0 Masterpiece Report
 **— "Without father, without mother, without descent" (Heb 7:3) — The Secret of the First World and God's Design of Love —**
 

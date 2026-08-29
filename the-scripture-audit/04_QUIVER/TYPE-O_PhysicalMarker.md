@@ -1,4 +1,5 @@
-﻿# 🏔️ SKILL-15: TYPE-O — Physical Trace Absence Verification Pipeline
+<!-- doc_no: 20260829_0071 | ver: 20260829_0942 -->
+# 🏔️ SKILL-15: TYPE-O — Physical Trace Absence Verification Pipeline
 **"By their fruits ye shall know them." — Matthew 7:20 KJV**
 
 > **[Primary Trigger Condition]** When the opponent claims that **"Event X of the Bible was already fulfilled in the past."**

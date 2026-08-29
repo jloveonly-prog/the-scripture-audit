@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0017 | ver: 20260829_0942 -->
 > [!NOTE]
 > **Document Genealogy**: This file is an officially registered WAR_LOG.
 > Original: `05_REPORT/bible_believer/Counterfactual_Gen3_20_was_PreFallBirthTheory.md` (For pastoral persuasion package, copied 2026-07-15).

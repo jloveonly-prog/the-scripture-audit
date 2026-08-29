@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0113 | ver: 20260829_0942 -->
 # 📜 [BVCAP 2.0 Audit Report] Verification of Pastor Idolatry vs Mary Worship Debate
 **— "Can the corruption of heretical pastors justify the worship of Mary?" BVCAP v2.0 Neutral Audit Report —**
 

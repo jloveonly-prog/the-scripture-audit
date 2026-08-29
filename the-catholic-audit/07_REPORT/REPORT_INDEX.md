@@ -1,107 +1,108 @@
 ---
 id: "catholic-report-153"
 title_ko: "📁 CVCAP 마스터피스 보고서 인덱스"
+title_en: "📁 CVCAP Masterpiece Report Index"
 file_ko: "REPORT_INDEX.md"
 file_en: "REPORT_INDEX.md"
 category: "report"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# 📁 CVCAP 마스터피스 보고서 인덱스
-## — 문헌 법정 (가톨릭 내부 문헌 전용) 전과 기록 —
+# 📁 CVCAP Masterpiece Report Index
+## — Document Court (Catholic Internal Documents Only) Record of Findings —
 
-> **STATUS**: CVCAP 3.0 자동화 파이프라인 가동 중 | **엔진**: CVCAP 3.0 (내부 문헌 단일 트랙 + 자동화 계층)
-> **작전 목표**: 가톨릭 교도권·무류성의 내부 붕괴(Implosion) 확정
-> **최종 갱신**: 2026-07-21 (유령 카드 제거 + 전 계층 무결성 점검 22/22 통과 — scripts/verify_pipeline.py)
+> **STATUS**: CVCAP 3.0 automation pipeline running | **Engine**: CVCAP 3.0 (single-track internal documents + automation layer)
+> **Operation Goal**: Confirm the internal collapse (Implosion) of Catholic Magisterium and infallibility
+> **Last Updated**: 2026-07-21 (removed phantom cards + full-layer integrity check passed 22/22 — scripts/verify_pipeline.py)
 
 ---
 
-## 🆕 현재 가동 중인 산출물 (CVCAP 3.0 — 04_DOCTRINE_DB 기반 자동 탐지)
+## 🆕 Currently Active Outputs (CVCAP 3.0 — Automated Detection Based on 04_DOCTRINE_DB)
 
-> 아래는 `04_DOCTRINE_DB/`(교리 카드 71장, 중복 정리 완료)를 입력으로 `scripts/conflict_detector.py`가
-> 자동 색인하고, 사람이 종합 정리한 **현재 활성 보고서**입니다.
+> Below are the **currently active reports**, automatically indexed by `scripts/conflict_detector.py` from the input of
+> `04_DOCTRINE_DB/` (71 doctrine cards, duplicates cleaned up) and compiled comprehensively by a human.
 
-| 산출물 | 위치 | 내용 | 상태 |
+| Output | Location | Content | Status |
 |:---|:---|:---|:---:|
-| 종합 감사 보고서 | [catholic_error_report.md](./catholic_error_report.md) | 개별 검증 완료된 **16대 모순** (구원론·무류성·성사론·마리아론·윤리 교리 등) | ✅ 최신 |
-| 자동 탐지 후보 (임베딩) | [auto_conflict_results.csv](./auto_conflict_results.csv) | Sentence-Transformers 유사도 ≥0.60 + cross-claim 필터 통과 후보 **2,154건** (미확정) | ✅ 최신 |
-| 자동 탐지 제외 사례 (투명성 공개) | [auto_conflict_excluded_self_negation.csv](./auto_conflict_excluded_self_negation.csv) | 오탐(동일 입장)으로 판정되어 제외된 **1,760건** — 수작업 검증 제외 목록 34쌍 포함 | ✅ 최신 |
-| 콤보 필터 태깅 | [cvcap_combo_results.csv](./cvcap_combo_results.csv) | CVCAP 3.0 다중 필터에 동시 적발된 **626건** (키워드 태깅 — 미확정 후보) | ✅ 최신 |
-| LLM 2차 심사 (YES만) | [llm_verified_conflicts.csv](./llm_verified_conflicts.csv) | `scripts/llm_judge.py` — claude CLI 헤드리스 심사 (API 키 불필요). **✅ 전체 후보 전수 심사 완료** (누적 YES 55건 — 전량 수작업 재검증 거침) | ✅ 완료 |
-| LLM 심사 전체 로그 | [llm_judge_full_log.csv](./llm_judge_full_log.csv) | 전체 판정(YES/NO) + 근거. 미심사 잔여 **0건**. 새 카드 추가 후 재개는 `python scripts/llm_judge.py next 200` | ✅ 완료 |
-| 충돌 네트워크 시각화 | [conflict_network.html](./conflict_network.html) | Vis.js 인터랙티브 그래프 — 유사도 **상위 150건** (Chrome으로 열기) | ✅ 최신 |
-| 확정 콜리전 카드 | [`../05_COLLISION_CARDS/confirmed/`](../05_COLLISION_CARDS/confirmed/) | COL-001~014, 수작업 정밀 검증 완료 (009~014는 자동 탐지→LLM 심사→원문 대조 3단계 통과 신규 발굴: EENS 3장 + 동성 축복 자기부정 + 종교자유 역전 + 교회법 844 실천모순) | ✅ 최신 |
-| 후보 카드 | [`../05_COLLISION_CARDS/candidates/`](../05_COLLISION_CARDS/candidates/) | 비어 있음 — CAND-001은 2026-07-21 OODA 승격 심리 통과로 COL-014 승격 | ✅ 처리 완료 |
-| 콤보 카드 (확정) | [`../05_COLLISION_CARDS/combos/`](../05_COLLISION_CARDS/combos/) | COMBO-01~05 — 마리아론·무류성·구원론·연옥/대사·동성 축복 연쇄 붕괴 카드 | ✅ 최신 |
-| 제로데이 스캔 후보 | [`../06_ZERO_DAY/scan_targets.md`](../06_ZERO_DAY/scan_targets.md) | 향후 우선 탐색 대상 (Fiducia Supplicans 등) | 🔄 진행 중 |
+| Comprehensive Audit Report | [REPORT_Catholic_Magisterium_Internal_Collisions_Comprehensive_Audit.md](./REPORT_Catholic_Magisterium_Internal_Collisions_Comprehensive_Audit.md) | **16 major contradictions** individually verified (soteriology, infallibility, sacramental theology, Mariology, ethical doctrine, etc.) | ✅ Latest |
+| Automated Detection Candidates (Embedding) | [auto_conflict_results.csv](./auto_conflict_results.csv) | **2,154 candidates** (unconfirmed) that passed Sentence-Transformers similarity ≥0.60 + the cross-claim filter | ✅ Latest |
+| Automated Detection Excluded Cases (Transparency Disclosure) | [auto_conflict_excluded_self_negation.csv](./auto_conflict_excluded_self_negation.csv) | **1,760 cases** excluded as false positives (same position) — includes a list of 34 manually verified exclusion pairs | ✅ Latest |
+| Combo Filter Tagging | [cvcap_combo_results.csv](./cvcap_combo_results.csv) | **626 cases** simultaneously flagged by CVCAP 3.0's multiple filters (keyword tagging — unconfirmed candidates) | ✅ Latest |
+| LLM Secondary Review (YES only) | [llm_verified_conflicts.csv](./llm_verified_conflicts.csv) | `scripts/llm_judge.py` — headless review via the claude CLI (no API key required). **✅ Full review of all candidates complete** (cumulative YES: 55 cases — all manually re-verified) | ✅ Complete |
+| Full LLM Review Log | [llm_judge_full_log.csv](./llm_judge_full_log.csv) | All rulings (YES/NO) + rationale. **0** candidates remain unreviewed. To resume after adding new cards: `python scripts/llm_judge.py next 200` | ✅ Complete |
+| Collision Network Visualization | [conflict_network.html](./conflict_network.html) | Interactive Vis.js graph — **top 150** by similarity (open in Chrome) | ✅ Latest |
+| Confirmed Collision Cards | [`../05_COLLISION_CARDS/confirmed/`](../05_COLLISION_CARDS/confirmed/) | COL-001~014, fully verified by hand (009~014 are newly discovered cards that passed the 3-stage process of automated detection → LLM review → source-text comparison: EENS Chapter 3 + the self-negation of the same-sex blessing + the reversal on religious freedom + the practical contradiction of Canon 844) | ✅ Latest |
+| Candidate Cards | [`../05_COLLISION_CARDS/candidates/`](../05_COLLISION_CARDS/candidates/) | Empty — CAND-001 was promoted to COL-014 after passing the OODA promotion hearing on 2026-07-21 | ✅ Processing complete |
+| Combo Cards (Confirmed) | [`../05_COLLISION_CARDS/combos/`](../05_COLLISION_CARDS/combos/) | COMBO-01~05 — chain-collapse cards for Mariology, infallibility, soteriology, purgatory/indulgences, and the same-sex blessing | ✅ Latest |
+| Zero-Day Scan Candidates | [`../06_ZERO_DAY/scan_targets.md`](../06_ZERO_DAY/scan_targets.md) | Priority search targets for the future (e.g., Fiducia Supplicans) | 🔄 In progress |
 
-> ⚠️ **탐지기 한계 안내 (신뢰 계층)**:
-> ① 임베딩 유사도는 '주제 인접'과 '논리 모순'을 완전히 구분하지 못하므로, `auto_conflict_results.csv`의
-> 2,154건은 전부 **"사람/LLM의 신학적 재검토가 필요한 1차 후보"**입니다.
-> ② `cvcap_combo_results.csv`의 626건은 **키워드 필터 히트 건수**이지 확정 모순 수가 아닙니다.
-> ③ 최종 확정 판단은 `catholic_error_report.md`의 16대 모순, `05_COLLISION_CARDS/confirmed/`,
-> `combos/`처럼 **개별 검증을 거친 카드만** 신뢰하십시오.
-> ④ 초기 char n-gram 시절 자동 후보 49건 중 57%가 오탐으로 판명된 전례가 있으며(원문 대조로 확인),
-> 그 교훈에 따라 같은 문서를 가리키던 중복 카드 8장을 2026-07-07 DB에서 제거했습니다 (80→71장; schema.md 템플릿 유령 카드 1건 추가 제거).
+> ⚠️ **Detector Limitations Notice (Trust Tiers)**:
+> ① Embedding similarity cannot fully distinguish 'topical proximity' from 'logical contradiction,' so all
+> 2,154 items in `auto_conflict_results.csv` are **"first-pass candidates requiring theological re-review by a human/LLM."**
+> ② The 626 items in `cvcap_combo_results.csv` are **keyword-filter hit counts**, not a count of confirmed contradictions.
+> ③ For final confirmed judgments, trust **only individually verified cards**, such as the 16 major contradictions in `REPORT_Catholic_Magisterium_Internal_Collisions_Comprehensive_Audit.md`,
+> `05_COLLISION_CARDS/confirmed/`, and `combos/`.
+> ④ In the early char n-gram era, 57% of 49 automated candidates turned out to be false positives (confirmed by source-text comparison), and
+> in accordance with that lesson, 8 duplicate cards pointing to the same document were removed from the database on 2026-07-07 (80→71 cards; one additional phantom card for the schema.md template was also removed).
 
 ---
 
-## ⚔️ 성경 법정 (BVCAP — 별도 엔진) 연동 보고서
+## ⚔️ Linked Reports from the Scripture Court (BVCAP — a Separate Engine)
 
-> CVCAP 3.0은 가톨릭 **내부 문헌만** 검증합니다. 같은 교리의 **성경 원문 검증**은
-> `../../the-scripture-audit/`(BVCAP)가 담당하며, 아래 보고서들이 **최종 콘텐츠 병합 대상**입니다.
-> 양측 모두 붕괴 확정 시 통합 보고서에서 🔴 CHECKMATE 선언 (→ `CVCAP_GHQ.md` 통합 인터페이스 참조).
+> CVCAP 3.0 verifies **only** Catholicism's internal documents. Verification of the same doctrines against the **original text of Scripture** is
+> handled by `../../the-scripture-audit/` (BVCAP), and the reports below are the **targets for final content merging**.
+> When both sides confirm collapse, a 🔴 CHECKMATE is declared in the merged report (→ see the integrated interface `CVCAP_GHQ.md`).
 
-> 위치: `../../the-scripture-audit/05_REPORT(전과보고서)/catholic/`
+> Location: `../../the-scripture-audit/05_REPORT/catholic/`
 
-| # | 파일명 | 주제 | 핵심 타격 포인트 | 상태 |
+| # | Filename | Topic | Core Strike Point | Status |
 |:---:|:---|:---|:---|:---:|
-| 1 | [REPORT_가톨릭이_예수님을_구원자로_시인하지_못하는_이유.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_가톨릭이_예수님을_구원자로_시인하지_못하는_이유.md) | 구원론 핵심 질문 | "예/아니오" 함정 — 어느 쪽 선택해도 가톨릭 구원론 붕괴 | ✅ 완성 |
-| 2 | [REPORT_가톨릭이_예수님을_구원자로_시인하지_못하는_이유_노트북LM용.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_가톨릭이_예수님을_구원자로_시인하지_못하는_이유_노트북LM용.md) | 구원론 (영상용) | 위 문서의 영상 스크립트 최적화본 | ✅ 영상 준비 |
-| 3 | [REPORT_가톨릭_3대탈출구_봉쇄_SolaScriptura.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_가톨릭_3대탈출구_봉쇄_SolaScriptura.md) | Sola Scriptura | 성경+전통 이중권위 / ex cathedra / 예방적 구원 3대 탈출구 완전 봉쇄 | ✅ 완성 |
-| 4 | [REPORT_교황수위권_베드로반석_오류감사.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_교황수위권_베드로반석_오류감사.md) | 교황 수위권 | 마 16:18 "반석" = 베드로인가? 원어 Petros vs Petra 구분 | ✅ 완성 |
-| 5 | [REPORT_마리아_무염시태_승천_오류감사.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_마리아_무염시태_승천_오류감사.md) | 마리아 도그마 | 눅 2:22 정결 예식 결정타 / 성경 근거 전무 | ✅ 완성 |
-| 6 | [REPORT_사도계승_역사전승_오류감사.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_사도계승_역사전승_오류감사.md) | 사도 계승 | 역사적 단절 증명 / 베드로 로마 주교설 타임라인 붕괴 | ✅ 완성 |
-| 7 | [REPORT_카톨릭_성인전구교리_검증.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_카톨릭_성인전구교리_검증.md) | 성인 전구 | 딤전 2:5 "중보자는 오직 한 분" — 성인 전구 구조적 불가 | ✅ 완성 |
-| 8 | [REPORT_유아세례_딜레마_7성사붕괴.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_유아세례_딜레마_7성사붕괴.md) | 유아세례·7성사 | 유아세례 딜레마로 7성사 연쇄 붕괴 유도 | ✅ 핵심 무기 |
-| 9 | [REPORT_베드로_갈보리순교설.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_베드로_갈보리순교설.md) | 베드로 순교지 | 역사 포렌식 — 베드로 로마 순교설 검증 | ✅ 완성 |
-| 10 | [REPORT_요한1서_콤마.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_요한1서_콤마.md) | 요한 콤마 | 불가타 사본 조작 의혹 — 삼위일체 구절 사본학 포렌식 | ✅ 완성 |
-| 11 | [REPORT_WINE_포도주_술_진노_원어_포렌식.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_WINE_포도주_술_진노_원어_포렌식.md) | 성찬 포도주 | 화체설 vs 성경 원어 포렌식 | ✅ 완성 |
-| 12 | [REPORT_카톨릭외전_대본분석.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/REPORT_카톨릭외전_대본분석.md) | 외전·외경 | 외경의 정경성 주장 해체 | ✅ 완성 |
+| 1 | [REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md) | The core question of soteriology | The "yes/no" trap — Catholic soteriology collapses whichever answer is chosen | ✅ Complete |
+| 2 | [REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior_NotebookLM.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior_NotebookLM.md) | Soteriology (for video) | Video-script-optimized version of the document above | ✅ Video-ready |
+| 3 | [REPORT_Catholic_3_Major_Escape_Routes_Blockaded_SolaScriptura.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_Catholic_3_Major_Escape_Routes_Blockaded_SolaScriptura.md) | Sola Scriptura | Complete blocking of the three great Catholic escape routes: Scripture+Tradition dual authority / ex cathedra / preemptive salvation | ✅ Complete |
+| 4 | [REPORT_PapalPrimacy_PeterRock_Audit.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_PapalPrimacy_PeterRock_Audit.md) | Papal primacy | Matthew 16:18 — is "the rock" Peter? Distinguishing the original Greek Petros vs. Petra | ✅ Complete |
+| 5 | [REPORT_Mary_Immaculate_Assumption_Audit.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_Mary_Immaculate_Assumption_Audit.md) | Marian dogma | The decisive blow of Luke 2:22's purification rite / complete absence of scriptural basis | ✅ Complete |
+| 6 | [REPORT_ApostolicSuccession_Tradition_Audit.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_ApostolicSuccession_Tradition_Audit.md) | Apostolic succession | Proof of historical rupture / collapse of the timeline for Peter as Bishop of Rome | ✅ Complete |
+| 7 | [REPORT_Catholic_IntercessionOfSaints_Audit.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_Catholic_IntercessionOfSaints_Audit.md) | Intercession of the saints | 1 Timothy 2:5 "one mediator" — the structural impossibility of the intercession of saints | ✅ Complete |
+| 8 | [REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md) | Infant baptism / the Seven Sacraments | Inducing a chain collapse of the Seven Sacraments through the infant-baptism dilemma | ✅ Core weapon |
+| 9 | [[F+E+G+N+P+I+T+S]_Peter_Calvary_Martyrdom.md](../../the-scripture-audit/05_REPORT/catholic/[F+E+G+N+P+I+T+S]_Peter_Calvary_Martyrdom.md) | Peter's site of martyrdom | Historical forensics — verifying the theory of Peter's martyrdom in Rome | ✅ Complete |
+| 10 | [REPORT_1_John_Comma.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_1_John_Comma.md) | The Johannine Comma | Suspected Vulgate manuscript tampering — textual-critical forensics of the Trinity passage | ✅ Complete |
+| 11 | [REPORT_WINE_Wine_Liquor_Wrath_Original_Language_Forensics.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_WINE_Wine_Liquor_Wrath_Original_Language_Forensics.md) | Communion wine | Transubstantiation vs. original-language scriptural forensics | ✅ Complete |
+| 12 | [REPORT_CatholicApocrypha_ScriptAnalysis.md](../../the-scripture-audit/05_REPORT/catholic/REPORT_CatholicApocrypha_ScriptAnalysis.md) | The Apocrypha | Dismantling the claim of canonicity for the Apocrypha | ✅ Complete |
 
-> 가톨릭 특화 성경 무기 카드: [`../03_QUIVER/CATHOLIC_TARGETED_WEAPONS.md`](../03_QUIVER/CATHOLIC_TARGETED_WEAPONS.md) (성경 법정/BVCAP 관할 — 병합 단계 전용)
+> Catholic-specific scriptural weapon cards: [`../03_QUIVER/CATHOLIC_TARGETED_WEAPONS.md`](../03_QUIVER/CATHOLIC_TARGETED_WEAPONS.md) (under the jurisdiction of the Scripture Court/BVCAP — reserved for the merge stage)
 
 ---
 
-## 🗄️ 실전 전투 기록 아카이브 (CVCAP 1.0 시기, 2026-07-05) — 역사적 참고용
+## 🗄️ Live-Combat Record Archive (CVCAP 1.0 Era, 2026-07-05) — For Historical Reference
 
-> 자동화 파이프라인 도입 **이전** 실전 댓글 논쟁 기록. 실전 화법·논증 패턴 참고 자료로는 여전히 유효.
+> Records of live comment-section debates from **before** the automation pipeline was introduced. Still valid as reference material for real-world rhetoric and argumentation patterns.
 
-| # | 파일명 | 전투 유형 | 결과 | 교훈 |
+| # | Filename | Combat Type | Outcome | Lesson |
 |:---:|:---|:---|:---:|:---|
-| 1 | [카톨릭_댓글.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/카톨릭_댓글.md) | 실전 댓글 전투 | 기록 | 실전 패턴 분석용 |
-| 2 | [카톨릭2차전.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/카톨릭2차전.md) | 화체설·교부 논쟁 | ⚠️ 피격 | 요 6:63 미사용 — 이후 BVCAP 무기 카드 A로 상비화 |
-| 3 | [카톨릭_법정.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/카톨릭_법정.md) | 법정 모의 | 분석 | 논증 구조 참고 |
-| 4 | [카톨릭_변증.md](../../the-scripture-audit/05_REPORT(전과보고서)/catholic/카톨릭_변증.md) | 변증 기록 | 분석 | 방어 패턴 파악용 |
+| 1 | [Catholic_Comments.md](../../the-scripture-audit/05_REPORT/catholic/Catholic_Comments.md) | Live comment-section combat | Record | For analyzing real-world patterns |
+| 2 | [catholic_round_2.md](../../the-scripture-audit/05_REPORT/catholic/catholic_round_2.md) | Transubstantiation / patristic debate | ⚠️ Took a hit | John 6:63 was not used — later stockpiled as BVCAP weapon card A |
+| 3 | [Catholic_Court.md](../../the-scripture-audit/05_REPORT/catholic/Catholic_Court.md) | Mock trial | Analysis | For reference on argument structure |
+| 4 | [Catholic_Apologetics.md](../../the-scripture-audit/05_REPORT/catholic/Catholic_Apologetics.md) | Apologetics record | Analysis | For understanding defense patterns |
 
-### 🎯 상비 핵심 무기 (전투 기록에서 검증됨)
-- **호노리우스 1세 파문** (문헌 법정 핵폭탄) → `03_QUIVER/QVCAP_WEAPONS.md` 파탄 카드 1
-- **아우구스티누스 역체리피킹** (교부 법정) → `03_QUIVER/QVCAP_WEAPONS.md` 파탄 카드 6
-- **요 6:63 sarx 동일 단어** (성경 법정 — BVCAP 관할) → `CATHOLIC_TARGETED_WEAPONS.md` 카드 A
+### 🎯 Core Standing Weapons (Verified from Combat Records)
+- **The condemnation of Honorius I** (a Document Court nuclear weapon) → `03_QUIVER/QVCAP_WEAPONS.md`, Collapse Card 1
+- **The reverse cherry-picking of Augustine** (patristic court) → `03_QUIVER/QVCAP_WEAPONS.md`, Collapse Card 6
+- **The identical Greek word sarx in John 6:63** (Scripture Court — under BVCAP jurisdiction) → `CATHOLIC_TARGETED_WEAPONS.md`, Card A
 
 ---
 
-## 📢 공개 콘텐츠 전략
+## 📢 Public Content Strategy
 
-| 콘텐츠 | 기반 문서 | 형식 | 목적 |
+| Content | Based on Document | Format | Purpose |
 |:---|:---|:---:|:---|
-| **"가톨릭이 예수님을 구원자로 시인하지 못하는 이유"** | BVCAP 노트북LM용.md | 영상 | 핵심 질문으로 시청자 주목 |
-| **"유아세례 딜레마와 7성사 붕괴"** | BVCAP REPORT_유아세례_딜레마 | 영상 | 가톨릭 성사 구조 전체 흔들기 |
-| **"교황은 왜 무류할 수 없는가"** | CVCAP catholic_error_report 7부·10부 | 문서/영상 | 무류성 내부 붕괴 선언 |
-| **"16대 모순 시리즈"** | CVCAP catholic_error_report 1~16부 | 시리즈 | 내부 문헌 자가당착 전수 공개 |
+| **"Why Catholicism Cannot Confess Jesus as Savior"** | BVCAP REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior_NotebookLM.md | Video | Grab viewer attention with a core question |
+| **"The Infant Baptism Dilemma and the Collapse of the Seven Sacraments"** | BVCAP REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md | Video | Shake the entire structure of Catholic sacramental theology |
+| **"Why the Pope Cannot Be Infallible"** | CVCAP catholic_error_report Parts 7, 10 | Document/Video | Declare the internal collapse of infallibility |
+| **"The 16 Great Contradictions Series"** | CVCAP catholic_error_report Parts 1-16 | Series | Fully disclose the internal documents' self-contradictions |
 
 ---
 
-*Generated by CVCAP 3.0 — 문헌 법정 전과 기록*
-*최초 작성: 2026-07-05 | 최종 개정: 2026-07-21 (전수 심사 완료 + 무결성 자가 점검 도입)*
+*Generated by CVCAP 3.0 — Document Court Record of Findings*
+*First written: 2026-07-05 | Last revised: 2026-07-21 (full review complete + integrity self-check introduced)*

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0041 | ver: 20260829_0942 -->
 # 🏹 SKILL-38: TYPE-AK — Occam's Razor (Principle of Parsimony)
 **"Among hypotheses explaining the same evidence, the simpler one prevails"**
 

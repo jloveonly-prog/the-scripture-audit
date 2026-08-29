@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0028 | ver: 20260829_0942 -->
 # Did Thomas Come to Silla? (The Hypothesis of Apostle Thomas' Mission to Silla and the Mystery of the Daegu 'Seolhwa' Toponym)
 
 ## 1. Introduction: The Hypothesis of Thomas' Visit to Silla

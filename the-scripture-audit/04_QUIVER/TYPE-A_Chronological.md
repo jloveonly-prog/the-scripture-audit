@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0056 | ver: 20260829_0942 -->
 # 🔬 SKILL-01: TYPE-A — Chronological Serial Decomposition Pipeline
 
 > **When to Activate**: When the numbers in two texts conflict, and existing academia treats it as "the two periods overlap".

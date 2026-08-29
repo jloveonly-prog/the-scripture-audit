@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0070 | ver: 20260829_0942 -->
 # 🔬 SKILL-14: TYPE-N — Exclusivity Verification Pipeline
 
 > **When to trigger**: After TYPE-M detects an "anomaly signal applying only to one person/event".

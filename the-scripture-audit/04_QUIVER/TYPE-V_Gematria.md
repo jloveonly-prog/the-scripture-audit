@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0078 | ver: 20260829_0942 -->
 # 🏹 TYPE-V: Gematria & Alphanumerics
 
 > **Alias**: The Divine Mathematical Signature

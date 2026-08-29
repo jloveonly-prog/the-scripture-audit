@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0134 | ver: 20260829_0942 -->
 # Saul's Conversion Incident at Damascus: Refuting the Acts 9:7 vs 22:9 "Contradiction"
 **— A Difficulty Perfectly Resolved by Sequential Parallel Reading of the Two Records —**
 

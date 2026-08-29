@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0057 | ver: 20260829_0942 -->
 # 🔬 SKILL-02π: TYPE-B-π — Perception Filter (Witness Capacity Limit)
 
 > **When to Activate**: When a witness was present at the scene and physically saw or heard, but **failed to process the information normally** due to psychological, physical, or environmental reasons.

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0045 | ver: 20260829_0942 -->
 # 🏹 SKILL-42: TYPE-AO — Canonical Criticism
 **"What function does this verse serve within the overall biblical narrative?"**
 

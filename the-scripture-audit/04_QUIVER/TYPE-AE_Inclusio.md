@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0035 | ver: 20260829_0942 -->
 # 🏹 SKILL-32: TYPE-AE — Inclusio (Bookend Structure)
 **"A structure that opens and closes with the same vocabulary is the author's intentional design"**
 

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0079 | ver: 20260829_0942 -->
 # 🏹 TYPE-W: Prophetic Foreshortening / Double Fulfillment
 
 > **Alias**: The Prophetic Valley

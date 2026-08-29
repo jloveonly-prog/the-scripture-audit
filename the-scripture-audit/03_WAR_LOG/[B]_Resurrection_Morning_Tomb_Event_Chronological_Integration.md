@@ -1,548 +1,548 @@
-# 🛡️ BVCAP Audit Report: 부활 아침 — 전일 순차 통합
+<!-- doc_no: 20260829_0211 | ver: 20260829_0942 -->
+# 🛡️ BVCAP Audit Report: Resurrection Morning — A Full-Day Sequential Integration
 **"He is not here: for he is risen, as he said." — Matthew 28:6 KJV**
 
-> **문서 코드**: [B] — TYPE-B 순차 통합 (Sequential Integration)
-> **분류**: 03_WAR_LOG(전투기록) — 확정된 사건 순서 정답 기록
-> **분석 유형**: TYPE-B + TYPE-C (기능적 범주 분리) + DE-OVERLAP
-> **데이터 출처**: 4복음서 병렬 엑셀 (마태 28장 / 마가 16장 / 누가 24장 / 요한 20장)
-> **판결 상태**: ✅ CONFIRMED — 모순 없음
+> **Document Code**: [B] — TYPE-B Sequential Integration
+> **Classification**: 03_WAR_LOG (Combat Logs) — a record of a confirmed correct event sequence
+> **Analysis Type**: TYPE-B + TYPE-C (Functional Category Separation) + DE-OVERLAP
+> **Data Source**: A four-Gospel parallel spreadsheet (Matthew 28 / Mark 16 / Luke 24 / John 20)
+> **Verdict Status**: ✅ CONFIRMED — No Contradiction
 
 ---
 
-## PHASE 1: 표면적 충돌 목록 (Q&A 사전 검증 완료)
+## PHASE 1: List of Surface-Level Conflicts (Pre-Verified via Q&A)
 
-| # | 충돌 질문 | 해소 원리 | 판정 |
+| # | Conflict Question | Resolving Principle | Ruling |
 |:---:|:---|:---|:---:|
-| Q1 | 막 16:8 침묵 vs 마 28:8 전달 | **심리적 시간차**: 즉각 도주(충격) → 시간 경과 후 정신 차림(기쁨) | ✅ |
-| Q2 | 마 28:2 천사(돌 위) vs 막 16:5 / 눅 24:4 천사(무덤 안) | **다른 천사**: 마태 = 主의 천사(번개 얼굴, 경비병 제압) / 마가·누가 = 흰옷 남자 천사 | ✅ |
-| Q3 | 막 16:9 "먼저" vs 마 28:9 여인들 만남 순서 | **막달라가 시간상 먼저**: 막달라(요 20:14) → 이후 다른 여인들(마 28:9) | ✅ |
-| Q4 | 눅 24:12 베드로만 기록 (요한 생략) | **선택적 기록**: 누가는 베드로 중심 서술, 모든 인물 기록 불요 | ✅ |
-| Q5 | 요 20:2 "WE" 복수 — 막달라의 동행자 | **살로메·야고보 모친 등 동행**: 요한은 막달라 시점만 기록, 막달라도 입장함 | ✅ |
-| Q6 | 마 28:9 여인들에 막달라 미포함 | **동선 분리**: 막달라는 이미 무덤→베드로→무덤 경로 중, 별개 그룹 | ✅ |
-| Q7 | 눅 24:4 "stood by"(서있음) vs 막 16:5 "sitting"(앉아있음) — 동일 천사인가? | **자세 변화 순서**: 순간 등장(서있음) → 여인들 엎드림 → 앉아서 친밀하게 말씀 | ✅ |
-| Q8 | 마 28:2 — 천사가 돌을 굴림 vs 막 16:4 — 돌이 이미 굴려져 있음 | **시점 차이 (TYPE-B)**: 마태 = 여인들 도착 직전 과정 기록 / 마가 = 도착 시 이미 완료된 결과 기록 | ✅ |
-| Q9 | 마 28:2 — 천사 1명 vs 눅 24:4 — 두 남자 2명 (존재 수 충돌) | **다른 천사·다른 위치 (TYPE-B+C)**: 마태 = 主의 천사(외부, 돌 위) / 누가 = 무덤 내부 천사 2명 → 수 충돌 자체가 성립 안 됨 | ✅ |
+| Q1 | Mark 16:8 silence vs. Matt. 28:8 telling | **A psychological time lag**: immediate flight (shock) → composure regained after time passes (joy) | ✅ |
+| Q2 | Matt. 28:2 angel (on the stone) vs. Mark 16:5 / Luke 24:4 angel (inside the tomb) | **Different angels**: Matthew = the angel of the Lord (face of lightning, subdues the guards) / Mark, Luke = a man/men in white | ✅ |
+| Q3 | Mark 16:9 "first" vs. the order of the women meeting Jesus in Matt. 28:9 | **Mary Magdalene is chronologically first**: Magdalene (John 20:14) → then the other women afterward (Matt. 28:9) | ✅ |
+| Q4 | Luke 24:12 records Peter alone (John omitted) | **Selective recording**: Luke narrates with a focus on Peter; not every figure need be recorded | ✅ |
+| Q5 | John 20:2, the plural "WE" — who accompanied Mary Magdalene | **Accompanied by Salome, the mother of James, etc.**: John records only from Magdalene's viewpoint, though Magdalene too was among the group | ✅ |
+| Q6 | Magdalene not included among the women in Matt. 28:9 | **A separation of routes**: Magdalene was already on the path from tomb→Peter→tomb, a separate group | ✅ |
+| Q7 | Luke 24:4 "stood by" vs. Mark 16:5 "sitting" — is this the same angel? | **A sequence of postural change**: sudden appearance (standing) → the women fall down → sitting to speak intimately | ✅ |
+| Q8 | Matt. 28:2 — an angel rolls away the stone vs. Mark 16:4 — the stone is already rolled away | **A difference in vantage point (TYPE-B)**: Matthew = records the process just before the women's arrival / Mark = records the result already completed upon arrival | ✅ |
+| Q9 | Matt. 28:2 — one angel vs. Luke 24:4 — two men (a conflict in the number present) | **Different angels, different locations (TYPE-B+C)**: Matthew = the angel of the Lord (outside, on the stone) / Luke = two angels inside the tomb → the conflict in number does not even arise | ✅ |
 
 ---
 
-## PHASE 2: 핵심 언어 분석
+## PHASE 2: Core Linguistic Analysis
 
-**[분석 1] 요 20:2 — "WE know not" (복수)**
+**[Analysis 1] John 20:2 — "WE know not" (plural)**
 ```
 "they have taken away the Lord... WE know not where they have laid him"
- └─ WE = 복수 → 막달라 외 동행자 존재 확정
-    → 요 20:1 "cometh Mary" = 요한의 서술 초점, 단독 방문 아님
+ └─ WE = plural → confirms companions existed besides Magdalene
+    → John 20:1 "cometh Mary" = John's narrative focus, not a solo visit
 ```
 
-**[분석 2] 막달라의 심리 상태 — 천사 메시지를 듣고도 "도난" 보고**
+**[Analysis 2] Magdalene's psychological state — reporting a "theft" even after hearing the angel's message**
 ```
-막달라: 무덤 입장 → 시신 없음 확인 → 천사 말씀 들음 → 그러나 애도·충격 상태
-→ 부활 메시지를 듣고도 처리 불가 → 베드로에게 달려가 "도난" 의심 보고
-→ 요 20:11: 베드로·요한이 떠난 후에도 무덤 밖에서 울며 홀로 남음
-→ 요 20:14: 예수님 만남 — 동산지기로 오인 (여전히 애도 상태)
-```
-
-**[분석 3] 마태 28장 천사(主의 천사) vs 마가·누가 천사**
-```
-마태 28:2-3: 주의 천사 (하늘에서 내려옴, 얼굴 = 번개, 의상 = 눈)
-             → 돌을 굴리고 그 위에 앉음 (외부)
-             → 경비병들 = 죽은 자같이 됨 (초자연적 권능)
-             → 여인들에게도 말씀함 (마 28:5-7)
-
-마가 16:5: 젊은 남자, 흰옷, 무덤 안 우편에 앉음
-누가 24:4: 두 남자, 빛나는 의복, 무덤 안에 섬
-
-→ 마태 = 主의 천사 (능력 천사, 외부) — 경비병 제압 역할
-→ 마가·누가 = 일반 천사 (메신저, 내부) — 부활 메시지 전달 역할
-→ 두 사건은 동시 또는 순차적으로 벌어진 별개 천사들의 역할 분담
+Magdalene: enters the tomb → confirms the body is absent → hears the angel's words → yet remains in a state of grief and shock
+→ unable to process the resurrection message → runs to Peter to report her suspicion of a "theft"
+→ John 20:11: even after Peter and John leave, she alone remains weeping outside the tomb
+→ John 20:14: meets Jesus — mistakes him for the gardener (still in a state of mourning)
 ```
 
-**[분석 5] 눅 24:4 vs 막 16:5 — 천사 자세의 순서 변화 (Q7 해소)**
+**[Analysis 3] The angel of Matthew 28 (the angel of the Lord) vs. the angels of Mark and Luke**
 ```
-[등장 시점] 눅 24:4: "two men STOOD BY them" (ἐπέστησαν)
-  → 순간이동으로 갑자기 서있는 상태로 나타남
-  → 여인들: "bowed down their faces" (엎드림, 눅 24:5) — 극도의 공포 반응
+Matt. 28:2-3: the angel of the Lord (descends from heaven, face = lightning, raiment = snow)
+             → rolls away the stone and sits upon it (outside)
+             → the guards become as dead men (a supernatural power)
+             → also speaks to the women (Matt. 28:5-7)
 
-[전환 시점] 막 16:5: "a young man SITTING on the right side" (καθήμενον)
-  → 여인들의 공포를 낮추기 위해 시신 누웠던 자리에 앉음
-  → 더 낮은 자세, 더 친밀한 소통 모드로 전환
+Mark 16:5: a young man, in white, sitting on the right side inside the tomb
+Luke 24:4: two men, in shining garments, stand inside the tomb
 
-[발화 기록] 눅 24:5: "they said" (복수) = 두 천사 모두 발화
-            막 16:6: "he saith" (단수) = 대표 발화자 1명 기록
-  → 두 천사가 번갈아 말씀하신 것을 누가는 전체로, 마가는 대표로 기록
-
-[재확인] 요 20:12: 막달라 재방문 시 두 천사 "SITTING" (앉아있음) — 동일 자세 유지 확인
-
-흐름 요약: 서서 등장(공포) → 여인 엎드림 → 앉아서 말씀(친밀) → 부활 메시지 전달
+→ Matthew = the angel of the Lord (a powerful angel, outside) — the role of subduing the guards
+→ Mark, Luke = ordinary angels (messengers, inside) — the role of delivering the resurrection message
+→ the two events are a division of roles between separate angels, occurring simultaneously or in sequence
 ```
 
-**[분석 5-A] 막 16:5 헬라어 정밀 검증 — καθήμενον은 "입장 직후 즉각 봄"인가?**
+**[Analysis 5] Luke 24:4 vs. Mark 16:5 — the sequential change in the angels' posture (resolving Q7)**
 ```
-KJV 원문:
+[At the moment of appearance] Luke 24:4: "two men STOOD BY them" (ἐπέστησαν)
+  → suddenly appearing already standing, as if by teleportation
+  → the women: "bowed down their faces" (Luke 24:5) — a reaction of extreme fear
+
+[At the transitional moment] Mark 16:5: "a young man SITTING on the right side" (καθήμενον)
+  → sits in the place where the body had lain, to lower the women's fear
+  → shifting to a lower posture, a mode of more intimate communication
+
+[At the moment of speech] Luke 24:5: "they said" (plural) = both angels spoke
+            Mark 16:6: "he saith" (singular) = the representative speaker recorded
+  → what the two angels spoke in turn, Luke records as a whole, Mark as the representative
+
+[Re-confirmation] John 20:12: upon Magdalene's second visit, the two angels are "SITTING" — confirming the same posture is maintained
+
+Summary of the flow: appearing while standing (fear) → the women fall down → speaking while seated (intimacy) → the resurrection message delivered
+```
+
+**[Analysis 5-A] Precision Verification of the Greek in Mark 16:5 — Does καθήμενον mean "seen immediately upon entering"?**
+```
+KJV original:
   "And entering into the sepulchre, they SAW a young man SITTING on the right side"
 
-헬라어 구조:
-  εἰσελθοῦσαι     → 부정과거 분사 (Aorist Participle)
-                     "들어가서" — 완료된 선행 동작
-  εἶδον            → 부정과거 직설법 (Aorist Indicative)
-                     "보았다" — 주동사
-  καθήμενον        → 현재 분사 (Present Participle, 서술적 용법)
-                     "앉아 있는" — 대상의 상태 묘사
+Greek structure:
+  εἰσελθοῦσαι     → Aorist Participle
+                     "having entered" — a completed prior action
+  εἶδον            → Aorist Indicative
+                     "saw" — the main verb
+  καθήμενον        → Present Participle (used attributively)
+                     "sitting" — describing the state of the object
 
-⚠️ 핵심: καθήμενον (현재 분사, 서술적)의 기능
-  헬라어 현재 분사가 서술적(attributive)으로 쓰일 때,
-  그것은 정확한 시간 순간을 기록하는 것이 아니라
-  조우(encounter) 시점에서의 대상 상태를 묘사한다.
+⚠️ The key point: the function of καθήμενον (present participle, attributive)
+  When a Greek present participle is used attributively,
+  it does not record a precise instant of time,
+  but describes the state of the object at the moment of encounter.
 
-  영어 비교: "I walked in and saw a man PLAYING the piano"
-  → 문을 열자마자 0초에 치고 있었다는 뜻이 아님
-  → 내가 들어가 조우한 장면에서 그가 피아노를 치고 있었음을 묘사
+  English comparison: "I walked in and saw a man PLAYING the piano"
+  → this does not mean he was playing at the exact instant, zero seconds after the door opened
+  → it describes that, in the scene I encountered upon entering, he was playing the piano
 
-  ∴ 막 16:5 = "들어가서 (결국) 조우한 장면에서 앉아 있는 남자를 보았다"
-     입장 즉시를 강제하지 않음. 중간 과정 생략 가능.
+  ∴ Mark 16:5 = "having entered, (eventually) in the scene encountered, they saw a man sitting"
+     It does not force the instant of entry. An intervening process may be omitted.
 
-누가복음이 막 16:5의 압축된 중간 과정을 명시적으로 채워줌:
+The Gospel of Luke explicitly fills in the compressed intervening process of Mark 16:5:
 
-  막 16:5 (압축):  "들어가서 → [생략] → 앉아있는 남자를 봄"
+  Mark 16:5 (compressed): "entered → [omitted] → saw a man sitting"
                           ↑
-  눅 24:3-5 (전개): 들어감 → 시신 없음 → 당황 →
-                    두 남자 서서 등장 → 여인들 엎드림 → 말씀하심
+  Luke 24:3-5 (expanded): entered → the body absent → alarmed →
+                    two men appear standing → the women bow down → he speaks
 
-∴ 마가는 ①입장과 ⑤조우 장면만 기술.
-   누가는 ①~⑤ 전 과정을 기술.
-   두 기록은 서로 보완하며 완전한 장면을 구성한다.
+∴ Mark describes only ① the entry and ⑤ the moment of encounter.
+   Luke describes the entire process ①~⑤.
+   The two records complement one another and together form the complete scene.
 ```
 
-**[분석 5-B] KJV 영어도 동일한 뉘앙스를 보존하는가?**
+**[Analysis 5-B] Does the English of the KJV preserve the same nuance?**
 ```
 KJV: "And ENTERING into the sepulchre, they SAW a young man SITTING..."
 
-영어 문법 구조:
-  "entering"  → 현재 분사구 (Participial Phrase)
-                시간적 맥락 제공 — "~하는 과정/결과로"
-                입장의 즉각적 순간을 강제하지 않음
-  "they saw"  → 단순 과거 (Simple Past)
-                조우의 결과로서의 지각 행위
-  "sitting"   → 현재 분사 (Object Complement)
-                대상의 상태 묘사 — 조우 시점의 장면 기술
+English grammatical structure:
+  "entering"  → a present participial phrase
+                provides temporal context — "in the process/as a result of ~ing"
+                does not force the immediate instant of entry
+  "they saw"  → simple past
+                the act of perception as the result of the encounter
+  "sitting"   → present participle (object complement)
+                describes the state of the object — narrates the scene at the moment of encounter
 
-영어 평행 예시:
+An English parallel example:
   "Walking into the room, he saw a woman SITTING by the window"
-  → 방에 들어가자마자 0초에 봤다는 뜻이 아님
-  → 입장의 과정/결과로 그 장면을 조우했음을 서술
+  → this does not mean he saw her the instant, zero seconds after entering the room
+  → it narrates that he encountered that scene as a process/result of entering
 
   "Entering the restaurant, they found a table WAITING for them"
-  → 입장 즉시가 아닌, 입장 맥락 안에서의 결과
+  → not the instant of entry, but a result within the context of entry
 
-∴ KJV 영어도 헬라어 원문과 동일하게:
-   "입장의 맥락 안에서 결국 조우한 장면에서 앉아있는 남자를 보았다"는
-   뉘앙스를 완벽하게 보존하고 있다.
+∴ The English KJV, exactly as in the Greek original:
+   perfectly preserves the nuance of "having, within the context of entering, eventually
+   encountered the scene, seeing the man sitting."
 
-→ KJV는 헬라어의 문법적 열린 구조를 영어로도 그대로 재현하였으며,
-   두 언어 모두 "즉각적 봄"을 강제하지 않는다. ✅
+→ The KJV reproduces in English the very same grammatically open structure found in the Greek,
+   and neither language forces "an instantaneous sighting." ✅
 ```
 
-**[분석 4] 막 16:8 vs 마 28:8 — 심리적 시간차**
+**[Analysis 4] Mark 16:8 vs. Matt. 28:8 — a psychological time lag**
 ```
-막 16:8: "속히 나가 도망하였으니, 놀라고 떨었기 때문이니,
-          아무에게도 아무 말도 하지 아니하였더라"
-→ 충격·공포의 즉각적 도주 반응 (침묵)
+Mark 16:8: "and fled from the sepulchre; for they trembled and were amazed:
+          neither said they any thing to any man"
+→ an immediate flight response of shock and fear (silence)
 
-마 28:8: "두려움과 크나큰 기쁨으로 속히 무덤을 떠나
-          제자들에게 알리려고 달려갔더라"
-→ 시간 경과 후 정신 차림 → "정말 살아나셨나?" → 기쁨 → 전달
+Matt. 28:8: "And they departed quickly from the sepulchre with fear and great joy;
+          and did run to bring his disciples word"
+→ after time passes, composure is regained → "did he really rise?" → joy → telling others
 
-→ 같은 여인들의 심리 변화 기록:
-   [즉각] 충격·도주·침묵 (막 16:8)
-   [이후] 진정·기쁨·전달 (마 28:8)
+→ the same women's record of psychological change:
+   [Immediately] shock, flight, silence (Mark 16:8)
+   [Afterward] composure, joy, telling others (Matt. 28:8)
 ```
 
 ---
 
-## PHASE 3: 전일 타임라인
+## PHASE 3: The Full-Day Timeline
 
-### 인물별 동선 정보
+### Movement Information by Figure
 
-| 인물 | 출발 시각 | 경로 | 천사 접촉 | 예수님 만남 |
+| Figure | Time of Departure | Route | Angelic Contact | Meeting with Jesus |
 |:---|:---|:---|:---|:---|
-| 막달라 마리아 | 아직 어두울 때 (요 20:1) | 무덤→베드로·요한→무덤 | 들었으나 미처리 | 요 20:14 (첫 번째) |
-| 여인들 그룹 | 이른 아침 (눅 24:1, 막 16:2) | 무덤→도주→재집결→길 위 | 무덤 안 천사 | 마 28:9 (두 번째) |
-| 베드로 | 막달라 보고 후 | 무덤→무덤 내부→집 | 없음 | — |
-| 요한(사도) | 막달라 보고 후 | 무덤 도착(입장 대기)→내부→집 | 없음 | — |
-| 엠마오 두 제자 | 저녁 이전 | 예루살렘→엠마오 | — | 눅 24:15 (세 번째) |
-| 열한 제자 | 저녁 | 다락방 (문 잠금) | — | 요 20:19 (네 번째) |
+| Mary Magdalene | while it was yet dark (John 20:1) | tomb→Peter and John→tomb | heard, but did not process it | John 20:14 (first) |
+| The group of women | early morning (Luke 24:1, Mark 16:2) | tomb→flight→regrouping→on the road | the angel inside the tomb | Matt. 28:9 (second) |
+| Peter | after Magdalene's report | tomb→inside the tomb→home | none | — |
+| John (the apostle) | after Magdalene's report | arrives at the tomb (waits to enter)→inside→home | none | — |
+| The two disciples on the road to Emmaus | before evening | Jerusalem→Emmaus | — | Luke 24:15 (third) |
+| The eleven disciples | evening | the upper room (doors locked) | — | John 20:19 (fourth) |
 
 ---
 
 ```
 ════════════════════════════════════════════════════════════
- 부활 첫날 전체 타임라인 (아직 어두울 때 → 저녁)
+ The Full Timeline of Resurrection Day (while yet dark → evening)
 ════════════════════════════════════════════════════════════
 
-[T0] 여인들 출발 — 아직 어두울 때 (요 20:1)
-  막달라 마리아 + 여인들 그룹 함께 출발
+[T0] The women depart — while it was yet dark (John 20:1)
+  Mary Magdalene + the group of women depart together
   ─────────────────────────────────────────
 
-[T1] 무덤 도착 — 돌이 이미 굴려져 있음
-  마 28:1 (dawn) / 막 16:2 (해 뜰 때) / 눅 24:1 (이른 아침) / 요 20:1 (어두울 때)
-  시간 마커: dark → very early → dawn → sunrise = 시간 흐름 반영
+[T1] Arrival at the tomb — the stone already rolled away
+  Matt. 28:1 (at dawn) / Mark 16:2 (at the rising of the sun) / Luke 24:1 (very early in the morning) / John 20:1 (while it was yet dark)
+  Time markers: dark → very early → dawn → sunrise = reflecting the passage of time
 
-  [T1-A] 主의 천사 사건 (마 28:2-4) — 외부
-    → 하늘에서 주의 천사 강림 (번개 얼굴, 눈같이 흰 의상)
-    → 돌 굴림 → 돌 위에 앉음
-    → 경비병들 쓰러져 죽은 자같이 됨
-    → 이 천사가 여인들에게 말씀: "그분은 부활하셨다" (마 28:5-7)
+  [T1-A] The event of the angel of the Lord (Matt. 28:2-4) — outside
+    → the angel of the Lord descends from heaven (face of lightning, raiment white as snow)
+    → rolls away the stone → sits upon it
+    → the guards fall down and become as dead men
+    → this angel speaks to the women: "He is risen" (Matt. 28:5-7)
 
-  [T1-B] 여인들 무덤 입장 (막 16:5, 눅 24:3) — 내부
-    → 막달라 포함 여인들 그룹 무덤 안으로 들어감
-    → 시신 없음 확인
-    → 막 16:5: 흰옷 젊은 남자 천사 (우편에 앉음) — 첫 시각
-    → 눅 24:4: 두 남자 천사 (빛나는 옷, 곁에 서서 말씀)
-    → 부활 메시지 수신:
-       "어찌하여 죽은 자 가운데서 산 자를 찾느냐?" (눅 24:5)
-       "그분은 여기 계시지 않고 살아나셨다" (막 16:6, 눅 24:6)
+  [T1-B] The women enter the tomb (Mark 16:5, Luke 24:3) — inside
+    → the group of women, including Magdalene, enter the tomb
+    → confirm the body's absence
+    → Mark 16:5: a young man in white (sitting on the right side) — the first sighting
+    → Luke 24:4: two angelic men (in shining garments, standing beside them, speaking)
+    → receive the resurrection message:
+       "Why seek ye the living among the dead?" (Luke 24:5)
+       "He is not here, but is risen" (Mark 16:6, Luke 24:6)
 
-  [T1-C] 막달라의 즉각 반응 — 충격으로 "도난" 보고
-    → 천사 메시지 수신 BUT 애도·충격 상태로 처리 불가
-    → 즉시 무덤을 떠나 베드로·요한에게 달려감 (요 20:2)
-    → 보고: "그들이 주님을 가져갔으니 WE know not 어디 두었는지"
-    → "WE" = 복수 → 다른 여인들도 함께였음 확인
+  [T1-C] Magdalene's immediate reaction — reports a "theft" out of shock
+    → receives the angel's message BUT, in a state of grief and shock, cannot process it
+    → immediately leaves the tomb and runs to Peter and John (John 20:2)
+    → reports: "they have taken away the Lord... WE know not where they have laid him"
+    → "WE" = plural → confirms the other women were also with her
 
-  [T1-D] 나머지 여인들 — 충격 도주 (막 16:8)
-    → 무덤에서 빠져나와 도망
-    → 두려움과 떨림 → 아무에게도 말하지 못함 (즉각 반응)
-
-─────────────────────────────────────────────────────────
-[T2] 베드로·요한 무덤으로 달려옴 (요 20:3-10)
-
-  [T2-A] 두 사람 달려감
-    요 20:4: 요한 먼저 도착 — 몸 굽혀 들여다봄, 입장 않음
-    요 20:6: 베드로 도착 → 먼저 무덤 안으로 입장
-    → 아마포 놓여있음, 머리 수건은 따로 개어져 있음
-    요 20:8: 요한도 입장 → "보고 믿었더라"
-    요 20:9: (부활 성경 기록을 아직 깨닫지 못함)
-    요 20:10: 두 사람 자신의 집으로 돌아감
-
-  [T2-B] 누가 24:12 — 베드로만 기록
-    → 선택적 기록 (TYPE-C): 누가는 베드로 중심 서술
-    → 요한 생략 = 기록 누락이 아닌 서술 초점의 차이
+  [T1-D] The remaining women — flee in shock (Mark 16:8)
+    → flee from the tomb
+    → fear and trembling → tell no one (an immediate reaction)
 
 ─────────────────────────────────────────────────────────
-[T3] 막달라 단독 — 무덤 앞 (요 20:11-18)
-  → 첫 번째 부활 현현 (막 16:9 "먼저")
+[T2] Peter and John run to the tomb (John 20:3-10)
 
-  요 20:11: 막달라, 무덤 밖에 서서 울음
-  요 20:11-12: 몸 굽혀 안을 들여다봄
-    → 흰옷 천사 2명 (머리편·발편에 앉아있음)
-    → 천사: "여자여, 어찌하여 우느냐?" / 막달라: "주님을 가져갔습니다"
-  요 20:14: 뒤돌아보니 예수님 계심 → 동산지기로 오인
-    → 이유: 여전히 애도·충격 상태 / 예수님 첫 대면
-  요 20:16: "마리아!" → "랍오니!"
-  요 20:17: "나를 만지지 말라... 내 형제들에게 가서 전하라"
-  요 20:18: 막달라 → 제자들에게 "내가 주를 보았다" 전함
+  [T2-A] The two men run
+    John 20:4: John arrives first — stoops down and looks in, does not enter
+    John 20:6: Peter arrives → is the first to enter the tomb
+    → finds the linen clothes lying, the napkin folded separately
+    John 20:8: John also enters → "saw, and believed"
+    John 20:9: (they still did not know the Scripture concerning the resurrection)
+    John 20:10: the two men return to their own home
 
-  → 막 16:9 확정: 막달라에게 "먼저(first)" = 시간상 가장 첫 현현
-
-─────────────────────────────────────────────────────────
-[T4] 다른 여인들에게 예수님 나타나심 (마 28:9-10)
-  → 두 번째 부활 현현
-
-  여인들: 충격에서 서서히 회복 → 재집결 → 제자들에게 전하러 이동
-  마 28:9: 가는 길에 예수님이 만나심 (막달라 미포함)
-    → "평안하냐?" / 여인들 = 발 붙잡고 경배
-  마 28:10: "두려워하지 말라, 갈릴리로 가라 전하라"
+  [T2-B] Luke 24:12 — records Peter alone
+    → a selective record (TYPE-C): Luke narrates with a focus on Peter
+    → John's omission = a difference in narrative focus, not an omission from the record
 
 ─────────────────────────────────────────────────────────
-[T5] 경비병 보고 및 매수 (마 28:11-15)
-  → 마태 단독 기록
+[T3] Mary Magdalene alone — outside the tomb (John 20:11-18)
+  → the first resurrection appearance (Mark 16:9 "first")
 
-  일부 경비병 → 대제사장들에게 보고
-  대제사장 + 장로 → 협의 후 군인들에게 돈을 줌
-  거짓 지시: "그의 제자들이 밤에 와서 훔쳐갔다 하라"
-  군인들: 돈 받고 지시대로 유포
-  → 이 허위 정보가 유대인들 사이에 퍼짐
+  John 20:11: Magdalene, standing outside the tomb weeping
+  John 20:11-12: stoops down and looks inside
+    → two angels in white (sitting at the head and at the feet)
+    → the angels: "Woman, why weepest thou?" / Magdalene: "they have taken away my Lord"
+  John 20:14: turning around, she sees Jesus → mistakes him for the gardener
+    → reason: still in a state of grief and shock / her first encounter with Jesus
+  John 20:16: "Mary!" → "Rabboni!"
+  John 20:17: "Touch me not... go to my brethren, and say unto them..."
+  John 20:18: Magdalene → tells the disciples, "I have seen the Lord"
 
-─────────────────────────────────────────────────────────
-[T6] 엠마오 두 제자 (눅 24:13-35, 막 16:12-13)
-  → 세 번째 부활 현현
-
-  막 16:12: "다른 모양으로" 두 명에게 나타나심
-  눅 24:13: 엠마오로 가는 길 (예루살렘에서 약 60스타디온)
-  눅 24:15-16: 예수님 동행 → 눈이 가리어 알아보지 못함
-  눅 24:27: 모세와 선지자부터 성경 전체를 설명하심
-  눅 24:30-31: 저녁 식사 → 떡 떼실 때 → 눈 밝아짐 → 사라지심
-  눅 24:33-34: 즉시 예루살렘으로 돌아옴
-    → 열한 제자: "주께서 살아나시고 시몬에게도 보이셨다"
-  눅 24:35: 두 제자 보고 — 떡 뗄 때 알아봄
+  → confirms Mark 16:9: to Magdalene, "first" = the very first appearance chronologically
 
 ─────────────────────────────────────────────────────────
-[T7] 열한 제자에게 나타나심 (눅 24:36-49, 요 20:19-23, 막 16:14)
-  → 네 번째 부활 현현 (당일 저녁)
+[T4] Jesus appears to the other women (Matt. 28:9-10)
+  → the second resurrection appearance
 
-  요 20:19: "그날 곧 그 주의 첫날 저녁"
-  → 문을 잠근 채로 모인 제자들 (유대인들 두려워함)
-  → 예수님 홀연히 들어오심: "평강이 너희에게 있을지어다"
-  눅 24:39: 손과 발 보이심 → 영이 아님을 증명
-  눅 24:41-42: "먹을 것이 있느냐?" → 생선 한 토막을 받아 드심
-  요 20:22: 숨을 불어넣으시며 "성령을 받으라"
-  요 20:23: "너희가 누구의 죄든지 사하면 사하여질 것이요..."
-  막 16:14: 믿지 않던 자들을 꾸짖으심
+  The women: gradually recover from shock → regroup → move to tell the disciples
+  Matt. 28:9: Jesus meets them on the way (Magdalene not included)
+    → "All hail" / the women = hold him by the feet and worship him
+  Matt. 28:10: "Be not afraid: go tell my brethren that they go into Galilee"
 
 ─────────────────────────────────────────────────────────
-[T8] 도마 사건 (요 20:24-29) — 8일 후
+[T5] The guards' report and being bribed (Matt. 28:11-15)
+  → recorded solely by Matthew
 
-  요 20:24: 첫 번째 나타나심 때 도마 부재
-  요 20:25: "내가 직접 보지 않고는 믿지 못하겠다"
-  요 20:26: 8일 후 — 예수님 다시 나타나심
-  요 20:27: "네 손가락을 내 손에 넣어보라..."
-  요 20:28: "나의 주님이시요 나의 하나님이시니이다"
-  요 20:29: "보지 않고 믿는 자들이 복되도다"
+  Some of the guards → report to the chief priests
+  The chief priests + elders → confer and give money to the soldiers
+  A false instruction: "Say ye, His disciples came by night, and stole him away"
+  The soldiers: take the money and circulate the story as instructed
+  → this false information spreads among the Jews
+
+─────────────────────────────────────────────────────────
+[T6] The two disciples on the road to Emmaus (Luke 24:13-35, Mark 16:12-13)
+  → the third resurrection appearance
+
+  Mark 16:12: he appeared "in another form" to two of them
+  Luke 24:13: on the road to Emmaus (about sixty furlongs from Jerusalem)
+  Luke 24:15-16: Jesus joins them → their eyes are holden that they should not know him
+  Luke 24:27: he expounds unto them all the Scriptures, beginning at Moses and all the prophets
+  Luke 24:30-31: supper → as he broke bread → their eyes are opened → he vanishes out of their sight
+  Luke 24:33-34: they return to Jerusalem immediately
+    → the eleven: "The Lord is risen indeed, and hath appeared to Simon"
+  Luke 24:35: the two disciples report — they knew him in the breaking of bread
+
+─────────────────────────────────────────────────────────
+[T7] He appears to the eleven disciples (Luke 24:36-49, John 20:19-23, Mark 16:14)
+  → the fourth resurrection appearance (that same evening)
+
+  John 20:19: "the same day at evening, being the first day of the week"
+  → the disciples gathered with the doors shut (for fear of the Jews)
+  → Jesus suddenly comes and stands in the midst: "Peace be unto you"
+  Luke 24:39: shows his hands and feet → proving he is not a spirit
+  Luke 24:41-42: "Have ye here any meat?" → he takes and eats a piece of broiled fish
+  John 20:22: he breathes on them: "Receive ye the Holy Ghost"
+  John 20:23: "Whose soever sins ye remit, they are remitted unto them..."
+  Mark 16:14: he upbraids their unbelief
+
+─────────────────────────────────────────────────────────
+[T8] The Thomas episode (John 20:24-29) — 8 days later
+
+  John 20:24: Thomas absent at the first appearance
+  John 20:25: "Except I shall see... I will not believe"
+  John 20:26: 8 days later — Jesus appears again
+  John 20:27: "Reach hither thy finger, and behold my hands..."
+  John 20:28: "My Lord and my God"
+  John 20:29: "blessed are they that have not seen, and yet have believed"
 ```
 
 ---
 
-### MATRIX 역산표 — 전체 현현 순서
+### MATRIX Backward-Calculation Table — The Full Order of Appearances
 
-| 단계 | 대상 | 장소 | 시각 | 구절 | 판정 |
+| Stage | Recipient | Location | Time | Verse | Ruling |
 |:---:|:---|:---|:---|:---|:---:|
-| T3 | 막달라 마리아 (단독) | 무덤 앞 | 이른 아침 | 요 20:14, 막 16:9 | 첫 번째 ✅ |
-| T4 | 여인들 그룹 (막달라 미포함) | 가는 길 | 아침 | 마 28:9 | 두 번째 ✅ |
-| T6 | 엠마오 두 제자 | 엠마오 길 | 낮~저녁 | 눅 24:15, 막 16:12 | 세 번째 ✅ |
-| T7 | 열한 제자 (도마 제외) | 다락방 | 저녁 | 요 20:19, 눅 24:36 | 네 번째 ✅ |
-| T8 | 열한 제자 + 도마 | 다락방 | 8일 후 | 요 20:26 | 다섯 번째 ✅ |
+| T3 | Mary Magdalene (alone) | outside the tomb | early morning | John 20:14, Mark 16:9 | First ✅ |
+| T4 | The group of women (Magdalene not included) | on the road | morning | Matt. 28:9 | Second ✅ |
+| T6 | The two disciples on the road to Emmaus | the road to Emmaus | midday to evening | Luke 24:15, Mark 16:12 | Third ✅ |
+| T7 | The eleven disciples (Thomas excluded) | the upper room | evening | John 20:19, Luke 24:36 | Fourth ✅ |
+| T8 | The eleven disciples + Thomas | the upper room | 8 days later | John 20:26 | Fifth ✅ |
 
 ---
 
-### 복음서 내부 순서 잠금
+### Locking the Internal Order Within Each Gospel
 
-| 복음서 | 구절 순서 | 타임라인 순서 | 판정 |
+| Gospel | Verse Order | Timeline Order | Ruling |
 |:---|:---|:---|:---:|
-| 마태 | 28:1→2→5→8→9→11→16 | T1→T1-A→T4→T5→대위임령 | ✅ |
-| 마가 | 16:1→5→8→9→12→14→19 | T1→T1-B→도주→T3→T6→T7→승천 | ✅ |
-| 누가 | 24:1→3→9→12→13→36→50 | T1→T1-B→T2→T6→T7→승천 | ✅ |
-| 요한 | 20:1→2→3→11→14→19→24 | T0→T2→T3→T7→T8 | ✅ |
+| Matthew | 28:1→2→5→8→9→11→16 | T1→T1-A→T4→T5→the Great Commission | ✅ |
+| Mark | 16:1→5→8→9→12→14→19 | T1→T1-B→flight→T3→T6→T7→ascension | ✅ |
+| Luke | 24:1→3→9→12→13→36→50 | T1→T1-B→T2→T6→T7→ascension | ✅ |
+| John | 20:1→2→3→11→14→19→24 | T0→T2→T3→T7→T8 | ✅ |
 
-**판정: 4복음서 내부 순서 역전 없음 ✅**
-
----
-
-## PHASE 4: 판결
-
-**결과: ✅ CONSISTENT (완전 정합)**
-
-> **표면적 모순으로 보이는 모든 항목은 다음 3가지 원리로 해소된다:**
->
-> 1. **서술 초점의 차이 (TYPE-C)**: 각 복음서는 전체가 아닌 서술 목적에 맞는 인물·사건에 집중 기록
-> 2. **심리적 시간차**: 동일 인물의 상태가 시간 경과에 따라 변화 (충격→진정→기쁨)
-> 3. **인물 동선의 분리**: 막달라와 여인들 그룹은 T1-C 이후 완전히 분리된 경로를 걷는다
-
-**H0 기각**: "4복음서는 서로 다른 전설을 편집한 것이다"
-> → 기각: 막달라의 "WE know not"(요 20:2)은 동행자 존재를 확인하며,
->   4개의 시간 마커(dark/very early/dawn/sunrise)는 단일 사건의 시간 흐름을 정밀하게 기록한다.
->   각 복음서의 순서는 단 한 건의 역전도 없이 동일 타임라인 위에서 정합한다.
+**Ruling: no reversal in internal order among the four Gospels ✅**
 
 ---
 
-## ⚠️ UNRESOLVED (미확정 사항)
+## PHASE 4: Verdict
 
-> **마 28:2 主의 천사 강림 시점 — 여인들 도착 전인가 동시인가?**
-> - 마태 28:2는 과거완료적 표현 가능성 있음 (천사가 이미 내려와 있었음)
-> - OR 여인들 도착과 동시에 천사 강림
-> - 현재 채택: 여인들 도착 무렵 동시 사건 (경비병 제압 포함)
-> - 확정 불가: 마태 원어 시제 해석 여부
+**Result: ✅ CONSISTENT (fully harmonized)**
+
+> **Every item that appears to be a surface-level contradiction is resolved by the following three principles:**
+>
+> 1. **A difference in narrative focus (TYPE-C)**: each Gospel records, not the entirety, but the figures and events suited to its narrative purpose
+> 2. **A psychological time lag**: the same figure's state changes over the passage of time (shock → composure → joy)
+> 3. **A separation of figures' movements**: Magdalene and the group of women follow completely separate routes after T1-C
+
+**H0 rejected**: "the four Gospels are edited versions of different legends"
+> → rejected: Magdalene's "WE know not" (John 20:2) confirms the existence of a companion,
+>   and the four time markers (dark/very early/dawn/sunrise) precisely record the passage of time within a single event.
+>   The order of every Gospel is consistent, upon the same single timeline, without a single reversal.
 
 ---
 
-## 🔍 ADDITIONAL INSIGHT: T5.5 단독 현현 논쟁 사항 — 베드로 단독 만남 시점
+## ⚠️ UNRESOLVED (An Unconfirmed Matter)
 
-**[Q10] 예수님이 베드로를 언제 단독으로 만나셨는가?**
-
-> **근거 구절**: 눅 24:34, 고전 15:5
-
-**📖 원문 서술:**
-
-> 십자가 사건 3일 후 예수님의 빈 무덤에 갔던 베드로는 언제 예수님을 만났을까요?
-> 자신의 집으로 돌아가는 길에 예수님을 만났다면 (고린도전서 15:5 — *"그런 다음에 그분께서 게바에게 보이셨고"*)
-> 그때 무슨 대화를 했을까요?
->
-> **Q: 이때 왜 베드로의 3번 부인을 회복하지 않으셨을까요?**
-> → 요한이 없었기 때문입니다. 부인의 증인이 사면의 증인이 되어야 합니다 (신 19:15).
-> → 숯불 + 바닷가 = 두 장소 조건이 충족되지 않았습니다.
-> → 공식 사도권 복권은 증인들 앞에서 이루어져야 했습니다 (요 21:2, 7명 동석).
-
-> 엠마우스(엠마오)로 가던 두 제자가 예수님을 만난 후 예루살렘에 다시 돌아왔을 때 듣습니다.
-> (누가복음 24:34 — *"주께서 정녕 살아나셨으며 시몬에게도 나타나셨도다."*)
->
-> 그들은 베드로가 예수님을 만났다는 이야기를 들었지만 믿지 않았었고,
-> 결국 엠마우스로 가는 길에 예수님을 만나게 된 거죠.
-> (전통 해석은 두 제자가 출발 후에 베드로를 만났다는 건데) 이건 시간상 불리합니다.
->
-> 과거 베드로는 예수님을 3번 부인할 때 숯불이 있었죠.
-> 그런데 예수님이 베드로가 자신이 죄인이라고 처음 고백한 그 바닷가에서 숯불에 물고기를 구워주시면서 3번 사랑하냐고 또 회복시켜주십니다.
-> 베드로의 예수님 3번 부인을 요한이 목격했다면 베드로와의 화해를 요한은 같이 듣고 있었어야 했어요.
-> 그래야 예수님 부인을 목격한 요한이 베드로에 대한 신뢰를 완전 회복할 수 있으니까요.
+> **The timing of the descent of the angel of the Lord in Matt. 28:2 — before the women's arrival, or simultaneous?**
+> - Matt. 28:2 has a possible pluperfect-like sense (the angel had already descended)
+> - OR the angel's descent is simultaneous with the women's arrival
+> - Currently adopted: a simultaneous event around the time of the women's arrival (including the subduing of the guards)
+> - Unconfirmable: whether the original Greek tense of Matthew supports this interpretation
 
 ---
 
-### Q: 왜 첫 단독 만남에서 바로 회복하지 않으셨는가?
+## 🔍 ADDITIONAL INSIGHT: T5.5 — A Disputed Matter of a Solo Appearance — The Timing of Peter's Solo Meeting
 
-| 이유 | 내용 |
+**[Q10] When did Jesus meet Peter alone?**
+
+> **Grounding Verses**: Luke 24:34, 1 Corinthians 15:5
+
+**📖 Narrative of the Original Text:**
+
+> An interesting question arises when put to Peter, who went to Jesus's empty tomb three days after the crucifixion: when did he meet Jesus?
+> If he met Jesus on his way back home (1 Corinthians 15:5 — *"And that he was seen of Cephas"*)
+> what conversation might they have had then?
+>
+> **Q: Why did Jesus not restore Peter's threefold denial at this point?**
+> → Because John was not present. The witness of the denial must also be the witness of the pardon (Deut. 19:15).
+> → The two conditions of a charcoal fire + a seashore were not both met.
+> → The official restoration of apostleship had to occur before witnesses (John 21:2, with seven present).
+
+> When the two disciples on their way to Emmaus met Jesus and returned to Jerusalem, they hear this:
+> (Luke 24:34 — *"The Lord is risen indeed, and hath appeared to Simon."*)
+>
+> They had heard that Peter met Jesus but had not believed it,
+> and it was only afterward, on the road to Emmaus, that they themselves met Jesus.
+> (The traditional interpretation holds that the two disciples met Peter after they had already departed) — this is disadvantageous in terms of timing.
+>
+> In the past, there was a charcoal fire present when Peter denied Jesus three times.
+> Now Jesus, at the very shore where Peter first confessed himself a sinner, grills fish over a charcoal fire and asks him three times whether he loves him, restoring him.
+> If John had witnessed Peter's threefold denial of Jesus, then John would have had to be present together to hear the reconciliation with Peter as well.
+> Only then could John, who witnessed the denial, fully recover his trust in Peter.
+
+---
+
+### Q: Why Was He Not Restored Immediately at the First Solo Meeting?
+
+| Reason | Content |
 |---|---|
-| **① 요한 부재** | 부인의 현장 증인(요한)이 없었음 → 율법적 사면 불완전 |
-| **② 숯불 조건 미충족** | 죄의 장소(숯불)와 부름의 장소(바닷가)가 동시에 갖춰져야 함 |
-| **③ 공개 복권 필요** | 사도권은 증인들 앞에서 공식 선포되어야 함 (요 21:2 — 7명 동석) |
+| **① John's Absence** | The on-scene witness of the denial (John) was not present → the pardon was legally incomplete |
+| **② The Charcoal-Fire Condition Unmet** | The place of the sin (the charcoal fire) and the place of the calling (the seashore) had to be present together |
+| **③ Public Restoration Necessary** | Apostolic authority had to be officially proclaimed before witnesses (John 21:2 — seven present) |
 
-> **결론**: 집으로 돌아가는 길의 단독 만남은 **개인적 위로와 기본 화해**였고,
-> 공식 사도권 복권은 **요한 + 숯불 + 바닷가** 세 조건이 갖춰진 요 21장에서 완성됨.
+> **Conclusion**: The solo meeting on the way home was **personal comfort and a basic reconciliation**,
+> and the official restoration of apostleship was completed in John 21, where the three conditions — **John + the charcoal fire + the seashore** — were all met.
 
 ---
 
-### 전통 해석 vs 사용자 해석 비교
+### Comparison of the Traditional Interpretation vs. the User's Interpretation
 
-| | 전통 해석 | 사용자 해석 |
+| | Traditional Interpretation | User's Interpretation |
 |---|---|---|
-| 베드로 현현 시점 | 두 제자 엠마오로 **떠난 후** | 두 제자 엠마오로 떠나기 **이전** |
-| 두 제자가 모른 이유 | 없었기 때문 | 들었으나 **안 믿음** |
-| 눅 24:34 설명 방식 | 돌아와서 처음 들음 | 이미 알려진 사실의 재확인 |
-| **시간 논리 정합성** | ⚠️ 엠마오 길 위에 예수님이 계시는 동안 베드로 현현? | ✅ 두 제자 출발 전 단독 만남 성립 |
+| Timing of the Peter appearance | **After** the two disciples departed for Emmaus | **Before** the two disciples departed for Emmaus |
+| Reason the two disciples did not know | It had not yet happened | They had heard it but **did not believe** it |
+| How Luke 24:34 is explained | Heard for the first time upon returning | A reconfirmation of an already-known fact |
+| **Consistency of Temporal Logic** | ⚠️ Peter's appearance while Jesus is on the Emmaus road? | ✅ A solo meeting before the two disciples' departure holds |
 
-### 시간 논리 분석
+### Analysis of the Temporal Logic
 
 ```
-엠마오 길 = 7마일 (약 2~3시간 도보)
-예수님이 엠마오 길 위에서 두 제자와 동행하시는 동안 → 수 시간 점유됨
-→ 그 시간 동안 예수님은 엠마오 길 위에 계심
-→ 베드로 단독 현현은 그 시간대에 빈자리가 없음
+The road to Emmaus = 7 miles (about 2-3 hours on foot)
+While Jesus accompanies the two disciples on the road to Emmaus → several hours are occupied
+→ during this time, Jesus is present on the road to Emmaus
+→ there is no vacant slot of time for a solo appearance to Peter
 
-∴ 베드로 현현은 두 제자가 떠나기 이전 (아침~오전)에 일어난 것이 시간 논리상 합리적임
+∴ It is temporally more reasonable that Peter's appearance occurred before the two disciples departed (morning to forenoon)
 ```
 
-### BVCAP 판정
+### The BVCAP Ruling
 
-> **전통 해석**: 시간 논리상 불리함. 엠마오 길 위에서 두 제자와 함께 계시는 동안 베드로 단독 현현의 시간적 여유가 없음.
+> **Traditional Interpretation**: disadvantageous in terms of temporal logic. While Jesus is with the two disciples on the road to Emmaus, there is no temporal room for a solo appearance to Peter.
 >
-> **사용자 해석**: 시간 논리상 **우수**. 눅 24:34의 "시몬에게도 나타나셨도다"가 돌아온 두 제자에게 **새 정보가 아닌 이미 알려진 사실의 확인**으로 표현된 점이 지지됨.
-> 또한 눅 24:22-24에서 두 제자가 베드로의 현현 주장을 **언급하지 않은 것** = 안 믿었기 때문에 생략한 것으로 해석 가능.
+> **User's Interpretation**: **superior** in terms of temporal logic. This is supported by the fact that Luke 24:34's "hath appeared to Simon" is expressed to the returning two disciples not as **new information but as a confirmation of an already-known fact.**
+> Furthermore, in Luke 24:22-24, the two disciples' **failure to mention** Peter's claim of an appearance can be interpreted as an omission because they did not believe it.
 
-**판정: 두 해석 모두 본문에 위배되지 않으나, 사용자 해석이 시간 논리상 더 정합함 ✅**
-
----
-
-## 🔍 ADDITIONAL INSIGHT: 요한의 중요한 증인 구조 — 숯불의 데칼코마니
-
-```
-[정죄의 현장] 요 18장 대제사장의 뜰
-  • 죄인: 베드로 (3번 부인)
-  • 목격자: 예수님 + 요한 (≈ 다른 제자)
-  • 죄의 현장에 숯불이 있었음 (18:18)
-
-[사면의 현장] 요 21장 디베랴 바닷가
-  • 당사자: 베드로 (3번 고백)
-  • 증인: 예수님 + 요한 (21:7, 21:20-24)
-  • 숯불에 물고기를 구워주심 (21:9)
-
-데칼코마니:
-  숯불 앞 부인(18장) → 숯불 앞 회복(21장)
-  요한 목격 → 요한 증인
-  3번 무너짐 → 3번 회복
-```
-
-> 베드로가 회복 후 곧바로 요한을 가리켜 "이 사람은 어떻게 되겠습니까" (요 21:21) 묻는 이유:
-> 자신의 가장 수치스러운 실패 현장의 **유일한 목격자가 바로 요한**이었기 때문입니다.
+**Ruling: neither interpretation violates the text, but the user's interpretation is more consistent in terms of temporal logic ✅**
 
 ---
 
+## 🔍 ADDITIONAL INSIGHT: John's Significant Witness Structure — The Mirror-Image Symmetry of the Charcoal Fire
 
-> 각 셀 = 해당 시각에 그 인물이 있는 위치/상태. ★ = 예수님 현현.
+```
+[The Scene of Condemnation] John 18, the courtyard of the high priest
+  • The sinner: Peter (threefold denial)
+  • Witness: Jesus + John (≈ another disciple)
+  • A charcoal fire was present at the scene of the sin (18:18)
 
-| 시각 | 막달라 마리아 | 여인들 그룹 | 베드로 | 요한(사도) | 엠마오 제자 | 열한 제자 | 근거 구절 |
+[The Scene of Pardon] John 21, the shore of the Sea of Tiberias
+  • The one restored: Peter (threefold confession)
+  • Witness: Jesus + John (21:7, 21:20-24)
+  • Fish grilled over a charcoal fire (21:9)
+
+Mirror-Image Symmetry:
+  Denial before a charcoal fire (ch. 18) → Restoration before a charcoal fire (ch. 21)
+  Witnessed by John → Witnessed by John
+  Falling three times → Restored three times
+```
+
+> The reason Peter, immediately after his restoration, turns and asks concerning John, "what shall this man do?" (John 21:21):
+> is that **John alone was the witness** of the scene of his own most shameful failure.
+
+---
+
+
+> Each cell = the location/state of that figure at that time. ★ = an appearance of Jesus.
+
+| Time | Mary Magdalene | The Group of Women | Peter | John (the Apostle) | The Emmaus Disciples | The Eleven Disciples | Grounding Verses |
 |:---:|:---|:---|:---:|:---:|:---:|:---:|:---|
-| **T0** 어두울 때 | 🚶 무덤으로 출발 | 🚶 무덤으로 출발 | 집 | 집 | — | 다락방 | 요 20:1, 막 16:1 |
-| **T1** 이른 아침 | 무덤 도착·입장 | 무덤 도착·입장 | 집 | 집 | — | 다락방 | 마 28:1, 막 16:2, 눅 24:1 |
-| **T1-A** | (무덤 안) | (무덤 안) 主 천사↓돌 굴림 | 집 | 집 | — | 다락방 | **마 28:2-4** |
-| **T1-B** | 내부 천사 말씀 듣고도 애도 | 내부 천사 말씀 수신 → 충격 도주 | 집 | 집 | — | 다락방 | 막 16:5-7, 눅 24:3-7 |
-| **T1-C** | 🏃 베드로·요한에게 달려감 | 🏃 충격·도주 (아무 말 못함) | 집 | 집 | — | 다락방 | **요 20:2**, 막 16:8 |
-| **T2** | 베드로·요한에게 보고 | 재집결 중… | 🏃 무덤으로 달려감 | 🏃 무덤으로 달려감 | — | 다락방 | 요 20:3-4, 눅 24:12 |
-| **T2 무덤** | (후발 도착) | 재집결 중… | 무덤 내부 (세마포) | 무덤 내부 (믿음) | — | 다락방 | 요 20:5-10 |
-| **T2 귀환** | 🏃 무덤으로 돌아가는 중 | 재집결 완료 → 이동 | 🏠 집으로 | 🏠 집으로 | — | 다락방 | 요 20:10, 눅 24:9-10 |
-| **T3** 이른 아침 | 무덤 앞 홀로 울며 서있음 | 이동 중 | 집 | 집 | — | 다락방 | 요 20:11-13 |
-| **T3** ★ | ⭐ **첫 번째 현현** | 이동 중 | 집 | 집 | — | 다락방 | **요 20:14-18**, 막 16:9 |
-| **T4** 아침 | 🏃 제자들에게 전달 | ⭐ **두 번째 현현** | 집 | 집 | — | 다락방 | **마 28:9-10** |
-| **T5** 아침 | (전달 완료) | (전달 완료) | (집) | (집) | — | 다락방 | 마 28:11-15 |
-| **T6** 낮~저녁 | — | — | — | — | 🚶 엠마오 길 | 다락방 | 눅 24:13, 막 16:12 |
-| **T6** ★ | — | — | — | — | ⭐ **세 번째 현현** | 다락방 | **눅 24:15-31**, 막 16:12-13 |
-| **T6 귀환** | — | — | — | — | 🏃 예루살렘으로 귀환 | 다락방 | 눅 24:33-35 |
-| **T7** 저녁 | — | — | — | — | 다락방 도착·보고 | ⭐ **네 번째 현현** | **요 20:19-23**, 눅 24:36-49, 막 16:14 |
-| **T8** 8일 후 | — | — | — | — | — | ⭐ **다섯 번째 현현 + 도마** | **요 20:24-29** |
+| **T0** while yet dark | 🚶 departs for the tomb | 🚶 departs for the tomb | home | home | — | upper room | John 20:1, Mark 16:1 |
+| **T1** early morning | arrives at, enters the tomb | arrives at, enters the tomb | home | home | — | upper room | Matt. 28:1, Mark 16:2, Luke 24:1 |
+| **T1-A** | (inside the tomb) | (inside the tomb) the angel of the Lord ↓ rolls away the stone | home | home | — | upper room | **Matt. 28:2-4** |
+| **T1-B** | hears the inner angels' words, yet still mourning | receives the inner angels' message → flees in shock | home | home | — | upper room | Mark 16:5-7, Luke 24:3-7 |
+| **T1-C** | 🏃 runs to Peter and John | 🏃 shock and flight (unable to speak to anyone) | home | home | — | upper room | **John 20:2**, Mark 16:8 |
+| **T2** | reports to Peter and John | regrouping… | 🏃 runs to the tomb | 🏃 runs to the tomb | — | upper room | John 20:3-4, Luke 24:12 |
+| **T2 tomb** | (arrives later) | regrouping… | inside the tomb (the linen cloths) | inside the tomb (believes) | — | upper room | John 20:5-10 |
+| **T2 return** | 🏃 returning to the tomb | regrouping complete → moving | 🏠 heads home | 🏠 heads home | — | upper room | John 20:10, Luke 24:9-10 |
+| **T3** early morning | standing alone before the tomb, weeping | moving | home | home | — | upper room | John 20:11-13 |
+| **T3** ★ | ⭐ **first appearance** | moving | home | home | — | upper room | **John 20:14-18**, Mark 16:9 |
+| **T4** morning | 🏃 telling the disciples | ⭐ **second appearance** | home | home | — | upper room | **Matt. 28:9-10** |
+| **T5** morning | (telling complete) | (telling complete) | (home) | (home) | — | upper room | Matt. 28:11-15 |
+| **T6** midday-evening | — | — | — | — | 🚶 the road to Emmaus | upper room | Luke 24:13, Mark 16:12 |
+| **T6** ★ | — | — | — | — | ⭐ **third appearance** | upper room | **Luke 24:15-31**, Mark 16:12-13 |
+| **T6 return** | — | — | — | — | 🏃 returning to Jerusalem | upper room | Luke 24:33-35 |
+| **T7** evening | — | — | — | — | arrives at, reports to the upper room | ⭐ **fourth appearance** | **John 20:19-23**, Luke 24:36-49, Mark 16:14 |
+| **T8** 8 days later | — | — | — | — | — | ⭐ **fifth appearance + Thomas** | **John 20:24-29** |
 
 ---
 
-### 인물별 동선 요약 (문자 흐름도)
+### Summary of Each Figure's Movements (A Flowchart in Text)
 
 ```
-막달라:  [무덤] → [베드로·요한] → [무덤★] → [제자들]
-여인들:  [무덤] → [충격·도주] → [재집결] → [길위★] → [제자들]
-베드로:  [집] → [무덤] → [집]
-요  한:  [집] → [무덤] → [집]
-엠마오:  [예루살렘] → [엠마오★] → [예루살렘]
-열한제자: [다락방★] → (8일후) [다락방★]
+Magdalene:      [tomb] → [Peter and John] → [tomb★] → [the disciples]
+The women:      [tomb] → [shock and flight] → [regrouping] → [on the road★] → [the disciples]
+Peter:          [home] → [tomb] → [home]
+John:           [home] → [tomb] → [home]
+Emmaus:         [Jerusalem] → [Emmaus★] → [Jerusalem]
+The eleven:     [upper room★] → (8 days later) [upper room★]
 ```
 
 ---
 
-### 시퀀스 다이어그램 (Mermaid)
+### Sequence Diagram (Mermaid)
 
 ```mermaid
 sequenceDiagram
-    participant 막달라
-    participant 여인들
-    participant 베드로
-    participant 요한
-    participant 예수님
+    participant Magdalene
+    participant TheWomen as The Women
+    participant Peter
+    participant John
+    participant Jesus
 
-    Note over 막달라,요한: T0 — 아직 어두울 때 (요 20:1)
-    막달라->>+무덤: 출발·도착
-    여인들->>+무덤: 출발·도착
+    Note over Magdalene,John: T0 — while it was yet dark (John 20:1)
+    Magdalene->>+Tomb: departs, arrives
+    TheWomen->>+Tomb: departs, arrives
 
-    Note over 무덤: T1-A — 主의 천사 (번개 얼굴) 돌 굴림 (마 28:2)
-    Note over 무덤: T1-B — 내부 천사 2명: 서서 등장 → 앉아서 발화 (막 16:5, 눅 24:4)
+    Note over Tomb: T1-A — the angel of the Lord (face of lightning) rolls away the stone (Matt. 28:2)
+    Note over Tomb: T1-B — two angels inside: appear standing → speak while seated (Mark 16:5, Luke 24:4)
 
-    막달라-->>베드로: T1-C: "WE know not" 도난 의심 보고 (요 20:2)
-    막달라-->>요한: (동시 보고)
-    여인들-->>여인들: 충격·도주·침묵 (막 16:8)
+    Magdalene-->>Peter: T1-C: reports her suspicion of a theft, "WE know not" (John 20:2)
+    Magdalene-->>John: (reports simultaneously)
+    TheWomen-->>TheWomen: shock, flight, silence (Mark 16:8)
 
-    베드로->>+무덤: T2: 달려감 (요 20:3-10)
-    요한->>+무덤: (함께 달려감, 먼저 도착)
-    베드로-->>베드로: 세마포 확인 후 집으로
-    요한-->>요한: 보고 믿음, 집으로
+    Peter->>+Tomb: T2: runs to the tomb (John 20:3-10)
+    John->>+Tomb: (runs together, arrives first)
+    Peter-->>Peter: confirms the linen cloths, then home
+    John-->>John: sees and believes, then home
 
-    막달라->>+무덤: T3: 혼자 돌아와 울며 서있음
-    예수님->>막달라: ★ 첫 번째 현현 "마리아!" (요 20:14, 막 16:9)
-    막달라-->>막달라: 제자들에게 "내가 주를 보았다" 전함
+    Magdalene->>+Tomb: T3: returns alone, stands weeping
+    Jesus->>Magdalene: ★ first appearance, "Mary!" (John 20:14, Mark 16:9)
+    Magdalene-->>Magdalene: tells the disciples, "I have seen the Lord"
 
-    예수님->>여인들: ★ 두 번째 현현 "평안하냐?" (마 28:9)
+    Jesus->>TheWomen: ★ second appearance, "All hail" (Matt. 28:9)
 
-    Note over 예수님,여인들: T5 — 경비병 매수 사건 (마 28:11-15)
-    Note over 예수님,여인들: T6 — 엠마오 두 제자에게 세 번째 현현 (눅 24:15)
-    Note over 예수님,여인들: T7 저녁 — 다락방 열한 제자에게 네 번째 현현 (요 20:19)
-    Note over 예수님,여인들: T8 8일 후 — 도마 포함 다섯 번째 현현 (요 20:26)
+    Note over Jesus,TheWomen: T5 — the guards are bribed (Matt. 28:11-15)
+    Note over Jesus,TheWomen: T6 — a third appearance, to the two disciples on the road to Emmaus (Luke 24:15)
+    Note over Jesus,TheWomen: T7 evening — a fourth appearance, to the eleven disciples in the upper room (John 20:19)
+    Note over Jesus,TheWomen: T8 8 days later — a fifth appearance, including Thomas (John 20:26)
 ```
 
 ---
 
-✅ NEWLY RESOLVED (추가 확정)
+✅ NEWLY RESOLVED (Additionally Confirmed)
 
-> **Q7: 천사 자세 — 서있음(눅 24:4) vs 앉아있음(막 16:5)**
-> - 해소: **자세 변화 순서**로 완전 정합
->   1. 갑자기 서서 등장 (눅 24:4 — stood by) → 여인들 엎드림
->   2. 시신 자리에 앉아 친밀하게 말씀 (막 16:5 — sitting)
->   3. 막달라 재방문 시에도 앉아있음 확인 (요 20:12 — sitting)
-> - **서 있음 = 등장 방식 / 앉아있음 = 발화 방식** — 두 기록 모두 사실이며 시간 순서가 있음
-> - 두 천사가 번갈아 발화 (눅: "they said" 복수 / 막: "he saith" 대표 단수)
+> **Q7: The angels' posture — standing (Luke 24:4) vs. sitting (Mark 16:5)**
+> - Resolution: fully harmonized as **a sequence of postural change**
+>   1. Suddenly appearing while standing (Luke 24:4 — stood by) → the women fall down
+>   2. Sitting in the place of the body to speak intimately (Mark 16:5 — sitting)
+>   3. Confirmed still sitting even at Magdalene's second visit (John 20:12 — sitting)
+> - **Standing = the manner of appearance / Sitting = the manner of speaking** — both records are true, and there is a sequence in time
+> - The two angels spoke in turn (Luke: "they said," plural / Mark: "he saith," a representative singular)
 
 ---
 
-*CHRONICLE [B] v2.1 — 부활 아침 전일 순차 통합 (확정 정답 + 시각 타임라인)*
-*TYPE-B + DE-OVERLAP + TYPE-C | 4복음서 병렬 엑셀 데이터 기반*
+*CHRONICLE [B] v2.1 — Resurrection Morning Full-Day Sequential Integration (a confirmed correct sequence + visual timeline)*
+*TYPE-B + DE-OVERLAP + TYPE-C | based on a four-Gospel parallel spreadsheet*
 *"He is not here: for he is risen, as he said." — Matthew 28:6 KJV*
-

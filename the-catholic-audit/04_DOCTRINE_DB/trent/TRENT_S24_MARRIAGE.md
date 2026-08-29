@@ -1,45 +1,46 @@
 ---
 id: "catholic-doctrine_db-066"
 title_ko: "TRENT-S24-MARRIAGE — 혼인 성사의 불가해소성"
+title_en: "TRENT-S24-MARRIAGE — The Indissolubility of the Sacrament of Marriage"
 file_ko: "TRENT_S24_MARRIAGE.md"
 file_en: "TRENT_S24_MARRIAGE.md"
 category: "doctrine_db"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# TRENT-S24-MARRIAGE — 혼인 성사의 불가해소성
+# TRENT-S24-MARRIAGE — The Indissolubility of the Sacrament of Marriage
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | TRENT-S24-MARRIAGE |
-| **출처** | 트렌트 공의회 (Concilium Tridentinum) |
-| **조항** | 제24차 회기, 혼인 성사에 관한 교령, Canon 5, 7 |
-| **교의 등급** | De Fide |
-| **파문(Anathema)** | ✅ 예 |
-| **연도** | 1563 |
+| **Source** | Council of Trent (Concilium Tridentinum) |
+| **Reference** | Twenty-Fourth Session, Decree on the Sacrament of Matrimony, Canons 5, 7 |
+| **Doctrinal Rank** | De Fide |
+| **Anathema** | ✅ Yes |
+| **Year** | 1563 |
 
-## 원문 (요약)
-> "간통을 이유로 혼인의 유대가 해소될 수 있다고 말하는 자는 파문될지어다(Canon 5). 교회가 혼인의 불가해소성을 가르치는 데 있어 오류를 범했다고 말하는 자는 파문될지어다(Canon 7)."
+## Original Text (Summary)
+> "If anyone says that the bond of matrimony can be dissolved by reason of adultery: let him be anathema (Canon 5). If anyone says that the Church has erred in teaching the indissolubility of marriage: let him be anathema (Canon 7)."
 
-## 라틴어 원문
+## Latin Text
 > "Si quis dixerit, propter haeresim aut molestam cohabitationem aut affectatam absentiam a coniuge dissolvi posse matrimonii vinculum: anathema sit." (Canon 5)
 
-## 태그
-`성사론`, `혼인`, `교회론`, `de_fide`, `절대`, `금지`
+## Tags
+`sacramental_theology`, `marriage`, `ecclesiology`, `de_fide`, `absolute`, `prohibited`
 
-## 주장 (Claims)
-1. 유효하게 완성된(ratum et consummatum) 혼인의 유대는 배우자의 죽음 외에 해소될 수 없다
-2. 간통이나 이단, 동거 불가, 의도적 부재를 이유로 혼인이 해소될 수 없다
-3. 혼인은 그리스도에 의해 제정된 일곱 성사 중 하나이다
-4. 혼인의 불가해소성에 관한 교회의 가르침은 오류가 아니다
+## Claims
+1. The bond of a validly completed (ratum et consummatum) marriage cannot be dissolved by anything other than the death of a spouse
+2. Marriage cannot be dissolved on grounds of adultery, heresy, the impossibility of cohabitation, or intentional absence
+3. Marriage is one of the seven sacraments instituted by Christ
+4. The Church's teaching on the indissolubility of marriage is not in error
 
-## 부정 (Negates)
-1. 간통을 이유로 혼인의 유대가 해소될 수 있다는 명제
-2. 이단이나 동거 불가를 이유로 혼인이 해소될 수 있다는 명제
-3. 교회가 혼인의 불가해소성을 가르치는 데 있어 오류를 범했다는 명제
-4. 이혼 후 재혼이 도덕적으로 허용된다는 명제
+## Negates
+1. The proposition that the bond of marriage can be dissolved on grounds of adultery
+2. The proposition that marriage can be dissolved on grounds of heresy or the impossibility of cohabitation
+3. The proposition that the Church erred in teaching the indissolubility of marriage
+4. The proposition that remarriage after divorce is morally permissible
 
-## 관련 충돌
-- → AMORIS-LAETITIA-CH8 (재혼자 성체 접근 암시)
-- → CCC-1640 (혼인의 불가해소성)
+## Related Collisions
+- → AMORIS-LAETITIA-CH8 (Implying Eucharistic access for the remarried)
+- → CCC-1640 (The indissolubility of marriage)

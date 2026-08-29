@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-jw-070"
-title_en: "Doctrinal Dilemma: The Abuse of the Title 'Jehovah' and the Violation of the Third Commandment"
-title_ko: ""
-file_en: "REPORT_JW_GodName_MistranslationAudit.md"
-file_ko: ""
-category: "jw"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0145 | ver: 20260829_0942 -->
 
 # Doctrinal Dilemma: The Abuse of the Title 'Jehovah' and the Violation of the Third Commandment
 **— "Is it appropriate to hang the holy name on a church signboard and call it out carelessly?" BVCAP v2.0 Neutral Audit Report —**

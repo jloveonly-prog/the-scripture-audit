@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0007 | ver: 20260829_0942 -->
 # 📜 [HERMENEUTICS] Ancient Jewish Hermeneutics: Rabbi Hillel's 7 Rules (Middot)
 
 > **Objective:** The supreme hermeneutical directive to reject Western/liberal logic and implant the original standard by which 1st-century Hebrews analyzed the Torah into the BVCAP AI (Agent).

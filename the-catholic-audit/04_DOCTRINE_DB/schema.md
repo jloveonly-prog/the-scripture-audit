@@ -1,79 +1,80 @@
 ---
 id: "catholic-doctrine_db-031"
 title_ko: "교리 카드 스키마 (Doctrine Card Schema)"
+title_en: "Doctrine Card Schema"
 file_ko: "schema.md"
 file_en: "schema.md"
 category: "doctrine_db"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# 교리 카드 스키마 (Doctrine Card Schema)
+# Doctrine Card Schema
 
-> 모든 교리 카드는 이 형식을 따릅니다. 각 카드는 독립적인 .md 파일입니다.
+> Every doctrine card follows this format. Each card is an independent .md file.
 
 ---
 
-## 필드 정의
+## Field Definitions
 
-| 필드 | 타입 | 필수 | 설명 |
+| Field | Type | Required | Description |
 |:---|:---|:---:|:---|
-| `id` | string | ✅ | 고유 식별자 (예: CCC-1257, TRENT-S06-C09) |
-| `title` | string | ✅ | 교리 제목 (한글) |
-| `source` | string | ✅ | 출처 문헌명 |
-| `section` | string | ✅ | 조항/Canon 번호 |
-| `authority` | enum | ✅ | De Fide / Sententia Certa / Sententia Communis / Opinió / Pastoral |
-| `anathema` | bool | ✅ | 파문 조항 여부 |
-| `year` | int | ✅ | 제정/발표 년도 |
-| `text_ko` | string | ✅ | 핵심 내용 (한글 요약) |
-| `text_la` | string | | 라틴어 원문 (있을 경우) |
-| `tags` | list | ✅ | 주제 태그 |
-| `claims` | list | ✅ | 이 교리가 주장하는 명제들 |
-| `negates` | list | ✅ | 이 교리가 부정하는 명제들 |
-| `collisions` | list | | 충돌하는 다른 교리 카드 ID |
+| `id` | string | ✅ | Unique identifier (e.g., CCC-1257, TRENT-S06-C09) |
+| `title` | string | ✅ | Doctrine title |
+| `source` | string | ✅ | Source document name |
+| `section` | string | ✅ | Paragraph/Canon number |
+| `authority` | enum | ✅ | De Fide / Sententia Certa / Sententia Communis / Opinio / Pastoral |
+| `anathema` | bool | ✅ | Whether an anathema clause is present |
+| `year` | int | ✅ | Year of enactment/promulgation |
+| `text_ko` | string | ✅ | Core content (Korean summary) |
+| `text_la` | string | | Latin original text (if available) |
+| `tags` | list | ✅ | Subject tags |
+| `claims` | list | ✅ | Propositions this doctrine asserts |
+| `negates` | list | ✅ | Propositions this doctrine denies |
+| `collisions` | list | | IDs of other doctrine cards that collide with this one |
 
-## 태그 체계
+## Tag System
 
-### 주제 태그
-구원론, 성사론, 교회론, 교황론, 마리아론, 종말론,
-세례, 성체, 고해, 견진, 혼인, 서품, 병자성사,
-은총, 공로, 칭의, 성화, 연옥, 면죄부, 림보,
-무류성, 수위권, 교도권, 공의회, 전통, 계시
+### Subject Tags
+soteriology, sacramental_theology, ecclesiology, papal_theology, mariology, eschatology,
+baptism, eucharist, confession, confirmation, marriage, holy_orders, anointing_of_the_sick,
+grace, merit, justification, sanctification, purgatory, indulgences, limbo,
+infallibility, primacy, magisterium, councils, tradition, revelation
 
-### 논리 태그
-필수, 금지, 허용, 조건부, 절대, 통상적, 사목적
+### Logic Tags
+necessary, prohibited, permitted, conditional, absolute, ordinary, pastoral
 
-### 교의 등급 태그
-de_fide, sententia_certa, sententia_communis, opinió, pastoral
+### Doctrinal-Rank Tags
+de_fide, sententia_certa, sententia_communis, opinio, pastoral
 
-## 교리 카드 템플릿
+## Doctrine Card Template
 
 ```markdown
-# [ID] — [제목]
+# [ID] — [Title]
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | |
-| **출처** | |
-| **조항** | |
-| **교의 등급** | |
-| **파문(Anathema)** | |
-| **연도** | |
+| **Source** | |
+| **Paragraph** | |
+| **Doctrinal Rank** | |
+| **Anathema** | |
+| **Year** | |
 
-## 원문 (요약)
+## Original Text (Summary)
 > 
 
-## 태그
+## Tags
 ``, ``
 
-## 주장 (Claims)
+## Claims
 1. 
 2. 
 
-## 부정 (Negates)
+## Negates
 1. 
 2. 
 
-## 관련 충돌
+## Related Collisions
 - → [COL-000]
 ```

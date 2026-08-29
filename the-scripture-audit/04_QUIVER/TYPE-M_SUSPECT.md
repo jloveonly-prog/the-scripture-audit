@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0069 | ver: 20260829_0942 -->
 # 🔍 TYPE-M — SUSPECT (Anomaly Detection)
 **"Prove all things" — 1 Thessalonians 5:21 KJV**
 

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0135 | ver: 20260829_0942 -->
 # 📜 BVCAP MASTERPIECE REPORT: Biblical Meaning of "New Song" and Analysis of the Categories of Redemption
 
 > **Analysis Purpose**: To trace the true biblical meaning of the "new song" appearing in Revelation 5:9 and 14:3, and the reason why they sang this song, and based on this, to present BVCAP verification standards capable of judging the biblical soundness of related sermons.

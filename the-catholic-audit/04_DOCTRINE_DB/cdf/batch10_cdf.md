@@ -1,88 +1,89 @@
 ---
 id: "catholic-doctrine_db-051"
 title_ko: "CDF-DOMINUS  Dominus Iesus (구원의 유일성과 가톨릭 교회)"
+title_en: "CDF-DOMINUS — Dominus Iesus (The Uniqueness of Salvation and the Catholic Church)"
 file_ko: "batch10_cdf.md"
 file_en: "batch10_cdf.md"
 category: "doctrine_db"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# CDF-DOMINUS  Dominus Iesus (구원의 유일성과 가톨릭 교회)
+# CDF-DOMINUS — Dominus Iesus (The Uniqueness of Salvation and the Catholic Church)
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CDF-DOMINUS |
-| **출처** | 신앙교리부 선언 Dominus Iesus (요한 바오로 2세 승인) |
-| **조항** | 핵심 선언 전체 |
-| **교의 등급** | Sententia Certa |
-| **무류 여부** | 🟡 권위적 |
-| **파문(Anathema)** | 종교 다원주의 배척 |
-| **연도** | 2000 |
+| **Source** | Congregation for the Doctrine of the Faith, Declaration Dominus Iesus (approved by John Paul II) |
+| **Reference** | The entire core declaration |
+| **Doctrinal Rank** | Sententia Certa |
+| **Infallibility** | 🟡 Authoritative |
+| **Anathema** | Rejects religious pluralism |
+| **Year** | 2000 |
 
-## 원문 (요약)
-> 예수 그리스도 이외의 다른 구원의 길은 없다. 다른 종교들 안에 신성한 요소가 있을지라도, 그 종교들 자체를 객관적인 구원의 방도로 간주할 수는 없으며, 비그리스도교 종교들은 가톨릭 교회에 비해 '심각한 결함'을 지니고 있다.
+## Original Text (Summary)
+> There is no way of salvation other than Jesus Christ. Even if other religions contain elements of the sacred, those religions themselves cannot be regarded as objective means of salvation, and non-Christian religions suffer a "grave deficiency" in comparison to the Catholic Church.
 
-## 태그
-`종교 다원주의 배척`, `가톨릭 유일성`
+## Tags
+`rejection_of_religious_pluralism`, `catholic_uniqueness`
 
-## 주장 (Claims)   가장 중요
-1. 가톨릭 교회만이 구원의 보편적 성사이며, 오직 가톨릭 교회 안에만 그리스도의 교회가 온전히 존재한다(subsistit in).
-2. 비그리스도교 종교들은 객관적으로 구원의 수단이 될 수 없으며 영적인 측면에서 심각한 결함을 지니고 있다.
+## Claims (Most Important)
+1. The Catholic Church alone is the universal sacrament of salvation, and only within the Catholic Church does the Church of Christ subsist fully (subsistit in).
+2. Non-Christian religions cannot objectively be a means of salvation and suffer a grave deficiency in their spiritual dimension.
 
-## 부정 (Negates)   가장 중요
-1. 가톨릭 교회가 아닌 다른 종교들도 그 자체로 신성하고 동등한 구원의 길이 될 수 있다(다원주의).
+## Negates (Most Important)
+1. Religions other than the Catholic Church can also, in themselves, be sacred and an equally valid path to salvation (pluralism).
 
 ---
 
-# CDF-ORDINATIO  Ordinatio Sacerdotalis (여성 서품 금지)
+# CDF-ORDINATIO — Ordinatio Sacerdotalis (The Prohibition of Women's Ordination)
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CDF-ORDINATIO |
-| **출처** | 요한 바오로 2세 교황 교서 |
-| **조항** | 결론 선언문 |
-| **교의 등급** | De Fide Definita (보편 교도권에 의한 무류적 제안) |
-| **무류 여부** | 🔴 무류 (확정적 교리) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1994 |
+| **Source** | Pope John Paul II, Apostolic Letter |
+| **Reference** | Concluding declaration |
+| **Doctrinal Rank** | De Fide Definita (an infallible proposal by the universal ordinary Magisterium) |
+| **Infallibility** | 🔴 Infallible (a definitive doctrine) |
+| **Anathema** | No |
+| **Year** | 1994 |
 
-## 원문 (요약)
-> 가톨릭 교회는 여성에게 사제 서품을 할 권한을 전혀 갖고 있지 않으며, 이러한 판단은 교회의 모든 신자들에 의해 확정적으로(definitively) 고수되어야만 한다고 선언한다.
+## Original Text (Summary)
+> The Catholic Church has absolutely no authority whatsoever to confer priestly ordination on women, and this judgment is declared to be definitively held by all the Church's faithful.
 
-## 태그
-`여성 서품`, `성품 성사`, `확정적 교리`
+## Tags
+`womens_ordination`, `sacrament_of_holy_orders`, `definitive_doctrine`
 
-## 주장 (Claims)   가장 중요
-1. 사제 서품은 오직 남성에게만 유효하게 수여될 수 있으며, 교회는 이를 변경할 어떠한 권한도 없다.
-2. 여성 서품 불가 교리는 모든 가톨릭 신자가 무류적이고 확정적인 진리로 믿고 따라야 한다.
+## Claims (Most Important)
+1. Priestly ordination can be validly conferred only on men, and the Church holds no authority whatsoever to change this.
+2. The doctrine barring women's ordination must be believed and held by all Catholic faithful as an infallible and definitive truth.
 
-## 부정 (Negates)   가장 중요
-1. 교회의 문화적 상황이 변함에 따라 여성도 사제로 서품될 수 있다.
+## Negates (Most Important)
+1. Women too may be ordained as priests as the Church's cultural circumstances change.
 
 ---
 
-# CDF-RESPONSUM  Responsum ad Dubium (2021) 동성 결합 축복 금지
+# CDF-RESPONSUM — Responsum ad Dubium (2021): The Prohibition on Blessing Same-Sex Unions
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CDF-RESPONSUM |
-| **출처** | 신앙교리부 답변 (프란치스코 교황 승인) |
-| **조항** | 동성 결합 축복에 관한 의문에 대한 답변 |
-| **교의 등급** | 교도권 선언 |
-| **무류 여부** | 🟡 권위적 |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 2021 |
+| **Source** | Response of the Congregation for the Doctrine of the Faith (approved by Pope Francis) |
+| **Reference** | Response to a question concerning the blessing of same-sex unions |
+| **Doctrinal Rank** | Magisterial declaration |
+| **Infallibility** | 🟡 Authoritative |
+| **Anathema** | No |
+| **Year** | 2021 |
 
-## 원문 (요약)
-> 교회는 동성 간의 결합에 축복을 내릴 권한을 가지고 있지 않다. 하느님은 죄를 축복하시지 않으며 축복하실 수도 없기 때문이다. 따라서 동성 커플에 대한 어떠한 형태의 축복도 불법이다.
+## Original Text (Summary)
+> The Church does not have the power to impart blessings on unions of persons of the same sex. Because God cannot bless sin and cannot be asked to do so. Therefore any form of blessing for same-sex couples is illicit.
 
-## 태그
-`동성 커플`, `축복 불가`, `교리적 충돌`
+## Tags
+`same_sex_couples`, `blessing_prohibited`, `doctrinal_collision`
 
-## 주장 (Claims)   가장 중요
-1. 교회의 축복은 오직 도덕법과 혼인 교리(남녀)에 부합하는 관계에만 주어질 수 있다.
-2. 하느님은 객관적인 죄의 상태(동성 결합)를 축복할 수 없으므로, 교회 역시 동성 커플을 축복할 권한이 전혀 없다.
+## Claims (Most Important)
+1. The Church's blessing can be given only to a relationship that conforms to moral law and the doctrine of marriage (between a man and a woman).
+2. Because God cannot bless an objective state of sin (a same-sex union), the Church likewise has no authority whatsoever to bless a same-sex couple.
 
-## 부정 (Negates)   가장 중요
-1. 동성 커플이라 할지라도 그들 안의 긍정적 요소를 인정하여 교회가 축복을 내릴 수 있다 (불과 2년 뒤인 2023년 Fiducia Supplicans와 완벽하고 직접적인 논리적 충돌).
+## Negates (Most Important)
+1. Even a same-sex couple can be blessed by the Church in recognition of the positive elements within their relationship (a complete and direct logical collision with Fiducia Supplicans, which came only two years later in 2023).

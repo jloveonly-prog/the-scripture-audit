@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-catholic-047"
-title_en: "Why Catholics Cannot Confess Jesus as Savior"
-title_ko: ""
-file_en: "REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior_NotebookLM.md"
-file_ko: ""
-category: "catholic"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0099 | ver: 20260829_0942 -->
 
 # Why Catholics Cannot Confess Jesus as Savior
 ## — The Difference in Soteriology Revealed by a Single Yes/No Question —

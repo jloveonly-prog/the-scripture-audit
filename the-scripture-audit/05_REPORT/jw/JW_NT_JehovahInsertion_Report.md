@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-jw-068"
-title_en: "[Jehovah's Witnesses] Enigma: The Alteration and Manipulation of Inserting 'Jehovah' for Κύριος (Lord) in 237 Places in the New Testament"
-title_ko: ""
-file_en: "JW_NT_JehovahInsertion_Report.md"
-file_ko: ""
-category: "jw"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0147 | ver: 20260829_0942 -->
 
 # [Jehovah's Witnesses] Enigma: The Alteration and Manipulation of Inserting 'Jehovah' for Κύριος (Lord) in 237 Places in the New Testament
 **— Is the claim true that "the original New Testament contained YHWH but later copyists deleted it"? BVCAP 2.0 FULL SCAN Masterpiece Report —**

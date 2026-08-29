@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0076 | ver: 20260829_0942 -->
 # 🗡️ TYPE-T: Tense & Lexical Forensics
 
 > **"The enemy's most grandiose theological attacks are often built upon ignorance of basic tenses and lexical meanings of words."**

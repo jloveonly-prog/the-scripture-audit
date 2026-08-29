@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-catholic-048"
-title_en: "🏛️ BVCAP 2.0 FINAL MASTERPIECE REPORT"
-title_ko: ""
-file_en: "REPORT_WINE_Wine_Liquor_Wrath_Original_Language_Forensics.md"
-file_ko: ""
-category: "catholic"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0096 | ver: 20260829_0942 -->
 
 # 🏛️ BVCAP 2.0 FINAL MASTERPIECE REPORT
 **Case Name:** WINE Translation Controversy and Original Language Forensics on the Presence of Alcohol
@@ -31,18 +21,18 @@ The boundary dividing sin and blessing was not 'the type of substance (presence 
 ### ✅ Righteous Use (Gift, Survival, Medical Disinfection)
 | Character / Verse | Contradiction of Korean Translation | Original Word (English) | Intake Intent and Contextual Result |
 |:---|:---|:---|:---|
-| **Holy Melchizedek** (Gen 14:18) | Wine (포도주) | Yayin (Wine) | 'Drinking water for hydration/nutrition' prepared by the priest for Abraham, who was exhausted after the war |
-| **Blessing of Psalms** (Ps 104:15) | Wine (포도주) | Yayin (Wine) | God's gift creation that gladdens the heart of man (Beverage for fellowship shared at a normal dining table, diluted mildly with water). |
-| **The Good Samaritan** (Luke 10:34) | Wine (포도주) | Oinos (Wine) | **'Medical Antiseptic'** poured on the wounds of the man who fell among robbers to kill bacteria. (Pouring high-sugar juice would rot the wound. The sterilizing power of alcohol was used to save life). |
-| **Paul and Timothy** (1 Tim 5:23) | Wine (포도주) | Oinos (Wine) | A medical prescription to use **'a little'** instead of contaminated plain water to cure waterborne stomach illness. (Purpose and amount were perfectly moderated). |
+| **Holy Melchizedek** (Gen 14:18) | Wine | Yayin (Wine) | 'Drinking water for hydration/nutrition' prepared by the priest for Abraham, who was exhausted after the war |
+| **Blessing of Psalms** (Ps 104:15) | Wine | Yayin (Wine) | God's gift creation that gladdens the heart of man (Beverage for fellowship shared at a normal dining table, diluted mildly with water). |
+| **The Good Samaritan** (Luke 10:34) | Wine | Oinos (Wine) | **'Medical Antiseptic'** poured on the wounds of the man who fell among robbers to kill bacteria. (Pouring high-sugar juice would rot the wound. The sterilizing power of alcohol was used to save life). |
+| **Paul and Timothy** (1 Tim 5:23) | Wine | Oinos (Wine) | A medical prescription to use **'a little'** instead of contaminated plain water to cure waterborne stomach illness. (Purpose and amount were perfectly moderated). |
 
 ### ❌ Corrupt Abuse (Crime, Addiction, Blasphemy)
 | Character / Verse | Contradiction of Korean Translation | Original Word (English) | Intake Intent and Contextual Result |
 |:---|:---|:---|:---|
-| **Lot's Corrupt Daughters** (Gen 19:32) | **"Wine" (포도주)** | Yayin (Wine) | **'Malicious intent'** by the daughters to black out (knock out) their father. It is perfectly the exact same Yayin (Wine) that Melchizedek brought, but the intent was a crime and it was an abuse of forcefully feeding undiluted strong liquor. |
-| **Noah's Shame** (Gen 9:21) | Wine (포도주) | Yayin (Wine) | **'Excessive binge drinking'** where he could not control himself by borrowing the power of alcohol. Eventually got drunk and suffered the shame of exposing his nakedness in the tent. |
-| **Proverbs' Stern Warning** (Prov 23:31) | Wine (포도주) | Yayin (Wine) | A warning against the addictiveness of craving red and strong **'undiluted liquor'** not mixed with water. What sparkles in the cup is not normal drinking water but a powerful medium for getting drunk. |
-| **King Belshazzar's End** (Dan 5:1~4) | Wine (포도주) | Yayin (Wine) | Atrocious **'blasphemy'** praising idols while drinking liquor poured into holy golden vessels looted from the Jerusalem temple. Consequently, the kingdom fell and he was killed that very night. |
+| **Lot's Corrupt Daughters** (Gen 19:32) | **"Wine"** | Yayin (Wine) | **'Malicious intent'** by the daughters to black out (knock out) their father. It is perfectly the exact same Yayin (Wine) that Melchizedek brought, but the intent was a crime and it was an abuse of forcefully feeding undiluted strong liquor. |
+| **Noah's Shame** (Gen 9:21) | Wine | Yayin (Wine) | **'Excessive binge drinking'** where he could not control himself by borrowing the power of alcohol. Eventually got drunk and suffered the shame of exposing his nakedness in the tent. |
+| **Proverbs' Stern Warning** (Prov 23:31) | Wine | Yayin (Wine) | A warning against the addictiveness of craving red and strong **'undiluted liquor'** not mixed with water. What sparkles in the cup is not normal drinking water but a powerful medium for getting drunk. |
+| **King Belshazzar's End** (Dan 5:1~4) | Wine | Yayin (Wine) | Atrocious **'blasphemy'** praising idols while drinking liquor poured into holy golden vessels looted from the Jerusalem temple. Consequently, the kingdom fell and he was killed that very night. |
 
 > **⚖️ Analysis Summary:** This precise cross-verification exposes a surprising fact. The Bible does not dichotomously divide the alcoholic substance (Wine) itself into good and evil. When used to disinfect wounds (Samaritan), cure stomach illness (Timothy), and comfort an exhausted army (Melchizedek), it becomes a great tool for life, but when combined with binge drinking (Noah), criminal intent (Lot's daughters), and idolatry (Belshazzar), it becomes a fatal tool for sin. 
 
@@ -103,7 +93,7 @@ The two words identically translated as 'New wine' in the KJV Bible are **comple
 | **Acts 2:13** (Pentecost Mockery) | New wine | **Gleukos** (γλεῦκος) | A special word used **only once** in the entire Bible. **'Sweet and strong premium intoxicating liquor'** made by specially fermenting the juice with the highest sugar content | Fermentation **completed** sweet strong liquor (Makes people drunk quickly) |
 
 *   **Etymological Evidence:** The modern English word 'Glucose' is derived right from this Greek word Gleukos (γλεῦκος). Because it is very sweet, it was a frightening liquor that would make one quickly dead drunk while sipping it.
-*   **Core:** Although identically translated as '새 술 / New wine' in Korean and English, the 'new wine' in Matthew is young wine still emitting gas and fermenting, while the 'new wine' in Acts is sweet and strong premium liquor that has already completed fermentation. If the original words are not distinguished, this difference is missed.
+*   **Core:** Although identically translated as '"New wine"' in Korean and English, the 'new wine' in Matthew is young wine still emitting gas and fermenting, while the 'new wine' in Acts is sweet and strong premium liquor that has already completed fermentation. If the original words are not distinguished, this difference is missed.
 
 **[Stage 3] Undiluted Liquor and Strong Drink with Completed Fermentation (Unmixed wine / Shekar / Sikera)**
 *   An aged state where the fermentation of new wine is completely finished and the alcohol content reaches its peak (about 10~14%). (Other strong liquors like grain fermented liquor are also included in this category).

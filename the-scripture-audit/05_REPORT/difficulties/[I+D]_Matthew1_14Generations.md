@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0139 | ver: 20260829_0942 -->
 # Matthew 1 — The 14 Generations Difficulty, the Double Inclusion of King David, and the Precision of KJV Translation
 
 **— A BVCAP Neutral Audit Report on the Biblical Contradiction Attack: "Isn't it 13 or 15 generations, not 14?" —**

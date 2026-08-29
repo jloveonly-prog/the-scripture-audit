@@ -12,7 +12,7 @@ translated: true
 
 # RED — "The sons of God" are not angels
 
-> **Base Document**: This RED argument is developed based on [[REPORT_그하나님의아들들_천사인가_조사.md]] (results of the definite article investigation).
+> **Base Document**: This RED argument is developed based on [[REPORT_SonsOfGod_Angels_Investigation.md]] (results of the definite article investigation).
 > **Application MODE**: B (Theological Court — doctrinal debate within Bible-believing Christians). Operating on the premise that "the Bible is 100% truth," the identity of "the sons of God" in Genesis 6 and Job 1, 2, and 38 is determined solely by internal KJV evidence.
 
 ---

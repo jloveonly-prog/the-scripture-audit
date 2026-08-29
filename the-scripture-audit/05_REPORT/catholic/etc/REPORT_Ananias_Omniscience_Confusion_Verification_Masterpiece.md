@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0118 | ver: 20260829_0942 -->
 # 📜 [BVCAP 2.0 Criminal Record Report] Verification of Category Confusion Regarding Omniscience Through the Ananias Incident
 **— A BVCAP v2.0 Neutral Audit Report on the Fatal Theological Error Confusing the Holy Spirit's Temporary "Revelation" with the Creator's Inherent "Omniscience" —**
 

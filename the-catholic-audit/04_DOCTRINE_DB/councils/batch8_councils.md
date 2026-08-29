@@ -1,118 +1,119 @@
 ---
 id: "catholic-doctrine_db-052"
 title_ko: "COUNCIL-NICAEA_CHALCEDON  초기 공의회 (삼위일체와 기독론)"
+title_en: "COUNCIL-NICAEA_CHALCEDON — The Early Councils (The Trinity and Christology)"
 file_ko: "batch8_councils.md"
 file_en: "batch8_councils.md"
 category: "doctrine_db"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# COUNCIL-NICAEA_CHALCEDON  초기 공의회 (삼위일체와 기독론)
+# COUNCIL-NICAEA_CHALCEDON — The Early Councils (The Trinity and Christology)
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | COUNCIL-NICAEA_CHALCEDON |
-| **출처** | 제1차 니케아 ~ 칼케돈 공의회 |
-| **조항** | 신경 및 교의 정의 선언문 |
-| **교의 등급** | De Fide Definita |
-| **무류 여부** | 🔴 무류 (오류 불가) |
-| **파문(Anathema)** | 예 |
-| **연도** | 325, 381, 431, 451 |
+| **Source** | First Council of Nicaea through the Council of Chalcedon |
+| **Reference** | Creedal formulas and doctrinal definitions |
+| **Doctrinal Rank** | De Fide Definita |
+| **Infallibility** | 🔴 Infallible (incapable of error) |
+| **Anathema** | Yes |
+| **Year** | 325, 381, 431, 451 |
 
-## 원문 (요약)
-> 성자는 성부와 본질이 같으시며(Homoousios), 성모 마리아는 하느님의 어머니(Theotokos)이시다. 예수 그리스도 안에는 참 하느님과 참 인간이라는 두 본성이 혼합되거나 분리됨 없이 하나의 위격(Hypostasis) 안에 존재한다.
+## Original Text (Summary)
+> The Son is of the same substance as the Father (Homoousios), and the Blessed Virgin Mary is the Mother of God (Theotokos). In Jesus Christ, the two natures of true God and true man exist, without confusion or division, in a single Person (Hypostasis).
 
-## 태그
-`삼위일체`, `기독론`, `테오토코스`
+## Tags
+`trinity`, `christology`, `theotokos`
 
-## 주장 (Claims)   가장 중요
-1. 성자 예수 그리스도는 피조물이 아니며 성부 하느님과 완전히 동일한 신적 본질을 지닌다.
-2. 마리아는 단지 인간 예수의 어머니가 아니라, 하느님(성자)을 낳으신 하느님의 어머니(Theotokos)이시다.
-3. 예수 그리스도 안에는 신성과 인성이 혼동되거나 분리되지 않고 고스란히 남아 하나의 위격을 이룬다.
+## Claims (Most Important)
+1. The Son, Jesus Christ, is not a creature and possesses a divine essence completely identical to that of God the Father.
+2. Mary is not merely the mother of the human Jesus, but is the Mother of God (Theotokos) who bore God the Son.
+3. In Jesus Christ, divinity and humanity remain intact, without confusion or division, forming a single Person.
 
-## 부정 (Negates)   가장 중요
-1. 성자는 시간 이전에 창조된 피조물이며 성부와 본질이 다르다(아리우스주의).
-2. 마리아는 단순히 인간 본성만을 낳은 '그리스도의 어머니(Christotokos)'일 뿐이다(네스토리우스주의).
+## Negates (Most Important)
+1. The Son is a creature created before time and is of a different substance from the Father (Arianism).
+2. Mary is merely the "Mother of Christ" (Christotokos) who bore only the human nature (Nestorianism).
 
 ---
 
-# COUNCIL-CONST_III  호노리우스 1세 교황 정죄
+# COUNCIL-CONST_III — The Condemnation of Pope Honorius I
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | COUNCIL-CONST_III |
-| **출처** | 제3차 콘스탄티노플 공의회 |
-| **조항** | 단의론 정죄 교령 |
-| **교의 등급** | De Fide Definita |
-| **무류 여부** | 🔴 무류 (오류 불가) |
-| **파문(Anathema)** | 예 |
-| **연도** | 681 |
+| **Source** | Third Council of Constantinople |
+| **Reference** | Decree condemning Monothelitism |
+| **Doctrinal Rank** | De Fide Definita |
+| **Infallibility** | 🔴 Infallible (incapable of error) |
+| **Anathema** | Yes |
+| **Year** | 681 |
 
-## 원문 (요약)
-> 세르기우스 등의 단의론 이단자들과 함께 전임 로마 교황인 호노리우스 1세를 이단에 동조하고 불경건한 교리를 조장한 혐의로 정죄하고 거룩한 가톨릭 교회에서 파문한다.
+## Original Text (Summary)
+> Together with Sergius and the other Monothelite heretics, the former Roman Pontiff Honorius I is condemned and anathematized from the holy Catholic Church on the charge of colluding with heresy and promoting impious doctrine.
 
-## 태그
-`단성론/단의론`, `교황 파문`, `무류성 논쟁`
+## Tags
+`monophysitism_monothelitism`, `condemnation_of_a_pope`, `infallibility_controversy`
 
-## 주장 (Claims)   가장 중요
-1. 예수 그리스도 안에는 두 개의 본성에 따른 두 개의 자연적 의지(신적 의지와 인간적 의지)가 존재한다.
-2. 로마 교황(호노리우스)이라 할지라도 이단적 교리를 수용하거나 묵인하여 교회를 더럽혔다면 공의회를 통해 이단자로 선고받고 파문될 수 있다.
+## Claims (Most Important)
+1. In Jesus Christ there exist two natural wills (a divine will and a human will) corresponding to his two natures.
+2. Even a Roman Pontiff (Honorius), if he accepted or tolerated heretical doctrine and thereby defiled the Church, can be declared a heretic and anathematized by a council.
 
-## 부정 (Negates)   가장 중요
-1. 예수 그리스도 안에는 오직 한 가지 의지(단의론)만이 존재한다.
-2. 로마 교황은 절대로 이단에 빠질 수 없다 (1차 바티칸 무류성 선언의 역사적 뇌관).
+## Negates (Most Important)
+1. In Jesus Christ there exists only a single will (Monothelitism).
+2. A Roman Pontiff can absolutely never fall into heresy (the historical fuse for the First Vatican Council's declaration of infallibility).
 
 ---
 
-# COUNCIL-LATERAN_IV  교회 밖 구원 없음과 화체설
+# COUNCIL-LATERAN_IV — No Salvation Outside the Church, and Transubstantiation
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | COUNCIL-LATERAN_IV |
-| **출처** | 제4차 라테란 공의회 |
-| **조항** | 신앙 선언 (제1헌장) |
-| **교의 등급** | De Fide Definita |
-| **무류 여부** | 🔴 무류 (오류 불가) |
-| **파문(Anathema)** | 예 |
-| **연도** | 1215 |
+| **Source** | Fourth Lateran Council |
+| **Reference** | Profession of Faith (Constitution 1) |
+| **Doctrinal Rank** | De Fide Definita |
+| **Infallibility** | 🔴 Infallible (incapable of error) |
+| **Anathema** | Yes |
+| **Year** | 1215 |
 
-## 원문 (요약)
-> 신자들의 보편 교회는 오직 하나뿐이며, 이 교회 밖에서는 그 누구도 결코 구원받을 수 없다. 이 교회 안에서 빵과 포도주는 하느님의 권능으로 참으로 그리스도의 몸과 피로 본질이 변한다(화체).
+## Original Text (Summary)
+> There is but one universal Church of the faithful, outside of which no one at all is saved. Within this Church, the bread and wine are, by the power of God, truly changed in substance into the body and blood of Christ (transubstantiation).
 
-## 태그
-`보편 교회`, `배타적 구원`, `화체설`
+## Tags
+`the_universal_church`, `exclusive_salvation`, `transubstantiation`
 
-## 주장 (Claims)   가장 중요
-1. 로마 가톨릭 교회라는 단 하나의 보편 교회만이 존재하며, 이 가시적 교회 밖에서는 어떠한 구원도 절대 불가능하다.
-2. 제대 위의 빵과 포도주는 성령의 힘으로 그 실체가 그리스도의 몸과 피로 완전히 변한다(Transubstantiatio라는 단어 공식화).
+## Claims (Most Important)
+1. Only a single universal Church — the Roman Catholic Church — exists, and salvation is absolutely impossible outside this visible Church.
+2. By the power of the Holy Spirit, the bread and wine on the altar are completely changed in substance into the body and blood of Christ (formalizing the term Transsubstantiatio).
 
-## 부정 (Negates)   가장 중요
-1. 가톨릭 교회에 속하지 않은 타 종파 신자나 이교도도 구원받을 수 있다.
+## Negates (Most Important)
+1. A member of another denomination or a pagan not belonging to the Catholic Church can also be saved.
 
 ---
 
-# COUNCIL-FLORENCE  Cantate Domino (가장 강력한 배타적 구원 교령)
+# COUNCIL-FLORENCE — Cantate Domino (The Strongest Decree of Exclusive Salvation)
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | COUNCIL-FLORENCE |
-| **출처** | 피렌체 공의회 |
-| **조항** | 칙서 Cantate Domino (야곱파와의 일치 교령) |
-| **교의 등급** | De Fide Definita |
-| **무류 여부** | 🔴 무류 (오류 불가) |
-| **파문(Anathema)** | 예 |
-| **연도** | 1442 |
+| **Source** | Council of Florence |
+| **Reference** | Bull Cantate Domino (decree of union with the Jacobites) |
+| **Doctrinal Rank** | De Fide Definita |
+| **Infallibility** | 🔴 Infallible (incapable of error) |
+| **Anathema** | Yes |
+| **Year** | 1442 |
 
-## 원문 (요약)
-> 가톨릭 교회 밖에서는 결코 구원받을 수 없다. 이교도뿐만 아니라 유대인, 이단자, 이교도(열교)는 죽기 전에 가톨릭 교회와 결합하지 않는 한 마귀와 그 사자들을 위해 준비된 영원한 불(지옥)로 떨어질 것이다. 그리스도의 이름으로 피를 흘리는 순교를 할지라도 가톨릭 교회 안에 있지 않으면 구원받을 수 없다.
+## Original Text (Summary)
+> No one remaining outside the Catholic Church can ever be saved. Not just pagans, but Jews, heretics, and schismatics as well, will fall into the eternal fire (hell) prepared for the devil and his angels, unless before death they are joined to the Catholic Church. Even if one sheds their blood in martyrdom for the name of Christ, they cannot be saved unless they remain within the Catholic Church.
 
-## 태그
-`배타적 구원`, `지옥`, `순교자`
+## Tags
+`exclusive_salvation`, `hell`, `martyrs`
 
-## 주장 (Claims)   가장 중요
-1. 유대인, 이교도, 가톨릭에서 떨어져 나간 이단자나 분열파 신자는 죽기 전에 로마 가톨릭 교회에 결합되지 않으면 예외 없이 지옥에 간다.
-2. 가톨릭 교회와 일치하지 않은 자는 구제를 얼마나 많이 하든, 심지어 그리스도를 위해 피를 흘리며 순교하더라도 절대 구원받을 수 없다.
+## Claims (Most Important)
+1. Unless Jews, pagans, heretics who have broken away from the Catholic Church, or schismatic believers are joined to the Roman Catholic Church before death, they go to hell without exception.
+2. One who is not in union with the Catholic Church cannot be saved under any circumstance, no matter how much charity they perform, and even if they shed their blood in martyrdom for Christ.
 
-## 부정 (Negates)   가장 중요
-1. 가톨릭 교회에 속하지 않은 타종교인이나 정교회/개신교 신자라도 선행이나 예수에 대한 믿음, 순교를 통해 구원받을 수 있다 (제2차 바티칸 공의회의 포용주의와 극심한 직관적 충돌).
+## Negates (Most Important)
+1. A non-Catholic, whether of another religion or an Orthodox/Protestant believer, can be saved through good works, faith in Jesus, or martyrdom (a severe, direct collision with the inclusivism of the Second Vatican Council).

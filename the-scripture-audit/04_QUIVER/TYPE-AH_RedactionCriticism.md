@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0038 | ver: 20260829_0942 -->
 # 🏹 SKILL-35: TYPE-AH — Redaction Criticism
 **"The author chose and recorded this — the choice itself is the intention"**
 

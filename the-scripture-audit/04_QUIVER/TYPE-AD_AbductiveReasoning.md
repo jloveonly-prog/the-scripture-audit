@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0034 | ver: 20260829_0942 -->
 # 🏹 SKILL-31: TYPE-AD — Abductive Reasoning (Inference to the Best Explanation)
 **"The hypothesis that most completely explains all the evidence is true"**
 

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0024 | ver: 20260829_0942 -->
 # The Great Journey of Peter to Calvary (True Final Complete Edition) Structural Manifestation
 
 There is no direct manifestation that Peter died at Golgotha.

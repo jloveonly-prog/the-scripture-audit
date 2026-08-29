@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0154 | ver: 20260829_0942 -->
 [!IMPORTANT]
 > ## 📋 Tactical Manual (Execution Procedure)
 > **What this document doeth**: FULL SCAN execution order · Triggering all QUIVER types · COMBO verification · STRESS-TEST · Output

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0004 | ver: 20260829_0942 -->
 # 🔧 ANALOGY-5: Modern Analogy Creation Mandatory Protocol
 
 > **Trigger Condition**: The final step of every analysis. Must be executed after a conclusion is reached.

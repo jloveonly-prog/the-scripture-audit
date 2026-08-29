@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-bible_believer-014"
-title_en: "[Genesis 3 Childbirth Debate Integrated Final Report] Was there childbirth in Eden before eating of the tree of the knowledge of good and evil?"
-title_ko: ""
-file_en: "REPORT_Genesis3_Birth_After_Fruit_Strong.md"
-file_ko: ""
-category: "bible_believer"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0095 | ver: 20260829_0942 -->
 
 # [Genesis 3 Childbirth Debate Integrated Final Report] Was there childbirth in Eden before eating of the tree of the knowledge of good and evil?
 

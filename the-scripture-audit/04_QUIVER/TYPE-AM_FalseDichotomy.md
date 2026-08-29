@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0043 | ver: 20260829_0942 -->
 # 🏹 SKILL-40: TYPE-AM — False Dichotomy Detection
 **The "A or B" framing actually hides more options**
 

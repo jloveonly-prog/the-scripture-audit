@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0053 | ver: 20260829_0942 -->
 # 🗡️ SKILL-51: TYPE-AW — Deed–Word Discrepancy
 
 **"They profess that they know God; but in works they deny him." — Titus 1:16 KJV**

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0048 | ver: 20260829_0942 -->
 # 🌀 SKILL-45: TYPE-AR — Spiritual Mechanism Analysis
 **"This kind can come forth by nothing, but by prayer and fasting." — Mark 9:29 KJV**
 

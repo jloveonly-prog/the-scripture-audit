@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0117 | ver: 20260829_0942 -->
 # 📜 [BVCAP 2.0 Audit Report] Verification of Eucharist (Transubstantiation) and Priestly Class Monopoly
 **— "Misreading the Bible and evading Hebrews 10 to maintain the power of the priestly class" BVCAP v2.0 Maximum Level Audit Report —**
 

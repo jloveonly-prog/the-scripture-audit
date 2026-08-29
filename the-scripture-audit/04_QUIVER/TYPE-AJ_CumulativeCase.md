@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0040 | ver: 20260829_0942 -->
 # 🏹 SKILL-37: TYPE-AJ — Cumulative Case Argument
 **"Not a single evidence, but a multitude of independent converging evidences establishes the conclusion"**
 

@@ -1,4 +1,5 @@
-﻿# ↩️ SKILL-16: TYPE-P — Retorsion / Boomerang Argument (Retorsion)
+<!-- doc_no: 20260829_0072 | ver: 20260829_0942 -->
+# ↩️ SKILL-16: TYPE-P — Retorsion / Boomerang Argument (Retorsion)
 **"Out of thine own mouth will I judge thee." — Luke 19:22 KJV**
 
 > **When to trigger**: When the adversary bringeth up a **parable, analogy, or example** to defend themselves.

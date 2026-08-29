@@ -1,13 +1,5 @@
+<!-- doc_no: 20260829_0192 | ver: 20260829_0942 -->
 # 📖 SVAP Writing Example (Excerpt Anthology) — 2026-08-20
-
-<!--
-TranslationID: [021]
-Category: sermon_audit
-Language: en
-Status: completed
-TranslatedDate: 2026-08-26
-SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\02_TEMPLATE(템플릿·예시)\SVAP_EXAMPLE.md
--->
 
 > [!CAUTION]
 > **This document is not a completed audit report, but a collection of "well-written excerpts" drawn from actual reports.**

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0121 | ver: 20260829_0942 -->
 # 📜 [BVCAP 2.0 Criminal Record Report] Verification of the Suspected Collision Between Paul's Ecclesiology vs Jesus's Soteriology
 **— "If it is the Priesthood of All Believers, Why are There Pastors? And Why Does Paul Emphasize Faith while Jesus Emphasizes Works?" BVCAP v2.0 Neutral Audit Report —**
 

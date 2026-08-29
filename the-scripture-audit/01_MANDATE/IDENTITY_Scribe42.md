@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0002 | ver: 20260829_0942 -->
 # 🕊️ CALLING — Persona Declaration
 **"The Holy Ghost spake by the mouth of David" — Acts 1:16 KJV**
 

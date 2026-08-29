@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-catholic-040"
-title_en: "Catholic Doctrine of the Intercession of Saints: Biblical Consistency Verification"
-title_ko: ""
-file_en: "REPORT_Catholic_IntercessionOfSaints_Audit.md"
-file_ko: ""
-category: "catholic"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0106 | ver: 20260829_0942 -->
 
 # Catholic Doctrine of the Intercession of Saints: Biblical Consistency Verification
 **— "Does the command to pray for one another mean praying to dead saints?" BVCAP v2.0 Neutral Audit Report —**
@@ -495,6 +485,22 @@ James 5:16 "Confess your faults one to another, and pray one for another"
 
 ---
 
+## 4-B. [TYPE-C] Sealing Off Catholicism's Final Escape Route (The Counter-Strike of "Protestant Pastor-Idolatry")
+
+When Catholic apologists find themselves utterly unable to defend the fact that the intercession of saints and prayer to Mary collides with Scripture (1 Tim 2:5), they will, nine times out of ten, attempt the following drag-everyone-down maneuver (a red herring) to muddy the point:
+> **"Don't you Protestants idolize your own fallen, cultic pastors as if they were God! At least Mary, being in heaven, does no such worldly harm!"**
+
+This attack looks sharp at first glance, but once run through BVCAP's category-separation (TYPE-C) filter, it is immediately exposed as the most cowardly and self-defeating own-goal.
+
+### 🛡️ Individual Deviation vs. the System's Official Doctrine (A Complete Category Error)
+*   **Protestant Pastor-Idolatry (Individual Deviation/Heresy):** elevating a created pastor to the rank of God is a **'fallen individual's deviation'** that directly violates Scripture. Orthodox Protestantism immediately labels such people **heretics** and expels them from their denominations. This is precisely because Scripture strictly forbids idolatry.
+*   **Catholic Intercession of Saints (the System's Official Doctrine):** by contrast, Catholicism grants a creature (Mary or a dead saint) the divine attributes of omniscience (the ability to hear the prayers of hundreds of millions of people simultaneously) and mediating power, and the Vatican has enacted the practice of praying to them as **'official doctrine'**, mandatorily performed at every Mass worldwide.
+
+**💡 An Illustrative Conclusion (The Robber and the Counterfeiter):**
+This is like someone excusing themselves by saying, "Look at those robbers mugging people on the street (fallen pastors)! We don't rob anyone — we just quietly print counterfeit money (the doctrine of Marian/saintly intercession), so we're much better." Whether or not a jaywalker crosses against the light is an entirely different question from the state rewriting the law to make crossing on red officially legal. The fact that fallen heretics exist within Protestantism never covers over or justifies the biblical error of Catholicism's official doctrine of praying to creatures.
+
+---
+
 ## 5. Defense Counsel's Final Argument: Acknowledging Reasonable Elements
 
 > **⚖️ Judge's Declaration**: This court acknowledges **partially reasonable elements** in the Catholic argument as follows.
@@ -641,3 +647,19 @@ This is the true nature of the "tricked by very plausible wordplay" feeling the 
 *Case: Verification of Catholic Doctrine of the Intercession of Saints*
 *STATUS: VERDICT DELIVERED | FULL SCAN Complete | Inclusion of Reasonable Elements Acknowledgment*
 *Architecture: Dual-Layer System (Logic: BVCAP_Pipeline.md + Presentation: BVCAP_GHQ.md)*
+
+---
+
+## 🔗 Related Catholic Apologetics Reports and Field Debate Transcripts (BVCAP)
+* [Catholic_Comments.md](./Catholic_Comments.md)
+* [catholic_round_2.md](./catholic_round_2.md)
+* [[F+E+G+N+P+I+T+S]_Peter_Calvary_Martyrdom.md](<./[F+E+G+N+P+I+T+S]_Peter_Calvary_Martyrdom.md>)
+* [REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md](./REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md)
+* [REPORT_CatholicApocrypha_ScriptAnalysis.md](./REPORT_CatholicApocrypha_ScriptAnalysis.md)
+* [REPORT_PapalPrimacy_PeterRock_Audit.md](./REPORT_PapalPrimacy_PeterRock_Audit.md)
+* [REPORT_ApostolicSuccession_Tradition_Audit.md](./REPORT_ApostolicSuccession_Tradition_Audit.md)
+* [REPORT_Catholic_IntercessionOfSaints_Audit.md](./REPORT_Catholic_IntercessionOfSaints_Audit.md)
+* [REPORT_Mary_Immaculate_Assumption_Audit.md](./REPORT_Mary_Immaculate_Assumption_Audit.md)
+* [REPORT_1_John_Comma.md](./REPORT_1_John_Comma.md)
+* [REPORT_Catholic_3_Major_Escape_Routes_Blockaded_SolaScriptura.md](./REPORT_Catholic_3_Major_Escape_Routes_Blockaded_SolaScriptura.md)
+* [REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md](./REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md)

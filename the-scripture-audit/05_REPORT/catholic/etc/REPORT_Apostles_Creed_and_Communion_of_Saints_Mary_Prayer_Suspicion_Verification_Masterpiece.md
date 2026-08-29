@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0115 | ver: 20260829_0942 -->
 # 📜 [BVCAP 2.0 Audit Report] Verification of the Collision between the Apostles' Creed 'Communion of Saints' and Prayers to Mary
 **— "The fatal error of claiming communication with dead saints is possible just because they live forever" BVCAP v2.0 Neutral Audit Report —**
 

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0054 | ver: 20260829_0942 -->
 # 🗡️ SKILL-52: TYPE-AX — Reverse Deduction of Beneficiary (Cui Bono)
 
 **"Wherefore by their fruits ye shall know them." — Matthew 7:20 KJV**

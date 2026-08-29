@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-catholic-034"
-title_en: "Catholic Doctrine Comment Debate Transcript"
-title_ko: ""
-file_en: "Catholic_Comments.md"
-file_ko: ""
-category: "catholic"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0128 | ver: 20260829_0942 -->
 
 # Catholic Doctrine Comment Debate Transcript
 
@@ -866,4 +856,20 @@ The problem with Catholic doctrine is that there is no 'direct flight' to Heaven
 > 🔗 [Go to TheScriptureBeliever Theological High Court NotebookLM](https://notebooklm.google.com/notebook/1e2ec3f3-f74d-4599-ae49-d46f7a1d12b9)
 
 > 🔗 **Read Related Documents**: [⚖️ Theological High Court Verdict (Catholic_Court.md)](Catholic_Court.md) | [📖 Biblical Apologetics Report (Catholic_Apologetics.md)](Catholic_Apologetics.md)
+
+---
+
+## 🔗 Related Catholic Apologetics Reports and Field Debate Transcripts (BVCAP)
+* [Catholic_Comments.md](./Catholic_Comments.md)
+* [catholic_round_2.md](./catholic_round_2.md)
+* [[F+E+G+N+P+I+T+S]_Peter_Calvary_Martyrdom.md](<./[F+E+G+N+P+I+T+S]_Peter_Calvary_Martyrdom.md>)
+* [REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md](./REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md)
+* [REPORT_CatholicApocrypha_ScriptAnalysis.md](./REPORT_CatholicApocrypha_ScriptAnalysis.md)
+* [REPORT_PapalPrimacy_PeterRock_Audit.md](./REPORT_PapalPrimacy_PeterRock_Audit.md)
+* [REPORT_ApostolicSuccession_Tradition_Audit.md](./REPORT_ApostolicSuccession_Tradition_Audit.md)
+* [REPORT_Catholic_IntercessionOfSaints_Audit.md](./REPORT_Catholic_IntercessionOfSaints_Audit.md)
+* [REPORT_Mary_Immaculate_Assumption_Audit.md](./REPORT_Mary_Immaculate_Assumption_Audit.md)
+* [REPORT_1_John_Comma.md](./REPORT_1_John_Comma.md)
+* [REPORT_Catholic_3_Major_Escape_Routes_Blockaded_SolaScriptura.md](./REPORT_Catholic_3_Major_Escape_Routes_Blockaded_SolaScriptura.md)
+* [REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md](./REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md)
 

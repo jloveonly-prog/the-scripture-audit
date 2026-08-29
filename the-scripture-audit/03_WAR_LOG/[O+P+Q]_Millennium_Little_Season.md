@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0030 | ver: 20260829_0942 -->
 # 📖 CHRONICLE — [O+P+Q]_Millennial_Kingdom_Little_Season.md
 **Standard Combat Record for Defending Against Preterism**
 *"Weigh the evidence. The scales do not lie." — BVCAP Motto*

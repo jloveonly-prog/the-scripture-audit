@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0042 | ver: 20260829_0942 -->
 # 🏹 SKILL-39: TYPE-AL — Equivocation Detection
 **"Catches the fallacy of subtly shifting the same word to a different meaning"**
 

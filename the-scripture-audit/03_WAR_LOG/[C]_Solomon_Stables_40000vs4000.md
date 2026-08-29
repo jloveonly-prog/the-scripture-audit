@@ -1,146 +1,147 @@
-# 솔로몬의 외양간 수 난제: 4만 vs 4천
-**— "열왕기상 4:26 vs 역대기하 9:25, 10배 차이는 필사 오류인가?" BVCAP v1.5 중립 감사 보고서 —**
+<!-- doc_no: 20260829_0021 | ver: 20260829_0942 -->
+# The Difficulty of Solomon's Number of Stalls: 40,000 vs. 4,000
+**— "1 Kings 4:26 vs. 2 Chronicles 9:25 — is the tenfold discrepancy a scribal error?" BVCAP v1.5 Neutral Audit Report —**
 
-> **STATUS**: 검증 완료 | VERDICT: ✅ CONSISTENT
-> **충돌 유형**: C-01 (숫자적 불일치 의혹) + C-11 (병렬 기록 세부 충돌 의혹)
-> **적용 분석 도구**: A-16 (기능적 범주 분리 검증) + A-01a (원어 어휘 분석) + V-03 (KJV 대조) + V-04 (외부 문헌 교차 검증)
-> **분석 의뢰 경위**: "솔로몬 외양간 수가 10배 차이나며 이는 필사 오류의 증거"라는 공격. 장로교 목사도 모순으로 지적한 바 있는 난제.
+> **STATUS**: Verification Complete | VERDICT: ✅ CONSISTENT
+> **Conflict Type**: C-01 (Suspected Numerical Discrepancy) + C-11 (Suspected Parallel Record Detail Conflict)
+> **Applied Analysis Tools**: A-16 (Functional Category Separation Verification) + A-01a (Original-Language Lexical Analysis) + V-03 (KJV Cross-Verification) + V-04 (External Literature Cross-Verification)
+> **Background of Analysis Request**: An attack claiming "Solomon's number of stalls differs tenfold, which is evidence of a scribal error." A difficulty that even a Presbyterian pastor has pointed out as a contradiction.
 
 ---
 
-## 1. 충돌 지점 확정 (PHASE 1: 구절 해부)
+## 1. Confirming the Conflict Point (PHASE 1: Verse Anatomy)
 
-### 공격자의 핵심 주장
-> "솔로몬의 외양간이 열왕기상에선 4만(40,000), 역대기하에선 4천(4,000)으로 10배 차이가 난다. KJV 기준으로도 마찬가지다. 필사 오류가 명백하다. 성경은 완벽하지 않다."
+### The Attacker's Core Claim
+> "Solomon's stalls number 40,000 in 1 Kings but 4,000 in 2 Chronicles — a tenfold discrepancy. The same holds even by the KJV. This is a clear scribal error. Scripture is not perfect."
 
-### 충돌을 발생시키는 두 본문 직접 대조
+### Direct Comparison of the Two Texts Generating the Conflict
 
-| 구절 | 개역개정 | KJV | 표준킹제임스(SKJV) | 숫자 |
+| Verse | KRV (Korean Revised Version) | KJV | Standard King James Version (SKJV) | Number |
 | :--- | :--- | :--- | :--- | :---: |
-| **열왕기상 4:26** | "솔로몬의 병거의 말 외양간이 사만이요" | *"Solomon had forty thousand stalls of horses for his chariots"* | "솔로몬은 그의 병거들을 위하여 말들의 외양간 사만 개와 기병 만 이천 명을 **보유하였더라**" | **40,000** |
-| **역대기하 9:25** | "솔로몬의 병거 메는 말의 외양간이 사천이요" | *"Solomon had four thousand stalls for horses and chariots"* | "솔로몬은 말들과 병거들을 위한 외양간 사천 개와 기병 만 이천 명을 **보유하였더라**" | **4,000** |
+| **1 Kings 4:26** | "Solomon had forty thousand stalls of horses for his chariots" | *"Solomon had forty thousand stalls of horses for his chariots"* | "Solomon **had** forty thousand stalls of horses for his chariots, and twelve thousand horsemen" | **40,000** |
+| **2 Chronicles 9:25** | "Solomon had four thousand stalls for horses and chariots" | *"Solomon had four thousand stalls for horses and chariots"* | "Solomon **had** four thousand stalls for horses and chariots, and twelve thousand horsemen" | **4,000** |
 
-### 표면적 충돌 수치
+### The Surface-Level Conflicting Figures
 ```
-왕상 4:26 → 외양간 40,000개 (병거용 말들의 외양간)
-대하 9:25 →  외양간  4,000개 (말들과 병거들의 외양간)
-차이 → 10배
+1 Kings 4:26   → 40,000 stalls (stalls of horses for chariots)
+2 Chron. 9:25  →  4,000 stalls (stalls for horses and chariots)
+Difference → tenfold
 ```
 
 ---
 
-## 2. KJV 원문 핵심 단서: 번역에 숨겨진 결정적 차이 (V-03)
+## 2. The Core Clue in the KJV Original: A Decisive Difference Hidden in Translation (V-03)
 
-공격자들 대부분이 개역개정만 보고 모순을 주장하는데, **KJV 영어 원문**을 비교하면 즉시 결정적 차이가 드러난다.
+Most attackers base their claim of contradiction only on a translation like the KRV; comparing the **English KJV original**, however, immediately reveals a decisive difference.
 
-| 구절 | KJV 원문 | 핵심 차이 |
+| Verse | KJV Original | Core Difference |
 | :--- | :--- | :--- |
-| **왕상 4:26** | *"forty thousand stalls **of horses for his chariots**"* | **말들(horses)만**을 위한 외양간 |
-| **대하 9:25** | *"four thousand stalls **for horses and chariots**"* | **말들 + 병거(chariots) 둘 다**를 위한 외양간 |
+| **1 Kings 4:26** | *"forty thousand stalls **of horses for his chariots**"* | Stalls for **horses alone** |
+| **2 Chronicles 9:25** | *"four thousand stalls **for horses and chariots**"* | Stalls for **both horses AND chariots together** |
 
-> **핵심 발견**: 두 본문의 외양간은 **같은 종류의 외양간이 아니다.**
-> - 왕상 4:26: 순수하게 **말들만** 수용하는 외양간 (말 개별 칸막이 수)
-> - 대하 9:25: **말들과 병거를 함께** 수용하는 운용 단위 복합 외양간 (전투 배치 단위)
+> **Core Discovery**: The stalls in the two texts are **not the same kind of stall.**
+> - 1 Kings 4:26: a stall housing **horses alone** (the count of individual horse partitions)
+> - 2 Chronicles 9:25: a complex operational stall housing **horses and chariots together** (a combat-deployment unit)
 
 ---
 
-## 3. 기능적 범주 분리 검증: 두 숫자가 가리키는 것이 다르다 (A-16)
+## 3. Verification by Functional Category Separation: The Two Numbers Refer to Different Things (A-16)
 
-### 솔로몬의 병거 군사 체계 재구성
+### Reconstructing Solomon's Chariot Military System
 
-**열왕기상 10:26**에 솔로몬의 병거 수가 명시된다:
-> *"솔로몬은 병거들과 기병들을 모았는데, 병거 일천사백 대와 기병 만 이천 명이 있었더라."*
+**1 Kings 10:26** specifies the number of Solomon's chariots:
+> *"And Solomon gathered together chariots and horsemen: and he had a thousand and four hundred chariots, and twelve thousand horsemen."*
 
-병거 **1,400대** → 이것이 기본 전투 단위다.
+**1,400 chariots** — this is the base combat unit.
 
-**각 단위별 외양간 계산:**
+**Calculating the Stalls per Unit:**
 
-| 구분 | 설명 | 예상 수량 |
+| Category | Description | Estimated Number |
 | :--- | :--- | :---: |
-| **작전 단위 외양간 (대하 9:25)** | 병거 1대 + 그 병거에 배속된 훈련된 말들을 함께 보관하는 복합 시설. 병거 1,400대 기준, 각 외양간에 3~4개 병거 단위 배치 추정 | **4,000개** |
-| **전체 말 수용 외양간 (왕상 4:26)** | 왕국 전역의 모든 말 개별 수용 칸막이. 새끼말, 어미말, 훈련 중인 말, 예비 말, 수송용 말, 기병용 말 전체 포함 | **40,000개** |
+| **Operational-unit stalls (2 Chr. 9:25)** | A complex facility housing one chariot together with its trained horses. Based on 1,400 chariots, an estimated 3-4 chariot units are deployed per stall | **4,000** |
+| **Total horse-housing stalls (1 Kings 4:26)** | Individual housing partitions for every horse across the entire kingdom. Includes foals, mares, horses in training, reserve horses, transport horses, and cavalry horses | **40,000** |
 
-### 비유적 이해: 현대 군사 체계와 대조
+### An Illustrative Understanding: Contrast with a Modern Military System
 
 ```
-대하 9:25의 4,000 ← 마치 "전투비행단 4,000개" (항공기+조종사+정비팀이 함께 묶인 전투 단위)
-왕상 4:26의 40,000 ← 마치 "항공기 격납고 40,000개" (전국 모든 항공기 수용 시설 총합)
+The 4,000 of 2 Chr. 9:25 ← like "4,000 combat wings" (combat units combining aircraft + pilots + maintenance crews)
+The 40,000 of 1 Kings 4:26 ← like "40,000 aircraft hangars" (the total sum of all aircraft-housing facilities nationwide)
 
-같은 군사력을 두 가지 다른 방식으로 셀 수 있다.
+The same military strength can be counted in two different ways.
 ```
 
-### 벤허(Ben-Hur) 영화의 실증: 고대 전차 군사 관리법
-- 고대 병거전에서 각 병거에 배속된 말들은 **함께 훈련**하여야 한다.
-- 같은 병거를 끄는 말들은 **같은 공간**에서 생활하며 서로에 익숙해져야 한다.
-- 병거용 말로 적합하지 않은 말은 **짐 이동용, 기병용으로 재분류**되어 다른 외양간으로 이동한다.
-- 따라서 작전 단위 외양간(대하)의 수와 전체 말 수용 칸막이(왕상)의 수는 **다를 수밖에 없다.**
+### Corroboration from the Film Ben-Hur: The Ancient Management Method for Chariot Forces
+- In ancient chariot warfare, the horses assigned to each chariot **had to be trained together.**
+- Horses pulling the same chariot **lived in the same space** and had to become accustomed to one another.
+- A horse unsuited to chariot duty would be **reclassified for cargo transport or cavalry use** and moved to a different stall.
+- Therefore, the number of operational-unit stalls (2 Chronicles) and the number of total horse-housing partitions (1 Kings) **inevitably differ.**
 
 ---
 
-## 4. 추가 성경 구절 교차 검증으로 더욱 사실적 입증 (V-04)
+## 4. Further Corroboration Through Cross-Verification with Additional Scripture (V-04)
 
-이 해석을 강화하는 **제3의 구절**이 존재한다.
+A **third verse** exists that reinforces this interpretation.
 
-### 열왕기상 10:26 (병거 수 확인)
-> *"솔로몬은 병거들과 기병들을 모았는데, **병거 일천사백 대**와 기병 만 이천 명이 있었더라."*
+### 1 Kings 10:26 (Confirming the Number of Chariots)
+> *"And Solomon gathered together chariots and horsemen: and he had **a thousand and four hundred chariots**, and twelve thousand horsemen."*
 
-**수치 역산 검증:**
+**Backward Numerical Verification:**
 ```
-병거 1,400대 × 외양간 1개당 약 3대 병거 배치 = 작전 외양간 약 4,200개 ≈ 4,000개 ✅
-병거 1대당 말 2~4마리 × 예비/훈련/어미말 배수 = 총 말 수만 마리 수용 필요 → 40,000개 ✅
+1,400 chariots × approximately 3 chariots deployed per stall = approx. 4,200 operational stalls ≈ 4,000 ✅
+2-4 horses per chariot × a multiplier for reserve/training/broodmares = a need to house tens of thousands of horses in total → 40,000 ✅
 ```
 
-### 열왕기상 10:28-29 (말 수입 규모 확인)
-> *"솔로몬의 말들은 애굽에서 나왔으며... 기병들과 더불어 이 말들을 헷 사람들의 모든 왕들과 아람 왕들에게 내어 보내었더라."*
+### 1 Kings 10:28-29 (Confirming the Scale of Horse Importation)
+> *"And Solomon had horses brought out of Egypt... and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means."*
 
-말을 **대규모로 수입·수출**했다는 기록은, 왕국 내에 단순 작전 단위(4,000)를 훨씬 초과하는 **방대한 규모의 말 관리 시설(40,000)**이 실재했음을 강력히 지지한다.
+The record of **large-scale importing and exporting** of horses strongly supports that a **vast horse-management facility (40,000)**, far exceeding a simple operational unit (4,000), actually existed within the kingdom.
 
 ---
 
-## 5. 번역 버전별 비교 분석 (V-03 + V-05)
+## 5. Comparative Analysis by Translation Version (V-03 + V-05)
 
-| 번역 | 왕상 4:26 묘사 | 대하 9:25 묘사 | 차이 포착 여부 |
+| Translation | Description in 1 Kings 4:26 | Description in 2 Chronicles 9:25 | Whether the Difference Is Captured |
 | :--- | :--- | :--- | :---: |
-| **개역개정** | "병거의 말 외양간" | "병거 메는 말의 외양간" | ❌ 차이 없음 (모순처럼 보임) |
-| **한글킹제임스** | "병거를 위한 말들의 마구간" | "말과 병거를 위한 마구간" | ⚠️ 부분 포착 |
-| **흠정역** | "병거의 말들의 외양간" | "말들과 병거들의 외양간" | ⚠️ 부분 포착 |
-| **표준킹제임스(SKJV)** | "병거들을 위하여 말들의 외양간 사만 개" + **"보유하였더라(had)"** | "말들과 병거들을 위한 외양간 사천 개" + **"보유하였더라(had)"** | ✅ **완전 포착** |
+| **KRV (Korean Revised Version)** | "stalls of chariot horses" | "stalls of chariot-pulling horses" | ❌ No difference (appears contradictory) |
+| **Korean King James Version** | "stables of horses for chariots" | "stables for horses and chariots" | ⚠️ Partially captured |
+| **Authorized (Heumjeongyeok)** | "stalls of chariot's horses" | "stalls of horses and chariots" | ⚠️ Partially captured |
+| **Standard King James Version (SKJV)** | "forty thousand stalls of horses for his chariots" + **"had"** | "four thousand stalls for horses and chariots" + **"had"** | ✅ **Fully captured** |
 
-**결론**: 개역개정은 두 구절의 히브리어 원문 세부 차이를 동일하게 번역하여 모순처럼 보이게 만들었다. **표준킹제임스(SKJV)로 읽으면 두 외양간의 기능적 차이가 명확히 드러난다.**
-
----
-
-## 6. 필사 오류설 반박: 사본학적 검토 (A-02)
-
-공격자의 주장은 "필사 오류로 0이 하나 빠진 것"이다. 그러나:
-
-- **마소라 사본**: 왕상 4:26과 대하 9:25의 숫자가 각각 일관되게 유지된다.
-- **70인역(LXX)**: 왕상 4:26을 40,000으로 기록한다.
-- **사마리아 오경**: 해당 구절 없음.
-- **만약 필사 오류라면**: 왕상 4:26이 원래 4,000이었다면 "40,000"이 되려면 0이 하나 추가되어야 하는데, 이 오류가 히브리어 고대 필사 전통에서 어떻게 발생했는지 설명이 없다. 히브리어 숫자는 알파벳 체계로 표기되어 아라비아 숫자처럼 0 하나를 빠뜨리는 오류 방식이 적용되지 않는다.
+**Conclusion**: The KRV translated the detailed differences in the Hebrew original of the two verses identically, making them appear contradictory. **Reading the Standard King James Version (SKJV) clearly reveals the functional difference between the two types of stalls.**
 
 ---
 
-## 7. 최종 판결
+## 6. Refuting the Scribal Error Theory: A Textual-Critical Review (A-02)
 
-### ✅ CONSISTENT — 일관성 확정
+The attacker's claim is "a scribal error dropped a zero." However:
 
-> **판결 이유**:
-> 열왕기상 4:26의 40,000과 역대기하 9:25의 4,000은 서로 다른 기능적 범주의 시설을 가리키는 숫자다. 왕상 4:26의 40,000은 왕국 전역의 **모든 말을 개별 수용하는 외양간 칸막이 총수**이며, 대하 9:25의 4,000은 **병거와 그 병거에 배속된 훈련된 말을 함께 운용하는 작전 단위 복합 외양간**의 수다. KJV 원문(horses for his chariots / horses and chariots)에서 이 기능적 차이가 이미 명시되어 있으며, 솔로몬의 병거 1,400대(왕상 10:26)를 기준으로 역산해도 4,000개의 작전 외양간 수치는 수학적으로 정합하다. 이는 필사 오류가 아니라, 동일한 군사 시설을 서로 다른 기준(전체 수용 vs. 작전 단위)으로 기록한 성경의 입체적 서술이다.
+- **The Masoretic Text**: the numbers in 1 Kings 4:26 and 2 Chronicles 9:25 are each consistently maintained.
+- **The Septuagint (LXX)**: records 1 Kings 4:26 as 40,000.
+- **The Samaritan Pentateuch**: has no corresponding verse.
+- **If it were a scribal error**: if 1 Kings 4:26 was originally 4,000, an extra zero would have to have been added to become "40,000" — but there is no explanation of how such an error could arise within the ancient Hebrew scribal tradition. Hebrew numbers are written using an alphabetic system, so the error-mode of "dropping a zero," as with Arabic numerals, does not apply.
+
+---
+
+## 7. Final Verdict
+
+### ✅ CONSISTENT — Consistency Confirmed
+
+> **Reason for Verdict**:
+> The 40,000 of 1 Kings 4:26 and the 4,000 of 2 Chronicles 9:25 are numbers referring to facilities of different functional categories. The 40,000 of 1 Kings 4:26 is the **total number of individual housing partitions for every horse** across the entire kingdom, while the 4,000 of 2 Chronicles 9:25 is the number of **complex operational-unit stalls jointly housing chariots and the trained horses assigned to them.** This functional difference is already specified in the KJV original ("horses for his chariots" / "horses and chariots"), and calculating backward from Solomon's 1,400 chariots (1 Kings 10:26) also mathematically confirms the figure of 4,000 operational stalls. This is not a scribal error but a three-dimensional scriptural description recording the same military facility by two different standards (total housing vs. operational unit).
 >
-> **핵심 반증 논리**:
-> 히브리어 필사 체계에서는 아라비아 숫자처럼 0 하나를 단순히 추가하거나 빠뜨리는 실수가 발생하지 않는다. 히브리어 숫자는 알파벳 글자로 표기되므로, 4,000과 40,000은 완전히 다른 단어 조합이다. 모든 현존 사본이 두 숫자를 각각 유지하고 있다는 것은, 이것이 고의적 기록이지 오류가 아님을 지지한다.
+> **Core Counter-Proof Logic**:
+> In the Hebrew scribal system, the mistake of simply adding or dropping a single zero, as with Arabic numerals, does not occur. Hebrew numbers are written with alphabetic letters, so 4,000 and 40,000 are entirely different combinations of words. That every extant manuscript consistently maintains each of the two numbers supports that this is a deliberate record, not an error.
 >
-> **학술 합의 근거**:
-> - KJV 원문의 기능적 차이("horses for chariots" vs "horses AND chariots") — 번역자들도 차이를 인지하고 다르게 번역
-> - 왕상 10:26의 병거 1,400대 → 작전 외양간 4,000개 역산 수치 정합
-> - 왕상 10:28-29의 대규모 말 수입 기록 → 40,000개 전체 시설의 역사적 실재 지지
-> - 고대 근동 전차 전술 연구: 병거 작전 단위별 말 관리 시설 분리 운용은 역사적 관행
+> **Grounds of Scholarly Consensus**:
+> - The functional difference in the KJV original ("horses for chariots" vs. "horses AND chariots") — the translators, too, recognized the difference and translated it differently
+> - The backward calculation from the 1,400 chariots of 1 Kings 10:26 → matches the figure of 4,000 operational stalls
+> - The record of large-scale horse importation in 1 Kings 10:28-29 → supports the historical reality of the total facility of 40,000
+> - Research on ancient Near Eastern chariot warfare tactics: the separate operation of horse-management facilities by chariot operational unit is a historical practice
 
-### 🟢 학술 합의 수준: 유력 견해 (기능적 범주 분리 해석이 가장 설득력 있는 학술적 견해)
+### 🟢 Level of Scholarly Consensus: A Probable View (the functional-category-separation interpretation is the most persuasive scholarly view)
 
 ---
 
 **STATUS: NEUTRAL AUDIT COMPLETE | VERDICT: CONSISTENT | EVIDENCE-BASED ✅**
 
-*분석 도구: A-16 + A-01a + A-02 + V-03 + V-04 + PHASE 2.5 CMA | BVCAP v1.5*
+*Analysis Tools: A-16 + A-01a + A-02 + V-03 + V-04 + PHASE 2.5 CMA | BVCAP v1.5*

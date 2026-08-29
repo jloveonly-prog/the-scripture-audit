@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0025 | ver: 20260829_0942 -->
 
 # Internal Evidence Analysis of 1 John 5:7-8
 ### — Internal Textual Apologetics on the Authenticity of the Comma Johanneum —

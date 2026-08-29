@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0068 | ver: 20260829_0942 -->
 # 🔬 SKILL-12: TYPE-L — Inductive Chain Reasoning Pipeline
 
 > **When to trigger**: When a chain structure is detected where one word/number observation leads to another observation.

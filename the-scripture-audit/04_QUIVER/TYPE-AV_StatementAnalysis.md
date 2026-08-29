@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0052 | ver: 20260829_0942 -->
 # 🗡️ SKILL-50: TYPE-AV — Statement Analysis
 
 **"Out of the abundance of the heart the mouth speaketh." — Matthew 12:34 KJV**

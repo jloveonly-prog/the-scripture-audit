@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0051 | ver: 20260829_0942 -->
 # 🔀 SKILL-48: TYPE-AU — Structural Isomorphism
 **"The thing that hath been, it is that which shall be" — Ecclesiastes 1:9 KJV**
 

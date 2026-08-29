@@ -1,155 +1,156 @@
 ---
 id: "catholic-tactics-011"
 title_ko: "🏛️ CATHOLIC VAULT — 가톨릭 문헌 무기 데이터베이스"
+title_en: "🏛️ CATHOLIC VAULT — The Catholic Document Weapons Database"
 file_ko: "CATHOLIC_VAULT.md"
 file_en: "CATHOLIC_VAULT.md"
 category: "tactics"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# 🏛️ CATHOLIC VAULT — 가톨릭 문헌 무기 데이터베이스
-## 문헌 법정 (CVCAP) 실전 탄약 장전소
+# 🏛️ CATHOLIC VAULT — The Catholic Document Weapons Database
+## Document Court (CVCAP) Live Ammunition Depot
 
-> **원칙**: 가톨릭의 검으로 가톨릭을 벤다. 외부 개신교 논리 불필요.
-> **입력**: 가톨릭 내부 문헌(CCC, 공의회, 교황 선언)
-> **출력**: 자가당착(Implosion) 확정
+> **Principle**: Cut Catholicism with Catholicism's own sword. No external Protestant logic needed.
+> **Input**: Catholicism's own internal documents (CCC, councils, papal declarations)
+> **Output**: Confirmed self-contradiction (Implosion)
 
 ---
 
-## 🔴 VAULT A — 교황 무류성(Papal Infallibility) 타격 탄약
+## 🔴 VAULT A — Papal Infallibility Strike Ammunition
 
-### A-1: 호노리우스 1세 파문 (핵폭탄급)
+### A-1: The Condemnation of Honorius I (Nuclear-Grade)
 
-| 항목 | 내용 |
+| Item | Content |
 |:---|:---|
-| **문헌** | 제3차 콘스탄티노폴리스 공의회 의사록 (AD 680-681) |
-| **사실** | 교황 호노리우스 1세(625-638)가 단일의지론(Monothelitism) 지지로 **공의회에 의해 이단으로 파문됨** |
-| **교황 레오 2세 확인** | 호노리우스 1세가 거룩한 신앙을 더럽혔다고 **교황 스스로 확인** |
-| **무류성 선언 연도** | 제1차 바티칸 공의회 (1870) — **호노리우스 파문보다 1200년 뒤** |
+| **Document** | Acts of the Third Council of Constantinople (AD 680-681) |
+| **Fact** | Pope Honorius I (625-638) was **condemned as a heretic by a council** for supporting Monothelitism |
+| **Confirmed by Pope Leo II** | The pope himself **confirmed** that Honorius I had defiled the holy faith |
+| **Year of the Infallibility Declaration** | First Vatican Council (1870) — **1,200 years after Honorius's condemnation** |
 
-**QVCAP 귀류법:**
+**QVCAP Reductio ad Absurdum:**
 ```
-[가정] 교황은 신앙·도덕 문제에서 무류하다 (제1차 바티칸 공의회)
-[데이터] 호노리우스 1세가 신앙 문제(단일의지론)로 이단 파문됨
-[모순] 무류한 교황이 이단으로 파문될 수 없다
-[결론] 가정이 거짓 — 무류성 교리 자체가 역사적으로 파탄
+[Assumption] The pope is infallible on matters of faith and morals (First Vatican Council)
+[Data] Honorius I was condemned as a heretic on a matter of faith (Monothelitism)
+[Contradiction] An infallible pope cannot be condemned as a heretic
+[Conclusion] The assumption is false — the doctrine of infallibility is historically broken
 ```
 
-**가톨릭 회피 전술 봉쇄:**
-- *"호노리우스는 ex cathedra로 선언한 게 아니다"* →
-  **봉쇄**: 교황이 신앙 문제 서신을 보낸 것을 공의회가 신앙 문제 이단으로 정죄했다. ex cathedra 조건 자체를 공의회가 다르게 판단한 것이며, 이는 **누가 ex cathedra를 판정하는가** 문제를 발생시킨다.
+**Blocking Catholic Evasion Tactics:**
+- *"Honorius did not declare it ex cathedra"* →
+  **Blocking**: The pope sent a letter on a matter of faith, and the council condemned it as heresy on a matter of faith. The council itself judged the very condition of ex cathedra differently, which raises the problem of **who determines what counts as ex cathedra.**
 
 ---
 
-### A-2: 트렌트 공의회 vs 제2차 바티칸 공의회 (내부 전쟁)
+### A-2: The Council of Trent vs. the Second Vatican Council (Internal War)
 
-| 항목 | 트렌트 공의회 (1545-1563) | 제2차 바티칸 (1962-1965) |
+| Item | Council of Trent (1545-1563) | Second Vatican Council (1962-1965) |
 |:---|:---|:---|
-| **이신칭의** | "믿음만으로 의롭다 함을 받는다고 말하는 자는 **파문(Anathema)**" (칭의 법령 9조) | 루터교와 "칭의에 관한 공동 선언" 서명 (1999) |
-| **가톨릭 밖 구원** | "교회 밖에 구원 없다(Extra Ecclesiam nulla salus)" — 절대 교리 | Lumen Gentium: "이슬람 신자들도 구원의 계획 안에 있다" 시사 |
-| **유대교** | 유대인 = 그리스도 살해자 | Nostra Aetate: 유대인 집단 책임 철회 |
+| **Justification by faith** | "Whoever says he is justified by faith alone: **anathema**" (Decree on Justification, Canon 9) | Signed the "Joint Declaration on the Doctrine of Justification" with the Lutherans (1999) |
+| **Salvation outside Catholicism** | "No salvation outside the Church (Extra Ecclesiam nulla salus)" — an absolute doctrine | Lumen Gentium implies: "Muslims too are included in the plan of salvation" |
+| **Judaism** | The Jews = the killers of Christ | Nostra Aetate: withdraws the doctrine of collective Jewish responsibility |
 
-**OODA 루프 타격 질문:**
-> "트렌트 공의회가 파문(Anathema)한 자들을 제2차 바티칸 공의회가 구원 가능성이 있다고 했습니다. 두 공의회 중 어느 것이 무류합니까? 둘 다 무류하다면, 파문과 구원 가능성이 동시에 성립합니까?"
+**OODA Loop Strike Question:**
+> "The Second Vatican Council said that those anathematized by the Council of Trent have a possibility of salvation. Which of the two councils is infallible? If both are infallible, can anathema and the possibility of salvation hold true at the same time?"
 
 ---
 
-## 🔴 VAULT B — 은총·공로 딜레마 탄약
+## 🔴 VAULT B — Grace/Merit Dilemma Ammunition
 
-### B-1: CCC 내부 데드락
+### B-1: The Internal Deadlock of the CCC
 
-| 조항 | 내용 | 충돌 |
+| Paragraph | Content | Collision |
 |:---|:---|:---|
-| **CCC 1996** | "은총은 하나님께서 우리 영혼에 주시는 **무상(無償)의 선물**" | ↕ |
-| **CCC 2010** | "우리는 영원한 생명을 얻기 위해 **공로를 세울 수 있다**" | 충돌 |
-| **CCC 2068** | "세례 받은 이는 **계명을 지킴으로써** 구원받는다" | 충돌 |
+| **CCC 1996** | "Grace is the **gratuitous gift** God gives our souls" | ↕ |
+| **CCC 2010** | "We can **merit** for ourselves the graces needed to obtain eternal life" | Collision |
+| **CCC 2068** | "The baptized are saved **by keeping the commandments**" | Collision |
 
-**소크라테스 문답법 적용:**
+**Applying the Socratic Method:**
 ```
-Q: "구원은 무상(free gift)입니까?" → "예" (CCC 1996)
-Q: "그렇다면 아무 조건 없이 주어집니까?" → "..."
-Q: "CCC 2010은 공로가 필요하다고 합니다. 공로가 필요한 선물이 무상입니까?"
-Q: "무상이 아니라면, '거저 주시는 은총'이라는 표현은 왜 사용합니까?"
+Q: "Is salvation a free gift?" → "Yes" (CCC 1996)
+Q: "Then is it given with absolutely no conditions?" → "..."
+Q: "CCC 2010 says merit is necessary. Is a gift that requires merit truly free?"
+Q: "If it is not free, then why use the expression 'grace freely given'?"
 ```
 
-### B-2: 에베소서 2:8-9 vs CCC 2010
+### B-2: Ephesians 2:8-9 vs. CCC 2010
 ```
-성경: "너희는 은혜로 구원을 받았으니 행위에서 난 것이 아니니라" (엡 2:8-9)
-CCC: "우리는 영원한 생명을 얻기 위해 공로를 세울 수 있다" (CCC 2010)
+Scripture: "For by grace are ye saved through faith... not of works" (Eph. 2:8-9)
+CCC: "We can merit for ourselves... the attainment of eternal life" (CCC 2010)
 ```
-**양도논법:** 공로가 필요하면 엡 2:8-9이 거짓 / 공로가 불필요하면 CCC 2010이 거짓
+**Dilemma:** if merit is necessary, Eph. 2:8-9 is false / if merit is unnecessary, CCC 2010 is false
 
 ---
 
-## 🔴 VAULT C — 마리아 도그마 탄약
+## 🔴 VAULT C — Marian Dogma Ammunition
 
-### C-1: 역사적 단절 증명 (1~3세기 교부 문헌 데이터)
+### C-1: Proof of Historical Rupture (Data from 1st-3rd Century Patristic Literature)
 
-| 교리 | 공식 선언 연도 | 1~3세기 교부 언급 | 실제 최초 등장 |
+| Doctrine | Year of Official Declaration | Mention by 1st-3rd Century Fathers | Actual First Appearance |
 |:---|:---:|:---:|:---|
-| 마리아 무염시태 | 1854년 | ❌ 없음 | 11세기 이후 논쟁 |
-| 마리아 육체 승천 | 1950년 | ❌ 없음 | 5~6세기 일부 전승 |
-| 마리아 평생 동정 | 4세기 확정 | ❌ 초기 교부 불일치 | 에피파니우스 이전 논쟁 중 |
+| The Immaculate Conception of Mary | 1854 | ❌ None | Debated from the 11th century onward |
+| The Bodily Assumption of Mary | 1950 | ❌ None | Partial traditions from the 5th-6th centuries |
+| The Perpetual Virginity of Mary | Settled in the 4th century | ❌ Inconsistent among the early Fathers | Under debate before Epiphanius |
 
-**봉쇄 대상 (CE-03):** *"초대 교회부터 있었으나 나중에 공식 선포된 것"*
-→ **봉쇄**: "1~3세기 교부 문헌(이레네오스, 유스티노스, 터툴리아누스, 오리게네스)에 해당 교리가 전무합니다. '발견'이라면 초기에 있어야 합니다. 데이터를 보여주십시오."
+**Target for Blocking (CE-03):** *"It existed from the early Church but was only officially proclaimed later"*
+→ **Blocking**: "This doctrine is entirely absent from the 1st-3rd century patristic literature (Irenaeus, Justin, Tertullian, Origen). If it were a 'discovery,' it should exist in the early period. Show me the data."
 
-### C-2: 눅 2:22 결정타 (이미 검증 완료)
+### C-2: The Decisive Blow of Luke 2:22 (Already Verified)
 ```
-IF 마리아 = 원죄 없이 태어남 (무염시태)
-THEN 분만 후 의식적 부정도 없어야 함
-THEN 정결 예식(레 12장) 불필요
-BUT 마리아가 정결 예식을 드렸다 (눅 2:22)
-∴ 마리아는 율법의 정결이 필요한 일반 인간 → 무염시태와 충돌
+IF Mary = born without original sin (the Immaculate Conception)
+THEN there should be no ceremonial defilement after childbirth either
+THEN the rite of purification (Leviticus 12) is unnecessary
+BUT Mary underwent the rite of purification (Luke 2:22)
+∴ Mary was an ordinary human requiring the Law's purification → conflicts with the Immaculate Conception
 ```
 
 ---
 
-## 🔴 VAULT D — 성사론 타격 탄약
+## 🔴 VAULT D — Sacramental Theology Strike Ammunition
 
-### D-1: 유아세례 딜레마 (7성사 연쇄 붕괴 트리거)
+### D-1: The Infant Baptism Dilemma (Trigger for the Chain Collapse of the Seven Sacraments)
 
-**핵심 질문:** "유아는 믿음으로 세례를 받습니까, 교회의 대리 믿음으로 받습니까?"
+**Core Question:** "Is an infant baptized by their own faith, or by the Church's proxy faith?"
 
-| 선택 | 결과 |
+| Option | Consequence |
 |:---|:---|
-| 유아 자신의 믿음 | 인식 능력 없는 유아에게 믿음이 있다는 것 — 성경에 없는 개념 |
-| 교회/부모의 대리 믿음 | 구원이 타인의 믿음으로 성립한다 — 롬 10:9, 행 16:31과 충돌 |
-| 믿음 없이 세례만으로 | 행 8:36-37 "믿으면 세례 받을 수 있다" — 믿음이 세례의 선행 조건 |
+| The infant's own faith | Claiming an infant with no capacity for cognition has faith — a concept absent from Scripture |
+| The proxy faith of the Church/parents | Salvation is established by another person's faith — collides with Romans 10:9, Acts 16:31 |
+| Baptism alone, without faith | Acts 8:36-37, "if thou believest... thou mayest [be baptized]" — faith is a precondition for baptism |
 
-**연쇄 붕괴:** 유아세례가 무효 → 세례 기반의 7성사 체계 전체 흔들림
+**Chain Collapse:** if infant baptism is invalid → the entire baptism-based system of the Seven Sacraments is shaken
 
-### D-2: 미사(화체설) — 히브리서 충돌
+### D-2: The Mass (Transubstantiation) — Collision with Hebrews
 ```
-히 10:12: "한 제물로 영원히 온전하게"
-히 10:14: "그가 한 번의 제사로 영원히 온전하게 되었다"
-히 7:27: "이 일을 날마다 할 필요가 없다"
+Heb. 10:12: "one sacrifice for sins for ever"
+Heb. 10:14: "by one offering he hath perfected for ever"
+Heb. 7:27: "this he did once"
 
-화체설: 매 미사마다 그리스도의 살과 피가 실재로 제물이 됨
-→ 히브리서의 "한 번", "날마다 할 필요 없다"와 직접 충돌
-```
-
----
-
-## 🔴 VAULT E — 실전 OODA 10라운드 템플릿
-
-가톨릭 변증가의 전형적 회피 패턴과 봉쇄 순서:
-
-```
-Round 1: "성경이 전부입니까?" → "성경의 자기 완결성 선언(딤후 3:16-17)"
-Round 2: "전통도 계시입니다" → "막 7:13 예수님의 전통 비판"
-Round 3: "교황이 해석 권위를 가집니다" → "호노리우스 1세 파문 팩트"
-Round 4: "그건 ex cathedra가 아닙니다" → "누가 ex cathedra를 판정하는가? 무한후퇴"
-Round 5: "공의회가 판정합니다" → "어느 공의회? 트렌트 vs 바티칸 2 충돌"
-Round 6: "신학적 발전입니다" → "발전은 A→A+ / A→Not-A는 역전"
-Round 7: "신비의 영역입니다" → "이성 포기 = 변증 포기. Checkmate"
-Round 8: "교부들도 이렇게 믿었습니다" → "요 6:63을 교부들은 어떻게 설명했습니까?"
-Round 9: (침묵 또는 회피) → "답변이 없다는 것은 반박이 없다는 것입니다"
-Round 10: "결론: 가톨릭 교도권 내부 붕괴 확정"
+Transubstantiation: at every Mass, the flesh and blood of Christ really become a sacrifice again
+→ directly collides with Hebrews' "once" and "no need to do this daily"
 ```
 
 ---
 
-*CVCAP 1.0 — Catholic Vault 탄약 장전 완료*
-*최초 작성: 2026-07-05 | 3차전 대비*
+## 🔴 VAULT E — Live-Combat 10-Round OODA Template
+
+The typical evasion pattern of a Catholic apologist, and the blocking sequence:
+
+```
+Round 1: "Is Scripture everything?" → "Scripture's self-sufficiency declaration (2 Tim. 3:16-17)"
+Round 2: "Tradition is also revelation" → "Jesus's critique of tradition in Mark 7:13"
+Round 3: "The pope holds interpretive authority" → "The fact of Honorius I's condemnation"
+Round 4: "That was not ex cathedra" → "Who determines what is ex cathedra? Infinite regress"
+Round 5: "A council determines it" → "Which council? The collision of Trent vs. Vatican II"
+Round 6: "It is theological development" → "Development is A→A+ / A→Not-A is a reversal"
+Round 7: "It is a matter of mystery" → "Abandoning reason = abandoning apologetics. Checkmate"
+Round 8: "The Fathers believed this too" → "How did the Fathers explain John 6:63?"
+Round 9: (silence or evasion) → "No answer means no rebuttal"
+Round 10: "Conclusion: the internal collapse of the Catholic Magisterium is confirmed"
+```
+
+---
+
+*CVCAP 1.0 — Catholic Vault ammunition loaded*
+*First written: 2026-07-05 | Prepared for Round 3*

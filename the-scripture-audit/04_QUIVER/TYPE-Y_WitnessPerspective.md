@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0081 | ver: 20260829_0942 -->
 # 🏹 TYPE-Y: Multi-Perspective Witness
 
 > **Alias**: Resolution of the Witness

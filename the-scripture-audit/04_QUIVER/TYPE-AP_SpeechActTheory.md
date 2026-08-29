@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0046 | ver: 20260829_0942 -->
 # 🏹 SKILL-43: TYPE-AP — Speech Act Theory
 **"An utterance is not just information — it's a promise, command, prophecy, or declaration"**
 

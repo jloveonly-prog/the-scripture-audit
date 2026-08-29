@@ -1,4 +1,5 @@
-﻿# 🔬 SKILL-30: TYPE-AC — Counterfactual Contradiction Test
+<!-- doc_no: 20260829_0033 | ver: 20260829_0942 -->
+# 🔬 SKILL-30: TYPE-AC — Counterfactual Contradiction Test
 **"If substituted in reverse, the Scripture collapses upon itself"**
 
 > **When to trigger**: When a claim is **difficult to prove directly**, or when you want to establish the proof as **ironclad**.

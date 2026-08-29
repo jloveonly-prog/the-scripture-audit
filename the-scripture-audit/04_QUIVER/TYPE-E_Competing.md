@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0061 | ver: 20260829_0942 -->
 # 🔬 SKILL-05: TYPE-E — Exhaustive Rejection Pipeline of Competing Models
 
 > **When to Trigger**: In dilemmas where multiple interpretations compete, or when attempts are made to treat it as a "scribal error".

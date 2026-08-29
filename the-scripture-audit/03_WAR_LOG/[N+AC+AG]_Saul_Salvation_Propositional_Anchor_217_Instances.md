@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0029 | ver: 20260829_0942 -->
 # 🛡️ BVCAP War Log: The Salvation Controversy of King Saul — Exhaustive Search of Propositional Anchors
 
 **"In the mouth of two or three witnesses every word shall be established." — 2 Corinthians 13:1 KJV**

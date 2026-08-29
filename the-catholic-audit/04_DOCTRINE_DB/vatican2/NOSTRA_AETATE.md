@@ -1,45 +1,46 @@
 ---
 id: "catholic-doctrine_db-071"
 title_ko: "NOSTRA-AETATE — 비그리스도교와 교회의 관계에 대한 선언"
+title_en: "NOSTRA-AETATE — Declaration on the Relationship of the Church to Non-Christian Religions"
 file_ko: "NOSTRA_AETATE.md"
 file_en: "NOSTRA_AETATE.md"
 category: "doctrine_db"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# NOSTRA-AETATE — 비그리스도교와 교회의 관계에 대한 선언
+# NOSTRA-AETATE — Declaration on the Relationship of the Church to Non-Christian Religions
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | NOSTRA-AETATE |
-| **출처** | 제2차 바티칸 공의회, 선언 Nostra Aetate |
-| **조항** | 전문 (특히 3항: 이슬람, 4항: 유대교) |
-| **교의 등급** | Pastoral |
-| **파문(Anathema)** | ❌ 아니오 |
-| **연도** | 1965 |
+| **Source** | Second Vatican Council, Declaration Nostra Aetate |
+| **Paragraph** | Full text (especially §3: Islam, §4: Judaism) |
+| **Doctrinal Rank** | Pastoral |
+| **Anathema** | ❌ No |
+| **Year** | 1965 |
 
-## 원문 (요약)
-> **3항(이슬람)**: "교회는 무슬림도 존경의 눈으로 바라본다. 그들은 유일하시고 살아 계시며 존재하시고 자비로우시며 전능하신 하느님, 하늘과 땅의 창조주를 경배하며..." 
-> **4항(유대교)**: "그리스도의 수난에서 일어난 일을 무분별하게 당시 살아 있던 모든 유대인이나 오늘날의 유대인에게 지울 수 없다... 유대인은 하느님께 버림받았거나 저주받은 것으로 표현되어서는 안 된다." 교회는 모든 인간에 대한 차별과 박해를 비난한다.
+## Original Text (Summary)
+> **§3 (Islam)**: "The Church regards with esteem also the Muslims. They adore the one God, living and subsisting in Himself, merciful and all-powerful, the Creator of heaven and earth..."
+> **§4 (Judaism)**: "What happened in [Christ's] passion cannot be blamed upon all the Jews then living, without distinction, nor upon the Jews of today... the Jews should not be presented as rejected or accursed by God." The Church condemns discrimination and persecution against any human being.
 
-## 태그
-`교회론`, `구원론`, `pastoral`, `사목적`
+## Tags
+`ecclesiology`, `soteriology`, `pastoral`
 
-## 주장 (Claims)
-1. 교회는 다른 종교들 안에서 발견되는 참되고 거룩한 것을 거부하지 않는다
-2. 무슬림은 유일하신 하느님을 경배하며, 교회는 그들을 존경의 눈으로 바라본다
-3. 그리스도의 수난에 대한 책임을 당시의 모든 유대인이나 오늘날의 유대인 전체에 지울 수 없다
-4. 유대인은 하느님께 버림받았거나 저주받은 것으로 표현되어서는 안 된다
-5. 교회는 인종, 피부색, 신분, 종교를 이유로 한 모든 차별과 박해를 비난한다
+## Claims
+1. The Church rejects nothing that is true and holy found in other religions
+2. Muslims adore the one God, and the Church regards them with esteem
+3. Responsibility for Christ's passion cannot be placed upon all the Jews of that time or upon the Jews of today as a whole
+4. The Jews should not be presented as rejected or accursed by God
+5. The Church condemns all discrimination and persecution on the basis of race, color, condition of life, or religion
 
-## 부정 (Negates)
-1. 유대인 전체가 그리스도의 죽음에 대해 집단적 책임을 진다는 명제
-2. 유대인이 하느님께 버림받았거나 저주받았다는 명제
-3. 비그리스도교에는 어떤 참되거나 거룩한 것도 없다는 명제
-4. 종교를 이유로 한 차별이나 박해가 정당화될 수 있다는 명제
+## Negates
+1. The proposition that all Jews bear collective responsibility for Christ's death
+2. The proposition that the Jews are rejected or accursed by God
+3. The proposition that no truth or holiness whatsoever exists in non-Christian religions
+4. The proposition that discrimination or persecution on the basis of religion can be justified
 
-## 관련 충돌
-- → UNAM-SANCTAM (가톨릭교회 밖에 구원 없음)
-- → LG-16 (비그리스도인의 구원 가능성)
-- → 전통적 교부 문헌 (유대인 집단 책임론의 역사)
+## Related Collisions
+- → UNAM-SANCTAM (No salvation outside the Catholic Church)
+- → LG-16 (The possibility of salvation for non-Christians)
+- → Traditional patristic literature (the history of the doctrine of collective Jewish responsibility)

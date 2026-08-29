@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-bible_believer-031"
-title_en: "🏛️ BVCAP 2.0 FINAL MASTERPIECE REPORT"
-title_ko: ""
-file_en: "REPORT_WINE_OriginalLanguageForensics.md"
-file_ko: ""
-category: "bible_believer"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0094 | ver: 20260829_0942 -->
 
 # 🏛️ BVCAP 2.0 FINAL MASTERPIECE REPORT
 **Case Name:** Debate on WINE translation and Original Language Forensics on the presence of Alcohol
@@ -315,96 +305,86 @@ At the same time, the opposite extreme ("the wine of the Bible is hard liquor li
 
 > **Conclusion:** The "wine" of the Bible is neither water nor hard liquor. It is **"ancient daily drinking water safely diluted in water, whose identity is wine."** The name follows the core ingredient (wine), but its actual form of consumption was a safely diluted state.
 
-# 🗂️ [For KJV Pastors] Core Research Index and Recommended Reading Order
-**— Biblical Apologetics on Genesis 6, Re-creation, and the First World —**
+## ⚖️ 9. FINAL VERDICT
 
-This index is a **'persuasive and argumentative reading order'** specifically organized for pastors in Independent Fundamental Baptist (IFB) churches and those who believe the KJV Bible is the absolutely infallible Word of God.
+> **Ruling: ✅ EXPLICIT (Explicitness Confirmed and Misreading Dismissed)**
+> **Level of Scholarly/Textual Consensus: 🟢 IRONCLAD (Ironclad-Level Cross-Verification Complete)**
 
-While respecting the excellent framework of traditional dispensational theology (Scofield, Larkin, etc.), we have rearranged the sequence into an optimal logical order tailored for pastors. This allows you to verify the deeper textual coherence testified by the original KJV text itself (especially the sequence of judgments in 2 Peter 2 and 3, and the physical contradictions of the angel theory in Genesis 6).
-
----
-
-## 🧭 Part 1: Epistles and Macroscopic Framework (Read First)
-This is the most intuitive and shocking approach for pastors accustomed to dispensational charts and timelines.
-
-### 📌 1. Reply to the Pastor
-* **File:** [`Reply_to_Pastor_Genesis_6_Fallen_Angels.md`](<./Reply_to_Pastor_Genesis_6_Fallen_Angels.md>)
-* **Summary:** A formal greeting to pastors, explaining the necessity of strictly re-examining the 'Sons of God = Angels' theory of Genesis 6 using only the KJV text, rather than external literature (such as the Book of Enoch).
-
-### 📌 2. IFB vs TSB — Full Comparison of Re-creation Flowcharts
-* **File:** [`REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md`](./REPORT_Flowchart_Comparison_IFB_vs_TheScriptureOrg.md)
-* **Summary:** (★Highly Recommended) Contrasts the traditional IFB dispensational sequence of creation/judgment with our research flowchart across 15 events. By highlighting the three independent judgments specified in 2 Peter 2:4-6 and the distinction between two worlds in 2 Peter 3, this intuitive chart demonstrates the fatal self-contradiction in the traditional IFB timeline (which acknowledges the flood twice but incorrectly groups the judgments into a single event).
+1.  **The Standard of the Original (Yayin / Oinos) and Dismissal of the Mistranslation Charge:** when these words are used alone in Scripture, they mean **'wine containing alcohol.'** When Scripture wished to refer to 'juice with no alcohol whatsoever,' it strictly selected separate words such as mishrah (juice) or tirosh (new wine). The KJV likewise distinguishes these, translating them precisely as "liquor of grapes" or "new wine," so the charge of mistranslation is completely dismissed.
+2.  **Separation from Modern Liquor (Core Conclusion):** ancient 'wine' was a **safe substitute for drinking water**, roughly 2-3% ABV, diluted 3-parts-water-to-1-part-wine for purification and disinfection of drinking water. This is entirely different in purpose and nature from the corrupted **'liquor' in the modern sense** — 20-40% soju or hard spirits drunk today purely to become intoxicated. Failing to distinguish this difference leads to a serious misreading of Scripture.
+3.  **Dismissal of the Anachronistic Projection:** the fact that Jesus made and drank alcoholic wine does not conflict in the slightest with Jesus's 'sinlessness.' Treating the substance itself as inherently sinful is a product of the 19th-century modern temperance movement, not of the 1st-century biblical text.
+4.  **Final Lesson (LESSON-6):** God gave His creation (wine) as a gift of joy, but when man's fallen nature abuses it to the point of 'drunkenness,' it becomes sin. Jesus, as Creator, turned water into wine, restoring the joy inherent in creation, while at the same time Scripture commands us not to be mastered by that joy (Eph. 5:18). Scripture never contradicts itself.
 
 ---
 
-## ⚖️ Part 2: Biblical Dismissal of the 'Genesis 6 Angel Theory' (Core Forensic Verification)
-Once you have confirmed the errors in the macroscopic framework through the flowchart, it is time for a forensic audit of the highly debated text of 'Genesis 6' itself.
+## 🧑‍⚖️ 10. Cross-Witness Independence Verification & Theological Decision (New 2026-07-20)
 
-### 📌 3. Final Dismissal of the Angel Theory — Cross-Verification + IRONCLAD Argument
-* **File:** [`REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md`](./REPORT_Genesis6_SonsOfGod_ArgumentVerification_Masterpiece.md)
-* **Summary:** A Masterpiece ruling that proves how the claim that the 'Sons of God' in Genesis 6 are fallen angels perfectly collides with cross-references within the KJV Bible (such as the inability of angels to reproduce and the contradictions regarding the punishment of fallen angels).
+> Applying the cross-witness independence verification procedure of `ANCHOR_ThirdData.md`. Unlike `REPORT_PeterCalvaryA.md` reviewed earlier (whose argument concentrates on a single author, John's Gospel), this document is distinguished by a structure in which **the core claims are repeatedly confirmed by multiple independent authors spanning both Old and New Testaments.** However, because several individual claims of differing rating are mixed together within the document, they are **separated claim by claim** for ruling rather than lumped together.
 
-### 📌 4-A. Childbirth Before Eating the Forbidden Fruit (Basics) — 9 Forensic Verifications Dismissing the Angel Theory
-* **File:** [`REPORT_Genesis_3_6_Sons_of_God.md`](./REPORT_Genesis_3_6_Sons_of_God.md)
-* **Summary:** Covers 9 foundational legal principles proving the existence of childbirth prior to the forbidden fruit. This foundational document preemptively blocks any counterarguments through the separation of the Jude timeline, heterosis (hybrid vigor), the singularity of the Eden expulsion (Him), the anatomy of Romans 5:12, and Ezekiel 18:20 (prohibition of guilt by association and Achan's family).
+### [STEP 1-2] Count of Grounding Verses and Books (Authors) per Core Claim
 
-### 📌 4-B. Childbirth Before Eating the Forbidden Fruit (Advanced) — The Law of Resurrection and the Seed War
-* **File:** [`REPORT_Children_Before_Tree_Of_Knowledge.md`](./REPORT_Children_Before_Tree_Of_Knowledge.md)
-* **Summary:** Builds upon the basic document to deploy 6 new major arguments (the 120-year lifespan, the dust law of resurrection, the legal principle of 'His wife' in Gen 2:24, etc.). The latter half contains an advanced expansion document featuring the overwhelming **'Seed War Chronicle (12 Chapters)'**, spanning from Eden to the empty tomb of Jesus, and extending to the scene of His preaching to the spirits in hell.
+**Claim A — "when used alone, yayin/oinos means a fermented alcoholic beverage" (the definitional argument, §2, §8)**
 
-### 📌 4-C. Contrary-to-Fact Conditional: Gen 3:20 "was" Debate (Verification of Pre-Fall Birth Theory)
-* **File:** [`Contrary_to_Fact_Conditional_Gen3_20_was_Pre_Fall_Birth_Theory.md`](<./Contrary_to_Fact_Conditional_Gen3_20_was_Pre_Fall_Birth_Theory.md>)
-* **Summary:** 🆕 A RETRIAL ruling deploying the new weapon **TYPE-AC-λ Counterfactual Substitution** (lexical substitution verification). Through an exhaustive survey of the Genesis naming formula (if the reason is future, future tense; if completed, perfect tense — 0 counterexamples) and the tense-separation anchor of Gen 2:23 ("shall be called ... because she was taken"), it exposes that the traditional interpretation (retrospective narrative theory) commits silent substitution (E-16) of the written "was" for an unwritten "shall be" — thus overturning the original ruling and **confirming the Pre-Fall Birth Theory as IRONCLAD**. (The original ruling record is preserved verbatim in Chapters 1-6)
+| Basis | Verse | Book (Author) |
+|:---|:---|:---:|
+| Noah becomes drunk | Gen. 9:21 | Genesis (Moses) |
+| "look not thou upon [it]" (presupposes intoxication is possible from the undiluted drink) | Prov. 23:31 | Proverbs (Solomon) |
+| Belshazzar's blasphemy | Dan. 5:1-4 | Daniel |
+| "be not drunk with wine" (presupposes intoxication) | Eph. 5:18 | Ephesians (Paul) |
+| Contrast with John ("neither eating bread nor drinking wine") | Luke 7:33-34 | Luke's Gospel (Luke) |
+| Webster's 1828 / Samuel Johnson's 1755, "fermented/intoxicating" | Dictionary entries | Extrabiblical material (TYPE-K, a separate track) |
 
-### 📌 4-D. Transition Analysis of the Creation Archetype's Reproduction System and the Seed of Woman — Judicial Systematization
-* **File:** [`REPORT_Creation_Archetype_Reproduction_System_and_Seed_of_Woman_Transition_Analysis.md`](./REPORT_Creation_Archetype_Reproduction_System_and_Seed_of_Woman_Transition_Analysis.md)
-* **Summary:** Why did God create the woman from Adam's rib and place the tree of the knowledge of good and evil? An appendix document revealing the purpose of the woman's creation as a perfect 'Judicial Systematization' designed to prevent the recurrence of the cross-breeding (satyr) crimes committed by the angels of the first world.
+→ 5 independent books/authors (Genesis, Proverbs, Daniel, Ephesians, Luke's Gospel) + cross-confirmed by an outside dictionary.
+
+**Claim B — "the substance itself is neutral; purpose, moderation, and dilution determine sin" (the ethical argument, §2, §4)**
+
+| Basis | Verse | Book (Author) |
+|:---|:---|:---:|
+| Melchizedek's righteous use | Gen. 14:18 | Genesis (Moses) |
+| Noah's binge | Gen. 9:21 | Genesis (Moses, same book — not double-counted) |
+| The malicious use by Lot's daughters | Gen. 19:32 | Genesis (Moses, same book) |
+| The blessing of the Psalms | Ps. 104:15 | Psalms |
+| Proverbs' warning (when it is red / strong drink) | Prov. 23:30-31 | Proverbs (Solomon) |
+| Prohibition and command coexisting for the same substance | Prov. 31:4-6 | Proverbs (same book) |
+| Timothy's medicinal prescription | 1 Tim. 5:23 | 1 Timothy (Paul) |
+| The Good Samaritan's disinfectant use | Luke 10:34 | Luke's Gospel (Luke) |
+
+→ 5 independent books/authors (Genesis, Psalms, Proverbs, 1 Timothy, Luke's Gospel).
+
+**Claim C — Individual Sub-Inferences (Require Separate Rating)**
+
+| Sub-Claim | Basis | Character |
+|:---|:---|:---|
+| Cana wedding, "filled to the brim = zero-margin, no water left for dilution" | An inference internal to a single narrative, John 2:7-10 | 1 author, John's Gospel — an inference not directly stated by the text |
+| The Pentecost "Gleukos = last year's intoxicating wine" timing argument | Acts 2:13-15 + the agricultural calendar (extrabiblical historical material) | 1 author (Luke, Acts) + outside historical information |
+| The precise "3:1" dilution ratio figure | Not specified in the biblical text; grounded in literature on Greco-Roman banquet custom | Extrabiblical material (historical circumstance, not a biblical cross-witness) |
+| The naming system of the 4-stage consumption pipeline (mishrah→tirosh→shekar→yayin) | An original-language reconstruction spanning several verses | A lexical classification (a creative synthesis, not the explicit statement of any single verse) |
+
+### [STEP 3] Tag Determination
+
+```
+Claim A: 5 independent authors (Genesis, Proverbs, Daniel, Ephesians, Luke's Gospel) → ✅ [Cross-Witness Confirmed — 5+ independent books/authors]
+Claim B: 5 independent authors (Genesis, Psalms, Proverbs, 1 Timothy, Luke's Gospel) → ✅ [Cross-Witness Confirmed — 5+ independent books/authors]
+Each item of Claim C: an inference internal to a single author/single text, or grounded in extrabiblical circumstance → ⚠️ [Cross-Witness Unconfirmed — an individual inference]
+```
+
+### [STEP 4] Theological Decision
+
+| Claim | Internal Rating | Cross-Witness Tag | Pastoral-Application Rating |
+|:---|:---:|:---:|:---:|
+| **A.** Yayin/Oinos = a fermented alcoholic beverage | 🟢 IRONCLAD | ✅ 5+ confirmed | ✅✅ **Settled (Doctrine)** |
+| **B.** The substance is neutral; purpose and moderation determine sin | 🟢 IRONCLAD | ✅ 5+ confirmed | ✅✅ **Settled (Doctrine)** |
+| **C-1.** The Cana wedding "zero margin" (no dilution added) | 🟡 STRONG (circumstantially persuasive) | ⚠️ Unconfirmed (a single-narrative inference) | 🟡 **Probability** — an interesting insight, but not directly settled by the text |
+| **C-2.** The Pentecost Gleukos = last year's intoxicating-wine timing | 🟡 STRONG (combined with outside material) | ⚠️ Unconfirmed (single author + outside material) | 🟡 **Probability** |
+| **C-3.** Specifying the "3:1" dilution ratio figure | 🟠 NOVEL (referencing historical circumstance) | ⚠️ No biblical grounding | 🟠 **Speculation** — the principle "it was drunk diluted" is supported by A and B, but the specific figure "exactly 3:1" is grounded in secular literature, not Scripture, so in preaching it is recommended to mention it only loosely, as "roughly, per ancient custom" |
+| **C-4.** The naming system of the 4-stage consumption pipeline | 🟢 Lexically solid | (the original-language distinctions themselves are confirmed) | ✅ the lexical distinctions are settled, but the "pipeline" narrative framing should be treated as an explanatory device (a pedagogical framework) |
+
+> **Overall Ruling:** this document's **two core theses** (A: wine = alcohol / B: sin lies not in the substance but in its misuse) converge across 5+ independent authors spanning the Old Testament (the Pentateuch, the poetic books, the historical books) and the New Testament (the Gospels, the epistles). Unlike `REPORT_PeterCalvaryA.md`, this **may reasonably be marked as Settled Doctrine.** However, the **individual creative inferences** mixed into the body (the Cana wedding's "0% margin" argument, the precise Pentecost festival timing, the specific "3:1" dilution ratio) each rest, in themselves, on a single text or on extrabiblical circumstance, and so should not be lumped together with the core theses under the same "Settled" rating — they must be **separately marked as Probability/Speculation.**
 
 ---
 
-## 🌌 Part 3: The First World and Melchizedek (Unlocking Deep Mysteries)
-Once the enigma of Genesis 6 is resolved, the identities of the "morning stars" in Job 38 and "Melchisedec" in Hebrews finally fit together like pieces of a puzzle.
-
-### 📌 5. Morning Stars Are Not Angels — Exhaustive KJV Usage + The Dust Law
-* **File:** [`REPORT_First_World_Nation.md`](./REPORT_First_World_Nation.md)
-* **Summary:** The "morning stars" of Job 38:7 are not angels. This proves that angels have never 'sang' in the Bible, and reveals the intelligent beings of the first world through the law of dust (earth).
-
-### 📌 6. Who is Melchisedec? — Living Evidence of the "Morning Stars"
-* **File:** [`REPORT_Melchizedek_IdentityVerification_Masterpiece.md`](./REPORT_Melchizedek_IdentityVerification_Masterpiece.md)
-* **Summary:** Perfectly identifies the biblical identity of Melchisedec, King of Salem—a 'Man' without father, without mother, and without descent—from the perspective of the 'first world'.
-
-### 📌 7. The Full Picture of the First World — The Big Picture
-* **File:** [`REPORT_Melchizedek_FirstWorld_NationFormation.md`](./REPORT_Melchizedek_FirstWorld_NationFormation.md)
-* **Summary:** A massive big picture integrating all previous arguments: Creation (Bara) vs. Making (Asah), the nations and kingdoms of the first world found in Isaiah 14 and Ezekiel 28, and the three stages of light.
-
-| Topic | Core Question |
-|:---|:---|
-| **Re-creation (Gap Theory)** | What happened between Gen 1:1 and Gen 1:2? Is "without form, and void" the original state or the result of judgment? |
-| **Creation (Bara) vs. Making (Asah/Yatsar)** | How do we distinguish between what God directly created and what He delegated His sons to make? |
-| **Nations, Cities, and Kingdoms of the First World** | Who are the peoples, cities, and kingdoms recorded in Isaiah 14:12-17 and Ezekiel 28:14-19? |
-| **Sons of God vs. Angels** | Are the "sons of God" in Job 38:7 and the "ministering spirits (angels)" in Hebrews 1:14 the same or different beings? |
-| **The "First Estate (ἀρχή)" of Jude 1:6** | What is the "first estate" lost by the fallen sons, and how does this relate to the status of Melchisedec? |
-| **Spirits in Prison in 1 Peter 3:19** | Are the "spirits in prison" angels, or are they men who died in the first world? |
-| **Three Stages of Light** | How does the light of the first world (Gen 1:3) differ from the light of the second world (Gen 1:14) and the light of the new heavens and new earth (Rev 21:23)? |
-
-> If you find the conclusions of this report persuasive, we invite you to review the subsequent documents to see the **full picture of the first world**. Melchisedec is just **one piece** of that massive picture, and becomes clearer when viewing the whole.
-
----
-
-## 🗄️ Part 4: System Classification Chart and Live Debate Logs (Reference Materials)
-Technical and practical materials proving how all doctrines seamlessly interlock like gears within the text without any contradiction.
-
-### 📌 8. KJV Spiritual Beings Exhaustive Classification Chart — OOP Class Structure
-* **File:** [`REPORT_Spiritual_Beings_Classification_Table.md`](./REPORT_Spiritual_Beings_Classification_Table.md)
-* **Summary:** A master reference document mapping all spiritual beings in the 66 books of the KJV (Sons of God, angels, devils, etc.) into an IT Object-Oriented Programming (OOP) class structure, completely preventing category errors that misread "similar things as the same thing."
-
-### 📌 9. Hybrid Spirits and the Divine Council of God — The Evil Spirit of King Saul
-* **File:** [`REPORT_First_World_Hybrid_Spirits_and_Divine_Council_Verification_Masterpiece.md`](./REPORT_First_World_Hybrid_Spirits_and_Divine_Council_Verification_Masterpiece.md)
-* **Summary:** Identifies the nature of the 'evil spirit from the LORD' upon King Saul. An in-depth document proving how hybrid spirits (devils) who lost their bodies in the first world are legitimately used as tools of judicial judgment under God's 'Divine Council'.
-
-### ⚔️ Live Debate Records (TheScriptureBeliever vs. Researcher)
-Live defense logs demonstrating how the attacks of a researcher steeped in traditional theology were refuted and defended using solely the KJV text.
-* **[Live Case 1 (Refuting the 120-Year Countdown Theory)](./REPORT_TheScriptureOrg_VS_Researcher.md)** 
-* **[Live Case 2 (Defense Against the Deconstruction of Traditional Doctrine)](./REPORT_TheScriptureOrg_VS_Researcher_v2.md)**
-* **[Live Case 3 (Verifying the Timing of 1 Peter 3:20 vs. 2 Peter 2:4)](./REPORT_TheScriptureOrg_VS_Researcher_v3.md)**
-* **[Deep Debate Log on the Sons of God in Genesis 6 (15-Stage Discussion)](./REPORT_Genesis6_SonsOfGod_DeepLog.md)** (A 15-stage reversal record showing how the angel theory, despite an early advantage, crumbles before the text)
+*Engine: BVCAP_GHQ.md (ruling template) + BVCAP_Pipeline.md v2.0 (execution engine)*
+*Case Number: BVCAP-WINE-002*
+*Weapons Deployed: TYPE-C, TYPE-K, TYPE-AA, TYPE-AI, TYPE-P, TYPE-E, TYPE-G*
+*Final Verdict: ✅ EXPLICIT (Explicitness Confirmed) — IRONCLAD*
+*Cross-Witness Verification: Core theses A/B = Settled (Doctrine) / Individual inferences C-1~C-3 = Probability/Speculation (2026-07-20)*

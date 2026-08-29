@@ -1,4 +1,5 @@
-﻿# ⏱️ SKILL-17: TYPE-Q — Biblical Language Quantification Constraint Pipeline
+<!-- doc_no: 20260829_0073 | ver: 20260829_0942 -->
+# ⏱️ SKILL-17: TYPE-Q — Biblical Language Quantification Constraint Pipeline
 **"One day is with the Lord as a thousand years." — 2 Peter 3:8 KJV**
 
 > **When to Trigger**: When the opponent assigns an **arbitrary specific number** to the Bible's **qualitative/adjectival time language** ("a little", "shortly", "quickly", "nigh").

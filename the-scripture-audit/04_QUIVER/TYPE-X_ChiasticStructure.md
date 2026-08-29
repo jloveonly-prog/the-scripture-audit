@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0080 | ver: 20260829_0942 -->
 # 🏹 TYPE-X: Chiastic Structure / Chiasmus
 
 > **Alias**: Textual X-Ray

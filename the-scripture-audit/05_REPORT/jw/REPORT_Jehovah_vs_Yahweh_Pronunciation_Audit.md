@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-jw-069"
-title_en: "Doctrinal Dilemma: Jehovah vs. Yahweh — The Lost Pronunciation Debate Audit"
-title_ko: ""
-file_en: "REPORT_Jehovah_vs_Yahweh_Pronunciation_Audit.md"
-file_ko: ""
-category: "jw"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0146 | ver: 20260829_0942 -->
 
 # Doctrinal Dilemma: Jehovah vs. Yahweh — The Lost Pronunciation Debate Audit
 **— "Which is the real pronunciation? Or is the quest to find the 'real pronunciation' a false framework?" BVCAP v2.0 Courtroom Debate Report —**

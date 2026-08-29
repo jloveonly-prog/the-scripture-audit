@@ -1,26 +1,27 @@
 ---
 id: "catholic-collision_cards-103"
 title_ko: "💥 COMBO-02: 교황 무류성(Papacy) 연쇄 붕괴 (IRONCLAD)"
+title_en: "💥 COMBO-02: Chain Collapse of Papal Infallibility (IRONCLAD)"
 file_ko: "COMBO-02_PAPAL_INFALLIBILITY_COLLAPSE.md"
 file_en: "COMBO-02_PAPAL_INFALLIBILITY_COLLAPSE.md"
 category: "collision_cards"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# 💥 COMBO-02: 교황 무류성(Papacy) 연쇄 붕괴 (IRONCLAD)
+# 💥 COMBO-02: Chain Collapse of Papal Infallibility (IRONCLAD)
 
-## 📌 타격 목표: 제1차 바티칸 공의회 교황 무류성 선언
-**적용된 CVCAP 3.0 필터 조합**: `필터 6(역논법/부메랑)` + `필터 2(해석학적 단절)` + `필터 7(거짓 이분법)`
+## 📌 Target: The First Vatican Council's Declaration of Papal Infallibility
+**CVCAP 3.0 Filter Combination Applied**: `Filter 6 (Retorsion/Boomerang)` + `Filter 2 (Hermeneutical Rupture)` + `Filter 7 (False Dichotomy)`
 
-### 1. [필터 7] 거짓 이분법의 붕괴 (False Dichotomy)
-가톨릭은 "개인이 성경을 해석하면 3만 개로 쪼개지므로(혼란), 교황이라는 단일한 무류적 해석 기관(질서)이 필수적이다"라는 거짓 프레임을 씌웁니다. 그러나 참된 질서는 '바티칸'이라는 눈에 보이는 정치 조직이 아니라, 눈에 보이지 않더라도 동일한 복음을 믿는 '영적 무형 교회'의 연합에 있습니다.
+### 1. [Filter 7] The Collapse of the False Dichotomy
+Catholicism imposes the false frame that "if individuals interpret Scripture, it splinters into 30,000 denominations (chaos), so a single infallible interpretive authority — the pope — is necessary (order)." But true order lies not in a visible political organization called "the Vatican," but in the union of the "invisible spiritual Church" that believes the same gospel, even without visible form.
 
-### 2. [필터 6] 평신도 해석의 역논법 (Retorsion)
-"오류 없는 해석을 위해 무류한 교황이 필요하다"면, 그 무류한 교황이 쓴 문헌(예: Amoris Laetitia, Fiducia Supplicans)을 읽는 평신도와 일반 사제들의 뇌(해석)도 무류합니까? 실제로 교황의 문헌 하나를 두고 전 세계 가톨릭 주교들이 각자 다르게 해석하며 서로를 이단이라 비난하는 극심한 분열이 발생했습니다. 즉, '해석의 무류성을 담보하기 위해 인간(교황)을 세운다'는 전제 자체가 부메랑을 맞고 자멸합니다.
+### 2. [Filter 6] The Retorsion of Lay Interpretation
+If "an infallible pope is necessary for error-free interpretation," then are the brains (interpretations) of the laity and ordinary priests who read that infallible pope's documents (e.g., Amoris Laetitia, Fiducia Supplicans) also infallible? In actual fact, a single papal document has produced severe division worldwide, with Catholic bishops interpreting it differently from one another and denouncing each other as heretics. That is, the very premise "a human being (the pope) is installed to guarantee infallibility of interpretation" boomerangs back and destroys itself.
+ 
+### 3. [Filter 2] The Insubordination of Authority Against Earlier Councils (Hermeneutical Rupture)
+The Council of Constance in 1415 declared that "a council is superior to the pope" and deposed all the rival popes of the time. Yet in 1870, the First Vatican Council declared the exact opposite: "the pope is superior to councils and is infallible." This proves that "infallibility" is not divine truth but a "hermeneutical rupture" whose meaning and subject shift according to the political power struggles of the Church at the time.
 
-### 3. [필터 2] 과거 공의회와의 권위 하극상 (Hermeneutical Rupture)
-과거 1415년 콘스탄츠 공의회는 "공의회가 교황보다 높다"며 당시 난립하던 교황들을 모두 해임시켰습니다. 그러나 1870년 제1차 바티칸 공의회는 "교황이 공의회보다 높으며 무류하다"고 정반대로 선언했습니다. 이는 '무류성'이 신적 진리가 아니라, 당시 교회의 정치적 권력 투쟁 결과에 따라 의미와 주체가 변개되는 '해석학적 단절'임을 증명합니다.
-
-### ⚖️ 최종 판결: [IRONCLAD REFUTATION]
-거짓 이분법으로 필요성을 조작하고(필터 7), 역사적으로 스스로 권위를 뒤집었으며(필터 2), 궁극적으로 평신도 오독이라는 실전 상황에서 시스템이 붕괴(필터 6)하는 완벽한 인위적 권력 기구임이 확정되었습니다.
+### ⚖️ Final Verdict: [IRONCLAD REFUTATION]
+By manufacturing necessity through a false dichotomy (Filter 7), historically reversing its own authority (Filter 2), and ultimately collapsing under the real-world scenario of lay misreading (Filter 6), this is confirmed to be a perfectly artificial power apparatus.

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0074 | ver: 20260829_0942 -->
 # 🗡️ TYPE-R: Syntax & Subject Confusion Detection
 
 > **"The enemy's most grandiose theological attacks are often built upon elementary grammatical misreadings."**

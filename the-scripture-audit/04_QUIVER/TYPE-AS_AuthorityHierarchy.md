@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0049 | ver: 20260829_0942 -->
 # ⚡ SKILL-46: TYPE-AS — Authority Hierarchy Analysis
 **"The heaven, even the heavens, are the LORD'S: but the earth hath he given to the children of men." — Psalm 115:16 KJV**
 

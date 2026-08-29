@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0060 | ver: 20260829_0942 -->
 # 🔬 SKILL-04: TYPE-D — Hebrew Narrative Convention Reversal Pipeline
 
 > **When to Trigger**: When the order of genealogies, reference points for numbers, or titles of persons appear to conflict.

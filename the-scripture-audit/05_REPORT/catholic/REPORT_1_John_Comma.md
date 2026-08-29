@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-catholic-037"
-title_en: "Internal Evidence Analysis of 1 John 5:7-8"
-title_ko: ""
-file_en: "REPORT_1_John_Comma.md"
-file_ko: ""
-category: "catholic"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0104 | ver: 20260829_0942 -->
 
 # Internal Evidence Analysis of 1 John 5:7-8
 ### — Internal Textual Apologetics on the Authenticity of the Comma Johanneum —
@@ -1126,16 +1116,16 @@ The King James Bible's preservation of this verse is not blind adherence to trad
 ---
 
 ## 🔗 Related Catholic Apologetics Reports and Practical Dialogue Transcripts (BVCAP)
-* [Catholic_Comments.md](./카톨릭_댓글.md)
-* [Catholic_Round2.md](./카톨릭2차전.md)
-* [REPORT_Peter_Calvary_Martyrdom_Theory.md](./REPORT_베드로_갈보리순교설.md)
-* [REPORT_Reason_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md](./REPORT_가톨릭이_예수님을_구원자로_시인하지_못하는_이유.md)
-* [REPORT_Catholic_Apocrypha_Script_Analysis.md](./REPORT_카톨릭외전_대본분석.md)
-* [REPORT_Papal_Primacy_Peter_Rock_Error_Audit.md](./REPORT_교황수위권_베드로반석_오류감사.md)
-* [REPORT_Apostolic_Succession_Historical_Tradition_Error_Audit.md](./REPORT_사도계승_역사전승_오류감사.md)
-* [REPORT_Catholic_Saints_Intercession_Doctrine_Verification.md](./REPORT_카톨릭_성인전구교리_검증.md)
-* [REPORT_Mary_Immaculate_Conception_Assumption_Error_Audit.md](./REPORT_마리아_무염시태_승천_오류감사.md)
+* [Catholic_Comments.md](./Catholic_Comments.md)
+* [catholic_round_2.md](./catholic_round_2.md)
+* [[F+E+G+N+P+I+T+S]_Peter_Calvary_Martyrdom.md](<./[F+E+G+N+P+I+T+S]_Peter_Calvary_Martyrdom.md>)
+* [REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md](./REPORT_Why_Catholics_Cannot_Confess_Jesus_as_Savior.md)
+* [REPORT_CatholicApocrypha_ScriptAnalysis.md](./REPORT_CatholicApocrypha_ScriptAnalysis.md)
+* [REPORT_PapalPrimacy_PeterRock_Audit.md](./REPORT_PapalPrimacy_PeterRock_Audit.md)
+* [REPORT_ApostolicSuccession_Tradition_Audit.md](./REPORT_ApostolicSuccession_Tradition_Audit.md)
+* [REPORT_Catholic_IntercessionOfSaints_Audit.md](./REPORT_Catholic_IntercessionOfSaints_Audit.md)
+* [REPORT_Mary_Immaculate_Assumption_Audit.md](./REPORT_Mary_Immaculate_Assumption_Audit.md)
 * [REPORT_1_John_Comma.md](./REPORT_1_John_Comma.md)
-* [REPORT_Sealing_Catholicisms_3_Major_Escape_Routes_SolaScriptura.md](./REPORT_가톨릭_3대탈출구_봉쇄_SolaScriptura.md)
-* [REPORT_Infant_Baptism_Dilemma_Collapse_of_the_7_Sacraments.md](./REPORT_유아세례_딜레마_7성사붕괴.md)
+* [REPORT_Catholic_3_Major_Escape_Routes_Blockaded_SolaScriptura.md](./REPORT_Catholic_3_Major_Escape_Routes_Blockaded_SolaScriptura.md)
+* [REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md](./REPORT_Infant_Baptism_Dilemma_7_Sacraments_Collapse.md)
 

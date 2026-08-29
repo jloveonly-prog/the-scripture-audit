@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0058 | ver: 20260829_0942 -->
 # 🔬 SKILL-02: TYPE-B — Sequential Parallel Integration Pipeline of Events
 
 > **When to Trigger**: When two authors (or two records by the same author) describe the same event differently.

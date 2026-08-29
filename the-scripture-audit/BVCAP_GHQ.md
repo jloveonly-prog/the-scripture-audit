@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0153 | ver: 20260829_0942 -->
 > [!IMPORTANT]
 > ## 🏛️ GHQ (General Headquarters)
 > **Role of this document**: Determine MODE · Allocate roles · Set judgment criteria · Define output format

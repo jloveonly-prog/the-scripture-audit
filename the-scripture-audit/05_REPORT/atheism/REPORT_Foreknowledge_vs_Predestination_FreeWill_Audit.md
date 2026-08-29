@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-atheism-003"
-title_en: "Foreknowledge vs. Predestination: The Free Will Robot Argument Dilemma"
-title_ko: ""
-file_en: "REPORT_Foreknowledge_vs_Predestination_FreeWill_Audit.md"
-file_ko: ""
-category: "atheism"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0091 | ver: 20260829_0942 -->
 
 # Foreknowledge vs. Predestination: The Free Will Robot Argument Dilemma
 **— "If God knows the future, are humans just robots?" BVCAP v2.0 Neutral Audit Report —**

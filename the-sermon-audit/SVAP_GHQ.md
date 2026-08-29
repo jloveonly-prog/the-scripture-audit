@@ -1,11 +1,4 @@
-<!--
-TranslationID: [001]
-Category: sermon_audit
-Language: en
-Status: completed
-TranslatedDate: 2026-08-26
-SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\SVAP_GHQ.md
--->
+<!-- doc_no: 20260829_0207 | ver: 20260829_0942 -->
 
 > [!IMPORTANT]
 > ## 🏛️ GHQ — General Headquarters
@@ -280,11 +273,11 @@ The SVAP 1.0 engine divides the stages of sermon auditing among 4 agents.
 
 | Asset | Reference Path | Purpose |
 |:---|:---|:---|
-| **🆕 Bible Original Text (Judgment Baseline)** | `../the-scripture-audit/00_THESCRIPTURE(성경원문)/` | **The definitive judgment text is `KJV_1769.txt` only** (1769 Cambridge, preserving italics `[ ]` — Translators' added words with no corresponding original word, preserve markup when quoting, 31,102 verses). Searches use its derivative `KJV_1769_search.txt`. **3 steps for Korean quotation**: ⒜ `TheScripture_ko_en_search.json` (KSKJB) → ⒝ `kingjamesbiblekorea.com` live query (same copyright info as ⒜) → ⒞ LLM translation — Excerpting is free, modifying characters is forbidden, indicate source once per document. Must read `README.md` in that folder for search traps and version precautions |
-| Mandates | `../the-scripture-audit/01_MANDATE(작전명령)/` | Equip Persona/CREED/Agent Mission |
-| Tactics | `../the-scripture-audit/02_TACTICS(전술)/` | Hillel's 7/DE-OVERLAP/ANCHOR etc. |
-| War Logs | `../the-scripture-audit/03_WAR_LOG(전투기록)/` | Reference precedents |
-| Armory | `../the-scripture-audit/04_QUIVER(무기고)/` | All TYPE-A~AY + TYPE-B-π weapons |
+| **🆕 Bible Original Text (Judgment Baseline)** | `../the-scripture-audit/00_THESCRIPTURE/` | **The definitive judgment text is `KJV_1769.txt` only** (1769 Cambridge, preserving italics `[ ]` — Translators' added words with no corresponding original word, preserve markup when quoting, 31,102 verses). Searches use its derivative `KJV_1769_search.txt`. **3 steps for Korean quotation**: ⒜ `TheScripture_ko_en_search.json` (KSKJB) → ⒝ `kingjamesbiblekorea.com` live query (same copyright info as ⒜) → ⒞ LLM translation — Excerpting is free, modifying characters is forbidden, indicate source once per document. Must read `README.md` in that folder for search traps and version precautions |
+| Mandates | `../the-scripture-audit/01_MANDATE/` | Equip Persona/CREED/Agent Mission |
+| Tactics | `../the-scripture-audit/02_TACTICS/` | Hillel's 7/DE-OVERLAP/ANCHOR etc. |
+| War Logs | `../the-scripture-audit/03_WAR_LOG/` | Reference precedents |
+| Armory | `../the-scripture-audit/04_QUIVER/` | All TYPE-A~AY + TYPE-B-π weapons |
 | BVCAP Pipeline | `../the-scripture-audit/BVCAP_Pipeline.md` | Execution procedures for GATE 0~5 |
 | BVCAP GHQ | `../the-scripture-audit/BVCAP_GHQ.md` | Reference for E-Code (E-01~E-16), Judgment Criteria |
 
@@ -357,7 +350,7 @@ The SVAP 1.0 engine divides the stages of sermon auditing among 4 agents.
 ### 2-P. Core Proposition P Track (ANCHOR-1P) — Mandatory, newly established 2026-08-16
 
 > ⚠️ The matrix above is **the set of verses chosen by the preacher**. This section contains results verifying outside that fence.
-> Procedure: `../the-scripture-audit/02_TACTICS(전술)/ANCHOR_ThirdData.md` ANCHOR-1P 4th~6th search
+> Procedure: `../the-scripture-audit/02_TACTICS/ANCHOR_ThirdData.md` ANCHOR-1P 4th~6th search
 
 **P = "[One sentence core proposition]"**
 
@@ -404,7 +397,7 @@ The SVAP 1.0 engine divides the stages of sermon auditing among 4 agents.
 
 # PART B — Narrative (GATE 7)
 
-> **📌 Writing Principle**: Write this part so that a reader who has never read the original sermon can grasp each claim and refutation just from this part. Cite Claim IDs from PART A to cross-reference; the verdict grade itself is just carried over from PART A, not assigned anew here (grades can only change according to `../the-scripture-audit/01_MANDATE(작전명령)/CREED_Override.md` **OVERRIDE-2 Rule #1 (Mandatory New Evidence)** when there are new anchors/TYPE results not present in the previous FULL SCAN, and even then, do not change it on the spot here but re-execute from GATE 3).
+> **📌 Writing Principle**: Write this part so that a reader who has never read the original sermon can grasp each claim and refutation just from this part. Cite Claim IDs from PART A to cross-reference; the verdict grade itself is just carried over from PART A, not assigned anew here (grades can only change according to `../the-scripture-audit/01_MANDATE/CREED_Override.md` **OVERRIDE-2 Rule #1 (Mandatory New Evidence)** when there are new anchors/TYPE results not present in the previous FULL SCAN, and even then, do not change it on the spot here but re-execute from GATE 3).
 
 ## 6. Chapter/Part Narrative
 
@@ -723,7 +716,7 @@ Self-contradictions usually appear in the four places below. Marking these down 
 
 > [!NOTE]
 > **Writing examples are not placed in this template.** According to the detailed guidelines of `CREED_Override.md` C-4, if actual theological content is embedded in the example fields of a template document, a contamination path is created where subsequent audits inherit that conclusion without checking the texts.
-> If you need actual examples, **refer to completed reports** — e.g., §16 (Real-world Rebuttal Script Archive, private folder) of the Deity Doctrine series audit reports in `03_REPORT(설교감사보고서)/`. This PART D template itself is a generalization of how that §16 was used.
+> If you need actual examples, **refer to completed reports** — e.g., §16 (Real-world Rebuttal Script Archive, private folder) of the Deity Doctrine series audit reports in `03_REPORT/`. This PART D template itself is a generalization of how that §16 was used.
 
 ---
 
@@ -771,7 +764,7 @@ For exhaustive searches/counts, explicitly state the basis as `[Exhaustive: Text
 |:---:|:---|:---|
 | **⒜** `TheScripture_ko_en_search.json` **Exists** | **Standard King James Bible (KSKJB)** | Copyright © Biblebelievers Publication · CC BY-NC-ND 4.0 |
 | **⒝** No local file, **`kingjamesbiblekorea.com` real-time query success** | **Standard King James Bible (KSKJB, real-time query)** | Copyright © Biblebelievers Publication · CC BY-NC-ND 4.0 · Specify query date. If possible, query by parsing raw HTML (accuracy) |
-| **⒞** Both ⒜·⒝ failed | **Direct LLM Translation** (KJV English → Korean) | Not a quote from a specific Korean translation (Standard/Majesty/Korean KJV, etc.). If you want to use KSKJB, generate it separately with `00_THESCRIPTURE(성경원문)/fetch_kjv_ko.py` (takes about 10 mins) |
+| **⒞** Both ⒜·⒝ failed | **Direct LLM Translation** (KJV English → Korean) | Not a quote from a specific Korean translation (Standard/Majesty/Korean KJV, etc.). If you want to use KSKJB, generate it separately with `00_THESCRIPTURE/fetch_kjv_ko.py` (takes about 10 mins) |
 
 > ### 🚨 Do not list them together
 > Writing it as *"Standard King James or LLM Translation"* means **the reader cannot know which one you actually used.**
@@ -798,3 +791,80 @@ For exhaustive searches/counts, explicitly state the basis as `[Exhaustive: Text
   Coverage: N 0-count intervals, all reasons provided
   ⓪ Adjacent verse sweep: Executed N out of N rows with quoted verses (Unexecuted 0)
   ```
+
+---
+
+## 🚀 System Run: Trigger / Unified Pipeline
+
+> [!IMPORTANT]
+> **The Integrated Engine Execution Protocol**
+> This document (`SVAP_GHQ.md`) is both the **GHQ** and the **Presentation Layer**,
+> and the actual operational logic (extraction · analysis · verification) must always follow **`SVAP_Pipeline.md` (the Tactical Manual / Logic Layer).**
+> The execution of GATE 0-5 references **`../the-scripture-audit/BVCAP_Pipeline.md`.**
+
+When the user enters a sermon manuscript or a request to verify a sermon, the AI must immediately activate the following procedure:
+
+**0. PRE-FLIGHT Equipping Proof (SVAP_Pipeline.md — STEP 0-F, New 2026-08-17)**
+  - load the 9 reference documents, and record in a table **one clause from each document that applies to this audit**
+  - listing filenames is not proof of equipping. In particular, `CREED_Override.md`'s **prohibition of C-4 labels** and `ANCHOR_ThirdData.md`'s **⓪ Sweeping Adjacent Verses** are mandatory entries
+
+**1. Sermon Pre-processing (SVAP_Pipeline.md — GATE -1)**
+  - equip COPYRIGHT SHIELD
+  - full extraction of doctrinal claims
+  - **⓪ Sweeping Adjacent Verses (STEP 2 ③)** — the **instant** a cited verse is mapped, open and read the 2 preceding verses, the 2 following verses, the rest of the verse, and the book's beginning/end. Do not defer this to ANCHOR-1P's 6th order — the 6th order is a single pass late in the audit, so if a counter-proof surfaces there, an already-confirmed verdict must be re-run starting from GATE 3
+  - **the Observation/Inference Split (STEP 2.5)** — split a compound statement into two Claims (`N-a` Observation / `N-b` Inference). The tally counts by row
+  - **the Coverage Map (STEP 2.7)** — record the Claim count per 5-minute segment. If a 0-count segment with no recorded reason remains, GATE 0 cannot be entered
+  - save the claim list → to the `01_CLAIMS` folder
+
+**2. Per-Claim BVCAP Verification (BVCAP_Pipeline.md — GATE 0-5, Repeated)**
+  - equip the `../the-scripture-audit/01_MANDATE` and `02_TACTICS` rule sets
+  - execute a FULL SCAN with the entire arsenal of `../the-scripture-audit/04_QUIVER`
+  - issue a Claim-Level Verdict for each claim
+
+**3. Comprehensive Judgment of the Sermon (SVAP_GHQ.md Format — Finalizing PART A)**
+  - synthesize the verdicts by claim
+  - determine the overall sermon rating (🟢 SOUND / 🟡 CAUTION / 🔴 ALERT)
+  - complete PART A (do not yet save it to a file — save it together only after PART B is finished)
+
+**4. Conversion into Commentary (SVAP_GHQ.md Format — GATE 7, PART B)**
+  - rewrite each Claim in PART A following the sermon's chapter/part flow: the argument → why it sounds plausible → why it actually collapses → an easy analogy → carry the verdict forward from PART A
+  - **apply the Plain Language Principle (D-1B)** — convert technical terminology per the D-1B substitution table not only in the "easy analogy" cell but throughout the entire narrative
+  - if comments, Q&A, or follow-up material exist, cross-check them in an appendix, and emphasize any point that collides with the preacher's own other statements as a "self-contradiction trap"
+
+**5. Reinforcing-Argument Discovery (SVAP_GHQ.md Format — GATE 8, PART C)**
+  - **C-0 (Conditional)**: if the user has specified a past document to reference, first check that document for the author's existing answers and self-contradiction traps and reflect them. If none is specified, skip this stage — the AI does not go digging through `01_CLAIMS`/`03_REPORT` on its own
+  - **do not stop just because the verdict is confirmed.** For every Claim that received a ❌·⚠️ verdict, discover a minimum of 3 additional arguments supporting the identical verdict (no upper limit)
+  - assign each argument a difficulty rating (🟢 Immediately Deployable / 🟡 Needs Explanation / 🔴 Expert), and **secure at least one 🟢** — if all are 🔴, treat the search as incomplete and dig again
+  - count only arguments from different books/authors as separate (multiple angles on the same verse = 1)
+  - if 3 cannot be filled, **honestly record** "N secured / no further results from additional search" — forced generation to fill the quota is absolutely prohibited, since it only hands the opponent a handle for their counter-strike
+  - PART C **does not change the verdict.** If new evidence is found that would overturn the rating, re-run from GATE 3 (OVERRIDE-2, item 1)
+
+**6. Conversion for Field Deployment (SVAP_GHQ.md Format — GATE 9, PART D)**
+  - make cards only from PART C's 🟢·🟡 arguments. **Do not make a card from a 🔴** — it dies to a single line, "that's just your interpretation"
+  - select a single-sentence hammer (the opening move must be exactly one — throwing several at once lets the opponent pick off only the weakest)
+  - write cards as a **conversation tree, not a sentence**: the deployment sentence → a follow-up move per anticipated response → the next card upon evasion
+  - deploy the self-contradiction trap with top priority (it holds regardless of theological position, so the opponent cannot escape it by defending their own doctrine). **Include here the traps found in the past document from C-0 as well**
+  - **D-4B, Side-by-Side (Mandatory)**: present the self-contradiction trap as a table with the 3 elements — **Quote A (original text + timecode) / Quote B (original text + timecode) / a closed question** — in **2 or more instances.** 🚨 no summarizing or paraphrasing, no omitting the timecode — violating either lets the opponent retort "I never said that," collapsing not just the card but our credibility
+  - **the Plain Language Self-Check (D-1B, Mandatory)**: before saving, search every deployment sentence against the forbidden-vocabulary list and record the `[Plain Language Scan]` result
+  - execute a **comprehensive rebuttal stress test** — ① rule consistency between cards ② independence (chain collapse) ③ counter-strike routes. If a violation remains in ①, do not deploy the set
+  - merge PART A + B + C + D into **a single file**, saved under the name `AUDIT_[sermon name]_[date].md` in the `03_REPORT` folder (do not split into separate files). See `02_TEMPLATE/` for a blank template and format examples
+
+> [!WARNING]
+> **The Anti-Bias Principle**: the AI judges by the text alone, regardless of the preacher's fame, denomination, or tradition.
+> The judge does not permit the premise "he's a famous pastor, so he must be right."
+> The judge also does not permit the premise "this denomination teaches it this way, so it's wrong."
+> **Consistency with the biblical text (KJV) is the sole criterion.**
+> This principle applies equally not only to PART A (the verdict) but also to PART B's (commentary) "why it sounds plausible" narrative — steelmanning is not going easy on the opponent, but merely the procedure for making the rebuttal accurate.
+>
+> 🆕 **Bidirectional Application (Codified 2026-08-17)**: this principle simultaneously means "don't go easy on the preacher" and **"don't convict the preacher of a sin he didn't commit."**
+> Among the sermon's claims, whatever is confirmed true against the text is **honestly recorded as ✅.** Lumping even a true observation into ❌ simply because it belongs to the "other side" is not a verdict but tribalism, and in the field, that single instance collapses the credibility of the entire report.
+> At the same time, adjusting the verdict to manufacture balance (e.g., "at least N ✅'s") is also prohibited. **Split precisely, judge each independently, and record whatever number results, as-is.**
+
+---
+*Generated by SVAP 1.0 Supreme Sermon Auditor Engine*
+*Architecture: Layered System (Extraction: SVAP_Pipeline.md GATE-1 + Verification: BVCAP_Pipeline.md GATE 0~5 + Judgment: SVAP_GHQ.md GATE 6/PART A + Narration: SVAP_GHQ.md GATE 7/PART B)*
+*BVCAP Engine: ../the-scripture-audit/ (sharing the arsenal · tactics · mandate)*
+*STATUS: RIGOROUS NEUTRALITY ENFORCED | FULL CLAIM EXTRACTION | SINGLE-FILE OUTPUT (PART A+B+C+D) | TARGET: EVIDENCE-BASED VERDICT*
+*CHANGELOG: v1.0 → v1.1 (2026-08-17) — reflecting mandatory execution guardrails. ① registered the prohibition of C-4 theological-system labels directly in the Core Prohibitions table (reference inheritance → copied into the body) ② prohibited blanket ❌ coverage + linked the Observation/Inference Split ③ codified the bidirectional application of the anti-bias principle ④ 3 mandatory self-checks before output (RLHF dilution / C-4 labels / coverage reconciliation) ⑤ added the PRE-FLIGHT equipping-proof stage to System Run. Detailed execution procedure is in `SVAP_Pipeline.md` v1.3.*
+*CHANGELOG: v1.1 supplement (2026-08-17) — reflecting a pre-commit consistency check. ⑥ added the Coverage Map (2-0), a `Type` column, and an `⓪ Sweep` column to §2 — resolving the gap where the self-check required reconciling "what is not in the report" ⑦ aligned the coverage-reconciliation formula with the actual tally (left side includes P-Track new anchors, right side includes irrelevant issues — the previous formula conflicted with the §2-P and §8 provisions, producing mismatches even in normal audits, with the side effect of adjusting classifications just to make the numbers match) ⑧ moved up ⓪ Sweeping Adjacent Verses to be triggered at GATE -1 STEP 2 ③.*
+*CHANGELOG: v1.1 -> v1.2 (2026-08-19) — made the **Scripture-source notation block** mandatory in the report output format. English = KJV 1769 Cambridge (incl. italics), Korean = the Standard King James (KSKJB, CC BY-NC-ND 4.0). **A citation with no source is considered invalid** — this is both Article 37 of the Copyright Act (the duty to indicate sources) and a matter of the audit itself becoming unverifiable without a source, since translations diverge by version.*

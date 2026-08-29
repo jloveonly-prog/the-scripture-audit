@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0066 | ver: 20260829_0942 -->
 ## 🔬 SKILL-10: TYPE-J — External Historical Literature Cross-Validation Pipeline
 
 > **When to invoke**: When biblical historical claims (persons, events, places, traditions) must be verified or strengthened through non-biblical historical texts or archaeological data.

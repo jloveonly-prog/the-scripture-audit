@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0124 | ver: 20260829_0942 -->
 # 📜 [BVCAP 2.0 Criminal Record Report] Verification of the Blasphemous Misreading of the John 10:30 "Football Team" Metaphor
 **— "An Unprecedented Disaster in Reading Comprehension that Reduced the Divine Union of the Creator to a Sunday Football Team Cheer" BVCAP v2.0 Maximum Level (MAX) Audit Report —**
 

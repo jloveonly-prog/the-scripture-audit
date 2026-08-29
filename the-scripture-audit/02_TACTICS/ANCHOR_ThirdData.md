@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0005 | ver: 20260829_0942 -->
 # 🔗 ANCHOR — 3rd Anchor Collection + MATRIX Reverse Calculation Protocol
 **"In the mouth of two or three witnesses every word shall be established." — 2 Corinthians 13:1 KJV**
 **"For precept must be upon precept... here a little, and there a little." — Isaiah 28:10 KJV**

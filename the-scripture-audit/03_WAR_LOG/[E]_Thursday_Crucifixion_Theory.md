@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0023 | ver: 20260829_0942 -->
 # Thursday Crucifixion Neutral Audit Report
 
 **— BVCAP Timeline Consistency Validation for YouTube 'Bible Studium' Thursday Crucifixion Claim —**

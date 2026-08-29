@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0026 | ver: 20260829_0942 -->
 # Matthew Chapter 1 — The Dilemma of the 14 Generations, the Double Inclusion of King David, and the Precision of the KJV Translation
 
 **— BVCAP Neutral Audit Report on the Biblical Contradiction Attack: "Is it not 13 or 15 generations instead of 14?" —**

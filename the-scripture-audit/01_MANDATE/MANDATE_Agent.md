@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0003 | ver: 20260829_0942 -->
 # 📜 MANDATE — Scripture Audit Agent
 **"Go ye therefore... teaching them to observe all things" — Matthew 28:19-20 KJV**
 

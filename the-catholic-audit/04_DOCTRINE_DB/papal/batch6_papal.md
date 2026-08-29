@@ -1,88 +1,89 @@
 ---
 id: "catholic-doctrine_db-055"
 title_ko: "PAPAL-INEFF  Ineffabilis Deus (원죄 없이 잉태되신 동정 마리아)"
+title_en: "PAPAL-INEFF — Ineffabilis Deus (The Virgin Mary Conceived Without Sin)"
 file_ko: "batch6_papal.md"
 file_en: "batch6_papal.md"
 category: "doctrine_db"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# PAPAL-INEFF  Ineffabilis Deus (원죄 없이 잉태되신 동정 마리아)
+# PAPAL-INEFF — Ineffabilis Deus (The Virgin Mary Conceived Without Sin)
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | PAPAL-INEFF |
-| **출처** | 비오 9세 교황 헌장 Ineffabilis Deus |
-| **조항** | 무염시태 교의 정의 선언문 |
-| **교의 등급** | De Fide Definita (Ex Cathedra) |
-| **무류 여부** | 🔴 무류 (오류 불가) |
-| **파문(Anathema)** | 예 |
-| **연도** | 1854 |
+| **Source** | Pope Pius IX, Apostolic Constitution Ineffabilis Deus |
+| **Reference** | Declaration defining the dogma of the Immaculate Conception |
+| **Doctrinal Rank** | De Fide Definita (Ex Cathedra) |
+| **Infallibility** | 🔴 Infallible (incapable of error) |
+| **Anathema** | Yes |
+| **Year** | 1854 |
 
-## 원문 (요약)
-> 복되신 동정 마리아는 그녀가 잉태되는 첫 순간부터 전능하신 하느님의 특별한 은총과 특전으로, 인류의 구세주 예수 그리스도의 예견된 공로로 말미암아 원죄의 온갖 물듦에서 면제되었다. 이는 하느님이 계시하신 교리이다.
+## Original Text (Summary)
+> The Blessed Virgin Mary, from the first moment of her conception, by a singular grace and privilege of almighty God, and by virtue of the foreseen merits of Jesus Christ, Savior of the human race, was preserved immune from all stain of original sin. This is a doctrine revealed by God.
 
-## 태그
-`마리아론`, `무염시태`, `원죄`
+## Tags
+`mariology`, `immaculate_conception`, `original_sin`
 
-## 주장 (Claims)   가장 중요
-1. 성모 마리아는 잉태되는 순간부터 하느님의 특별한 은총으로 원죄에 물들지 않고 보존되었다.
-2. 이 교리는 하느님에 의해 계시된 진리이므로 모든 신자가 확고하게 믿어야 한다.
+## Claims (Most Important)
+1. The Blessed Virgin Mary, from the moment of her conception, was preserved untouched by original sin through a special grace of God.
+2. This doctrine is a truth revealed by God, and so must be firmly believed by all the faithful.
 
-## 부정 (Negates)   가장 중요
-1. 성모 마리아 역시 다른 모든 인류와 마찬가지로 원죄를 지니고 잉태되었다.
+## Negates (Most Important)
+1. The Blessed Virgin Mary, like all other humanity, was conceived with original sin.
 
 ---
 
-# PAPAL-MUNIF  Munificentissimus Deus (성모 몽소승천)
+# PAPAL-MUNIF — Munificentissimus Deus (The Assumption of Mary)
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | PAPAL-MUNIF |
-| **출처** | 비오 12세 교황 헌장 Munificentissimus Deus |
-| **조항** | 몽소승천 교의 정의 선언문 |
-| **교의 등급** | De Fide Definita (Ex Cathedra) |
-| **무류 여부** | 🔴 무류 (오류 불가) |
-| **파문(Anathema)** | 예 |
-| **연도** | 1950 |
+| **Source** | Pope Pius XII, Apostolic Constitution Munificentissimus Deus |
+| **Reference** | Declaration defining the dogma of the Assumption |
+| **Doctrinal Rank** | De Fide Definita (Ex Cathedra) |
+| **Infallibility** | 🔴 Infallible (incapable of error) |
+| **Anathema** | Yes |
+| **Year** | 1950 |
 
-## 원문 (요약)
-> 원죄에 물들지 않은 평생 동정녀 하느님의 어머니 마리아가 지상 생애의 여정을 마친 다음, 그 영혼과 육신이 함께 하늘의 영광으로 올림을 받았다는 것은 하느님에 의해 계시된 교의임을 선언하고 정의한다.
+## Original Text (Summary)
+> We declare and define that it is a dogma revealed by God that Mary, the ever-virgin Mother of God, immaculate in her original nature, having completed the course of her earthly life, was assumed body and soul into the glory of heaven.
 
-## 태그
-`마리아론`, `몽소승천`, `종말론`
+## Tags
+`mariology`, `the_assumption`, `eschatology`
 
-## 주장 (Claims)   가장 중요
-1. 성모 마리아는 지상 생애를 마친 뒤 영혼과 함께 육신이 부패하지 않고 천국으로 승천(몽소승천)하였다.
-2. 이 신앙을 고의로 부인하거나 의심하는 자는 가톨릭 신앙에서 떨어져 나간 것이다.
+## Claims (Most Important)
+1. After completing her earthly life, the Blessed Mother's body, together with her soul, was assumed incorrupt into heaven (the Assumption).
+2. Whoever deliberately denies or doubts this faith has fallen away from the Catholic faith.
 
-## 부정 (Negates)   가장 중요
-1. 마리아의 육신은 지상 생애 이후 무덤에 묻혀 썩어 없어졌으며, 육신의 부활은 세상 끝날에만 일어난다.
+## Negates (Most Important)
+1. Mary's body was buried in a tomb after her earthly life and decayed, and the resurrection of the body will occur only at the end of the world.
 
 ---
 
-# PAPAL-FRATELLI  Fratelli Tutti와 사형제 폐지 (CCC 2267 개정)
+# PAPAL-FRATELLI — Fratelli Tutti and the Abolition of the Death Penalty (Revision of CCC 2267)
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | PAPAL-FRATELLI |
-| **출처** | 프란치스코 교황 회칙 Fratelli Tutti / 교리서 개정 |
-| **조항** | 회칙 263-269항 / CCC 2267항 |
-| **교의 등급** | Sententia Communis / Pastoral 발전 |
-| **무류 여부** | 🟢 사목적 (단, 교리적 확정으로 교도권에 수용됨) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 2018 (CCC 개정), 2020 (회칙) |
+| **Source** | Pope Francis, Encyclical Fratelli Tutti / Revision of the Catechism |
+| **Reference** | Encyclical §§263-269 / CCC §2267 |
+| **Doctrinal Rank** | Sententia Communis / Pastoral development |
+| **Infallibility** | 🟢 Pastoral (though received into the Magisterium as a doctrinal confirmation) |
+| **Anathema** | No |
+| **Year** | 2018 (CCC revision), 2020 (encyclical) |
 
-## 원문 (요약)
-> 과거에는 사형 제도를 공동선 수호를 위한 수단으로 인정했으나, 오늘날에는 인간 존엄성에 대한 인식이 깊어짐에 따라 사형 제도는 "인간의 앗아갈 수 없는 존엄성에 대한 공격"이므로 어떠한 상황에서도 용납될 수 없고(inadmissible) 전면 폐지되어야 한다고 선언한다.
+## Original Text (Summary)
+> In the past, the death penalty was recognized as a means of defending the common good; today, however, with a deepened awareness of human dignity, the death penalty is declared "an attack on the inviolability and dignity of the person," and so is inadmissible under any circumstance and must be entirely abolished.
 
-## 태그
-`사형제도`, `생명권`, `인간 존엄성`
+## Tags
+`death_penalty`, `right_to_life`, `human_dignity`
 
-## 주장 (Claims)   가장 중요
-1. 국가에 의한 사형 제도는 오늘날의 관점에서 인간 존엄성을 침해하는 것이므로 어떠한 상황에서도 정당화될 수 없고 용납되지 않는다(inadmissible).
-2. 가톨릭 교회는 전 세계적인 사형제 폐지를 위해 결연히 노력해야 한다.
+## Claims (Most Important)
+1. From today's perspective, capital punishment by the state violates human dignity and thus cannot be justified or admitted under any circumstance (inadmissible).
+2. The Catholic Church must work resolutely for the worldwide abolition of the death penalty.
 
-## 부정 (Negates)   가장 중요
-1. 정당한 국가 권력은 중대한 범죄자를 사회 보호를 명목으로 합법적으로 사형에 처할 권리를 가진다(과거 전통 교리 부정).
+## Negates (Most Important)
+1. Legitimate state authority has the right to lawfully execute grave criminals in the name of protecting society (a denial of past traditional doctrine).

@@ -1,299 +1,299 @@
 ---
 id: "catholic-report-151"
 title_ko: "🚨 가톨릭 교도권 논리 충돌 및 교리 붕괴 최종 검증 보고서 (CVCAP 승인 완료)"
+title_en: "🚨 Final Verification Report: Logical Collisions and Doctrinal Collapse in the Catholic Magisterium (CVCAP-Approved)"
 file_ko: "catholic_error_report.md"
 file_en: "catholic_error_report.md"
 category: "report"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# 🚨 가톨릭 교도권 논리 충돌 및 교리 붕괴 최종 검증 보고서 (CVCAP 승인 완료)
+# 🚨 Final Verification Report: Logical Collisions and Doctrinal Collapse in the Catholic Magisterium (CVCAP-Approved)
 
-**부제: The Catholic Audit - Strict Verified Contradictions Only**
-**검증 방식**: `CVCAP (Catholic Vault & Conciliar Audit Pipeline) 3.0 발동` 
-(다국어 AI 임베딩 + LLM 교차 검증을 통해 오독, 범주 오류, 어휘적 오탐을 100% 배제하고 **'빠져나갈 수 없는 진짜 교리적 모순'**만 엄선한 최종 전수 조사 보고서입니다.)
-
----
-
-## 1부. 구원론의 절대적 붕괴: 배타성(Rigorism) vs 포용성(Inclusivism)
-
-역사적으로 가톨릭이 가장 강력한 저주(Anathema)를 동반해 선언했던 배타적 구원론이 현대에 이르러 어떻게 스스로 정면 부정되었는지를 보여주는 뼈아픈 모순입니다.
-
-### 🛑 과거의 절대적 무류 선언 (A)
-*   **[COUNCIL-FLORENCE] 피렌체 공의회 (1442, De Fide)**
-    > "가톨릭 교회 밖에서는 이교도뿐만 아니라 유대인, 이단자는 죽기 전에 교회와 결합하지 않는 한 영원한 지옥불에 떨어진다. **그리스도의 이름으로 피를 흘리는 순교를 할지라도 가톨릭 교회 안에 있지 않으면 구원받을 수 없다.**"
-*   **[UNAM-SANCTAM] 보니파시오 8세, Unam Sanctam (1302, De Fide)**
-    > "하나이고 거룩한 가톨릭 사도 교회 밖에는 구원도, 죄의 사함도 없다 (Extra Ecclesiam nulla salus)."
-*   **[COUNCIL-LATERAN_IV] 제4차 라테란 공의회 (1215) (서브 에이전트 발굴 추가 증거)**
-    > "신자들의 보편 교회는 오직 하나뿐이며, 그 밖에서는 그 누구도 결코 구원받지 못한다."
-
-### 🟢 현대의 사목적 부정 (Not A)
-*   **[LG-16] 제2차 바티칸 공의회 Lumen Gentium 16항 (1964)**
-    > "구원의 계획은 창조주를 인정하는 모든 이, **특히 아브라함의 신앙을 고백하는 무슬림들**도 포함한다. 자기 탓 없이 복음을 모르는 사람도 양심을 따르면 구원받을 수 구원받을 수 있다."
-*   **[CCC-0847] 가톨릭 교리서 847항**
-    > '교회 밖에는 어떤 구원도 절대적으로 불가능하다'는 엄격한 해석을 오류로 배격함.
-*   **[DENZINGER-FEENEY] 신앙교리성 서한 (1949, 피니주의 정죄) (서브 에이전트 발굴 추가 증거)**
-    > "가시적인 물의 세례를 받지 않고 가톨릭 교회에 외적으로 등록되지 않은 사람이라도, 암묵적 열망(voto implicito)만 있다면 구원받을 수 있다."
-
-**💥 CVCAP 정밀 판독 결과: [완벽한 정면 충돌 (YES)]**
-피렌체 공의회와 라테란 공의회는 **"어떤 예외도 없이 가시적 교회 밖에 있으면 지옥"**이라는 절대 명제를 박았습니다. 그러나 1949년 교황청과 2차 바티칸 공의회는 '암묵적 열망'이라는 핑계로 무슬림과 이교도에게까지 구원의 문을 열었고, 심지어 과거 공의회 명제 그대로(교회 밖 구원 절대 불가)를 믿는 자들(피니주의자들)을 이단으로 정죄했습니다. 스스로의 과거 무류성을 이단으로 정죄해버린 완벽한 논리적 파괴입니다.
-
-* 📍 **전수 조사 교차 검출 데이터**: `auto_conflict_results.csv` 전 구간에서 동일한 교리적 파탄 구조가 반복 확인됨 (행 번호는 재생성 시마다 변동되므로 카드 ID — COUNCIL-FLORENCE, UNAM-SANCTAM, LG-16, CCC-0847 — 로 검색).
+**Subtitle: The Catholic Audit — Strict Verified Contradictions Only**
+**Verification Method**: `CVCAP (Catholic Vault & Conciliar Audit Pipeline) 3.0 deployed`
+(A final, full-scan report that, through multilingual AI embedding plus LLM cross-verification, 100% excludes misreadings, category errors, and lexical false positives, selecting only **"genuine doctrinal contradictions with no escape."**)
 
 ---
 
-## 2부. '익명의 그리스도인' 모순: 신앙의 필수성 vs 무지의 구원 (AI 신규 포착)
+## Part 1. The Absolute Collapse of Soteriology: Rigorism vs. Inclusivism
 
-AI 임베딩 모델이 찾아낸 구원론 내부에 존재하는 또 다른 정밀한 모순입니다.
+A painful contradiction showing how the exclusivist soteriology Catholicism historically declared with its strongest curse (anathema) has, in the modern era, been directly negated by itself.
 
-### 🛑 믿음의 절대적 필수성 (A)
-*   **[CCC-161] 가톨릭 교리서 161항**
-    > "예수 그리스도를 향한 믿음 없이도 구원을 얻을 수 있다는 명제를 배격한다. 구원을 얻기 위해서는 예수 그리스도에 대한 신앙이 필수적이다."
+### 🛑 The Past Absolute Infallible Declaration (A)
+*   **[COUNCIL-FLORENCE] Council of Florence (1442, De Fide)**
+    > "Outside the Catholic Church, not only pagans but Jews and heretics as well will fall into eternal hellfire unless they are joined to the Church before death. **Even if one sheds their blood in martyrdom for the name of Christ, they cannot be saved unless they remain within the Catholic Church.**"
+*   **[UNAM-SANCTAM] Boniface VIII, Unam Sanctam (1302, De Fide)**
+    > "Outside the one, holy, catholic and apostolic Church there is neither salvation nor remission of sins (Extra Ecclesiam nulla salus)."
+*   **[COUNCIL-LATERAN_IV] Fourth Lateran Council (1215) (additional evidence discovered by a subagent)**
+    > "There is but one universal Church of the faithful, outside of which no one at all is saved."
 
-### 🟢 복음을 모르는 자의 구원 허용 (Not A)
-*   **[LG-16] 제2차 바티칸 공의회 Lumen Gentium 16항**
-    > "자기 탓 없이 그리스도의 복음을 모르는 자도 하느님의 은총에 이끌려 양심을 실천하면 구원받을 수 있다."
+### 🟢 The Modern Pastoral Negation (Not A)
+*   **[LG-16] Second Vatican Council, Lumen Gentium §16 (1964)**
+    > "The plan of salvation includes all who acknowledge the Creator, **especially the Muslims, who profess to hold the faith of Abraham.** Those who, through no fault of their own, do not know the Gospel can also be saved by following their conscience."
+*   **[CCC-0847] Catechism of the Catholic Church, §847**
+    > Rejects, as an error, the strict interpretation that 'no salvation whatsoever is possible outside the Church.'
+*   **[DENZINGER-FEENEY] Letter of the Holy Office (1949, condemnation of Feeneyism) (additional evidence discovered by a subagent)**
+    > "Even a person who has not received visible water baptism and is not externally registered in the Catholic Church can be saved through an implicit desire (voto implicito) alone."
 
-**💥 CVCAP 정밀 판독 결과: [논리적 자가당착 (YES)]**
-A(CCC 161)는 명시적으로 예수 그리스도에 대한 믿음이 없으면 구원받을 수 없다고 단죄합니다. 그런데 B(LG 16)는 복음을 몰라 예수에 대한 믿음이 아예 성립할 수 없는 자도 양심에 따라 구원받을 수 있다고 가르칩니다. 가톨릭 신학은 이를 '암묵적 신앙'이라는 말로 포장하지만, 논리적으로 "믿음 없이 구원 불가"와 "모르는 자도 구원 가능"은 완벽한 모순입니다.
+**💥 CVCAP Precision Reading Result: [A Perfect Head-On Collision (YES)]**
+The Councils of Florence and Lateran nailed down the absolute proposition, **"outside the visible Church, without exception, is hell."** Yet in 1949 the Vatican, and in 1964 the Second Vatican Council, opened the door of salvation even to Muslims and pagans on the pretext of an 'implicit desire,' and even condemned as heretics (the Feeneyites) those who believed the past conciliar proposition exactly as written (salvation absolutely impossible outside the Church). This is a perfect logical self-destruction, in which Catholicism condemned its own past infallibility as heresy.
 
-* 📍 **전수 조사 교차 검출 데이터**: `auto_conflict_results.csv`에서 '신앙의 필수성'(CCC-161_165)과 '무지의 예외'(LG-16) 간의 치명적 충돌 확인 (카드 ID로 검색).
-
----
-
-## 3부. 종교의 자유와 인권: 100년 만의 권위 항복
-
-가톨릭이 과거 타종교를 박해했던 교리가 현대 인권 사상과 충돌하여 완전히 스스로 항복한 사례입니다.
-
-### 🛑 과거의 억압적 권위 (A)
-*   **[DENZINGER-SYLLABUS] 비오 9세 Syllabus Errorum (1864)**
-    > "비가톨릭 신자들의 공적 예배를 허용해야 한다"는 명제를 **'단죄받아 마땅한 오류(Error)'로 정죄**함. 국가는 이단을 억압할 권리와 의무가 있다고 선언.
-
-### 🟢 현대의 인권 옹호 (Not A)
-*   **[DIGNITATIS-HUMANAE] 제2차 바티칸 공의회 Dignitatis Humanae (1965)**
-    > "모든 인간은 종교 문제에 있어서 외부 강제를 받지 않을 **'종교 자유'의 권리**가 있으며, 이는 인간 존엄성 자체에 바탕을 둔다."
-
-**💥 CVCAP 정밀 판독 결과: [완벽한 정면 충돌 (YES)]**
-1864년의 교황이 '오류'이자 '죄악'이라 단죄했던 '종교의 자유'를, 불과 100년 뒤 1965년의 공의회는 '하느님이 부여한 천부인권'으로 격상시켰습니다. 진리가 발전한 것이 아니라, 시대적 압박에 의해 과거 교도권의 가르침을 스스로 폐기한 명백한 교리 변개입니다.
-
-* 📍 **전수 조사 교차 검출 데이터**: `auto_conflict_results.csv` 전 구간에 걸쳐 해당 두 문헌(DENZINGER-SYLLABUS ↔ DIGNITATIS-HUMANAE)의 극심한 정면 충돌이 반복 검출됨.
+* 📍 **Full-Scan Cross-Detection Data**: the same pattern of doctrinal collapse is repeatedly confirmed throughout `auto_conflict_results.csv` (search by card ID — COUNCIL-FLORENCE, UNAM-SANCTAM, LG-16, CCC-0847 — since row numbers shift on regeneration).
 
 ---
 
-## 4부. 현대 윤리 교리의 초고속 붕괴 (단 2년 만의 충돌)
+## Part 2. The "Anonymous Christian" Contradiction: The Necessity of Faith vs. the Salvation of the Ignorant (Newly Captured by AI)
 
-수백 년간의 충돌뿐만 아니라, **프란치스코 교황 치하의 단 2년 사이**에도 교리가 정면 충돌하는 촌극입니다.
+Another precise contradiction within soteriology, found by the AI embedding model.
 
-### 🛑 2021년 동성 결합 축복 금지 (A)
-*   **[CDF-RESPONSUM] 신앙교리부 교도권 선언 (2021)**
-    > "교회는 동성 간의 결합에 축복을 내릴 권한을 가지고 있지 않다. **하느님은 죄를 축복하시지 않으며 축복하실 수도 없기 때문이다.**"
+### 🛑 The Absolute Necessity of Faith (A)
+*   **[CCC-161] Catechism of the Catholic Church, §161**
+    > "Rejects the proposition that salvation can be obtained without faith in Jesus Christ. Faith in Jesus Christ is necessary to obtain salvation."
 
-### 🟢 2023년 사목적 축복 허용 (Not A)
+### 🟢 Permitting the Salvation of Those Who Do Not Know the Gospel (Not A)
+*   **[LG-16] Second Vatican Council, Lumen Gentium §16**
+    > "Even one who, through no fault of their own, does not know the Gospel of Christ can be saved by being led by God's grace to practice conscience."
+
+**💥 CVCAP Precision Reading Result: [Logical Self-Contradiction (YES)]**
+A (CCC 161) explicitly condemns the proposition that one cannot be saved without faith in Jesus Christ. Yet B (LG 16) teaches that even one for whom faith in Jesus cannot even arise, because they do not know the Gospel, can be saved by following their conscience. Catholic theology wraps this in the language of 'implicit faith,' but logically, "no salvation without faith" and "even the ignorant can be saved" are a perfect contradiction.
+
+* 📍 **Full-Scan Cross-Detection Data**: a fatal collision between 'the necessity of faith' (CCC-161_165) and 'the exception for ignorance' (LG-16) is confirmed in `auto_conflict_results.csv` (search by card ID).
+
+---
+
+## Part 3. Religious Freedom and Human Rights: A Surrender of Authority After a Century
+
+A case in which Catholicism's own past doctrine of persecuting other religions collided with modern human-rights thought and completely surrendered to it.
+
+### 🛑 The Past Oppressive Authority (A)
+*   **[DENZINGER-SYLLABUS] Pius IX, Syllabus Errorum (1864)**
+    > **Condemns as an 'error deserving condemnation'** the proposition that "the public worship of non-Catholic believers should be permitted." Declares that the state has the right and duty to suppress heresy.
+
+### 🟢 The Modern Defense of Human Rights (Not A)
+*   **[DIGNITATIS-HUMANAE] Second Vatican Council, Dignitatis Humanae (1965)**
+    > "Every human being has the right to 'religious freedom' — to be free from external coercion in matters of religion — and this is grounded in the dignity of the human person itself."
+
+**💥 CVCAP Precision Reading Result: [A Perfect Head-On Collision (YES)]**
+'Religious freedom,' which a pope of 1864 condemned as 'error' and 'sin,' was elevated by a council a mere century later, in 1965, to a 'God-given, inherent human right.' This is not the development of truth but a plain doctrinal alteration, in which the Church, under the pressure of the age, discarded the teaching of a past Magisterium by itself.
+
+* 📍 **Full-Scan Cross-Detection Data**: a severe head-on collision between these two documents (DENZINGER-SYLLABUS ↔ DIGNITATIS-HUMANAE) is repeatedly detected throughout `auto_conflict_results.csv`.
+
+---
+
+## Part 4. The Ultra-Rapid Collapse of Modern Ethical Doctrine (A Collision Within a Mere Two Years)
+
+Not only conflicts spanning centuries, but a farce in which doctrine collided head-on within a mere **two years, under the same Pope Francis.**
+
+### 🛑 The 2021 Prohibition on Blessing Same-Sex Unions (A)
+*   **[CDF-RESPONSUM] Magisterial declaration of the Congregation for the Doctrine of the Faith (2021)**
+    > "The Church has no power to impart blessings on unions of persons of the same sex, **because God cannot bless sin and cannot be asked to do so.**"
+
+### 🟢 The 2023 Permission of a Pastoral Blessing (Not A)
 *   **[FIDUCIA-SUPPLICANS] Fiducia Supplicans (2023)**
-    > "전례적 형태가 아닌 사목적인 형태의 **축복은 비정규적 커플과 동성 커플에게도 주어질 수 있다.**"
+    > "A blessing in a non-liturgical, pastoral form **can be given even to couples in irregular situations and to same-sex couples.**"
 
-**💥 CVCAP 정밀 판독 결과: [완벽한 정면 충돌 (YES)]**
-불과 2년 전 "하느님의 본성상 죄를 축복할 수 없다"는 존재론적 근거를 들어 금지(A)했던 사항을, 2년 뒤 '사목적 축복'이라는 단어 장난을 통해 허용(Not A)했습니다. 가톨릭 교도권의 교리 수호 능력이 정치적 압력 앞에서 완전히 무너졌음을 증명합니다.
+**💥 CVCAP Precision Reading Result: [A Perfect Head-On Collision (YES)]**
+The very matter prohibited (A) only two years earlier on the ontological ground that "God cannot, by nature, bless sin," was permitted (Not A) two years later through the wordplay of a 'pastoral blessing.' This proves that the Catholic Magisterium's ability to guard doctrine collapsed entirely in the face of political pressure.
 
-* 📍 **전수 조사 교차 검출 데이터**: `auto_conflict_results.csv`에서 동일한 두 교도권 문서(CDF-RESPONSUM ↔ FIDUCIA-SUPPLICANS) 간의 모순적 행보가 교차 포착됨.
-
----
-
-## 5부. 법(Law)과 사목(Pastoral)의 분열을 통한 객관주의 붕괴
-
-### 🛑 객관적 율법과 제재 (A)
-*   **[CANON-SACR] 교회법 제915조**
-    > 이혼 후 재혼한 자들과 같이 '고집스럽게 명백한 대죄 중에 머무는 자'는 성체를 영할 수 없다.
-
-### 🟢 주관적 상황주의의 도입 (Not A)
-*   **[AMORIS-LAETITIA-CH8] 프란치스코 교황, Amoris Laetitia 8장 (2016)**
-    > 객관적인 대죄 상태(재혼)에 있더라도 주관적 조건(무지, 어쩔 수 없는 상황 등)에 따라 죄의 책임이 경감되므로, 사목 식별을 거쳐 성체성사에 참여할 수 있다.
-
-**💥 CVCAP 정밀 판독 결과: [객관성 붕괴 / 편법적 우회 (YES)]**
-"이혼 후 재혼은 간음"이라는 예수의 율법을 정면 부정할 수 없자, 교황청은 '주관적 책임 경감'이라는 우회로(Not A)를 뚫었습니다. 이는 객관적 진리보다 인간의 주관적 상황을 우위에 두는 상황윤리(Situation Ethics)의 도입으로, 가톨릭 도덕 신학의 근간을 해체한 사건입니다.
+* 📍 **Full-Scan Cross-Detection Data**: a contradictory course of action between these two Magisterial documents (CDF-RESPONSUM ↔ FIDUCIA-SUPPLICANS) is cross-detected in `auto_conflict_results.csv`.
 
 ---
 
-## 6부. 고해성사 제도의 절대성 우회 (AI 신규 포착)
+## Part 5. The Collapse of Objectivism Through the Split Between Law and Pastoral Care
 
-### 🛑 사제 개입의 절대성 (A)
-*   **[TRENT-S14-CONFESSION] 트리엔트 공의회 14차 회기**
-    > "사제 없이 하느님께 직접 고백하면 죄가 사해진다는 명제를 이단으로 단죄함." (죄 사면에서 사제의 중개를 필수 불가결로 절대화)
+### 🛑 Objective Law and Sanction (A)
+*   **[CANON-SACR] Canon 915**
+    > One who 'obstinately persists in manifest grave sin,' such as the divorced and remarried, may not receive the Eucharist.
 
-### 🟢 완전한 통회(Contritio Perfecta)의 예외적 사효성 (Not A)
-*   **[CCC-1452] 가톨릭 교리서 1452항**
-    > "고해성사를 받겠다는 결심과 함께라면, 하느님에 대한 사랑에서 우러나온 완전한 통회로 대죄도 용서된다."
+### 🟢 The Introduction of Subjective Situationism (Not A)
+*   **[AMORIS-LAETITIA-CH8] Pope Francis, Amoris Laetitia, Chapter 8 (2016)**
+    > Even one in an objective state of mortal sin (remarriage) may, depending on subjective conditions (ignorance, unavoidable circumstances, etc.), have their responsibility for sin diminished, and so may participate in the Eucharist after pastoral discernment.
 
-**💥 CVCAP 정밀 판독 결과: [신학적 기만 / 논리적 구멍 (YES)]**
-사제를 배제한 하느님의 직접 용서를 이단(A)으로 단죄하면서도, 사제를 만나기 **전**이라도 통회만 하면 하느님이 직접 용서하신다(B)고 가르칩니다. "결국 나중에 사제에게 갈 마음을 먹었으니 하느님이 먼저 직접 용서해 주신 것은 이단이 아니다"라는 기이한 논리(Loophole)를 통해, 사제 권력 수호와 하느님의 자비 사이에서 억지로 교리를 땜질(Patchwork)한 명백한 한계를 보여줍니다.
-
----
-
-## 7부. 교황 무류성의 사후 변증적 붕괴 (역사적 아드혹)
-
-### 🛑 무류한 공의회의 교황 이단 정죄 (A)
-*   **[COUNCIL-CONST_III] 제3차 콘스탄티노플 공의회 (681)**
-    > 전임 로마 교황 호노리우스 1세를 이단에 동조한 혐의로 정죄하고 사후 파문함.
-
-### 🟢 1천년 후의 교황 무류성 선언 (Not A)
-*   **[VAT1-PASTOR-AETERNUS] 제1차 바티칸 공의회 Pastor Aeternus (1870)**
-    > 로마 교황이 교좌에서(Ex Cathedra) 신앙과 도덕을 선언할 때 자체로 무류하다고 선언.
-
-**💥 CVCAP 정밀 판독 결과: [실질적 권위 붕괴 (YES)]**
-형식 논리학적으로 변증가들은 "호노리우스가 의자에 앉아서(Ex Cathedra) 이단을 선언한 건 아니므로 무류성은 깨지지 않았다"고 방어합니다. 그러나 이 방어는 "개인 자격으로 이단에 빠져 교회를 오염시켜도 의자에서 선언한 것만 아니면 무류하다"는 극단적인 궤변(Ad hoc)에 불과합니다. 형식적 모순을 피하기 위해 실질적인 교도권의 영적 권위를 스스로 붕괴시킨 거대한 딜레마입니다.
+**💥 CVCAP Precision Reading Result: [Collapse of Objectivity / A Loophole Workaround (YES)]**
+Unable to directly deny Jesus's law that "remarriage after divorce is adultery," the Vatican instead opened a bypass (Not A) of 'diminished subjective responsibility.' This is the introduction of Situation Ethics, placing a human being's subjective circumstance above objective truth — an event that dismantles the very foundation of Catholic moral theology.
 
 ---
 
-## 8부. 마리아 무염시태와 '사망의 삯'의 귀류법적 붕괴 (CVCAP 2.0 귀류법 적용)
+## Part 6. Bypassing the Absoluteness of the Sacrament of Confession (Newly Captured by AI)
 
-### 🛑 죽음의 원인에 대한 교리적 전제 (A)
-*   **[CCC-1008] 가톨릭 교리서**
-    > "죽음은 죄의 결과이다. 교회의 교도권은 죽음이 인간이 지은 죄 때문에 세상에 들어왔다고 가르친다." (로마서 6:23)
+### 🛑 The Absoluteness of Priestly Intervention (A)
+*   **[TRENT-S14-CONFESSION] Council of Trent, Fourteenth Session**
+    > "Condemns as heresy the proposition that sin is forgiven by confessing directly to God without a priest" (absolutizing the priest's mediation as indispensable for the forgiveness of sin).
 
-### 🟢 원죄의 면제와 마리아의 죽음 (Not A)
-*   **[INEFFABILIS-DEUS] 비오 9세, 형언할 수 없는 하느님 (1854)**
-    > "복되신 동정 마리아는 잉태된 첫 순간부터 원죄의 모든 얼룩으로부터 면제되었다(무염시태)."
-*   **[MUNIFICENTISSIMUS-DEUS] 비오 12세, 지극히 관대하신 하느님 (1950)**
-    > "원죄 없으신 평생 동정 마리아는 지상 생애의 여정을 마친 다음(즉, 육체적 영면/죽음을 겪은 후) 영광에로 올려졌다."
+### 🟢 The Exceptional Efficacy of Perfect Contrition (Contritio Perfecta) (Not A)
+*   **[CCC-1452] Catechism of the Catholic Church, §1452**
+    > "Together with the resolve to go to confession, even mortal sin is forgiven through perfect contrition that arises from love of God."
 
-**💥 CVCAP 2.0 심층 판독: [귀류법적 시스템 붕괴 (YES)]**
-가톨릭은 마리아가 원죄가 없다고 선언했습니다. 원죄가 없다면 그 형벌인 '육체적 죽음'도 없어야 합니다. 그런데 가톨릭 전승은 마리아가 육체적 죽음(영면)을 맞이했다고 가르칩니다. 원죄가 없는데 사망의 삯을 치렀다는 것은, '무염시태 교리'가 거짓이거나 '죽음은 죄의 결과'라는 성경적 전제가 거짓이라는 극심한 귀류법적 부조리를 낳습니다.
+**💥 CVCAP Precision Reading Result: [Theological Deception / A Logical Loophole (YES)]**
+While condemning as heresy (A) the direct forgiveness of God apart from a priest, Catholicism also teaches (B) that God forgives directly, even **before** one meets a priest, so long as one has contrition. Through the bizarre loophole logic that "since the person had already resolved to eventually go to a priest, God's prior direct forgiveness is not heresy," this shows a plain limitation: doctrine has been forcibly patched together between guarding priestly power and preserving God's mercy.
 
 ---
 
-## 9부. 이신칭의 단죄의 해석학적 기만 (CVCAP 2.0 해석학적 단절 적용)
+## Part 7. The Post-Hoc Apologetic Collapse of Papal Infallibility (A Historical Ad Hoc)
 
-### 🛑 과거의 절대적 저주 (A)
-*   **[TRENT-S06] 트리엔트 공의회 6차 회기 (1547)**
-    > "사람이 그리스도의 의의 전가만으로, 즉 오직 믿음(Sola Fide)만으로 의롭게 된다고 말하는 자는 파문받을지어다(Anathema)."
+### 🛑 An Infallible Council's Condemnation of a Pope as a Heretic (A)
+*   **[COUNCIL-CONST_III] Third Council of Constantinople (681)**
+    > Condemned the former Roman Pontiff Honorius I on the charge of colluding with heresy, and posthumously excommunicated him.
 
-### 🟢 현대의 은근슬쩍 수용 (Not A)
-*   **[JDDJ] 칭의 교리에 관한 공동 선언 (1999)**
-    > "우리는 오직 은총으로, 그리스도의 구원 행위에 대한 믿음 안에서 하느님께 의롭게 받아들여진다는 것을 함께 고백한다."
+### 🟢 The Declaration of Papal Infallibility a Millennium Later (Not A)
+*   **[VAT1-PASTOR-AETERNUS] First Vatican Council, Pastor Aeternus (1870)**
+    > Declares that the Roman Pontiff is, of himself, infallible when he declares matters of faith and morals ex cathedra.
 
-**💥 CVCAP 2.0 심층 판독: [해석학적 사기 / 애매어의 오류 (YES)]**
-16세기에 수많은 개신교인들을 이단으로 정죄하고 파문했던 '오직 믿음'이라는 교리를, 20세기에 와서 단어의 뉘앙스만 교묘하게 바꾸어(오직 은총과 믿음 안에서) 정통으로 수용했습니다. 이는 제1차 바티칸 공의회가 명시한 '교리는 과거와 완전히 동일한 의미(eodem sensu)로만 발전해야 한다'는 규칙을 정면으로 위반한 해석학적 단절이자 꼼수입니다.
-
----
-
-## 10부. 교황 수위권과 공의회 수위권의 역사적 충돌 (CVCAP 2.0 권위 하극상 검증)
-
-### 🛑 공의회의 수위권 절대화 (A)
-*   **[COUNCIL-CONSTANCE] 콘스탄츠 공의회 Haec Sancta 교령 (1415)**
-    > "이 공의회는 그리스도로부터 직접 권능을 받으며, 교황의 지위를 가진 자를 포함하여 그 누구라도 신앙과 개혁에 관하여 이 공의회에 복종해야 한다."
-
-### 🟢 교황의 수위권 절대화 (Not A)
-*   **[VAT1-PASTOR-AETERNUS] 제1차 바티칸 공의회 Pastor Aeternus (1870)**
-    > "로마 교황은 모든 공의회와 교회 위에 군림하는 최고 관할권을 가지며, 교황의 판결은 어떤 권위(공의회 포함)에 의해서도 번복될 수 없다."
-
-**💥 CVCAP 2.0 심층 판독: [권위 체계의 역사적 붕괴 (YES)]**
-서구 대이교(3명의 교황이 난립) 시대를 끝내기 위해 가톨릭 교회는 "공의회가 교황보다 높다"고 선언(A)하여 교황들을 해임했습니다. 그러나 나중에 교황권이 안정을 되찾자 1870년에 "교황이 공의회보다 높다"고 선언(Not A)했습니다. 이는 가톨릭의 '무류성'이 신적 진리가 아니라 권력의 향방에 따라 그 주체가 뒤바뀌는 정치적 산물임을 기계적으로 증명합니다.
+**💥 CVCAP Precision Reading Result: [The Practical Collapse of Authority (YES)]**
+Formally, apologists defend this by saying, "since Honorius did not declare his heresy seated ex cathedra, infallibility is not broken." But this defense is nothing more than an extreme ad hoc sophistry: "even if he fell into heresy as an individual and defiled the Church, he remains infallible so long as he did not declare it from the chair." This is a massive dilemma in which, to avoid a formal contradiction, the Magisterium's substantive spiritual authority is itself made to collapse.
 
 ---
 
-## 11부. 교리의 발전인가, 목표대 이동인가? (CVCAP 3.0 목표대 이동 적발)
+## Part 8. The Reductio Ad Absurdum Collapse of the Immaculate Conception and "the Wages of Death" (Applying the CVCAP 2.0 Reductio)
 
-### 🛑 과거의 공식 가르침 (A)
-*   **[Limbo of the Infants] 림보(고성소) 교리**
-    > 수백 년 동안 가톨릭은 세례를 받지 못하고 죽은 아기들은 원죄 때문에 천국에 가지 못하고 '림보'에 간다고 가르침.
+### 🛑 The Doctrinal Premise Concerning the Cause of Death (A)
+*   **[CCC-1008] Catechism of the Catholic Church**
+    > "Death is a consequence of sin. The Church's Magisterium... teaches that death entered the world on account of man's sin" (Romans 6:23).
 
-### 🟢 현대의 은근한 폐기와 축소 (Not A)
-*   **[ITC Report 2007] 국제신학위원회 (교황 베네딕토 16세 승인)**
-    > "세례받지 않고 죽은 아기들이 구원받을 수 있다는 희망을 가질 신학적, 전례적 근거가 있다."
+### 🟢 Mary's Exemption from Original Sin, and Her Death (Not A)
+*   **[INEFFABILIS-DEUS] Pius IX, Ineffabilis Deus (1854)**
+    > "The Blessed Virgin Mary, from the first moment of her conception, was preserved immune from all stain of original sin (the Immaculate Conception)."
+*   **[MUNIFICENTISSIMUS-DEUS] Pius XII, Munificentissimus Deus (1950)**
+    > "Mary, ever-virgin and immaculate, having completed the course of her earthly life (that is, having undergone bodily repose/death), was assumed into glory."
 
-**💥 CVCAP 3.0 심층 판독: [목표대 이동의 오류 (YES)]**
-수백 년간 정설로 가르치며 성도들을 통제했던 교리가 현대 사회의 윤리적 압박에 직면하자, "림보는 확정된 교의(Dogma)가 아니라 신학적 가설에 불과했다"며 슬그머니 목표대를 옮겼습니다. 이는 '무류한 진리'가 아니라 상황에 따라 말을 바꾸는 전형적인 궤변(Moving Goalposts)입니다.
-
----
-
-## 12부. 해석의 독점과 부메랑 논증 (CVCAP 3.0 역논법 적용)
-
-### 🛑 가톨릭의 공격 프레임 (A)
-*   **[교도권의 필요성 주장]**
-    > "성경은 난해하므로 개인(개신교)이 해석하면 33,000개로 찢어진다. 따라서 오류 없는(무류한) 교도권의 공식적인 해석이 절대적으로 필요하다."
-
-### 🟢 자체 모순의 발현 (Not A)
-*   **[교도권 문헌에 대한 혼란]**
-    > 제2차 바티칸 공의회 문헌이나 프란치스코 교황의 *Amoris Laetitia*, *Fiducia Supplicans* 발표 직후, 추기경들과 주교들조차 해석이 엇갈려 파벌이 나뉘고 전 세계 가톨릭 내부가 극심한 분열에 휩싸임.
-
-**💥 CVCAP 3.0 심층 판독: [자가당착 / 부메랑 논증 (YES)]**
-"오류 없는 해석을 위해 무류한 기관이 필요하다"면, "그 무류한 기관이 내놓은 문헌을 읽는 평신도와 사제들의 뇌(해석)는 무류한가?"라는 역논법(Retorsion)에 박살납니다. 교도권의 문헌조차 수만 가지로 오독되고 분열된다면, '성경 밖의 무류한 해석 기관'을 두어야 한다는 가톨릭의 핵심 전제는 스스로 자멸합니다.
+**💥 CVCAP 2.0 In-Depth Reading: [Reductio Ad Absurdum Systemic Collapse (YES)]**
+Catholicism declared that Mary had no original sin. If she had no original sin, then she should also not have suffered its penalty, "physical death." Yet Catholic tradition teaches that Mary underwent physical death (repose). That she, having no original sin, still paid the wages of death produces a severe reductio ad absurdum: either 'the doctrine of the Immaculate Conception' is false, or the scriptural premise that 'death is the consequence of sin' is false.
 
 ---
 
-## 13부. 마리아 교리와 거룩한 침묵 (CVCAP 3.0 첫 언급의 법칙)
+## Part 9. The Hermeneutical Deception of the Condemnation of Justification by Faith (Applying the CVCAP 2.0 Hermeneutical Rupture)
 
-### 🛑 가톨릭의 몽소승천 교의 (A)
-*   **[MUNIFICENTISSIMUS-DEUS] 비오 12세 (1950년)**
-    > 마리아가 육체와 영혼이 함께 하늘로 승천했다는 것을 믿을 교리로 선언.
+### 🛑 The Past Absolute Curse (A)
+*   **[TRENT-S06] Council of Trent, Sixth Session (1547)**
+    > "Whoever says that a man is justified by the imputation of Christ's righteousness alone, that is, by faith alone (Sola Fide): let him be anathema."
 
-### 🟢 초대교회와 성경의 완벽한 침묵 (Not A)
-*   **[신약성경 및 1세기 사도 교부 문헌]**
-    > 요한복음, 사도행전, 바울 서신 등 가장 중요한 1세기 문헌 전체가 마리아의 승천이나 초자연적 영광에 대해 단 한 줄도 기록하지 않은 완벽한 침묵(Silence)을 유지함.
+### 🟢 The Quiet Modern Acceptance (Not A)
+*   **[JDDJ] Joint Declaration on the Doctrine of Justification (1999)**
+    > "Together we confess that by grace alone, in faith in Christ's saving work... we are accepted by God and receive the Holy Spirit."
 
-**💥 CVCAP 3.0 심층 판독: [역사적 단절 / 후대 창작 (YES)]**
-이처럼 거대한 우주적 사건(마리아의 육체 승천)이 사실이라면 1세기 사도들이 절대 침묵할 리 없습니다. 침묵 논증(Argument from Silence)과 첫 언급의 법칙(First Mention)에 따르면, 수백 년이 지나서야 등장하는 이 교리는 '교리의 발전'이 아니라 '이교도 여신 신앙의 융합과 후대의 창작'임이 확정됩니다.
-
----
-
-## 14부. 거짓 이분법의 붕괴: 무류인가, 혼란인가? (CVCAP 3.0 적용)
-
-### 🛑 가톨릭 호교론의 거짓 프레임 (A)
-*   > "가톨릭 단일 교회(질서)에 남을 것인가, 3만 개로 찢어진 개신교(혼란)에 빠질 것인가?"
-
-### 🟢 제3의 진리: 영적 무형 교회 (Not A)
-*   > 진짜 참 교회는 바티칸이라는 '정치적 조직(가시적 제도)'이 아니라, 시공간을 초월해 성령으로 거듭난 성도들의 '영적 연합(무형 교회)'이다.
-
-**💥 CVCAP 3.0 심층 판독: [거짓 이분법 적발 (YES)]**
-'무류한 오류 기관' vs '분열된 개신교'라는 A 아니면 B의 강압적 프레임은 전형적인 거짓 이분법(False Dichotomy)입니다. 진리는 거대한 인간 조직의 '단일성'에 있는 것이 아니라, 흩어져 있어도 동일한 복음을 믿는 성도들의 '영적 본질'에 있습니다.
+**💥 CVCAP 2.0 In-Depth Reading: [Hermeneutical Fraud / The Fallacy of Equivocation (YES)]**
+The doctrine of 'faith alone,' which in the 16th century condemned and anathematized countless Protestants as heretics, was accepted as orthodox in the 20th century simply by cleverly altering the nuance of the wording ('by grace alone... in faith'). This is a hermeneutical rupture and a sleight of hand that directly violates the rule the First Vatican Council itself specified: that 'doctrine may only develop while retaining exactly the same meaning as the past (eodem sensu).'
 
 ---
 
-## 15부. 영적 자본주의와 구원 매매의 부조리 (CVCAP 3.0 연옥/대사 콤보 적발)
+## Part 10. The Historical Collision Between Papal Primacy and Conciliar Primacy (Applying CVCAP 2.0's Authority-Insubordination Verification)
 
-### 🛑 가톨릭의 교리적 전제 (A)
-*   **[CCC-1996] 은총의 무상성**
-    > "은총은 하느님이 거저 주시는 무상의 선물이다."
+### 🛑 The Absolutization of Conciliar Primacy (A)
+*   **[COUNCIL-CONSTANCE] Council of Constance, Decree Haec Sancta (1415)**
+    > "This council holds power immediately from Christ, and everyone of whatever rank or dignity, including a pope, is bound to obey this council in matters concerning the faith and reform."
 
-### 🟢 실천적 행위 강요와 위선 (Not A)
-*   **[TRENT-S06-C32 & CCC-1471] 공로와 대사(면죄부)**
-    > "선한 행위를 통해 영원한 생명(공로)을 참으로 얻을 수 있다."
-    > "고해성사로 죄가 용서받아도 잠벌이 남으므로, 교회가 정한 조건(기도, 선행, 헌금 등)을 채워 대사(Indulgentia)를 받아야 벌이 면제된다."
+### 🟢 The Absolutization of Papal Primacy (Not A)
+*   **[VAT1-PASTOR-AETERNUS] First Vatican Council, Pastor Aeternus (1870)**
+    > "The Roman Pontiff holds supreme jurisdiction over all councils and the whole Church, and the pope's judgments cannot be overturned by any authority (including a council)."
 
-**💥 CVCAP 3.0 콤보 타격: [실천적 모순 + 귀류법 + 침묵 논증 (YES)]**
-'은총은 거저 주는 선물(A)'이라면서, 동시에 '조건을 채우지 않으면 연옥 벌을 받는다(Not A)'는 치명적인 귀류법적 충돌(Filter 1)입니다. 십자가 대속의 완전성을 교리로 포장하면서도 실제로는 교황청이 '구원(벌의 면제)'의 유통권을 쥐고 신자들을 통제하는 실천적 위선(Filter 4)이며, 초대교회 성경에는 연옥이나 대사(면죄부) 단어가 단 한 번도 등장하지 않는 완벽한 침묵(Filter 8)을 보여줍니다. 이는 신적 진리가 아니라 '영적 자본주의'의 산물입니다.
-
+**💥 CVCAP 2.0 In-Depth Reading: [The Historical Collapse of the Authority System (YES)]**
+To end the era of the Western Schism (when three rival popes contended), the Catholic Church declared (A) that "a council is superior to the pope" and deposed the popes. But once papal authority later stabilized, it declared in 1870 (Not A) that "the pope is superior to a council." This mechanically proves that Catholic 'infallibility' is not a divine truth, but a political product whose subject shifts back and forth according to the direction of power.
 
 ---
 
-## 16부. 동성 축복과 도덕적 절대성의 붕괴 (CVCAP 3.0 동성애 콤보 적발)
+## Part 11. Doctrinal Development, or Moving the Goalposts? (Detecting the CVCAP 3.0 Moving-Goalposts Fallacy)
 
-### 🛑 가톨릭의 교리적 전제 (A)
-*   **[CDF-RESPONSUM (2021)] 신앙교리성 유권해석**
-    > "교회는 동성 결합을 축복할 권한이 없다. 하느님은 죄를 축복하실 수 없기 때문이다(God cannot bless sin)."
+### 🛑 The Past Official Teaching (A)
+*   **[Limbo of the Infants] The Doctrine of Limbo**
+    > For centuries, Catholicism taught that infants who died unbaptized could not enter heaven, because of original sin, and went to 'limbo.'
 
-### 🟢 단 2년 만의 축복 허용 (Not A)
-*   **[FIDUCIA-SUPPLICANS (2023)] 프란치스코 교황**
-    > "비정상적 상황(동성 커플)에 있는 이들을 '사목적'으로 축복할 수 있다."
+### 🟢 The Modern Quiet Abolition and Reduction (Not A)
+*   **[ITC Report 2007] International Theological Commission (approved by Pope Benedict XVI)**
+    > "There are theological and liturgical grounds for hope that infants who die without baptism may be saved."
 
-**💥 CVCAP 3.0 콤보 타격: [해석학적 단절 + 목표대 이동 + 실천적 모순 (YES)]**
-'하느님은 죄를 축복하실 수 없다(본질적 악)'는 절대적 선언이 불과 2년 만에 뒤집히는 충격적인 해석학적 단절(Filter 2)입니다. 이에 대해 "전례적 축복이 아니라 사목적 축복이다"라며 단어를 쪼개어 우회하려는 궤변(목표대 이동, Filter 5)을 동원하였으나, 실천적으로는 죄악된 결합에 하느님의 자비를 비는 완벽한 위선(Filter 4)을 자행하고 있습니다. 이는 교황청이 '시대정신'의 압박을 받을 때 교리를 어떻게 변개하는지를 보여주는 가장 생생한 증거입니다.
+**💥 CVCAP 3.0 In-Depth Reading: [The Moving-Goalposts Fallacy (YES)]**
+When a doctrine that had controlled the faithful for centuries as settled teaching faced the ethical pressure of modern society, the goalposts were quietly moved with the claim that "limbo was never a confirmed dogma, only a theological hypothesis." This is the classic sophistry of Moving Goalposts, not 'infallible truth,' changing its story as circumstances demand.
 
 ---
 
-## 📝 최종 결론 (Final Conclusion: CVCAP 1.0, 2.0 & 3.0 궁극 검증 완료)
- 
- **CVCAP (Catholic Vault & Conciliar Audit Pipeline) 1.0, 2.0, 3.0** 궁극 검증 결과, 본 보고서에 수록된 16개의 교리적 충돌은 단순한 오독을 100% 제거하고 살아남은 **가톨릭 교도권 내부의 절대적 자기 모순 및 기만적 호교론의 붕괴**들입니다.
- 
- AI 에이전트들의 교리 충돌 후보 데이터(중복·유령 카드 정리 후 2,154건) 전수 조사를 통해 표면적(형식 논리) 및 심층적(시스템 논리) 모순 10가지를 확정하였고, 이에 더해 고급 포렌식 논리 병기를 이식한 **CVCAP 3.0 다중 타격 콤보(COMBO)**를 가동하여 가톨릭 호교론의 사고방식 자체를 파괴하는 6개의 모순을 추가 발굴, 총 **16대 모순**을 완성했습니다.
- 
- 📊 **[CVCAP 3.0 COMBO 자동화 엔진 필터 히트 지표]**
- 스크립트(`run_cvcap_combos.py`)로 2,154건의 교리 충돌 후보 데이터를 다중 필터(COMBO)로 교차 태깅한 결과, **총 626건이 2개 이상의 CVCAP 3.0 고급 필터에 동시 적발**되었습니다. (아래 수치는 키워드 필터 히트 건수 — 미확정 후보이며, 확정 판정은 본 보고서 16대 모순처럼 개별 검증을 거친 것만 유효합니다.)
- * **💥 마리아론 계열 (COMBO-01)**: 106건 히트
- * **💥 교황 무류성 계열 (COMBO-02)**: 38건 히트
- * **💥 구원론 계열 (COMBO-03)**: 414건 히트
- * **💥 연옥과 대사 계열 (COMBO-04)**: 6건 히트 (영적 자본주의 모순 신규 발굴)
- * **💥 동성 축복 계열 (COMBO-05)**: 62건 히트 (불과 2년 만의 해석학적 단절 신규 발굴)
+## Part 12. The Monopoly on Interpretation and the Boomerang Argument (Applying the CVCAP 3.0 Retorsion)
 
- 가톨릭의 가장 큰 족쇄는 과거의 배타적 선언들에 스스로 **De Fide(무류, 오류 불가)**라는 봉인을 찍어버린 것입니다. 현대 사회에서 포용주의와 인권을 받아들이기 위해 과거의 무류한 선언들을 논리적으로 박살 내는 자가당착을 낳았으며, 이는 가톨릭 교도권이 시대를 초월하는 신적 진리의 수호자가 아니라 **시대정신에 따라 교리를 끊임없이 변개해 온 인간의 관료 조직**임을 명증하게 보여줍니다.
+### 🛑 Catholicism's Attack Frame (A)
+*   **[The Claim of the Necessity of the Magisterium]**
+    > "Scripture is difficult, so if individuals (Protestants) interpret it, it splinters into 33,000 pieces. Therefore an error-free (infallible) official interpretation by the Magisterium is absolutely necessary."
+
+### 🟢 The Manifestation of Its Own Self-Contradiction (Not A)
+*   **[Confusion Over Magisterial Documents]**
+    > Immediately following the release of Second Vatican Council documents, or Pope Francis's *Amoris Laetitia* and *Fiducia Supplicans*, even cardinals and bishops interpreted them differently and split into factions, plunging the worldwide Catholic Church into severe internal division.
+
+**💥 CVCAP 3.0 In-Depth Reading: [Self-Contradiction / The Boomerang Argument (YES)]**
+If "an infallible institution is needed for error-free interpretation," this is shattered by the retorsion: "then are the brains (interpretations) of the laity and priests who read that infallible institution's documents also infallible?" If even the Magisterium's own documents are misread and split into countless factions, then Catholicism's core premise — that an 'infallible interpretive institution outside Scripture' must exist — self-destructs.
+
+---
+
+## Part 13. Marian Doctrine and Sacred Silence (Applying the CVCAP 3.0 Rule of First Mention)
+
+### 🛑 Catholicism's Dogma of the Assumption (A)
+*   **[MUNIFICENTISSIMUS-DEUS] Pius XII (1950)**
+    > Declares as a doctrine to be believed that Mary was assumed body and soul together into heaven.
+
+### 🟢 The Complete Silence of the Early Church and Scripture (Not A)
+*   **[The New Testament and the First-Century Apostolic Fathers]**
+    > Not a single line records Mary's assumption or supernatural glorification anywhere in the entire body of the most important first-century literature — the Gospel of John, Acts, the Pauline epistles — maintaining a complete silence.
+
+**💥 CVCAP 3.0 In-Depth Reading: [Historical Rupture / A Later Invention (YES)]**
+If such a cosmic event (Mary's bodily assumption) were true, the first-century apostles could never have remained absolutely silent about it. Under the Argument from Silence and the Rule of First Mention, this doctrine — which appears only centuries later — is confirmed to be, not 'doctrinal development,' but 'the fusion of pagan goddess worship and a later invention.'
+
+---
+
+## Part 14. The Collapse of a False Dichotomy: Infallible, or Chaotic? (Applying CVCAP 3.0)
+
+### 🛑 Catholic Apologetics' False Frame (A)
+*   > "Will you remain in the single Catholic Church (order), or fall into a Protestantism splintered into 30,000 pieces (chaos)?"
+
+### 🟢 A Third Truth: The Invisible Spiritual Church (Not A)
+*   > The true, real Church is not a 'political organization (visible institution)' called the Vatican, but the 'spiritual union (the invisible Church)' of believers born again by the Spirit, transcending time and space.
+
+**💥 CVCAP 3.0 In-Depth Reading: [Detection of a False Dichotomy (YES)]**
+The coercive frame of A-or-B — 'an infallible institution prone to error' vs. 'a divided Protestantism' — is a textbook False Dichotomy. Truth lies not in the 'unity' of a massive human organization, but in the 'spiritual essence' of believers who, though scattered, hold to the same Gospel.
+
+---
+
+## Part 15. The Absurdity of Spiritual Capitalism and the Sale of Salvation (Detecting the CVCAP 3.0 Purgatory/Indulgence Combo)
+
+### 🛑 Catholicism's Doctrinal Premise (A)
+*   **[CCC-1996] The Gratuitousness of Grace**
+    > "Grace is a gratuitous gift God gives us."
+
+### 🟢 The Coercion of Practical Acts, and Hypocrisy (Not A)
+*   **[TRENT-S06-C32 & CCC-1471] Merit and Indulgences**
+    > "Through good works, eternal life (merit) can truly be obtained."
+    > "Even when sin is forgiven through confession, temporal punishment remains, so an indulgence (Indulgentia) must be obtained by fulfilling conditions set by the Church (prayer, good works, donations, etc.) before that punishment is remitted."
+
+**💥 CVCAP 3.0 Combo Strike: [Practical Contradiction + Reductio Ad Absurdum + Argument from Silence (YES)]**
+This is a fatal reductio ad absurdum (Filter 1): claiming 'grace is a free gift' (A) while simultaneously teaching that 'if conditions are not met, one receives punishment in purgatory' (Not A). It is a practical hypocrisy (Filter 4) in which, while dressing up the completeness of the cross's atonement in doctrine, the Vatican in reality holds the distribution rights to 'salvation (remission of punishment)' and controls the faithful. And it displays a complete silence (Filter 8): the words 'purgatory' and 'indulgence' never once appear in the Scriptures of the early Church. This is not divine truth but the product of 'spiritual capitalism.'
+
+---
+
+## Part 16. The Same-Sex Blessing and the Collapse of Moral Absoluteness (Detecting the CVCAP 3.0 Homosexuality Combo)
+
+### 🛑 Catholicism's Doctrinal Premise (A)
+*   **[CDF-RESPONSUM (2021)] Authoritative Interpretation of the Congregation for the Doctrine of the Faith**
+    > "The Church has no power to bless same-sex unions, because God cannot bless sin."
+
+### 🟢 A Blessing Permitted Within a Mere Two Years (Not A)
+*   **[FIDUCIA-SUPPLICANS (2023)] Pope Francis**
+    > "Those in an irregular situation (a same-sex couple) can be blessed 'pastorally.'"
+
+**💥 CVCAP 3.0 Combo Strike: [Hermeneutical Rupture + Moving Goalposts + Practical Contradiction (YES)]**
+This is a shocking hermeneutical rupture (Filter 2), in which the absolute declaration that 'God cannot bless sin (an intrinsic evil)' is overturned within a mere two years. To this end, sophistry was deployed to circumvent it by splitting the terminology — "it is not a liturgical blessing but a pastoral blessing" (Moving Goalposts, Filter 5) — while in practice a complete hypocrisy is committed (Filter 4): imploring God's mercy upon a sinful union. This is the most vivid evidence of how the Vatican alters doctrine when under the pressure of 'the spirit of the age.'
+
+---
+
+## 📝 Final Conclusion (CVCAP 1.0, 2.0 & 3.0 Ultimate Verification Complete)
+
+**CVCAP (Catholic Vault & Conciliar Audit Pipeline) 1.0, 2.0 & 3.0** ultimate verification results confirm that the 16 doctrinal collisions recorded in this report are what remain after 100% elimination of mere misreadings — **the absolute internal self-contradictions of the Catholic Magisterium, and the collapse of its deceptive apologetics.**
+
+Through a full scan of the AI agents' doctrinal-collision candidate data (2,154 cases after cleanup of duplicates and phantom cards), ten surface-level (formal-logic) and deep-level (systemic-logic) contradictions were confirmed; in addition, deploying the **CVCAP 3.0 multi-strike combos (COMBO)**, which grafted on advanced forensic logic weapons, six additional contradictions were newly discovered that destroy the very mode of thought of Catholic apologetics, completing a total of **16 major contradictions.**
+
+📊 **[CVCAP 3.0 COMBO Automation Engine Filter-Hit Metrics]**
+Cross-tagging the 2,154 doctrinal-collision candidates through the multi-filter (COMBO) script (`run_cvcap_combos.py`) found that **a total of 626 cases were simultaneously flagged by two or more of CVCAP 3.0's advanced filters.** (The figures below are keyword-filter hit counts — unconfirmed candidates; only those individually verified, like the 16 major contradictions in this report, are valid as confirmed rulings.)
+* **💥 The Mariology Family (COMBO-01)**: 106 hits
+* **💥 The Papal Infallibility Family (COMBO-02)**: 38 hits
+* **💥 The Soteriology Family (COMBO-03)**: 414 hits
+* **💥 The Purgatory/Indulgence Family (COMBO-04)**: 6 hits (newly discovered spiritual-capitalism contradiction)
+* **💥 The Same-Sex Blessing Family (COMBO-05)**: 62 hits (newly discovered hermeneutical rupture within a mere two years)
+
+Catholicism's greatest shackle is that it stamped its own past exclusivist declarations with the seal of **De Fide (infallible, incapable of error).** In order to accept inclusivism and human rights in modern society, this produced the self-contradiction of logically shattering its own past infallible declarations — clear proof that the Catholic Magisterium is not a timeless guardian of divine truth, but **a human bureaucratic organization that has continually altered its doctrine according to the spirit of the age.**

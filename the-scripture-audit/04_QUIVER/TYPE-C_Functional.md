@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0059 | ver: 20260829_0942 -->
 # 🔬 SKILL-03: TYPE-C — Functional/Spatial Category Separation Pipeline
 
 > **When Activated**: When the number of seemingly identical words (e.g., stalls, horses) differs by a multiple (10x, 100x).

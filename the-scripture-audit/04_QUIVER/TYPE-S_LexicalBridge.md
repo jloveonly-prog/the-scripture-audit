@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0075 | ver: 20260829_0942 -->
 # 🏹 TYPE-S: Shared Lexical Bridge
 
 > **Alias**: Gezerah Shavah (גְּזֵרָה שָׁוָה)

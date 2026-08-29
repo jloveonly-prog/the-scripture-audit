@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0055 | ver: 20260829_0942 -->
 # 🗡️ SKILL-53: TYPE-AY — Demand Hierarchy Analysis
 
 **"Peradventure there be fifty righteous within the city…" — Genesis 18:24 KJV**

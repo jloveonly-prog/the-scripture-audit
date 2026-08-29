@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-kjv_defense-072"
-title_en: "⚖️ [KJV Translation Debate] Isaiah 14:12 (Lucifer) and Acts 12:4 (Easter)"
-title_ko: ""
-file_en: "Isaiah_Easter_KJV.md"
-file_ko: ""
-category: "kjv_defense"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0149 | ver: 20260829_0942 -->
 
 # ⚖️ [KJV Translation Debate] Isaiah 14:12 (Lucifer) and Acts 12:4 (Easter)
 

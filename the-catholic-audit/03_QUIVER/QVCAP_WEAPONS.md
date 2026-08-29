@@ -1,219 +1,222 @@
 ---
 id: "catholic-quiver-022"
 title_ko: "💣 문헌 법정 논리 파탄 실전 무기"
+title_en: "💣 Document Court Live-Combat Logic-Collapse Weapons"
 file_ko: "QVCAP_WEAPONS.md"
 file_en: "QVCAP_WEAPONS.md"
 category: "quiver"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# 💣 문헌 법정 논리 파탄 실전 무기
-## CVCAP Implosion 세트 (가톨릭 내부 문헌 전용)
+# 💣 Document Court Live-Combat Logic-Collapse Weapons
+## The CVCAP Implosion Set (Catholic Internal Documents Only)
 
-> **발동 조건**: 가톨릭 교리·변증 주장이 입력되는 즉시 (본 무기고가 CVCAP의 주력 무기고다)
-> **전략**: 가톨릭의 자체 문헌(CCC·공의회·교황 선언·교부)으로 가톨릭을 피고석에 세운다
-> **성경 무기**: 문헌 법정에서는 사용하지 않음 — 같은 폴더의 `CATHOLIC_TARGETED_WEAPONS.md` 참조 (성경 법정/BVCAP 관할, 병합 단계 전용)
+> **Trigger Condition**: the instant a Catholic doctrinal or apologetic claim is presented (this is CVCAP's primary weapons cache)
+> **Strategy**: put Catholicism itself in the dock using Catholicism's own documents (the CCC, councils, papal declarations, the Church Fathers)
+> **Scriptural weapons**: not used in the Document Court — see `CATHOLIC_TARGETED_WEAPONS.md` in the same folder (under the jurisdiction of the Scripture Court/BVCAP, reserved for the merge stage)
 
 ---
 
-## 💣 파탄 카드 1: 호노리우스 1세 파문 — 무류성 핵폭탄
+## 💣 Collapse Card 1: The Condemnation of Honorius I — The Infallibility Nuclear Bomb
 
-### 역사적 팩트
-- **교황**: 호노리우스 1세 (재위 625-638)
-- **죄목**: 단일의지론(Monothelitism) 지지 — 예수님에게 의지가 하나뿐이라는 이단
-- **파문**: 제3차 콘스탄티노폴리스 공의회 (680-681) — 교황을 이단으로 파문
-- **추가 확인**: 교황 레오 2세, 아가토 — 호노리우스 파문을 교황 스스로 확인 및 서명
+### Historical Facts
+- **Pope**: Honorius I (reigned 625-638)
+- **Charge**: supporting Monothelitism — the heresy that Jesus had only one will
+- **Condemnation**: the Third Council of Constantinople (680-681) — condemned the pope as a heretic
+- **Further Confirmation**: Popes Leo II and Agatho — the popes themselves confirmed and signed off on Honorius's condemnation
 
-### QVCAP 귀류법 (L-01)
+### QVCAP Reductio ad Absurdum (L-01)
 ```
-[가정 — 가톨릭의 주장]
-교황이 신앙·도덕 문제에서 ex cathedra로 선포하면 무류하다 (바티칸 1, 1870)
+[Assumption — the Catholic claim]
+When the pope declares ex cathedra on a matter of faith or morals, he is infallible (Vatican I, 1870)
 
-[데이터 투입]
-호노리우스 1세가 신앙 문제(예수님의 의지)에 관해 서신 발송 → 공의회가 이단 파문
-후임 교황들이 이 파문을 추인 → 역대 교황들의 공식 확인
+[Data introduced]
+Honorius I sent a letter on a matter of faith (the will of Jesus) → the council condemned it as heresy
+Later popes ratified this condemnation → official confirmation by successive popes
 
-[모순 도출]
-무류한 교황이 이단이 될 수 없다
-그러나 이단이 되었다
-∴ 무류성 교리 자체가 거짓 OR 호노리우스는 무류성 조건에 해당하지 않음
+[Contradiction derived]
+An infallible pope cannot become a heretic
+Yet he became one
+∴ Either the doctrine of infallibility itself is false, OR Honorius does not meet the conditions for infallibility
 
-[이중구속]
-(A) 호노리우스 = ex cathedra 해당 → 무류성 파탄
-(B) 호노리우스 = ex cathedra 아님 → "누가 ex cathedra를 판정하는가?" 무한 후퇴
-    → 무류성을 판정할 무류한 권위가 다시 필요 → 또 다른 무류성 필요 → 무한 후퇴
+[Double Bind]
+(A) Honorius = qualifies as ex cathedra → infallibility is broken
+(B) Honorius = not ex cathedra → "then who determines what counts as ex cathedra?" — an infinite regress
+    → an infallible authority is again needed to judge infallibility → yet another infallibility is needed → infinite regress
 ```
 
-### 회피 봉쇄
-| 회피 | 봉쇄 |
+### Blocking Evasions
+| Evasion | Blocking |
 |:---|:---|
-| "호노리우스는 ex cathedra가 아니었다" | "그렇다면 누가 ex cathedra를 판정합니까? 그 판정자도 무류해야 합니까?" |
-| "교리적 발전이다" | "이단 판정이 나중에 취소되었습니까? 아니면 지금도 유효합니까?" |
-| "공의회가 실수한 것이다" | "공의회도 오류가 있다면, 교도권의 무류성은 어디서 보장됩니까?" |
+| "Honorius's statement was not ex cathedra" | "Then who determines what is ex cathedra? Must that judge also be infallible?" |
+| "It is doctrinal development" | "Was the condemnation for heresy later rescinded? Or does it remain valid today?" |
+| "The council made a mistake" | "If even a council can err, where is the Magisterium's infallibility guaranteed?" |
 
 ---
 
-## 💣 파탄 카드 2: 트렌트 vs 바티칸 2 — 교황들의 전쟁
+## 💣 Collapse Card 2: Trent vs. Vatican II — A War Between Popes
 
-### 양도논법 (Dilemma) 구조
+### Dilemma Structure
 ```
-트렌트 공의회 (1547, 칭의 법령 9조):
-"믿음만으로 의롭다 함을 받는다고 하는 자는 파문(Anathema)한다"
+Council of Trent (1547, Decree on Justification, Canon 9):
+"Whoever says he is justified by faith alone: anathema"
 
-제2차 바티칸 (Unitatis Redintegratio, 1964):
-루터교와 대화, 1999년 칭의 공동 선언 서명
+Second Vatican Council (Unitatis Redintegratio, 1964):
+Dialogue with the Lutherans, signing the Joint Declaration on Justification in 1999
 
-[양도논법]
-(A) 트렌트가 무류하다
-→ 이신칭의를 부분 인정한 제2차 바티칸/공동 선언은 이단 행위
-→ 현대 교황들이 파문 대상 행위를 함
+[Dilemma]
+(A) Trent is infallible
+→ Vatican II / the Joint Declaration, which partially affirms justification by faith, is a heretical act
+→ modern popes commit an act subject to anathema
 
-(B) 제2차 바티칸이 무류하다
-→ 이신칭의를 저주한 트렌트가 오류
-→ 무류하다는 공의회가 오류를 범함
+(B) Vatican II is infallible
+→ Trent, which cursed justification by faith, is in error
+→ a council held to be infallible has committed an error
 
-(C) 둘 다 무류하다
-→ 이신칭의가 동시에 저주받고 허용됨 → 논리 불가능
+(C) Both are infallible
+→ justification by faith is simultaneously cursed and permitted → logically impossible
 
-어느 선택도 무류성을 유지할 수 없다
+No option can preserve infallibility
 ```
 
 ---
 
-## 💣 파탄 카드 3: 은총·공로 데드락 — CCC 내부 충돌
+## 💣 Collapse Card 3: The Grace-Merit Deadlock — Internal Collision Within the CCC
 
-### 소크라테스 문답 순서 (L-06)
+### Socratic Sequence of Questions (L-06)
 ```
-Q1: "가톨릭에서 구원은 하나님의 무상 은총입니까?"
-→ 예 (CCC 1996: "은총은 무상의 선물")
+Q1: "In Catholicism, is salvation God's gratuitous grace?"
+→ Yes (CCC 1996: "grace is a gratuitous gift")
 
-Q2: "무상이라면 조건 없이 주어집니까?"
+Q2: "If it is gratuitous, is it given unconditionally?"
 → ...
 
-Q3: "CCC 2010은 공로를 세워야 영생을 얻는다고 합니다. 공로가 필요하면 무상입니까?"
+Q3: "CCC 2010 says merit must be built up to obtain eternal life. If merit is needed, is it gratuitous?"
 → ...
 
-Q4: "CCC 2068은 계명을 지켜야 구원받는다고 합니다. 이것이 무상입니까?"
+Q4: "CCC 2068 says one is saved by keeping the commandments. Is this gratuitous?"
 → ...
 
-Q5: "바울은 엡 2:8-9에서 '행위에서 난 것이 아니다'라고 했습니다.
-     공로와 계명 준수가 필요하다면 에베소서가 틀린 겁니까,
-     CCC가 틀린 겁니까?"
+Q5: "Paul says in Ephesians 2:8-9, 'not of works.'
+     If merit and keeping the commandments are required,
+     is Ephesians wrong, or is the CCC wrong?"
 ```
 
-**데드락 확정:**
+**The Deadlock Confirmed:**
 ```
-은총이 무상이면 → 공로 불필요 → CCC 2010, 2068 오류
-공로가 필요하면 → 은총이 무상이 아님 → CCC 1996 오류
-∴ CCC 내부 자가당착 확정
+If grace is gratuitous → merit is unnecessary → CCC 2010, 2068 are in error
+If merit is necessary → grace is not gratuitous → CCC 1996 is in error
+∴ The CCC is confirmed to be internally self-contradictory
 ```
 
 ---
 
-## 💣 파탄 카드 4: 전통의 조작 포렌식
+## 💣 Collapse Card 4: The Forensics of a Fabricated Tradition
 
-### 마리아 교리 역사적 단절 증명
+### Proof of the Historical Rupture of Marian Doctrine
 
-**공격 질문:**
-> "마리아 무염시태가 '사도적 전통'이라면 사도들에게서 비롯되어야 합니다. 1~3세기 교부 문헌에서 이 교리를 보여주십시오."
+**Attack Question:**
+> "If the Immaculate Conception of Mary is an 'apostolic tradition,' it should originate with the apostles. Show me this doctrine in the patristic literature of the 1st-3rd centuries."
 
-**역사적 팩트:**
-- 이레네오스 (130-202): 마리아를 새 이브로 언급, 무염시태 없음
-- 터툴리아누스 (155-220): 마리아도 죄 있다고 명시
-- 오리게네스 (184-253): 마리아의 불완전함 언급
-- 무염시태 최초 논쟁: 11~12세기 (베르나르드 vs 안셀름)
-- 공식 교의 선포: **1854년** — 사도들로부터 **1800년 후**
+**Historical Facts:**
+- Irenaeus (130-202): calls Mary the new Eve, with no mention of the Immaculate Conception
+- Tertullian (155-220): explicitly states that Mary too had sin
+- Origen (184-253): mentions Mary's imperfection
+- First debate over the Immaculate Conception: 11th-12th century (Bernard vs. Anselm)
+- Official dogmatic proclamation: **1854** — **1,800 years after** the apostles
 
 ```
-CE-03 봉쇄:
-"사도적 전통이 1854년에야 선포되었고,
- 1~3세기 교부들 중 누구도 이 교리를 가르치지 않았습니다.
- '발전'이라고 하시면: 존재하지 않던 것이 나타난 것은 발전이 아니라 발명입니다."
+CE-03 Blocking:
+"The 'apostolic tradition' was not proclaimed until 1854,
+ and not a single Father of the 1st-3rd centuries taught this doctrine.
+ If you call it 'development': something that did not exist appearing later
+ is not development but invention."
 ```
 
 ---
 
-## 💣 파탄 카드 5: "Extra Ecclesiam" 붕괴 — 구원론 완전 역전
+## 💣 Collapse Card 5: The Collapse of "Extra Ecclesiam" — A Complete Reversal of Soteriology
 
-### 전통 교의
+### The Traditional Dogma
 > *"Extra Ecclesiam nulla salus"*
-> "교회 밖에 구원 없다" — 가톨릭 역사적 절대 교리
+> "No salvation outside the Church" — Catholicism's historic, absolute doctrine
 
-**역사적 선언:**
-- 라테란 제4공의회 (1215): "교회 밖에는 구원 없다"
-- 플로렌스 공의회 (1442): "이교도, 유대인, 이단자들은 영원한 불 속에"
-- 교황 비오 9세 (1863): 무지도 변명이 안 된다
+**Historical Declarations:**
+- Fourth Lateran Council (1215): "there is no salvation outside the Church"
+- Council of Florence (1442): "pagans, Jews, and heretics [go] into the eternal fire"
+- Pope Pius IX (1863): ignorance is no excuse
 
-**제2차 바티칸 역전:**
-- Lumen Gentium 16절: 이슬람 신자도 구원 계획에 포함될 수 있음
-- Nostra Aetate: 타 종교에 대한 존중 선언
+**The Second Vatican Council's Reversal:**
+- Lumen Gentium §16: Muslims too may be included in the plan of salvation
+- Nostra Aetate: a declaration of respect for other religions
 
 ```
-[양도논법]
-(A) 과거 교의가 무류하다
-→ 이슬람·이교도는 영원한 불 → 제2차 바티칸이 이단 행위
+[Dilemma]
+(A) The past doctrine is infallible
+→ Muslims and pagans [go into] eternal fire → Vatican II commits a heretical act
 
-(B) 제2차 바티칸이 무류하다
-→ 과거 1200년의 교의가 오류 → 교도권이 오류를 범함
+(B) Vatican II is infallible
+→ 1,200 years of past doctrine were in error → the Magisterium committed an error
 
-(C) 양자 조화 가능하다
-→ "교회 밖에 구원 없다"와 "이슬람도 구원 가능"이 동시에 참
-→ 논리 불가능
+(C) Both can be reconciled
+→ "No salvation outside the Church" and "Muslims too can be saved" are simultaneously true
+→ logically impossible
 ```
 
 ---
 
-## 💣 파탄 카드 6: 아우구스티누스 역체리피킹 — 교부 문헌 법정
+## 💣 Collapse Card 6: The Reverse Cherry-Picking of Augustine — The Patristic Court
 
-> 교부 문헌은 가톨릭이 스스로 권위로 삼는 **내부 문헌**이다.
-> 가톨릭 변증이 교부를 인용하는 순간, 같은 교부의 다른 구절이 증거로 채택된다.
+> Patristic literature is Catholicism's own **internal document**, an authority it claims for itself.
+> The instant Catholic apologetics cites a Father, other passages from that same Father are admitted as evidence too.
 
-### 홍군이 사용한 구절 (설교 272번)
-> "빵이 그리스도의 몸이다" (아우구스티누스 설교 272번)
+### The Passage Used by Red Team (Sermon 272)
+> "The bread is the body of Christ" (Augustine, Sermon 272)
 
-### 홍군이 사용하지 않은 구절 (역공 카드)
-> **"그분을 믿는 것이 곧 살아있는 빵을 먹는 것이다. 믿는 자가 먹는다."**
-> *(아우구스티누스, 요한복음 강해 Tractatus in Evangelium Johannis 25)*
+### The Passage Red Team Did Not Use (a Counterattack Card)
+> **"To believe in him is to eat the living bread. He who believes eats."**
+> *(Augustine, Tractatus in Evangelium Johannis 25)*
 
-### 역공 논리
+### Counterattack Logic
 ```
-홍군: "아우구스티누스가 빵이 그리스도의 몸이라 했습니다" (설교 272)
-청군: "같은 아우구스티누스가 '믿는 것이 먹는 것'이라 했습니다 (강해 25)
-      홍군은 한 쪽만 인용하셨습니다. 제가 2차전에서 지적받은 체리피킹입니다.
-      아우구스티누스의 실제 위치는 물리적 화체설이 아니라 영적 실재론에 가깝습니다."
-```
-
-**아우구스티누스 실제 스펙트럼:**
-```
-[기념설]       [영적 신비 실재론]      [물리적 화체설]
-(Zwingli)     (Augustine / Calvin)    (Aquinas / Trent)
-                      ↑
-               아우구스티누스 실제 위치
+Red Team: "Augustine said the bread is the body of Christ" (Sermon 272)
+Blue Team: "The same Augustine also said, 'to believe is to eat' (Tractate 25).
+      Red Team has cited only one side. This is the very cherry-picking
+      I was called out for in Round 2. Augustine's actual position
+      is closer to a spiritual realism than a physical transubstantiation."
 ```
 
-> **CE-06(체리피킹 역공) 봉쇄 카드로도 사용**: 상대가 "당신도 일부만 인용했다"고 반격할 때, 같은 교부의 전체 스펙트럼을 제시하며 수용 기준(내부 문헌 간 정합성)을 명시한다.
+**Augustine's Actual Spectrum:**
+```
+[Memorialism]       [Spiritual Real Presence]      [Physical Transubstantiation]
+(Zwingli)           (Augustine / Calvin)           (Aquinas / Trent)
+                            ↑
+                  Augustine's actual position
+```
+
+> **Also usable as a CE-06 (reverse cherry-picking) blocking card**: when the opponent counterattacks with "you too have only cited part of it," present the full spectrum of the same Father and state the standard of admission explicitly (internal-document coherence).
 
 ---
 
-## 🔄 10라운드 OODA 실전 템플릿
+## 🔄 10-Round OODA Live-Combat Template
 
-**발동 시점**: 가톨릭 교리·변증 주장 입력 시
+**Trigger Point**: upon the introduction of a Catholic doctrinal or apologetic claim
 
-| 라운드 | 가톨릭 회피 | 봉쇄 | 투입 카드 |
+| Round | Catholic Evasion | Blocking | Card Deployed |
 |:---:|:---|:---|:---:|
-| 1 | "전통도 계시다" | "그 전통끼리 왜 서로를 정죄하는가?" (트렌트 vs 바티칸2) | 파탄 2·5 |
-| 2 | "교도권이 해석한다" | "교도권이 무류합니까?" | 파탄 1 |
-| 3 | "교황이 무류하다" | 호노리우스 1세 파문 팩트 | 파탄 1 |
-| 4 | "그건 ex cathedra 아니다" | "누가 판정? 무한후퇴" | 파탄 1 |
-| 5 | "공의회가 판정한다" | 트렌트 vs 바티칸2 충돌 | 파탄 2 |
-| 6 | "신학적 발전이다" | "A→Not-A는 발전이 아니라 역전" | CE-01 봉쇄 |
-| 7 | "교부들이 지지한다" | 아우구스티누스 강해 25편 역공 | 파탄 6 |
-| 8 | "신비의 영역이다" | "이성 포기 = 변증 포기. Checkmate." | CE-05 봉쇄 |
-| 9 | (침묵) | "반박이 없다 = 반박 불가" | 선언 |
-| 10 | — | **Implosion 확정 선언** | 종결 |
+| 1 | "Tradition is also revelation" | "Then why do these traditions condemn each other?" (Trent vs. Vatican II) | Collapse 2 · 5 |
+| 2 | "The Magisterium interprets it" | "Is the Magisterium infallible?" | Collapse 1 |
+| 3 | "The pope is infallible" | The fact of Honorius I's condemnation | Collapse 1 |
+| 4 | "That was not ex cathedra" | "Who determines it? Infinite regress" | Collapse 1 |
+| 5 | "A council determines it" | The collision of Trent vs. Vatican II | Collapse 2 |
+| 6 | "It is theological development" | "A→Not-A is not development but reversal" | CE-01 Blocking |
+| 7 | "The Fathers supported it" | The counterattack of Augustine's Tractate 25 | Collapse 6 |
+| 8 | "It is a matter of mystery" | "Abandoning reason = abandoning apologetics. Checkmate." | CE-05 Blocking |
+| 9 | (silence) | "No rebuttal means no rebuttal is possible" | Declaration |
+| 10 | — | **Implosion confirmed and declared** | Conclusion |
 
 ---
 
-*CVCAP 3.0 — Implosion 무기 장전 완료*
-*최초 작성: 2026-07-05 | 개정: 2026-07-07 (내부 문헌 전용 전환, 교부 무기 흡수)*
+*CVCAP 3.0 — Implosion weapons fully loaded*
+*First written: 2026-07-05 | Revised: 2026-07-07 (converted to internal-documents-only, absorbed patristic weapons)*

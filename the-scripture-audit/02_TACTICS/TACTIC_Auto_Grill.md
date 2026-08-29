@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0009 | ver: 20260829_0942 -->
 # 🧨 TACTIC: AUTO-GRILL (Inward Inquisition)
 
 > **Condition of Invocation**: Ere the fruit of textual searching be proclaimed 'IRONCLAD', this is the **mandatory protocol of inward proving** that must needs be passed to establish the final judgment.

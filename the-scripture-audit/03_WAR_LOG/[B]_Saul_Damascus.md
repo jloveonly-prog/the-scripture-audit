@@ -1,130 +1,131 @@
-# 사울의 다마스쿠스 회심 사건: 사도행전 9:7 vs 22:9 "모순" 논박
-**— 두 기록의 순차적 병렬 읽기(Sequential Parallel Reading)로 완벽히 해소되는 난제 —**
+<!-- doc_no: 20260829_0020 | ver: 20260829_0942 -->
+# Saul's Damascus Road Conversion: Refuting the "Contradiction" of Acts 9:7 vs. 22:9
+**— A Difficulty Completely Resolved by a Sequential Parallel Reading of the Two Records —**
 
-> **STATUS**: 검증 완료 | VERDICT: ✅ CONSISTENT
-> **충돌 유형**: C-05 (관점적 서술 차이) + C-09 (다중 좌표 해석 충돌)
-> **적용 분석 도구**: A-03 (서사적 압축) + A-04 (목격자 증언론) + A-15 (순차적 병렬 읽기) + V-03 (KJV 대조)
-> **분석 의뢰 경위**: "바울이 예수님을 만났다는 것은 거짓말이며, 두 기록이 서로 모순된 진술을 한다"는 공격에 대한 검증. 사도행전 9:7과 22:9의 기록이 정반대로 보이는 현상을 검증.
+> **STATUS**: Verification Complete | VERDICT: ✅ CONSISTENT
+> **Conflict Type**: C-05 (Perspective Narrative Difference) + C-09 (Multi-Coordinate Interpretation Conflict)
+> **Applied Analysis Tools**: A-03 (Narrative Compression) + A-04 (Eyewitness Testimony Theory) + A-15 (Sequential Parallel Reading) + V-03 (KJV Cross-Verification)
+> **Background of Analysis Request**: Verification against the attack that "Paul's claim to have met Jesus is a lie, and the two records give mutually contradictory testimony." Verifying the phenomenon whereby Acts 9:7 and 22:9 appear to be exact opposites.
 
 ---
 
-## 1. 충돌 지점 확정 (PHASE 1: 구절 해부)
+## 1. Confirming the Conflict Point (PHASE 1: Verse Anatomy)
 
-### 공격자의 핵심 주장
-> "사도행전 9:7에선 소리를 듣고 보지 못했다. 22:9에선 빛은 보고 소리를 듣지 못했다. 정반대다. 바울이 예수님을 만났다는 것은 거짓말이고 모순된 진술을 하는 것이다."
+### The Attacker's Core Claim
+> "Acts 9:7 says they heard a voice but saw no one. 22:9 says they saw the light but did not hear the voice. They are exact opposites. Paul's claim to have met Jesus is a lie, and this is a contradictory testimony."
 
-### 충돌을 발생시키는 두 본문 직접 대조
+### Direct Comparison of the Two Texts Generating the Conflict
 
-| 구분 | 사도행전 9:7 | 사도행전 22:9 |
+| Category | Acts 9:7 | Acts 22:9 |
 | :--- | :--- | :--- |
-| **개역개정** | *"같이 가던 사람들은 소리만 듣고 아무도 보지 못하여 말을 못하고 서 있더라"* | *"나와 함께 있는 사람들이 빛은 보면서도 나에게 말씀하시는 이의 소리는 듣지 못하더라"* |
+| **KRV (Korean Revised Version)** | "the men who journeyed with him stood speechless, hearing the voice but seeing no one" | "those who were with me saw the light but did not hear the voice of him who spoke to me" |
 | **KJV** | *"the men which journeyed with him stood speechless, hearing a voice, but seeing no man"* | *"And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me"* |
-| **표준킹제임스(SKJV)** | *"그런즉 그와 여정을 함께한 사람들이 음성을 들었으나 아무도 보지 못하였기에 말문이 막혀 서 있었더라"* | *"그리고 나와 함께 있던 자들은 정녕 그 빛을 목격하였고 무서워하였도다. 그러나 그들이 나에게 말씀하신 분의 음성은 듣지 못하였도다"* |
+| **Standard King James Version (SKJV)** | *"and those journeying with him stood speechless, hearing the voice but seeing no one"* | *"And those who were with me indeed saw the light and were afraid, but they did not hear the voice of Him speaking to me"* |
 
-**표면적 충돌 정리:**
+**The Surface-Level Conflict Summarized:**
 ```
-행 9:7  → 동행자들: 소리 O / 사람(빛) X
-행 22:9 → 동행자들: 빛  O / 소리 X
+Acts 9:7  → the companions: voice O / person(light) X
+Acts 22:9 → the companions: light O / voice X
 ```
 
 ---
 
-## 2. 해결의 열쇠: 예수님이 두 번 말씀하셨다 (순차적 병렬 읽기)
+## 2. The Key to the Resolution: Jesus Spoke Twice (A Sequential Parallel Reading)
 
-> **핵심 통찰**: 두 구절은 같은 순간을 기록한 것이 아니다. 
-> 다마스쿠스 도상에서 예수님은 **두 차례 다른 내용으로** 말씀하셨고, 
-> 동행자들이 **듣고/못 들은 것이 매번 달랐다.**
+> **Core Insight**: The two verses do not record the same moment.
+> On the Damascus road, Jesus spoke **on two separate occasions with different content**, and
+> what the companions **heard and did not hear differed each time.**
 
-### 사건의 실제 순서: 두 기록을 시간순으로 끼워 맞추기
+### The Actual Sequence of Events: Interlocking the Two Records Chronologically
 
 ```
-[1단계] 빛이 하늘에서 사울 주위를 비춤 (행 9:3 = 22:6)
-         → 동행자들: 빛을 목격하고 무서워함 (행 22:9 전반)
+[Stage 1] A light from heaven shines around Saul (Acts 9:3 = 22:6)
+          → The companions: witness the light and are afraid (Acts 22:9, first half)
 
-[2단계] 예수님이 사울에게만 들리는 음성으로 말씀하심
-         "사울아, 사울아, 어찌하여 나를 박해하느냐?" (행 9:4 = 22:7)
-         → 동행자들: 이 소리를 듣지 못함 (행 22:9 후반)
+[Stage 2] Jesus speaks in a voice audible only to Saul
+          "Saul, Saul, why persecutest thou me?" (Acts 9:4 = 22:7)
+          → The companions: do not hear this voice (Acts 22:9, second half)
 
-[3단계] 사울이 대답함
-         "주여, 당신은 누구시니이까?" (행 9:5 = 22:8)
-         → 동행자들: 사울의 혼잣말처럼 들림 (목격 가능)
+[Stage 3] Saul answers
+          "Who art thou, Lord?" (Acts 9:5 = 22:8)
+          → The companions: this could be heard as Saul talking to himself (perceptible)
 
-[4단계] 예수님이 사울에게만 두 번째로 말씀하심
-         "나는 예수라. 가시에 발길질하기 어렵도다" (행 9:5 = 22:8)
-         → 동행자들: 이 소리도 듣지 못함 (행 22:9)
+[Stage 4] Jesus speaks to Saul a second time, again audible only to him
+          "I am Jesus... it is hard for thee to kick against the pricks" (Acts 9:5 = 22:8)
+          → The companions: also do not hear this voice (Acts 22:9)
 
-[5단계] 사울이 말함
-         "주님, 무엇을 하리이까?" (행 22:10)
+[Stage 5] Saul speaks
+          "Lord, what wilt thou have me to do?" (Acts 22:10)
 
-[6단계] 예수님이 이제 모두에게 들리는 음성으로 명령하심
-         "일어나 다마스쿠스로 들어가라!" (행 9:6 = 22:10)
-         → 동행자들: 이 음성(소리)은 들음! 그러나 말하는 사람을 보지 못함
-         → 이것이 행 9:7의 "소리만 듣고 아무도 보지 못한" 장면 ✅
+[Stage 6] Jesus now issues a command in a voice audible to all
+          "Arise, and go into Damascus!" (Acts 9:6 = 22:10)
+          → The companions: DO hear this voice! Yet they see no one speaking
+          → This is the scene of Acts 9:7, "hearing a voice, but seeing no man" ✅
 
-[7단계] 사울이 눈이 멀어 사람들 손에 이끌려 다마스쿠스에 들어감 (행 9:8)
-         → 사람들은 방금 들은 "다마스쿠스로 가라"는 음성을 기억하고 사울을 이끎
+[Stage 7] Saul, blinded, is led by the hand into Damascus (Acts 9:8)
+          → The men, remembering the voice they just heard say "go into Damascus," lead Saul
 ```
 
-### ✅ 통합 순차 읽기 (두 기록을 합쳐서 읽기)
+### ✅ An Integrated Sequential Reading (Reading the Two Records Combined)
 
-> *"사울이 길을 가다가 다마스쿠스에 가까이 이르렀을 때, 홀연히 하늘로부터 빛이 그를 둘러 비추었더라. 땅에 엎드러져 들으매, 예수님의 음성이 사울에게 들렸다. '사울아, 사울아, 어찌하여 나를 박해하느냐?' — **동행자들은 빛은 보면서도 이 음성은 듣지 못하였더라.** (행 22:9) 사울이 대답하되 '주여, 누구시니이까?' 이르시되 '나는 네가 박해하는 예수니라.' 사울이 다시 말씀드리기를 '주님, 무엇을 하리이까?' 이에 예수님이 이르시되 '일어나 다마스쿠스로 들어가라!' — **이번에는 동행자들이 그 음성을 들었으나 아무도 보지 못하여 말을 못하고 서 있더라.** (행 9:7)*"
+> *"As Saul journeyed and came near Damascus, suddenly a light from heaven shone round about him. Falling to the ground, he heard the voice of Jesus speaking to him: 'Saul, Saul, why persecutest thou me?' — **and those who were with him saw the light but did not hear this voice.** (Acts 22:9) Saul answered, 'Who art thou, Lord?' And he said, 'I am Jesus, whom thou persecutest.' Saul said again, 'Lord, what wilt thou have me to do?' Then Jesus said, 'Arise, and go into Damascus!' — **and this time the companions heard that voice, but saw no man, and stood speechless.** (Acts 9:7)"*
 
 ---
 
-## 3. 원어(KJV) 검증: "소리(voice/φωνή)"의 의미 분석 (V-03, V-05)
+## 3. Verification of the Original Language (KJV): Analysis of the Meaning of "Voice (voice/φωνή)" (V-03, V-05)
 
-공격자들은 주로 **개역개정**의 "소리"라는 번역어의 모호함을 이용한다.
+Critics chiefly exploit the ambiguity of the translated word "sound/voice" in versions like the KRV.
 
-| 구분 | 개역개정 | KJV | 헬라어 원어 |
+| Category | KRV | KJV | Greek Original |
 | :--- | :--- | :--- | :--- |
-| 행 9:7 | "소리만 듣고" | *"hearing a voice"* | **φωνήν** (phone-n, 목적격) |
-| 행 22:9 | "소리는 듣지 못하더라" | *"they heard not the voice"* | **φωνήν** (동일 단어) |
+| Acts 9:7 | "hearing the voice" | *"hearing a voice"* | **φωνήν** (phōnēn, accusative) |
+| Acts 22:9 | "did not hear the voice" | *"they heard not the voice"* | **φωνήν** (the identical word) |
 
-*   헬라어 **φωνή (phōnē)**는 "음성, 말소리, 목소리"를 의미한다.
-*   두 구절에서 동일한 헬라어 단어를 사용한다. 이는 "소리의 종류가 다른 것"이 아니라 **예수님이 말씀하신 서로 다른 시점의 음성**을 가리키는 것임을 확증한다.
-*   KJV는 이를 모두 *"a voice / the voice"*로 충실히 옮겨, 두 음성이 다른 발화 시점을 가리킴을 문맥으로 구분한다.
+*   The Greek **φωνή (phōnē)** means "voice, speech, sound."
+*   The same Greek word is used in both verses. This confirms that the difference is not "a different kind of sound," but rather points to **the different points in time at which Jesus spoke.**
+*   The KJV faithfully renders this throughout as *"a voice / the voice,"* distinguishing by context that the two voices refer to different moments of utterance.
 
 ---
 
-## 4. V-06 유사 Case 대조: 성경의 "동일 사건 두 기록" 관행
+## 4. V-06 Analogous Case Comparison: Scripture's Practice of "Two Records of the Same Event"
 
-성경에서 동일한 사건을 두 저자(혹은 동일 저자의 두 기록)가 서로 다른 관점과 세부 사항으로 기록하는 것은 확립된 문학 관행이다.
+It is an established literary practice in Scripture for the same event to be recorded by two authors (or in two records by the same author) with different perspectives and details.
 
-| 사례 | 기록 1 | 기록 2 | 해소 방식 |
+| Case | Record 1 | Record 2 | Method of Resolution |
 | :--- | :--- | :--- | :--- |
-| **빈 무덤 천사** | 1명(마 28:2) | 2명(눅 24:4) | 목격자 관점 차이 |
-| **야이로의 딸** | 막 5:23 "빈사 상태" | 마 9:18 "방금 죽었다" | 시점 압축(telescoping) |
-| **다마스쿠스 사건** | 행 9:7 "소리 듣고 못 봄" | 행 22:9 "빛 보고 소리 못 들음" | **시간적 순서 분리 (두 번의 발화)** |
+| **The angel(s) at the empty tomb** | 1 (Matt. 28:2) | 2 (Luke 24:4) | Difference in eyewitness perspective |
+| **Jairus's daughter** | Mark 5:23, "at the point of death" | Matt. 9:18, "even now dead" | Telescoping of the timeline |
+| **The Damascus event** | Acts 9:7, "heard the voice, saw no one" | Acts 22:9, "saw the light, did not hear the voice" | **Separation by chronological sequence (two separate utterances)** |
 
 ---
 
-## 5. 개역개정의 문제점 지적 (V-03 KJV 대조)
+## 5. Pointing Out a Problem with the KRV (V-03 KJV Cross-Verification)
 
-공격자들이 이 난제를 제기할 수 있는 이유 중 하나는 **개역개정의 번역 축약** 문제다.
+One reason critics can raise this difficulty is the problem of **abbreviated translation in the KRV.**
 
-*   표준킹제임스(SKJV)의 행 22:9에는 *"그리고 나와 함께 있던 자들은 정녕 그 빛을 목격하였고 **무서워하였도다**"*라는 구절이 포함되어 있다.
-*   개역개정은 이 "무서워함"의 맥락이 축약되어 있어, 동행자들이 빛에 압도된 상태임을 알기 어렵게 만든다.
-*   KJV와 SKJV로 읽으면 **동행자들의 상태(빛에 무서워 엎드림 → 예수님의 첫 음성을 못 들음 / 사울의 대화 이후 예수님의 명령 음성을 들음)**가 훨씬 더 선명하게 드러난다.
+*   The Standard King James Version's (SKJV) Acts 22:9 includes the clause *"and those who were with me indeed saw the light, and **were afraid**."*
+*   The KRV abbreviates this context of "being afraid," making it difficult to know that the companions were in a state of being overwhelmed by the light.
+*   Reading it in the KJV and SKJV makes far clearer **the state of the companions** (afraid and prostrate before the light → not hearing Jesus's first voice / hearing Jesus's command voice after Saul's conversation).
 
 ---
 
-## 6. 최종 판결
+## 6. Final Verdict
 
-### ✅ CONSISTENT — 일관성 확정
+### ✅ CONSISTENT — Consistency Confirmed
 
-> **판결 이유**:
-> 사도행전 9:7과 22:9는 서로 모순된 기록이 아니다. 두 구절은 다마스쿠스 도상 사건에서 예수님이 두 차례 다른 내용으로 말씀하신 **각각 다른 시점**을 기록하고 있다. 22:9는 사건 초반, 사울에게만 개인적으로 들린 첫 번째 음성("사울아 사울아...")을 동행자들이 듣지 못했음을 기록한다. 9:7은 사건 후반, 모든 이에게 들린 두 번째 명령("다마스쿠스로 들어가라")을 동행자들이 들었지만 말하는 자를 보지 못했음을 기록한다. 두 기록을 시간순으로 끼워 맞추면(순차적 병렬 읽기) 아무런 모순 없이 하나의 완결된 서사가 완성된다. 이 통찰은 성경이 단순히 한 관점의 평면적 기록이 아니라, 여러 시점의 세부 사항을 입체적으로 보존하고 있음을 오히려 증명한다.
+> **Reason for Verdict**:
+> Acts 9:7 and 22:9 are not mutually contradictory records. The two verses record **different points in time** during the Damascus road event, at which Jesus spoke on two separate occasions with different content. 22:9 records the earlier part of the event — the first voice ("Saul, Saul...") heard personally by Saul alone, which the companions did not hear. 9:7 records the latter part of the event — the second command ("go into Damascus") heard by everyone, in which the companions heard the voice but saw no one speaking. Interlocking the two records chronologically (a sequential parallel reading) completes a single coherent narrative without any contradiction whatsoever. This insight proves, rather, that Scripture is not merely a flat record from a single perspective but preserves the details of multiple points in time in three dimensions.
 >
-> **핵심 반증 논리**:
-> 만약 두 기록이 진짜 거짓말이나 모순이었다면, 동일한 저자(누가)가 동일한 책(사도행전)의 9장과 22장에 정반대 내용을 그대로 기록하지 않았을 것이다. 이 '긴장감'의 존재 자체가 오히려 기록의 진정성 증거다.
+> **Core Counter-Proof Logic**:
+> If the two records had truly been a lie or a contradiction, the same author (Luke) would not have recorded exact opposites in chapters 9 and 22 of the same book (Acts) as they stand. The very existence of this 'tension' is, rather, evidence of the record's authenticity.
 >
-> **성경의 입체성 확인**:
-> 이 난제는 성경 기록의 결함이 아니라, 두 기록을 순차적으로 통합하여 읽을 때 비로소 드러나는 **성경의 입체적 서사 구조**의 증거다. 단일 기록으로는 포착할 수 없는 사건의 세부 국면들이 두 기록의 교차 대조를 통해 완전하게 복원된다.
+> **Confirming the Three-Dimensionality of Scripture**:
+> This difficulty is not a defect in the scriptural record but evidence of Scripture's **three-dimensional narrative structure**, which is revealed only when the two records are read as sequentially integrated. Details of the event's phases, which cannot be captured by a single record, are fully restored through cross-comparison of the two records.
 
-### 🟢 학술 합의 수준: 주류 합의 (성서학계 대부분이 동일 결론 지지)
+### 🟢 Level of Scholarly Consensus: Mainstream Consensus (supported by the same conclusion among most biblical scholars)
 
 ---
 
 **STATUS: NEUTRAL AUDIT COMPLETE | VERDICT: CONSISTENT | EVIDENCE-BASED ✅**
 
-*분석 도구: A-03 + A-04 + A-15(순차적 병렬 읽기) + V-03 + V-05 + V-06 | BVCAP v1.3*
+*Analysis Tools: A-03 + A-04 + A-15 (Sequential Parallel Reading) + V-03 + V-05 + V-06 | BVCAP v1.3*

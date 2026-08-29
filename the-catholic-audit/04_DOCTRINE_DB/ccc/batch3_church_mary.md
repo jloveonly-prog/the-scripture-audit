@@ -1,120 +1,121 @@
 ---
 id: "catholic-doctrine_db-035"
 title_ko: "CCC-487_511  마리아: 무염시태와 평생동정, 몽소승천"
+title_en: "CCC-487_511 — Mary: The Immaculate Conception, Perpetual Virginity, and the Assumption"
 file_ko: "batch3_church_mary.md"
 file_en: "batch3_church_mary.md"
 category: "doctrine_db"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# CCC-487_511  마리아: 무염시태와 평생동정, 몽소승천
+# CCC-487_511 — Mary: The Immaculate Conception, Perpetual Virginity, and the Assumption
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-487_511 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 487-511항 |
-| **교의 등급** | De Fide Definita (교황령 인용) |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§487-511 |
+| **Doctrinal Rank** | De Fide Definita (citing papal decrees) |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 마리아는 구세주의 어머니가 되기 위해 잉태되는 순간부터 원죄의 온갖 물듦에서 면제되었으며(무염시태), 예수님을 낳기 전에도, 낳는 중에도, 낳은 후에도 평생 동정녀로 남았다. 또한 지상 생애가 끝난 후 영혼과 육신이 함께 하늘의 영광으로 올림을 받았다(몽소승천).
+## Original Text (Summary)
+> In order to become the Mother of the Savior, Mary was, from the moment of her conception, exempted from every stain of original sin (the Immaculate Conception), and she remained a virgin her whole life — before, during, and after giving birth to Jesus. Furthermore, at the end of her earthly life, she was assumed body and soul into the glory of heaven (the Assumption).
 
-## 태그
-`마리아론`, `무염시태`, `평생동정`, `몽소승천`
+## Tags
+`mariology`, `immaculate_conception`, `perpetual_virginity`, `assumption`
 
-## 주장 (Claims)   가장 중요
-1. 마리아는 잉태되는 순간부터 하느님의 특별한 은총으로 원죄에 물들지 않았다.
-2. 마리아는 예수 잉태 전, 출산 중, 출산 후에도 평생 동정녀로 남았다.
-3. 마리아는 지상 생애가 끝난 후 영혼과 육신이 함께 하늘로 올림을 받았다.
+## Claims (Most Important)
+1. From the moment of her conception, Mary, by a special grace of God, was untouched by original sin.
+2. Mary remained a virgin her whole life — before, during, and after the birth of Jesus.
+3. At the end of her earthly life, Mary was assumed body and soul into heaven.
 
-## 부정 (Negates)   가장 중요
-1. 마리아도 다른 인간들과 마찬가지로 원죄를 지니고 태어났다.
-2. 마리아는 예수를 낳은 후 요셉과의 사이에서 다른 자녀들을 낳았다.
+## Negates (Most Important)
+1. Mary, like all other human beings, was born with original sin.
+2. After bearing Jesus, Mary had other children with Joseph.
 
 ---
 
-# CCC-880_896  교황 수위권 (Primacy)
+# CCC-880_896 — Papal Primacy
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-880_896 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 880-896항 |
-| **교의 등급** | De Fide Definita (바티칸 1차 공의회 기반) |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§880-896 |
+| **Doctrinal Rank** | De Fide Definita (grounded in the First Vatican Council) |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 로마 교황은 베드로의 후계자로서 주교단의 단장이며, 전체 교회에 대하여 완전하고 최고의 보편적 권한(수위권)을 지닌다. 주교단은 교황과 일치할 때만 보편 교회를 다스리는 권위를 가진다.
+## Original Text (Summary)
+> The Roman Pontiff, as the successor of Peter, is the head of the college of bishops and holds full and supreme universal authority (primacy) over the whole Church. The college of bishops has authority to govern the universal Church only when in union with the pope.
 
-## 태그
-`교회론`, `교황`, `수위권`
+## Tags
+`ecclesiology`, `pope`, `primacy`
 
-## 주장 (Claims)   가장 중요
-1. 로마 교황은 베드로의 합법적 후계자로서 전 세계 가톨릭 교회에 대해 완전하고 즉각적이며 보편적인 최고 재치권(수위권)을 지닌다.
-2. 주교들은 교황과의 일치 속에서만 권위를 가지며, 교황 없이 주교단 단독으로 최고 권력을 행사할 수 없다.
+## Claims (Most Important)
+1. The Roman Pontiff, as the legitimate successor of Peter, holds full, immediate, and universal supreme jurisdiction (primacy) over the whole Catholic Church worldwide.
+2. Bishops hold authority only in union with the pope; the college of bishops alone, without the pope, cannot exercise supreme power.
 
-## 부정 (Negates)   가장 중요
-1. 교황은 단지 주교들 중 '동등한 자들 가운데 첫째(Primus inter pares)'일 뿐, 전체 교회에 대한 최고 재치권을 갖지 않는다.
-2. 각 지역 주교나 공의회가 교황의 권위보다 우위에 있다(공의회 수위설).
+## Negates (Most Important)
+1. The pope is merely "first among equals" (Primus inter pares) among the bishops and holds no supreme jurisdiction over the whole Church.
+2. A local bishop or council stands above the pope's authority (conciliarism).
 
 ---
 
-# CCC-888_892  교도권과 교황 무류성 (Infallibility)
+# CCC-888_892 — The Magisterium and Papal Infallibility
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-888_892 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 888-892항 |
-| **교의 등급** | De Fide Definita |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§888-892 |
+| **Doctrinal Rank** | De Fide Definita |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 교황이 전체 교회의 최고 목자로서 '좌에서(Ex Cathedra)' 신앙과 도덕에 관한 교리를 확정적으로 선언할 때, 그 가르침은 성령의 도우심으로 오류가 없다(무류성). 교황과 함께 에큐메니컬 공의회에 모인 주교단도 무류성을 지닌다.
+## Original Text (Summary)
+> When the pope, as supreme shepherd of the whole Church, definitively proclaims doctrine concerning faith and morals "from the chair" (Ex Cathedra), that teaching is, by the assistance of the Holy Spirit, without error (infallibility). The college of bishops gathered in an ecumenical council together with the pope likewise possesses infallibility.
 
-## 태그
-`교회론`, `교도권`, `무류성`
+## Tags
+`ecclesiology`, `magisterium`, `infallibility`
 
-## 주장 (Claims)   가장 중요
-1. 교황이 'Ex Cathedra(교좌에서)' 신앙과 도덕에 관해 확정적으로 가르칠 때 그 선언은 오류가 불가능하다.
-2. 교황과 일치하여 개최된 보편 공의회(에큐메니컬 공의회)의 교리적 정의는 오류가 없다.
+## Claims (Most Important)
+1. When the pope teaches definitively "from the chair" (Ex Cathedra) on faith and morals, that declaration is incapable of error.
+2. The doctrinal definitions of a universal (ecumenical) council held in union with the pope are without error.
 
-## 부정 (Negates)   가장 중요
-1. 교황이 '좌에서(Ex Cathedra)' 선언한 신앙과 도덕 교리라 할지라도 성경과 어긋나면 오류가 있을 수 있다.
-2. 교회 내에 신앙과 도덕에 관해 절대적으로 무류한 판단을 내릴 수 있는 권위 체계는 존재하지 않는다.
+## Negates (Most Important)
+1. Even a doctrine of faith or morals declared "from the chair" (Ex Cathedra) by the pope can be in error if it conflicts with Scripture.
+2. No authoritative structure exists within the Church capable of rendering an absolutely infallible judgment on faith and morals.
 
 ---
 
-# CCC-954_962  성인들의 전구 (Intercession)
+# CCC-954_962 — The Intercession of the Saints
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-954_962 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 954-962항 |
-| **교의 등급** | Sententia Certa |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§954-962 |
+| **Doctrinal Rank** | Sententia Certa |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 천국에 있는 성인들은 지상 교회를 위해 하느님께 끊임없이 전구(기도)하며, 성인들의 공로와 기도는 지상 신자들의 나약함을 크게 돕는다. 따라서 신자들이 성인들에게 기도를 청하는 것은 정당하고 유익하다.
+## Original Text (Summary)
+> The saints in heaven continually intercede (pray) before God for the earthly Church, and the merits and prayers of the saints greatly assist the weakness of earthly believers. Therefore it is right and beneficial for the faithful to ask the saints for their prayers.
 
-## 태그
-`성인 공경`, `전구`, `통공`
+## Tags
+`veneration_of_saints`, `intercession`, `communion_of_saints`
 
-## 주장 (Claims)   가장 중요
-1. 천국에 이른 성인들은 지상에 있는 신자들을 위해 하느님께 끊임없이 중재의 기도(전구)를 바친다.
-2. 살아있는 신자들이 천국의 성인들에게 기도를 청하는 행위는 정당하며 영적으로 유익하다.
+## Claims (Most Important)
+1. The saints who have reached heaven continually offer intercessory prayer to God on behalf of believers on earth.
+2. It is right and spiritually beneficial for living believers to ask the saints in heaven for their prayers.
 
-## 부정 (Negates)   가장 중요
-1. 죽은 성인에게 기도를 청하는 것은 우상숭배이거나 강신술로 금지된 행위이다.
-2. 하느님과 인간 사이의 유일한 중개자인 예수 그리스도 외에 성인의 전구를 구하는 것은 그리스도의 중개직을 훼손하는 것이다.
+## Negates (Most Important)
+1. Asking a deceased saint for prayer is idolatry or a forbidden act of necromancy.
+2. Seeking the intercession of the saints undermines the mediatorial office of Christ, the sole mediator between God and man.

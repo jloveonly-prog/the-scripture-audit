@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0133 | ver: 20260829_0942 -->
 # ⚖️ Complete Commentary on Zechariah 5 — The Judgment of the Holy Sanctuary and the Transporting of Wickedness to Babylon
 
 > **STATUS**: ✅✅✅ IRONCLAD [Cross-verified with related documents ✓] — Complete Commentary

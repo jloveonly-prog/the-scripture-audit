@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0047 | ver: 20260829_0942 -->
 # 🏹 SKILL-44: TYPE-AQ — Audience Criticism
 **"How did the original audience understand this?"**
 

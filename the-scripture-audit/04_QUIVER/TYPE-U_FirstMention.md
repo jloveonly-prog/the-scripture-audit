@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0077 | ver: 20260829_0942 -->
 # 🏹 TYPE-U: Law of First Mention
 
 > **Alias**: Anchor of the Prototype

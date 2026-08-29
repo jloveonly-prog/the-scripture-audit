@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0137 | ver: 20260829_0942 -->
 # 1 Chronicles 1:36 'Timna' Genealogy Difficulty — A Simple Error, or Sophisticated Telescoping?
 
 **— A BVCAP Neutral Audit Report on the Biblical Contradiction Attack: "Genesis says Concubine, but Chronicles says Son?" —**

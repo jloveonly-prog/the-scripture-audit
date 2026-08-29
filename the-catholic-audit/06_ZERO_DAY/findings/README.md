@@ -1,11 +1,12 @@
 ---
 id: "catholic-zero_day-132"
 title_ko: "README"
+title_en: "README"
 file_ko: "README.md"
 file_en: "README.md"
 category: "zero_day"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-발굴된 제로데이 충돌 저장소
+Repository of discovered zero-day collisions

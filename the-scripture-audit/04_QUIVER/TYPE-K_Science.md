@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0067 | ver: 20260829_0942 -->
 # 🔬 SKILL-11: TYPE-K — Scientific/Forensic Consistency Verification Pipeline
 
 > **When to trigger**: When attacked with the claim that "a biblical description is scientifically impossible," or when two records seem to conflict but can be integrated into a single medical/physical process.

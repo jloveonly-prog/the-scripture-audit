@@ -1,60 +1,61 @@
 ---
 id: "catholic-zero_day-131"
 title_ko: "제로데이 발굴 우선 스캔 대상 목록"
+title_en: "Priority Scan Targets for Zero-Day Discovery"
 file_ko: "scan_targets.md"
 file_en: "scan_targets.md"
 category: "zero_day"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# 제로데이 발굴 우선 스캔 대상 목록
+# Priority Scan Targets for Zero-Day Discovery
 
-CVCAP 2.0 제로데이 엔진의 우선 탐색 대상입니다. 아래 목록은 최근 교황 문헌과 기존 교의 사이에서 발견 가능성이 높은 충돌 후보들입니다.
+These are the priority search targets for the CVCAP 2.0 zero-day engine. The list below identifies collision candidates with a high probability of being found between recent papal documents and existing doctrine.
 
 ---
 
-## 1. Fiducia Supplicans (2023) vs 트렌트 혼인론 + CCC 2357
+## 1. Fiducia Supplicans (2023) vs. Trent's Theology of Marriage + CCC 2357
 
-- **Fiducia Supplicans** (2023, 신앙교리부): 비정규적 결합(동성 커플 포함)에 대한 사목적 축복을 허용
-- **트렌트 혼인론**: 혼인은 한 남자와 한 여자 사이의 성사이며, 이를 부정하는 자는 파문
-- **CCC 2357**: 동성애 행위는 "본질적으로 무질서한 것"이며 "어떤 경우에도 승인될 수 없다"
-- **잠재 충돌**: 축복은 승인의 한 형태이다. "어떤 경우에도 승인 불가"와 "축복 허용"은 모순 가능
+- **Fiducia Supplicans** (2023, Dicastery for the Doctrine of the Faith): permits a pastoral blessing for irregular unions, including same-sex couples
+- **Trent's theology of marriage**: marriage is a sacrament between one man and one woman, and whoever denies this is anathematized
+- **CCC 2357**: homosexual acts are "intrinsically disordered" and "under no circumstances can be approved"
+- **Potential collision**: a blessing is a form of approval. "Cannot be approved under any circumstance" and "blessing permitted" may be contradictory
 
-## 2. Amoris Laetitia 8장 (2016) vs 교회법 915조
+## 2. Amoris Laetitia Chapter 8 (2016) vs. Canon 915
 
-- **Amoris Laetitia** 8장, 각주 351 (2016, 프란치스코): 비정규적 상황의 신자들이 성사(성체)를 받을 수 있는 가능성 시사
-- **교회법 915조**: 명백한 중대한 죄에 고집스럽게 머무르는 자에게 성체를 거부해야 한다
-- **잠재 충돌**: 이혼 후 재혼한 자(교회법상 간통 상태)에게 성체 허용은 915조 위반 가능
+- **Amoris Laetitia** Ch. 8, footnote 351 (2016, Francis): implies the possibility that believers in irregular situations may receive the sacraments (the Eucharist)
+- **Canon 915**: Communion must be refused to those who obstinately persist in manifest grave sin
+- **Potential collision**: permitting Communion for the divorced and remarried (a state of adultery under canon law) may violate Canon 915
 
-## 3. 림보 폐기 (2007) vs 트렌트 세례 파문 + CCC 1261
+## 3. The Abolition of Limbo (2007) vs. Trent's Anathema on Baptism + CCC 1261
 
-- **국제신학위원회 문서** (2007): 세례 없이 죽은 유아의 구원에 대한 "진지한 신학적·전례적 근거"가 있으며, 림보(limbo)는 "불필요한 가설"
-- **트렌트 세례 교령**: 세례가 구원에 필수적이며, 이를 부정하는 자는 파문
-- **CCC 1261**: "세례 없이 죽은 어린이들에 대해, 교회는 그들을 하느님의 자비에 맡길 수밖에 없다"
-- **잠재 충돌**: 세례 필수(트렌트 파문) vs 세례 없이도 구원 가능(림보 폐기)
+- **International Theological Commission document** (2007): there are "serious theological and liturgical grounds" for the salvation of infants who die without baptism, and limbo (limbo) is an "unnecessary hypothesis"
+- **Trent's decree on baptism**: baptism is necessary for salvation, and whoever denies this is anathematized
+- **CCC 1261**: "as for children who have died without Baptism, the Church can only entrust them to the mercy of God"
+- **Potential collision**: baptism as necessary (Trent's anathema) vs. salvation possible without baptism (the abolition of limbo)
 
-## 4. Fratelli Tutti (2020) 사형제 vs 과거 CCC 2267
+## 4. Fratelli Tutti (2020) on the Death Penalty vs. the Earlier CCC 2267
 
-- **Fratelli Tutti** (2020, 프란치스코): 사형은 "어떤 경우에도 용납될 수 없다"
-- **CCC 2267 (1997년판)**: 사형은 범죄자의 신원을 확실히 파악하고 공동체를 보호하는 유일한 수단인 경우 허용 가능
-- **CCC 2267 (2018년 개정판)**: 사형은 "인간 존엄에 대한 공격"으로 용납 불가
-- **잠재 충돌**: 교리의 절대적 변경 — "허용 가능" → "용납 불가"는 교의 발전이 아니라 교의 부정
+- **Fratelli Tutti** (2020, Francis): the death penalty is "inadmissible" under any circumstance
+- **CCC 2267 (1997 edition)**: the death penalty is permissible when it is the only possible way of effectively defending human lives against an unjust aggressor and of ensuring the offender's identity
+- **CCC 2267 (2018 revision)**: the death penalty is "an attack on the inviolability and dignity of the person" and inadmissible
+- **Potential collision**: an absolute reversal of doctrine — "permissible" → "inadmissible" is not doctrinal development but doctrinal negation
 
-## 5. 3단 콤보 후보들
+## 5. Three-Tier Combo Candidates
 
-### 5-1. 유아세례 + 세례필수 + 림보폐기
-- CCC 1250 (유아세례 장려) + CCC 1257 (세례 필수) + 림보 폐기 (2007)
-- 구조: 세례가 필수인데, 세례 없이 죽은 유아도 구원 가능하다면, 유아세례의 긴급성이 소멸한다. 그러나 교회는 유아세례를 여전히 필수적으로 장려한다.
+### 5-1. Infant Baptism + The Necessity of Baptism + The Abolition of Limbo
+- CCC 1250 (encourages infant baptism) + CCC 1257 (baptism necessary) + the abolition of limbo (2007)
+- Structure: if baptism is necessary, yet an infant who dies without baptism can still be saved, then the urgency of infant baptism dissolves. Yet the Church still urgently encourages infant baptism.
 
-### 5-2. 동성축복 + CCC 2357 + 축복의 의미
-- Fiducia Supplicans (2023) + CCC 2357 + CCC 1671 (준성사적 축복 정의)
-- 구조: 축복은 "하느님의 은총을 비는 행위"(CCC 1671)이다. 동성 결합에 축복한다 = 동성 결합에 하느님의 은총을 빈다. 그러나 CCC 2357은 동성애 행위를 "본질적 무질서"로 정의한다. 무질서한 행위에 하느님의 은총을 비는 것은 모순이다.
+### 5-2. The Same-Sex Blessing + CCC 2357 + the Meaning of a Blessing
+- Fiducia Supplicans (2023) + CCC 2357 + CCC 1671 (the definition of a sacramental blessing)
+- Structure: a blessing is "an act invoking God's grace" (CCC 1671). To bless a same-sex union is to invoke God's grace upon a same-sex union. Yet CCC 2357 defines homosexual acts as "intrinsically disordered." Invoking God's grace upon a disordered act is a contradiction.
 
-### 5-3. 무류성 + 호노리우스 + 순환논리
-- COL-003 + COL-008 결합
-- 구조: 교황은 무류하다(VAT1) → 호노리우스는 이단이었다(CONST3) → "ex cathedra가 아니었다"(회피) → ex cathedra 여부를 누가 판단하는가? → 무류한 교황/교도권(순환) → 순환의 근거인 무류성 자체가 호노리우스에 의해 위협받는다 → ∞ 자기파괴 루프
+### 5-3. Infallibility + Honorius + Circular Logic
+- Combination of COL-003 + COL-008
+- Structure: the pope is infallible (Vatican I) → Honorius was a heretic (Constantinople III) → "it was not ex cathedra" (evasion) → who determines whether it was ex cathedra? → the infallible pope/Magisterium (circularity) → the very infallibility that grounds the circle is itself threatened by Honorius → ∞ self-destructive loop
 
-### 5-4. 면죄부 + 연옥 + 죽은 자 적용
-- CCC 1471 (면죄부) + CCC 1030 (연옥) + CCC 1471 후반부 (죽은 자를 위한 면죄부)
-- 구조: 연옥은 "필요한 정화"인데, 면죄부로 경감 가능하고, 산 자가 죽은 자를 위해 면죄부를 얻을 수 있다. 타인의 행위로 타인의 "필수 정화"를 면제하는 것은 정화의 개인적 성격을 무효화한다.
+### 5-4. Indulgences + Purgatory + Application to the Dead
+- CCC 1471 (indulgences) + CCC 1030 (purgatory) + the latter part of CCC 1471 (indulgences for the dead)
+- Structure: purgatory is a "necessary purification," yet it can be reduced by indulgences, and the living can obtain indulgences on behalf of the dead. Remitting another person's "necessary purification" through a third party's act nullifies the personal character of purification.

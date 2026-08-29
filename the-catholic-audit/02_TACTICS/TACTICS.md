@@ -25,53 +25,53 @@ CVCAP's core tactic is not to wield Protestant logic or arguments from Protestan
 
 ---
 
-## 2. 관할 분리 전술 (Jurisdiction Split)
+## 2. Jurisdiction Split Tactics
 
-*   **💣 문헌 법정 (본 엔진 — CVCAP)**: OODA 10라운드 공방전을 통해 가톨릭 내부 문헌(CCC·공의회·교황 선언·교부) 간의 치명적 충돌 폭로. 본 문서의 모든 앵커는 이 법정 전용이다.
-*   **⚔️ 성경 법정 (별도 엔진 — BVCAP)**: KJV 원문과 가톨릭 교리의 충돌은 `../the-scripture-audit/`가 담당. 가톨릭 특화 성경 무기 카드는 가톨릭 전용 자산이므로 `03_QUIVER/CATHOLIC_TARGETED_WEAPONS.md`에 보관하되, 문헌 법정 논증에는 투입하지 않는다 (BVCAP 검증·최종 병합 단계 전용). 최종 콘텐츠 단계에서 두 보고서를 병합한다.
-
----
-
-## 3. 핵심 문헌 직접 타격 포인트 (Direct Document Strikes)
-
-이곳에는 실전에서 즉각적으로 꺼내어 가톨릭 측의 주장을 분쇄할 **'가톨릭 문헌 원문 앵커(Anchor)'**들을 배치합니다. 이 원문들은 피할 수 없는 '외통수'를 강제합니다.
-
-### A. 칭의와 구원: 트렌트 공의회 vs 제2차 바티칸 공의회
-
-가톨릭의 가장 거대한 논리적 붕괴는 16세기의 '트렌트 공의회'와 20세기의 '제2차 바티칸 공의회'가 정면으로 충돌한다는 점입니다. 무류한 교도권이 어떻게 400년 만에 구원의 기준을 뒤집었는지 타격합니다.
-
-*   **원문 앵커 1: 트렌트 공의회 (Council of Trent, 1545-1563)**
-    > **칭의에 관한 법령 제9조 (Canon 9)**: "만일 누구든지 악인이 **믿음만으로(by faith alone) 의롭다 함을 받는다고 말하여**... (중략) 은총을 얻기 위해 다른 어떤 것도 필요하지 않다고 말한다면, **그는 파문받아야 마땅하다(Let him be anathema).**"
-    > **전술적 타격**: 가톨릭은 '오직 믿음'을 명시적으로 저주(Anathema)했습니다. 이 앵커는 현대 가톨릭이 개신교와 '친교'를 맺거나 '칭의 교리 공동 선언(1999)'을 할 때, 그들이 과거 교도권의 저주를 부정하는 것인지 압박하는 데 사용합니다.
-
-*   **원문 앵커 2: 제2차 바티칸 공의회 (Vatican II, 1962-1965)**
-    > **교회 헌장 (Lumen Gentium) 16항**: "구원의 계획은 창조주를 인정하는 모든 사람을 포함하며, 그 중에는 **특히 무슬림(이슬람교도)들이 있다**... 자기 탓 없이 그리스도의 복음과 교회를 모르지만 진실한 마음으로 하느님을 찾고... 노력하는 사람들은 **영원한 구원을 얻을 수 있다.**"
-    > **전술적 타격**: 트렌트 공의회에서는 그리스도를 믿고 오직 믿음만 주장해도 '파문(지옥)'이라고 선언했는데, 제2차 바티칸은 그리스도를 믿지 않는 이슬람교도도 구원을 얻을 수 있다고 선언합니다. **"두 공의회 중 어느 쪽이 무류합니까?"**라는 양도논법(L-04)으로 시스템 전체를 마비시킵니다.
-
-### B. 은총과 공로의 딜레마: 가톨릭 교회 교리서 (CCC)
-
-*   **원문 앵커 3: 무상 은총 (CCC 1996)**
-    > **CCC 1996항**: "은총은 하느님께서 우리 영혼에 주시는 호의이며 **무상의 선물(free gift)**이다."
-*   **원문 앵커 4: 공로의 필요성 (CCC 2010)**
-    > **CCC 2010항**: "성령과 사랑의 재촉을 받아, 우리는 하느님과 우리 자신 그리고 타인들을 위하여 유익한 성화와, **영원한 생명을 얻기 위한 공로를 세울 수 있다.**"
-    > **전술적 타격**: "거저 주는 무상의 선물이 어떻게 스스로 공로를 세워야 얻어지는 것입니까?" (소크라테스 문답법 L-06). 은총이 무상이라는 성경적 주장(에베소서 2:8-9)을 표면적으로 흉내 내면서도, 실질적으로는 율법주의적 공로를 요구하는 가톨릭 교리 내부의 명백한 모순을 폭로합니다.
-
-### C. 마리아 교리와 역사적 단절 (교황 선언문)
-
-*   **원문 앵커 5: 교황의 무류성 선언 (Ex Cathedra)**
-    > **Ineffabilis Deus (교황 비오 9세, 1854년)**: "복되신 동정 마리아는 잉태된 첫 순간부터... 원죄의 모든 물듦에서 면제되어 보존되었다(무염시태)."
-    > **전술적 타격**: 교황은 1854년에야 이를 무류한 교리로 선포했습니다. "만약 이것이 사도로부터 내려온 '사도적 전통'이라면, 왜 1~3세기의 극초기 교부 문헌에는 마리아가 원죄 없이 태어났다는 기록이 단 한 줄도 존재하지 않습니까?" CE-03(전통 소급) 회피 전술을 실제 역사 데이터의 부재로 원천 봉쇄합니다.
+*   **💣 The Document Court (this engine — CVCAP)**: exposes fatal collisions among Catholicism's own internal documents (CCC, councils, papal declarations, the Church Fathers) through a 10-round OODA exchange. Every anchor in this document is dedicated to this court alone.
+*   **⚔️ The Scripture Court (a separate engine — BVCAP)**: collisions between the KJV original text and Catholic doctrine are handled by `../the-scripture-audit/`. Catholic-specific scriptural weapon cards are Catholic-only assets and are kept in `03_QUIVER/CATHOLIC_TARGETED_WEAPONS.md`, but are not deployed in Document Court argumentation (reserved for BVCAP verification and the final merge stage). The two reports are merged at the final content stage.
 
 ---
 
-## 4. 실전 타격 논리 무기 (L-Codes) 적용법
+## 3. Direct Document Strikes
 
-*   **L-01 귀류법**: 교황이 절대 무류하다고 가정할 경우, 과거 제3차 콘스탄티노폴리스 공의회(680년)가 교황 호노리우스 1세를 '이단'으로 정죄한 역사적 사실이 성립 불가능해지는 치명적 딜레마 입증.
-*   **L-04 양도논법**: 가톨릭 교도권 문헌 A와 B 중 어느 것을 선택해도 전체 무류성이 깨지는 교착 상태(Deadlock) 강제 유도.
-*   **L-06 소크라테스 문답**: 3~5단계의 연쇄 질문으로, 가톨릭 변증가가 스스로 자신들의 교리 체계가 자가당착임을 자백하도록 압박.
+Here are placed **'Catholic document original-text anchors'** to be drawn immediately in the field to shatter Catholic claims. These original texts force an unavoidable 'checkmate.'
 
-## 5. 가톨릭 회피 전술 선제 봉쇄 (CE-Codes)
+### A. Justification and Salvation: The Council of Trent vs. the Second Vatican Council
 
-*   **"신학적 발전이다" (CE-01)**: 발전은 A에서 A+로 커지는 것이지, A(가톨릭 외 구원 절대 불가)에서 Not-A(타 종교 구원 가능)로 뒤집히는 것은 교리적 역전이자 명백한 자기모순임을 팩트 체크.
-*   **"신비의 영역이다" (CE-05)**: 합리적 논증을 포기하고 신비로 도피하는 순간, 이성적 변증의 패배(Checkmate)임을 즉각 판정.
-*   **"초대 교부들도 믿었다" (CE-04/CE-06)**: 가톨릭이 유리한 교부의 파편 문구만 가져오는 '체리피킹'을 적발하고, 역으로 교부들이 가톨릭 교리를 정면 반박한 문헌(역-체리피킹)을 투입.
+Catholicism's greatest logical collapse is that the 16th-century 'Council of Trent' and the 20th-century 'Second Vatican Council' collide head-on. This strikes at how the infallible Magisterium reversed the standard of salvation within 400 years.
+
+*   **Original-Text Anchor 1: Council of Trent (1545-1563)**
+    > **Decree on Justification, Canon 9**: "If anyone says that the impious is justified **by faith alone**... [and] that it is not in any way necessary that he be prepared and disposed by the movement of his own will... **let him be anathema.**"
+    > **Tactical Strike**: Catholicism explicitly cursed (anathematized) 'faith alone.' This anchor is used to press modern Catholicism, when it enters into 'fellowship' with Protestants or issues a 'Joint Declaration on the Doctrine of Justification' (1999), on whether it is thereby denying the Magisterium's past curse.
+
+*   **Original-Text Anchor 2: Second Vatican Council (1962-1965)**
+    > **Lumen Gentium §16**: "The plan of salvation... includes... those who, without any fault of their own, have not yet arrived at an explicit knowledge of God... [and] with His grace strive to live a good life... can attain eternal salvation... [including] especially the Muslims."
+    > **Tactical Strike**: Trent declared that even believing in Christ and holding to faith alone results in 'anathema (hell),' while Vatican II declares that Muslims, who do not believe in Christ, can also attain salvation. This paralyzes the entire system with the dilemma (L-04): **"Which of the two councils is infallible?"**
+
+### B. The Dilemma of Grace and Merit: The Catechism of the Catholic Church (CCC)
+
+*   **Original-Text Anchor 3: Gratuitous Grace (CCC 1996)**
+    > **CCC §1996**: "Grace is favor, the free and undeserved help God gives us... a **free gift** by which he calls us."
+*   **Original-Text Anchor 4: The Necessity of Merit (CCC 2010)**
+    > **CCC §2010**: "Moved by the Holy Spirit and charity, we can then merit for ourselves and for others the graces needed for our sanctification... as well as **the attainment of eternal life.**"
+    > **Tactical Strike**: "How is a freely given, gratuitous gift something that must be earned through one's own merit?" (the Socratic method, L-06). This exposes the plain internal contradiction in Catholic doctrine, which superficially mimics the scriptural claim that grace is gratuitous (Ephesians 2:8-9) while substantively demanding legalistic merit.
+
+### C. Marian Doctrine and Its Historical Rupture (Papal Declarations)
+
+*   **Original-Text Anchor 5: The Papal Declaration of Infallibility (Ex Cathedra)**
+    > **Ineffabilis Deus (Pope Pius IX, 1854)**: "The Most Blessed Virgin Mary, from the first moment of her conception... was preserved immune from all stain of original sin (the Immaculate Conception)."
+    > **Tactical Strike**: The pope did not proclaim this an infallible doctrine until 1854. "If this is an 'apostolic tradition' handed down from the apostles, why does not a single line exist in the earliest patristic literature of the 1st-3rd centuries recording that Mary was born without original sin?" This forecloses the CE-03 (retroactive tradition) evasion tactic at its source, using the very absence of historical data.
+
+---
+
+## 4. Application of Field-Ready Logical Weapons (L-Codes)
+
+*   **L-01 Reductio ad Absurdum**: assuming the pope is absolutely infallible, demonstrates the fatal dilemma that makes it impossible for the historical fact to stand that the Third Council of Constantinople (680) condemned Pope Honorius I as a 'heretic.'
+*   **L-04 Dilemma**: forces a deadlock in which choosing either document A or B of the Catholic Magisterium breaks infallibility as a whole.
+*   **L-06 Socratic Method**: through a chain of 3-5 questions, presses a Catholic apologist to confess, in their own words, that their own doctrinal system is self-contradictory.
+
+## 5. Preemptive Blocking of Catholic Evasion Tactics (CE-Codes)
+
+*   **"It is theological development" (CE-01)**: fact-checks that development is A growing into A+, whereas reversing from A (salvation absolutely impossible outside Catholicism) to Not-A (salvation possible in other religions) is a doctrinal reversal and a plain self-contradiction.
+*   **"It is a matter of mystery" (CE-05)**: the instant rational argument is abandoned for a flight into mystery, this is immediately ruled a defeat (checkmate) of rational apologetics.
+*   **"The early Church Fathers believed it too" (CE-04/CE-06)**: detects the 'cherry-picking' by which Catholicism brings forward only the fragmentary phrases of a Father that are convenient, and conversely deploys the Father's own writings that directly refute Catholic doctrine (reverse cherry-picking).

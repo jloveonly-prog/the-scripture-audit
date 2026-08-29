@@ -1,26 +1,27 @@
 ---
 id: "catholic-collision_cards-104"
 title_ko: "💥 COMBO-03: '교회 밖 구원 없음' 교리 연쇄 붕괴 (IRONCLAD)"
+title_en: "💥 COMBO-03: Chain Collapse of the Doctrine 'No Salvation Outside the Church' (IRONCLAD)"
 file_ko: "COMBO-03_SALVATION_RUPTURE.md"
 file_en: "COMBO-03_SALVATION_RUPTURE.md"
 category: "collision_cards"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# 💥 COMBO-03: '교회 밖 구원 없음' 교리 연쇄 붕괴 (IRONCLAD)
+# 💥 COMBO-03: Chain Collapse of the Doctrine "No Salvation Outside the Church" (IRONCLAD)
 
-## 📌 타격 목표: Extra Ecclesiam nulla salus (가톨릭 밖 구원 무)
-**적용된 CVCAP 3.0 필터 조합**: `필터 2(해석학적 단절)` + `필터 3(후건 부정식)` + `필터 4(실천적 모순)`
+## 📌 Target: Extra Ecclesiam Nulla Salus (No Salvation Outside Catholicism)
+**CVCAP 3.0 Filter Combination Applied**: `Filter 2 (Hermeneutical Rupture)` + `Filter 3 (Modus Tollens)` + `Filter 4 (Practical Contradiction)`
 
-### 1. [필터 2] 배타주의에서 포용주의로의 기만 (Hermeneutical Rupture)
-피렌체 공의회(1442)는 "가톨릭 교회 밖에 있는 이교도와 유대인은 예외 없이 지옥불에 떨어진다"고 배타성의 끝을 보여주었습니다. 그러나 1964년 제2차 바티칸 공의회는 "무슬림과 같이 복음을 몰라도 양심을 따르면 구원받는다"며 180도 선회했습니다. 뉘앙스만 바꾸어 과거의 이단을 정통으로 수용한 최악의 해석학적 기만입니다.
+### 1. [Filter 2] The Deception of Exclusivism Shifting to Inclusivism (Hermeneutical Rupture)
+The Council of Florence (1442) displayed the very extreme of exclusivism: "pagans and Jews outside the Catholic Church fall into the fire of hell without exception." Yet in 1964, the Second Vatican Council did a full 180-degree turn, declaring that "even those who do not know the Gospel, such as Muslims, can be saved if they follow their conscience." This is the worst kind of hermeneutical deception — accepting a past heresy as orthodoxy by merely changing the nuance.
 
-### 2. [필터 3] 세례와 성사 절대성의 붕괴 (Modus Tollens)
-가톨릭은 구원을 위해 '물로 받는 세례'와 '사제 앞에서의 고해성사'가 하느님의 법(신법)에 의해 절대적으로 필수(P ➔ Q)라고 가르칩니다. 하지만 복음을 모르는 무슬림도 구원받을 수 있다거나, 사제가 없어도 완전한 통회로 죄가 사해진다고 예외(Not Q)를 허용함으로써, 결국 "성사가 절대적으로 필요하다"는 자신들의 신적 전제를 스스로 파괴했습니다.
+### 2. [Filter 3] The Collapse of the Absoluteness of Baptism and the Sacraments (Modus Tollens)
+Catholicism teaches that "baptism by water" and "sacramental confession before a priest" are, by divine law, absolutely necessary for salvation (P ➔ Q). Yet by permitting the exception (Not Q) that a Muslim who does not know the Gospel can be saved, or that sins can be forgiven through perfect contrition alone even without a priest, it has destroyed its own divine premise that "the sacraments are absolutely necessary."
 
-### 3. [필터 4] 피니주의 단죄의 위선 (Action-vs-Doctrine)
-가장 기괴한 실천적 모순은, 1940년대 레너드 피니(Leonard Feeney) 신부가 "진짜 가시적 가톨릭 교회 안에 들어오지 않으면 모두 지옥에 간다"며 '과거 피렌체 공의회의 교리를 정확히 그대로' 가르쳤다는 이유로 교황청이 그를 이단으로 파문한 사건입니다. 자신들의 과거 무류적 교리를 그대로 믿는 자를 이단으로 치리하는 완벽한 실천적 위선입니다.
+### 3. [Filter 4] The Hypocrisy of the Condemnation of Feeneyism (Action-vs-Doctrine)
+The most bizarre practical contradiction is the case of Fr. Leonard Feeney, who in the 1940s was excommunicated as a heretic by the Vatican precisely for teaching — "exactly and precisely" — the doctrine of the Council of Florence: that all who do not enter the true, visible Catholic Church go to hell. This is a perfect practical hypocrisy: disciplining as a heretic someone who believed, unchanged, the Church's own past infallible doctrine.
 
-### ⚖️ 최종 판결: [IRONCLAD REFUTATION]
-가시적 교회 소속을 절대화했던 과거 교리가(필터 2), 물리적 예외 앞에 붕괴하고(필터 3), 오히려 그 교리를 고수하는 자를 이단으로 내모는(필터 4) 최악의 교리적 코미디이자 자가당착임이 확정되었습니다.
+### ⚖️ Final Verdict: [IRONCLAD REFUTATION]
+The past doctrine that once absolutized visible membership in the Church (Filter 2) collapses in the face of a physical exception (Filter 3), and even drives out as a heretic the very person who upholds that doctrine (Filter 4) — confirmed to be the worst kind of doctrinal comedy and self-contradiction.

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0063 | ver: 20260829_0942 -->
 # 🔬 SKILL-07: TYPE-G — KJV Conjunction/Grammatical Structure Dissection Pipeline
 
 > **When to trigger**: When a specific verse is attacked textually as a later insertion, or when a person's status in a genealogy is attacked as a misrecord.

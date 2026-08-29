@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0032 | ver: 20260829_0942 -->
 # 🌌 TYPE-AB: Entity & Space Timeline Tracking Matrix
 
 > **When to Invoke**: When doctrinal conflicts are raised regarding spiritual entities like angels, devils, Satan, or post-mortem spaces such as Hell, Hades, the Bottomless Pit, or the Lake of Fire.

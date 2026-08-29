@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0064 | ver: 20260829_0942 -->
 # 🔬 SKILL-08: TYPE-H — Manuscript Evidence Independence Reversal Pipeline
 
 > **When to trigger**: When attacked by the numerical logic that "the side with more manuscripts is right."

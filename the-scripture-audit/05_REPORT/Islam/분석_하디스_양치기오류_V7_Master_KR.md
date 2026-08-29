@@ -1,8 +1,4 @@
-﻿---
-status: translated
-date_translated: 2026-08-27T00:12:48.8492096+09:00
-linecount_ko: 92
----
+<!-- doc_no: 20260829_0087 | ver: 20260829_0942 -->
 ---
 id: audit-scripture_05_REPORT-7
 title_ko: 🔱 분석_무슬림채널_하디스_양치기역설_V7_Master_KR

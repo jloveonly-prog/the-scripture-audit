@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0138 | ver: 20260829_0942 -->
 # Internal Evidence Analysis of 1 John 5:7-8
 ### — An Internal Textual Apologetic on the Authenticity of the Comma Johanneum —
 
@@ -744,8 +745,8 @@ Victor recorded the **official confession of faith** submitted by Catholic bisho
 ### 2-1. Grammatical Contrast: In Heaven vs In Earth
 
 **【 KJV Structure (Original Text containing Comma) 】**
-> 7절: "For there are three that bear record **in heaven (ἐν τῷ οὐρανῷ)**, the Father, the Word, and the Holy Ghost: and these three are one."  
-> 8절: "And there are three that bear witness **in earth (ἐν τῇ γῇ)**, the Spirit, and the water, and the blood: and these three agree in one."
+> Verse 7: "For there are three that bear record **in heaven (ἐν τῷ οὐρανῷ)**, the Father, the Word, and the Holy Ghost: and these three are one."  
+> Verse 8: "And there are three that bear witness **in earth (ἐν τῇ γῇ)**, the Spirit, and the water, and the blood: and these three agree in one."
 
 **【 NA28 Structure (Alexandrian text without Comma) 】**
 > "ὅτι τρεῖς εἰσιν οἱ μαρτυροῦντες," (For there are three that testify:)  

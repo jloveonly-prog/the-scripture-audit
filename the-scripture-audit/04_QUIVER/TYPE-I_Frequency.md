@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0065 | ver: 20260829_0942 -->
 # 🔬 SKILL-09: TYPE-I — Vocabulary Frequency Symmetrical Design Verification Pipeline
 
 > **When to trigger**: When the usage frequency of specific verbs/nouns exactly matches in the same biblical passage or adjacent verses.

@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-catholic-033"
-title_en: "Biblical Apologetics Report on Catholic Doctrines"
-title_ko: ""
-file_en: "Catholic_Apologetics.md"
-file_ko: ""
-category: "catholic"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0130 | ver: 20260829_0942 -->
 
 # Biblical Apologetics Report on Catholic Doctrines
 

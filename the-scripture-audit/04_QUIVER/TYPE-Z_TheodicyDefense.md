@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0082 | ver: 20260829_0942 -->
 # 🏹 TYPE-Z: Theodicy Defense
 
 > **Alias**: Altitude of the Judge

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0062 | ver: 20260829_0942 -->
 # 🔬 SKILL-06: TYPE-F — Pipeline for Proving Threefold Typological Parallel Structure
 
 > **When to trigger**: When a specific figure's place, manner, and mission of martyrdom conflict with biblical tradition or external historical records.

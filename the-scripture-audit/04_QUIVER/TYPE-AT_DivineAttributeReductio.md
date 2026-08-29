@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0050 | ver: 20260829_0942 -->
 # 🔥 SKILL-47: TYPE-AT — Divine Attribute Reductio
 **"Every good gift and every perfect gift is from above, and cometh down from the Father of lights" — James 1:17 KJV**
 

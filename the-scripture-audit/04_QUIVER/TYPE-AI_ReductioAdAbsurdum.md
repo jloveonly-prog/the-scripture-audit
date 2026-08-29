@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0039 | ver: 20260829_0942 -->
 # 🏹 SKILL-36: TYPE-AI — Reductio ad Absurdum
 **"If you push the opposing hypothesis to the end, it collapses within the Scripture"**
 

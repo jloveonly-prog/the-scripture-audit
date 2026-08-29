@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-catholic-039"
-title_en: "Complete Collapse of the Catholic Ultimate Defense Shield: Repelling Sola Scriptura + 3 Major Escape Routes"
-title_ko: ""
-file_en: "REPORT_Catholic_3_Major_Escape_Routes_Blockaded_SolaScriptura.md"
-file_ko: ""
-category: "catholic"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0097 | ver: 20260829_0942 -->
 
 # Complete Collapse of the Catholic Ultimate Defense Shield: Repelling Sola Scriptura + 3 Major Escape Routes
 **— "Dual Authority of Scripture+Tradition", Papal Infallibility ex cathedra, Mary's Pre-emptive Salvation — Complete Blockade of the 3 Major Escape Routes —**

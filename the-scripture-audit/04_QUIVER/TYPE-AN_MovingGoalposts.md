@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0044 | ver: 20260829_0942 -->
 # 🏹 SKILL-41: TYPE-AN — Moving Goalposts Detection
 **"Catches the fallacy of changing criteria when evidence is provided"**
 

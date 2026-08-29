@@ -1,234 +1,235 @@
 ---
 id: "catholic-doctrine_db-033"
 title_ko: "CCC-161_165  믿음과 구원"
+title_en: "CCC-161_165 — Faith and Salvation"
 file_ko: "batch1_salvation.md"
 file_en: "batch1_salvation.md"
 category: "doctrine_db"
-status: "copied"
+status: "translated"
 source: "KO"
-updated: "2026-08-26"
+updated: "2026-08-27"
 ---
-# CCC-161_165  믿음과 구원
+# CCC-161_165 — Faith and Salvation
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-161_165 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 161-165항 |
-| **교의 등급** | Sententia Certa |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§161-165 |
+| **Doctrinal Rank** | Sententia Certa |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 예수 그리스도와 하느님을 믿는 것은 구원을 얻기 위해 필수적이다. 누구도 이 믿음 없이 의롭게 될 수 없으며, 끝까지 이 믿음을 견지하지 않으면 영원한 생명에 이를 수 없다.
+## Original Text (Summary)
+> Believing in Jesus Christ and in God is necessary to obtain salvation. No one can be justified without this faith, and without persevering in it to the end, one cannot attain eternal life.
 
-## 태그
-`구원론`, `믿음`, `항구함`
+## Tags
+`soteriology`, `faith`, `perseverance`
 
-## 주장 (Claims)   가장 중요
-1. 예수 그리스도와 성부 하느님을 믿는 믿음은 구원에 필수적이다.
-2. 믿음을 상실하거나 끝까지 지키지 않는 자는 구원받을 수 없다.
+## Claims (Most Important)
+1. Faith in Jesus Christ and God the Father is necessary for salvation.
+2. One who loses their faith or fails to persevere in it to the end cannot be saved.
 
-## 부정 (Negates)   가장 중요
-1. 예수 그리스도를 향한 믿음 없이도 구원을 얻을 수 있다.
-2. 한 번 얻은 믿음과 구원은 상실될 수 없다(한 번 구원은 영원한 구원).
+## Negates (Most Important)
+1. Salvation can be obtained without faith in Jesus Christ.
+2. Faith and salvation, once obtained, can never be lost (once saved, always saved).
 
 ---
 
-# CCC-402_412  원죄와 그 결과
+# CCC-402_412 — Original Sin and Its Consequences
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-402_412 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 402-412항 |
-| **교의 등급** | Sententia Certa |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§402-412 |
+| **Doctrinal Rank** | Sententia Certa |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 아담의 첫 범죄로 인해 원죄가 모방이 아닌 번식을 통해 모든 인류에게 유전된다. 이로 인해 인간의 본성은 타락하고 죽음과 고통의 지배 아래 놓이게 되었으며, 원죄는 오직 그리스도의 세례 공로를 통해서만 씻겨진다.
+## Original Text (Summary)
+> Because of Adam's first sin, original sin is transmitted to all humanity not by imitation but by propagation. As a result, human nature is corrupted and placed under the dominion of death and suffering, and original sin can be washed away only through the merits of Christ applied in baptism.
 
-## 태그
-`구원론`, `원죄`, `세례`
+## Tags
+`soteriology`, `original_sin`, `baptism`
 
-## 주장 (Claims)   가장 중요
-1. 아담의 첫 범죄로 인해 원죄가 생물학적 번식을 통해 모든 인류에게 전수된다.
-2. 원죄는 인간의 본성을 훼손하고 타락시켰으며 죽음을 초래했다.
-3. 원죄는 그리스도의 세례 성사를 통해서만 씻을 수 있다.
+## Claims (Most Important)
+1. Because of Adam's first sin, original sin is transmitted to all of humanity through biological propagation.
+2. Original sin corrupted and damaged human nature and brought about death.
+3. Original sin can be washed away only through the sacrament of baptism in Christ.
 
-## 부정 (Negates)   가장 중요
-1. 원죄는 단순히 아담의 나쁜 모범을 따라하는 것이다(펠라기우스주의).
-2. 인간은 원죄의 영향 없이 선한 본성으로 태어난다.
+## Negates (Most Important)
+1. Original sin is merely the imitation of Adam's bad example (Pelagianism).
+2. Human beings are born with a good nature untouched by the effects of original sin.
 
 ---
 
-# CCC-456_478  강생과 그리스도의 구원 사역
+# CCC-456_478 — The Incarnation and Christ's Work of Salvation
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-456_478 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 456-478항 |
-| **교의 등급** | De Fide Definita (교리서에 인용된 공의회 정의 기반) |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§456-478 |
+| **Doctrinal Rank** | De Fide Definita (based on conciliar definitions cited in the Catechism) |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 말씀이 사람이 되신 것(강생)은 우리를 죄에서 구원하고 하느님과 화해시키기 위함이다. 예수 그리스도는 참 하느님이시며 참 인간으로서 구원 사역의 유일한 중개자이시다.
+## Original Text (Summary)
+> The Word becoming man (the Incarnation) is in order to save us from sin and reconcile us with God. Jesus Christ, true God and true man, is the sole mediator of the work of salvation.
 
-## 태그
-`구원론`, `강생`, `구원 중개자`
+## Tags
+`soteriology`, `incarnation`, `mediator_of_salvation`
 
-## 주장 (Claims)   가장 중요
-1. 그리스도의 강생(육화)은 인류의 구원과 죄 사함을 위해 필수적인 사건이다.
-2. 예수 그리스도는 신성과 인성을 모두 온전히 지닌 유일한 구원 중개자이다.
+## Claims (Most Important)
+1. Christ's Incarnation is an event necessary for the salvation of humanity and the forgiveness of sin.
+2. Jesus Christ, fully possessing both divinity and humanity, is the sole mediator of salvation.
 
-## 부정 (Negates)   가장 중요
-1. 예수 그리스도 외에 하느님과 인간 사이의 다른 동등한 중개자가 존재한다.
-2. 그리스도는 완전한 인간이 아니거나 완전한 하느님이 아니다.
+## Negates (Most Important)
+1. There exists another mediator equal to Jesus Christ between God and man.
+2. Christ is not fully human or not fully God.
 
 ---
 
-# CCC-599_618  십자가와 속죄
+# CCC-599_618 — The Cross and Atonement
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-599_618 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 599-618항 |
-| **교의 등급** | Sententia Certa |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§599-618 |
+| **Doctrinal Rank** | Sententia Certa |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 예수 그리스도의 십자가 죽음은 하느님의 영원한 계획에 따른 것으로, 모든 인간의 죄를 보상하는 유일하고 결정적인 속죄 제사이다. 십자가의 희생으로 구원이 완성되었으며 신자들은 고난을 통해 그분의 십자가에 결합되어야 한다.
+## Original Text (Summary)
+> Jesus Christ's death on the cross, in accordance with God's eternal plan, is the sole and decisive sacrifice of atonement that makes reparation for the sins of all humanity. Salvation was accomplished through the sacrifice of the cross, and believers must unite themselves to his cross through suffering.
 
-## 태그
-`구원론`, `십자가`, `속죄`
+## Tags
+`soteriology`, `the_cross`, `atonement`
 
-## 주장 (Claims)   가장 중요
-1. 그리스도의 십자가 희생은 모든 인간의 죄를 사하는 단회적이고 완벽한 속죄 제사이다.
-2. 신자들은 자신의 십자가를 짐으로써 그리스도의 구원 사역에 영적으로 결합할 수 있다.
+## Claims (Most Important)
+1. Christ's sacrifice on the cross is the once-for-all and perfect sacrifice of atonement that forgives the sins of all humanity.
+2. Believers can be spiritually united to Christ's saving work by bearing their own cross.
 
-## 부정 (Negates)   가장 중요
-1. 그리스도의 십자가 죽음은 죄를 사하는 객관적인 속죄 제사가 아니다.
-2. 그리스도의 십자가만으로는 불충분하며 제물이 추가로 필요하다.
+## Negates (Most Important)
+1. Christ's death on the cross is not an objective sacrifice of atonement that forgives sin.
+2. Christ's cross alone is insufficient and additional sacrifice is needed.
 
 ---
 
-# CCC-846_848  교회 밖의 구원 (Extra Ecclesiam nulla salus)
+# CCC-846_848 — Salvation Outside the Church (Extra Ecclesiam nulla salus)
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-846_848 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 846-848항 |
-| **교의 등급** | Sententia Certa |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§846-848 |
+| **Doctrinal Rank** | Sententia Certa |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 구원은 머리이신 그리스도께로부터 당신의 몸인 교회를 통하여 온다. 가톨릭 교회가 구원의 필수 방도임을 알면서도 이를 거부하는 자는 구원받을 수 없지만, 자기 탓 없이 복음과 교회를 모르는 자는 하느님의 은총 안에서 구원받을 수 있다.
+## Original Text (Summary)
+> Salvation comes from Christ the head, through the Church which is his body. Whoever knows the Catholic Church to be necessary for salvation and refuses to enter or remain in her cannot be saved; but one who, through no fault of their own, does not know the Gospel or the Church can be saved in the grace of God.
 
-## 태그
-`구원론`, `교회론`, `배타적 구원`
+## Tags
+`soteriology`, `ecclesiology`, `exclusive_salvation`
 
-## 주장 (Claims)   가장 중요
-1. 가톨릭 교회가 그리스도에 의해 세워진 구원의 필수적 방도임을 아는 사람이 교회를 거부하거나 떠나면 구원받을 수 없다.
-2. 자기 탓 없이 그리스도의 복음과 가톨릭 교회를 모르는 자도 양심을 따르고 하느님을 찾으면 구원받을 수 있다.
+## Claims (Most Important)
+1. One who knows the Catholic Church to be the necessary means of salvation established by Christ, and yet rejects or leaves her, cannot be saved.
+2. Even one who, through no fault of their own, does not know the Gospel of Christ or the Catholic Church can be saved by following their conscience and seeking God.
 
-## 부정 (Negates)   가장 중요
-1. 가톨릭 교회의 필요성을 분명히 알고도 이를 의도적으로 거부한 자가 구원받을 수 있다.
-2. 가톨릭 교회에 속하지 않은 사람은 무조건 지옥에 간다(엄격주의).
+## Negates (Most Important)
+1. One who clearly knows the necessity of the Catholic Church and yet deliberately rejects it can still be saved.
+2. Anyone not belonging to the Catholic Church unconditionally goes to hell (rigorism).
 
 ---
 
-# CCC-1213_1284  세례 성사의 은총
+# CCC-1213_1284 — The Grace of the Sacrament of Baptism
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-1213_1284 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 1213-1284항 |
-| **교의 등급** | Sententia Certa |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§1213-1284 |
+| **Doctrinal Rank** | Sententia Certa |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 세례는 모든 죄(원죄와 본죄)를 씻어주고 새로운 피조물로 태어나게 하며 가톨릭 교회에 결합시킨다. 세례는 영적 지울 수 없는 인호(도장)를 남기므로 반복될 수 없다.
+## Original Text (Summary)
+> Baptism washes away all sin (original sin and personal sin), causes a person to be born as a new creature, and unites them to the Catholic Church. Baptism leaves an indelible spiritual seal (character), and so cannot be repeated.
 
-## 태그
-`구원론`, `세례`, `성사론`
+## Tags
+`soteriology`, `baptism`, `sacramental_theology`
 
-## 주장 (Claims)   가장 중요
-1. 물의 세례는 원죄와 그 이전에 지은 모든 개인의 죄를 사면한다.
-2. 세례는 영혼에 지울 수 없는 영적 인호(표지)를 새기며 교회 공동체의 지체가 되게 한다.
+## Claims (Most Important)
+1. Water baptism absolves original sin and all personal sins committed before it.
+2. Baptism imprints an indelible spiritual seal (mark) on the soul and makes a person a member of the Church community.
 
-## 부정 (Negates)   가장 중요
-1. 세례는 죄 사함의 실제 능력이 없는 단순한 신앙 고백의 상징이다.
-2. 세례를 받은 후에도 원죄가 그대로 남아 있다(형식적인 덮음만 있다).
+## Negates (Most Important)
+1. Baptism is merely a symbol of a profession of faith with no actual power to forgive sin.
+2. Original sin remains after baptism unchanged (only formally covered over).
 
 ---
 
-# CCC-1257_1261  세례의 필수성
+# CCC-1257_1261 — The Necessity of Baptism
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-1257_1261 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 1257-1261항 |
-| **교의 등급** | Sententia Certa |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§1257-1261 |
+| **Doctrinal Rank** | Sententia Certa |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 세례는 복음을 듣고 성사를 청할 수 있는 사람들에게 구원을 위해 필수적이다. 그러나 피의 세례(순교)와 열망의 세례(화세)는 물의 세례 없이도 구원의 열매를 맺을 수 있다. 세례받지 않고 죽은 유아들은 하느님의 자비에 맡긴다.
+## Original Text (Summary)
+> Baptism is necessary for salvation for those who have had the possibility of hearing the Gospel and requesting the sacrament. However, the baptism of blood (martyrdom) and the baptism of desire can bear the fruit of salvation even without water baptism. Infants who die without baptism are entrusted to God's mercy.
 
-## 태그
-`구원론`, `세례`, `구원의 길`
+## Tags
+`soteriology`, `baptism`, `way_of_salvation`
 
-## 주장 (Claims)   가장 중요
-1. 복음을 듣고 이해할 수 있는 사람에게 물의 세례는 구원에 필수적이다.
-2. 세례를 향한 명시적/묵시적 열망과 순교(혈세)는 물의 세례 없이도 세례의 은총(구원)을 부여한다.
+## Claims (Most Important)
+1. For a person able to hear and understand the Gospel, water baptism is necessary for salvation.
+2. Explicit or implicit desire for baptism, and martyrdom (baptism of blood), can confer the grace of baptism (salvation) even without water baptism.
 
-## 부정 (Negates)   가장 중요
-1. 물의 세례(수세) 없이는 어떠한 예외적 상황에서도 절대 구원받을 수 없다.
-2. 복음을 알 수 있는 사람이 세례 성사를 고의로 거부하고도 구원받을 수 있다.
+## Negates (Most Important)
+1. Without water baptism, salvation is absolutely impossible under any exceptional circumstance whatsoever.
+2. A person capable of knowing the Gospel who deliberately refuses the sacrament of baptism can still be saved.
 
 ---
 
-# CCC-1987_2016  칭의(의화)와 은총, 그리고 공로
+# CCC-1987_2016 — Justification, Grace, and Merit
 
-| 항목 | 내용 |
+| Field | Content |
 |:---|:---|
 | **ID** | CCC-1987_2016 |
-| **출처** | 가톨릭 교회 교리서 |
-| **조항** | 1987-2016항 |
-| **교의 등급** | Sententia Certa (일부 De Fide 반영) |
-| **무류 여부** | 🟡 권위적 (개정 가능) |
-| **파문(Anathema)** | 아니오 |
-| **연도** | 1992 |
+| **Source** | Catechism of the Catholic Church |
+| **Paragraph** | §§1987-2016 |
+| **Doctrinal Rank** | Sententia Certa (partially reflecting De Fide) |
+| **Infallibility** | 🟡 Authoritative (revisable) |
+| **Anathema** | No |
+| **Year** | 1992 |
 
-## 원문 (요약)
-> 칭의(의화)는 단순한 죄의 용서뿐만 아니라 내적 인간의 성화와 쇄신을 뜻한다. 이는 성령의 은총과 인간의 자유의지의 협력을 통해 이루어지며, 의롭게 된 인간은 선행을 통해 구원과 영생에 대한 진정한 공로를 얻을 수 있다.
+## Original Text (Summary)
+> Justification means not merely the forgiveness of sin but the sanctification and renewal of the inner man. This occurs through the cooperation of the Holy Spirit's grace and human free will, and a justified person can attain true merit toward salvation and eternal life through good works.
 
-## 태그
-`구원론`, `칭의`, `은총`, `공로`
+## Tags
+`soteriology`, `justification`, `grace`, `merit`
 
-## 주장 (Claims)   가장 중요
-1. 칭의(의화)는 죄의 사면과 내적인 성화(본성의 쇄신)를 모두 포괄한다.
-2. 구원의 은총이 작용할 때 인간의 자유의지는 반드시 협력해야 한다.
-3. 칭의를 받은 신자는 선행을 통해 영생을 얻을 공로를 인정받을 수 있다.
+## Claims (Most Important)
+1. Justification encompasses both the forgiveness of sin and inner sanctification (the renewal of nature).
+2. When the grace of salvation is at work, human free will must necessarily cooperate.
+3. A justified believer can be credited with merit toward eternal life through good works.
 
-## 부정 (Negates)   가장 중요
-1. 칭의는 오직 믿음만으로 이루어지며 내적 쇄신이 아닌 단순히 하느님이 죄를 덮어주시는 것이다(이신칭의 부정).
-2. 은총 앞에서 인간의 자유의지는 완전히 수동적이다.
-3. 그리스도인의 선행은 영생을 얻기 위한 어떠한 공로도 되지 못한다.
+## Negates (Most Important)
+1. Justification occurs by faith alone, and is merely God's covering over of sin rather than inner renewal (denying justification by faith alone).
+2. The human free will is entirely passive before grace.
+3. A Christian's good works constitute no merit whatsoever toward obtaining eternal life.

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0027 | ver: 20260829_0942 -->
 # Genesis Chapter 1 — The World of the Beginning and Traces of Judgment
 
 ---

@@ -1,13 +1,5 @@
+<!-- doc_no: 20260829_0193 | ver: 20260829_0942 -->
 # 📐 SVAP In-Depth Audit Report — Blank Template (v3.1, 2026-08-20 Coverage Enforcement Edition)
-
-<!--
-TranslationID: [020]
-Category: sermon_audit
-Language: en
-Status: completed
-TranslatedDate: 2026-08-26
-SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\02_TEMPLATE(템플릿·예시)\SVAP_TEMPLATE.md
--->
 
 > This template follows the same format as PART A~D in `SVAP_GHQ.md`, but adds coverage enforcement mechanisms to prevent **PART B from being inadvertently abbreviated**. The authoritative standard is always `SVAP_GHQ.md`; this file is the working skeleton used when actually filling in that specification.
 > A fully completed example can be found in `SVAP_EXAMPLE.md` in the same folder.

@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0016 | ver: 20260829_0942 -->
 # ⚖️ Zechariah Chapter 5 Complete Exposition — Judgment of the Holy Sanctuary and the Transporting of the Babylon of Wickedness
 
 > **STATUS**: ✅✅✅ IRONCLAD [Cross-Verification with Related Documents ✓] — Complete Exposition

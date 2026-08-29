@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-jw-071"
-title_en: "Why Jehovah's Witnesses' 'New World Translation' is the Best Bible"
-title_ko: ""
-file_en: "REPORT_NWT_3MajorManipulations_Audit.md"
-file_ko: ""
-category: "jw"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0144 | ver: 20260829_0942 -->
 
 # Why Jehovah's Witnesses' 'New World Translation' is the Best Bible
 **— "What Happens When the Translator's Theological Doctrine Overrides the Biblical Original Text?" BVCAP v2.0 Neutral Audit Report —**

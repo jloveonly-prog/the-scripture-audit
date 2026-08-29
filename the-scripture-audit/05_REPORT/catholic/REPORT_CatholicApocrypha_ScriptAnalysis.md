@@ -1,14 +1,4 @@
-﻿---
-id: "scripture-catholic-041"
-title_en: "Catholic Apocrypha Script — Anti-Catholic Doctrine Rebuttal Report"
-title_ko: ""
-file_en: "REPORT_CatholicApocrypha_ScriptAnalysis.md"
-file_ko: ""
-category: "catholic"
-status: "published"
-updated: "2026-08-26"
-translated: true
----
+<!-- doc_no: 20260829_0107 | ver: 20260829_0942 -->
 
 # Catholic Apocrypha Script — Anti-Catholic Doctrine Rebuttal Report
 

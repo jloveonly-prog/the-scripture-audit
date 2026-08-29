@@ -1,8 +1,4 @@
-﻿---
-status: translated
-date_translated: 2026-08-27T00:12:48.8472035+09:00
-linecount_ko: 133
----
+<!-- doc_no: 20260829_0086 | ver: 20260829_0942 -->
 ---
 id: audit-scripture_05_REPORT-7
 title_ko: 🔱 분석_카카오톡_실전댓글_반박_V7_Master_KR

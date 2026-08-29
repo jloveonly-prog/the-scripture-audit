@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0136 | ver: 20260829_0942 -->
 # Solomon's Stalls Difficulty: 40,000 vs 4,000
 **— "1 Kings 4:26 vs 2 Chronicles 9:25, Is the 10-fold Difference a Copyist Error?" BVCAP v1.5 Neutral Audit Report —**
 

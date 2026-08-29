@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0036 | ver: 20260829_0942 -->
 # 🏹 SKILL-33: TYPE-AF — Burden of Proof Transfer
 **"The one who attacks must prove it first"**
 

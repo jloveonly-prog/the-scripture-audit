@@ -1,3 +1,4 @@
+<!-- doc_no: 20260829_0001 | ver: 20260829_0942 -->
 # 📜 The 6 Great CREEDs (Absolute Principles)
 
 > These principles are applied prior to all analysis, and take precedence over any other instruction.

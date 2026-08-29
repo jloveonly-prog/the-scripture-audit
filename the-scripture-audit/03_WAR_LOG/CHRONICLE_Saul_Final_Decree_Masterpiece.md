@@ -1,677 +1,675 @@
-# ⚖️ [BVCAP 2.0 최종 판결] 사울왕의 구원 논쟁 — 포렌식 대법정 판결문
-**— saul1.md(낙원설 변호인) vs saul2.md(지옥설 검찰) 최종 교차 심리 —**
+<!-- doc_no: 20260829_0014 | ver: 20260829_0942 -->
+# ⚖️ [BVCAP 2.0 Final Verdict] The Salvation Debate of King Saul — A Forensic Supreme Court Judgment
+**— The Final Cross-Examination of saul1.md (Paradise Theory, Defense) vs. saul2.md (Torment Theory, Prosecution) —**
 
-> **사건 번호**: BVCAP-SAUL-001
-> **피심리 대상**: 사울왕(King Saul)의 사후 행방
-> **변호인(Blue Team)**: `saul1.md` — 사울 낙원(Paradise)설
-> **검찰(Red Team)**: `saul2.md` — 사울 고통의 장소(Torment)설
-> **재판장**: BVCAP 2.0 중립 엔진
-> **적용 원칙**: Tota Scriptura (성경 전체 일관성) + KJV 원문 최종 권위
-
----
-
-## 1. 📋 양측 핵심 주장 요약
-
-### 🔵 변호인(saul1.md) — 사울 낙원설
-
-| # | 핵심 무기 | 요약 |
-|:---:|:---|:---|
-| **B-1** | TYPE-P 3중 증거 체인 | 성경 저자가 이 존재를 "Samuel"로 명명 + darash(교신 성공) 완료형 기록 → 실제 사무엘 소환 확증 |
-| **B-2** | 요나단 포함 논증 | "네 아들들이 나와 함께" → 의인 요나단 포함 → 큰 구렁 이동 불가 → 같은 구역(낙원) 특정 |
-| **B-3** | עִמִּי(immi) 원어 분석 | 히브리어 עִם은 일관되게 물리적 근접 공존 → "나와 함께" = 사무엘이 있는 바로 그 곳(낙원) |
-| **B-4** | 왕권 박탈 ≠ 영혼 멸망 | 삼손(히 11장), 다윗(시 51장) — 타락해도 구원 유지 전례 존재 |
-| **B-5** | Sheol C-13 범주 분리 | 눅 16장의 "hell" = Gehenna가 아닌 Sheol의 고통 구역. 사무엘이 있는 곳과 동일 시스템 |
-
-### 🔴 검찰(saul2.md) — 사울 지옥설
-
-| # | 핵심 무기 | 요약 |
-|:---:|:---|:---|
-| **R-1** | TYPE-C 속성 충돌 | 삼상 28:16 — "하나님의 원수" 속성 충돌 주장 ⚠️ **주어 혼동(Subject Confusion) 판명 — 무효화됨** |
-| **R-2** | 거시 공간론 (Macro-Sheol) | "나와 함께" = Sheol 시스템 전체로의 이주 예고 (교도소 비유). 도착 후 구렁 양쪽으로 분류됨 |
-| **R-3** | 고의적 반역죄 (민 15:30) | 사울의 죄는 연약함이 아닌 고의적 반역(Presumptuous Sin) → 속죄제 적용 불가 → 영혼이 끊어짐 |
+> **Case Number**: BVCAP-SAUL-001
+> **Subject Under Trial**: The posthumous whereabouts of King Saul
+> **Defense (Blue Team)**: `saul1.md` — the Paradise theory of Saul
+> **Prosecution (Red Team)**: `saul2.md` — the Torment theory of Saul
+> **Presiding Judge**: the BVCAP 2.0 neutral engine
+> **Applied Principle**: Tota Scriptura (the consistency of the whole of Scripture) + the final authority of the KJV original
 
 ---
 
-## 2. ⚔️ 쟁점별 교차 심리 — 판사의 대질 심문
+## 1. 📋 Summary of Both Sides' Core Claims
+
+### 🔵 Defense (saul1.md) — The Paradise Theory of Saul
+
+| # | Core Weapon | Summary |
+|:---:|:---|:---|
+| **B-1** | TYPE-P triple evidence chain | The biblical author names this being "Samuel" + the perfect-tense record of darash (successful communication) → confirms the actual summoning of Samuel |
+| **B-2** | The argument from Jonathan's inclusion | "thy sons shall be with me" → includes the righteous Jonathan → cannot cross the great gulf → specifies the same region (paradise) |
+| **B-3** | Original-language analysis of עִמִּי (immi) | The Hebrew עִם consistently signifies physical proximate coexistence → "with me" = the very place where Samuel is (paradise) |
+| **B-4** | Loss of kingship ≠ destruction of the soul | Samson (Heb. 11), David (Ps. 51) — precedents of retaining salvation despite falling |
+| **B-5** | Sheol C-13 category separation | The "hell" of Luke 16 = not Gehenna but the torment region of Sheol. The same system as the place where Samuel is |
+
+### 🔴 Prosecution (saul2.md) — The Torment Theory of Saul
+
+| # | Core Weapon | Summary |
+|:---:|:---|:---|
+| **R-1** | TYPE-C attribute collision | 1 Sam. 28:16 — claims a collision in the attribute of "God's enemy" ⚠️ **found to be a Subject Confusion — nullified** |
+| **R-2** | The Macro-Sheol theory | "with me" = a prior notice of migration into the Sheol system as a whole (a prison analogy). Upon arrival, classified to either side of the gulf |
+| **R-3** | Deliberate rebellion (Num. 15:30) | Saul's sin is not weakness but a deliberate, presumptuous sin → the sin offering does not apply → the soul is cut off |
 
 ---
 
-### 🥊 쟁점 A: 소환된 존재의 정체 — 실제 사무엘인가?
-
-| 항목 | 🔵 변호인 (낙원설) | 🔴 검찰 (지옥설) |
-|:---:|:---|:---|
-| **주장** | 실제 사무엘이다 | (이 쟁점에 대해 직접 반론 없음) |
-| **근거** | 삼상 28:15-16 성경 저자 "Samuel" 명명 + darash 완료형 + ragaz 실제 동요 | — |
-| **KJV 본문** | ✅ 삼상 28:15 "And **Samuel** said to Saul..." | — |
-
-> ⚖️ **판사 판정:** 검찰은 이 쟁점을 직접 공격하지 않았습니다. KJV 본문이 이 존재를 "Samuel"로 2회 이상 명명한 것은 변호인의 압도적 증거입니다. 만약 마귀였다면 성경 저자는 "the spirit" 또는 "the familiar spirit"으로 기록했을 것입니다.
-> 
-> **🔵 변호인 승리 | 점수: 변호인 10 : 검찰 0**
+## 2. ⚔️ Issue-by-Issue Cross-Examination — The Judge's Confrontational Inquiry
 
 ---
 
-### 🥊 쟁점 B: "나와 함께(With me)"의 의미 — 낙원 구역인가, Sheol 전체인가?
+### 🥊 Issue A: The Identity of the Summoned Being — Was It the Actual Samuel?
 
-| 항목 | 🔵 변호인 (낙원설) | 🔴 검찰 (지옥설) |
+| Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Torment Theory) |
 |:---:|:---|:---|
-| **주장** | "나와 함께" = 사무엘이 있는 **낙원 구역** | "나와 함께" = **Sheol 시스템 전체**로의 이주 |
-| **근거** | עִמִּי(immi) 용례: 물리적 근접 공존 / 요나단(의인) 포함 → 구렁 이동 불가 → 구역 특정 | 교도소 비유: 같은 시스템에 들어온다는 뜻이지 같은 방에 배정된다는 뜻이 아님 |
-| **반론 대응** | "gathered unto his people"(3인칭 서술 관용구)과 "with me"(1인칭 직접 화법)는 문법 구조가 완전히 다름 | עִם이 항상 '같은 방'을 뜻하는 것은 아님. 하나님이 사울과 "함께" 있었으나(삼상 10:7) 물리적으로 옆에 계신 것은 아니었음 |
+| **Claim** | It is the actual Samuel | (no direct rebuttal is offered on this issue) |
+| **Grounds** | 1 Sam. 28:15-16, the biblical author names him "Samuel" + the perfect-tense darash + ragaz, a genuine disturbance | — |
+| **KJV Text** | ✅ 1 Sam. 28:15, "And **Samuel** said to Saul..." | — |
 
-> ⚖️ **판사 판정:** 이 쟁점이 **전체 심리의 승부처**입니다.
-> 
-> **변호인의 강점:** עִמִּי의 용례 분석은 정밀하며, 요나단이 의인이라는 사실과 결합했을 때 강력합니다.
-> 
-> **검찰의 강점:** 교도소 비유는 직관적으로 설득력이 있습니다. 사무엘의 발화 맥락이 "너는 내일 죽는다"라는 사망 선고이므로, "나와 함께" = "산 자의 세계에서 죽은 자의 세계(Sheol)로 넘어온다"는 거시적 해석도 가능합니다.
-> 
-> **그러나** 검찰의 교도소 비유에는 치명적 약점이 있습니다: **사무엘은 "너와 네 아들들"을 묶어서 말했습니다.** 만약 "나와 함께" = Sheol 시스템 전체라면, 요나단(의인)은 낙원으로, 사울(악인)은 고통의 장소로 갈라지는데, 이 경우 사무엘이 왜 의인과 악인을 하나로 묶어 "나와 함께"라고 말했는지 설명할 수 없습니다. 분리될 사람들을 "함께"라고 말하는 것은 언어적 기만이 되며, 이는 실제 사무엘의 예언으로서 부적합합니다.
-> 
-> **🔵 변호인 승리 | 점수: 변호인 7 : 검찰 4**
-
----
-
-### 🥊 쟁점 C: 사울의 영적 상태 — "하나님의 원수" 선언 ⚠️ 주어 혼동 판명
-
-| 항목 | 🔵 변호인 (낙원설) | 🔴 검찰 (지옥설) |
-|:---:|:---|:---|
-| **주장** | "버리심" = 왕권(직분) 박탈이지 영혼의 영원한 멸망이 아님 | 삼상 28:16 "하나님의 원수" → 아브라함의 품(하나님의 벗)에 입성 불가 |
-| **근거** | 삼손(타락→히 11장 구원), 다윗(간음→구원 유지) | "하나님의 벗(Friend)"의 품에 "하나님의 원수(Enemy)"가 안기는 것은 속성 모순(C-04) |
-
-> ⚖️ **판사 판정: 🚨 검찰의 주어 혼동(Subject Confusion) 적발**
-> 
-> 삼상 28:16 KJV 원문을 정밀 재검증합니다:
-> 
-> *"the LORD is departed from thee, and is become **thine** enemy"*
-> 
-> | 분석 | 검찰의 해석 (**오류**) | KJV 원문의 실제 의미 |
-> |:---:|:---|:---|
-> | **주어** | 사울 = "하나님의 원수" | 하나님 = **사울의** 원수 |
-> | **방향** | 사울이 → 하나님을 대적 | 하나님이 → 사울을 대적하심 |
-> | **"thine"** | 무시됨 | ✅ **"너의(your)"** — 소유격이 사울을 가리킴 |
-> 
-> 본문은 **"사울이 하나님의 원수(Enemy of God)"**가 아니라, **"하나님이 사울의 원수(thine enemy)"** — 즉 하나님이 사울에게 적대적으로 행동하시게 되었다는 뜻입니다.
-> 
-> **📖 추가 확증 — 애 2:5 (KJV):**
-> *"The Lord was **as an enemy**: he hath swallowed up Israel..."*
-> 하나님은 이스라엘을 징계하실 때 **"원수처럼(as an enemy)"** 행동하셨으나, 이스라엘이 영원히 멸망한 것은 아닙니다. 이것은 **징계적 대적 관계**이지 존재론적 멸망 선언이 아닙니다.
-> 
-> **결론:** 검찰의 핵심 무기("하나님의 벗 vs 하나님의 원수" 속성 충돌)는 **주어 혼동에 기반한 무효 증거**입니다. "thine enemy" ≠ "enemy of God". 속성 충돌 논증은 성립하지 않습니다.
-> 
-> **🔵 변호인 승리 | 점수: 변호인 9 : 검찰 1** (검찰 오독으로 대폭 감점)
-
----
-
-### 🥊 쟁점 D: 죄의 성격 — 연약함인가, 고의적 반역인가?
-
-| 항목 | 🔵 변호인 (낙원설) | 🔴 검찰 (지옥설) |
-|:---:|:---|:---|
-| **주장** | 구약 성도의 구원은 행위가 아닌 언약(Covenant) 안에서 성립 | 민 15:30 — 고의적 죄(Presumptuous Sin)는 속죄제 적용 불가, 영혼 끊어짐 |
-| **근거** | — | 사울은 삼상 15:23의 사전 경고를 받았음에도 고의로 율법 금지 행위를 실행 |
-| **반론 대응** | — | 다윗도 고의로 간음과 살인을 저질렀으나, 회개 후 구원을 유지했음 |
-
-> ⚖️ **판사 판정:** 검찰의 논리(고의적 반역죄)는 강력하지만, **자가 모순**이 있습니다.
-> 
-> 다윗의 간음과 살인도 민수기 15:30 기준으로 "고의적 죄"에 해당합니다. 다윗은 밧세바와의 간음이 율법 위반인 줄 **알면서도** 고의로 저질렀고, 우리야의 살인을 **계획적으로** 실행했습니다. 만약 민 15:30의 "끊어짐"이 곧 구원의 상실이라면, **다윗도 구원을 잃었어야 합니다.** 그러나 다윗은 구원을 잃지 않았습니다(행 13:22).
-> 
-> 따라서 민 15:30의 "끊어짐(cut off)"은 **영적 구원의 영원한 상실이 아닌, 공동체적 제거/징계적 사망**을 뜻할 가능성이 높습니다. 이 경우 사울의 "끊어짐"도 왕권 박탈 + 육신의 사망이지, 반드시 영혼의 영원한 멸망은 아닙니다.
-> 
-> **🔵 변호인 승리 | 점수: 변호인 6 : 검찰 4** (검찰의 자가 모순으로 감점)
-
----
-
-### 🥊 쟁점 E: 히브리서 11장 — 구원 확증 기록의 부재
-
-| 항목 | 🔵 변호인 (낙원설) | 🔴 검찰 (지옥설) |
-|:---:|:---|:---|
-| **주장** | 히 11장은 구원자 명단이 아닌 **믿음의 모범** 명단 / 부재 ≠ 멸망 확정 | 삼손·다윗은 히 11장에 있으나 사울은 없음 — 침묵도 증거 |
-| **근거** | 히 11장에 나사로, 아벨 등 많은 구원받은 자들이 빠져 있음 | 사울의 회개 기록이 성경 어디에도 없음 |
-
-> ⚖️ **판사 판정:** 양측 모두 일리가 있으나, **"침묵의 논증(Argument from Silence)"은 BVCAP 원칙상 최약 증거입니다.** 히 11장에 빠져 있다는 것만으로 멸망을 확정할 수 없고, 마찬가지로 빠져 있다는 것만으로 구원을 확정할 수도 없습니다.
-> 
-> **무승부 | 점수: 변호인 5 : 검찰 5**
-
----
-
-### 🥊 쟁점 F: 사후 운반자 이론 — 마귀의 운반 권세와 "어지럽게 함"
-
-| 항목 | 🔵 변호인 (낙원설) | 🔴 검찰 (지옥설) |
-|:---:|:---|:---|
-| **주장** | 성경 기록이 이 존재를 "Samuel"로 호칭함 (TYPE-P) | 사울이 낙원에 갔다면 천사(히 1:14)가 운반했어야 하나, 마귀의 채널을 연 사울은 마귀에 의해 이끌림 |
-| **근거** | 대상 10:13 (darash 완료형 기록), 실제 사무엘 소환 | 참된 안식에 있는 사무엘은 무당의 주술로 어지러워(disquieted)질 수 없음. 따라서 소환된 것은 가짜 마귀임 |
-| **반론 대응** | 하나님이 사울을 심판하기 위해 예외적으로 진짜 사무엘을 허락하셨고, 사무엘이 영적 질서 파괴에 대해 분노하여 "어지러워짐(ragaz)" | 사탄의 자녀를 천사가 인도할 리 없으므로, 사울을 사후 세계로 이끈 것은 지옥과 지상을 오가는 마귀들임 |
-
-> 📎 **[배경 비고 — 사건 정황 기록 / 논증 증거 아님]**
+> ⚖️ **Judge's Ruling:** The prosecution did not directly attack this issue. That the KJV text names this being "Samuel" more than twice is overwhelming evidence for the defense. Had it been a devil, the biblical author would have recorded it as "the spirit" or "the familiar spirit."
 >
-> **삼상 28:12 — 무당 여인의 비명에 대하여 (KJV)**
+> **🔵 Defense Wins | Score: Defense 10 : Prosecution 0**
+
+---
+
+### 🥊 Issue B: The Meaning of "With Me" — A Region of Paradise, or the Whole of Sheol?
+
+| Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Torment Theory) |
+|:---:|:---|:---|
+| **Claim** | "with me" = **the region of paradise** where Samuel is | "with me" = migration into **the Sheol system as a whole** |
+| **Grounds** | The usage of עִמִּי (immi): physical proximate coexistence / includes Jonathan (righteous) → cannot cross the gulf → the region is specified | The prison analogy: it means entering the same system, not being assigned to the same room |
+| **Response to Objections** | "gathered unto his people" (a third-person narrative idiom) and "with me" (first-person direct speech) have entirely different grammatical structures | עִם does not always mean 'the same room.' God was "with" Saul (1 Sam. 10:7), yet was not physically beside him |
+
+> ⚖️ **Judge's Ruling:** This issue is **the deciding point of the entire trial.**
+>
+> **The defense's strength:** the analysis of the usage of עִמִּי is precise, and is powerful when combined with the fact that Jonathan is righteous.
+>
+> **The prosecution's strength:** the prison analogy is intuitively persuasive. Since the context of Samuel's utterance is a death sentence — "tomorrow shalt thou die" — a macro-level interpretation of "with me" = "you are passing over from the world of the living into the world of the dead (Sheol)" is also possible.
+>
+> **However,** the prosecution's prison analogy has a fatal weakness: **Samuel bound "thee and thy sons" together in a single statement.** If "with me" = the Sheol system as a whole, then Jonathan (righteous) would go to paradise while Saul (wicked) would go to the place of torment — in which case it cannot be explained why Samuel would bind the righteous and the wicked together into one and say "with me." Calling those who are to be separated "together" would constitute linguistic deception, which is unfitting for an actual prophecy of Samuel.
+>
+> **🔵 Defense Wins | Score: Defense 7 : Prosecution 4**
+
+---
+
+### 🥊 Issue C: Saul's Spiritual State — The Declaration "God's Enemy" ⚠️ Found to Be a Subject Confusion
+
+| Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Torment Theory) |
+|:---:|:---|:---|
+| **Claim** | "Departed" = loss of the kingly office, not the eternal destruction of the soul | 1 Sam. 28:16, "God's enemy" → cannot enter Abraham's bosom (God's friend) |
+| **Grounds** | Samson (fell → saved in Heb. 11), David (adultery → retained salvation) | For "God's enemy" to be embraced in the bosom of "God's friend" is an attribute contradiction (C-04) |
+
+> ⚖️ **Judge's Ruling: 🚨 Detection of a Subject Confusion by the Prosecution**
+>
+> A precise re-verification of the KJV original of 1 Sam. 28:16:
+>
+> *"the LORD is departed from thee, and is become **thine** enemy"*
+>
+> | Analysis | The Prosecution's Interpretation (**erroneous**) | The Actual Meaning of the KJV Original |
+> |:---:|:---|:---|
+> | **Subject** | Saul = "God's enemy" | God = **Saul's** enemy |
+> | **Direction** | Saul → opposes God | God → opposes Saul |
+> | **"thine"** | Disregarded | ✅ **"your"** — the possessive refers to Saul |
+>
+> The text is not **"Saul is the Enemy of God,"** but rather **"God has become thine enemy (Saul's enemy)"** — that is, it means God came to act adversarially toward Saul.
+>
+> **📖 Further Corroboration — Lam. 2:5 (KJV):**
+> *"The Lord was **as an enemy**: he hath swallowed up Israel..."*
+> When disciplining Israel, God acted **"as an enemy"**, yet Israel as a whole was not eternally destroyed. This is a **disciplinary, adversarial relationship**, not a declaration of ontological destruction.
+>
+> **Conclusion:** the prosecution's core weapon (the attribute collision of "God's friend vs. God's enemy") is **evidence nullified by its own subject confusion.** "thine enemy" ≠ "enemy of God." The attribute-collision argument does not hold.
+>
+> **🔵 Defense Wins | Score: Defense 9 : Prosecution 1** (heavily penalized for the prosecution's misreading)
+
+---
+
+### 🥊 Issue D: The Nature of the Sin — Weakness, or Deliberate Rebellion?
+
+| Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Torment Theory) |
+|:---:|:---|:---|
+| **Claim** | The salvation of Old Testament saints rests not on works but within the Covenant | Num. 15:30 — a Presumptuous Sin does not admit a sin offering, and the soul is cut off |
+| **Grounds** | — | Despite the prior warning of 1 Sam. 15:23, Saul deliberately carried out a legally forbidden act |
+| **Response to Objections** | — | David too deliberately committed adultery and murder, yet retained salvation after repentance |
+
+> ⚖️ **Judge's Ruling:** The prosecution's logic (deliberate rebellion) is powerful, but contains a **self-contradiction.**
+>
+> David's adultery and murder likewise qualify as "deliberate sin" under the standard of Numbers 15:30. David **knew** his adultery with Bathsheba was a violation of the law and yet **deliberately** committed it, and carried out the murder of Uriah **premeditatedly.** If the "cutting off" of Num. 15:30 is equivalent to the loss of salvation, **then David too should have lost his salvation.** Yet David did not lose his salvation (Acts 13:22).
+>
+> Therefore, the "cut off" of Num. 15:30 is more likely to mean **communal removal / disciplinary death, not the eternal loss of spiritual salvation.** In that case, Saul's "being cut off" too is the loss of kingship plus physical death, not necessarily the eternal destruction of the soul.
+>
+> **🔵 Defense Wins | Score: Defense 6 : Prosecution 4** (penalized for the prosecution's self-contradiction)
+
+---
+
+### 🥊 Issue E: Hebrews 11 — The Absence of a Confirming Record of Salvation
+
+| Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Torment Theory) |
+|:---:|:---|:---|
+| **Claim** | Heb. 11 is not a roster of the saved but a list of **models of faith** / absence ≠ confirmed destruction | Samson and David are in Heb. 11, but Saul is not — even silence is evidence |
+| **Grounds** | Many saved figures, such as Lazarus and Abel, are also missing from Heb. 11 | A record of Saul's repentance exists nowhere in Scripture |
+
+> ⚖️ **Judge's Ruling:** Both sides have a point, but **the "Argument from Silence" is the weakest evidence under BVCAP principle.** Absence from Heb. 11 alone cannot confirm destruction, and likewise absence alone cannot confirm salvation.
+>
+> **A Draw | Score: Defense 5 : Prosecution 5**
+
+---
+
+### 🥊 Issue F: The Posthumous Conveyance Theory — The Devil's Power of Conveyance and "Disquieted"
+
+| Item | 🔵 Defense (Paradise Theory) | 🔴 Prosecution (Torment Theory) |
+|:---:|:---|:---|
+| **Claim** | The scriptural record addresses this being as "Samuel" (TYPE-P) | Had Saul gone to paradise, an angel (Heb. 1:14) should have conveyed him there, but Saul, who opened a devil's channel, is led by a devil |
+| **Grounds** | 1 Chron. 10:13 (the perfect-tense record of darash), the actual summoning of Samuel | Samuel, in true rest, cannot be disquieted by a witch's sorcery. Therefore, what was summoned is a false devil |
+| **Response to Objections** | God, in order to judge Saul, exceptionally permitted the real Samuel, and Samuel, angered at the destruction of spiritual order, "was disquieted (ragaz)" | An angel would not lead the children of Satan, so it was devils, who move between hell and earth, who led Saul into the afterlife |
+
+> 📎 **[Background Note — a record of the circumstances of the event / not evidentiary argument]**
+>
+> **1 Sam. 28:12 — On the Witch's Scream (KJV)**
 > *"And when the woman saw Samuel, she cried with a loud voice: and the woman spake to Saul, saying, **Why hast thou deceived me? for thou art Saul.**"*
 >
-> 무당 여인이 비명을 질렀다는 사실은 "실제 사무엘 소환"의 증거로 활용될 수 없습니다. 본문은 비명의 원인을 **직접 설명**합니다 — 변장한 방문자가 **사울 왕임을 알아봤기 때문**입니다. 자신을 처형할 권한을 가진 왕이 눈앞에 있다는 공포가 비명의 1차 원인입니다.
+> The fact that the witch screamed cannot be used as evidence of "the actual summoning of Samuel." The text **directly explains** the cause of the scream — it is **because she recognized the disguised visitor as King Saul.** The terror that the king who held the authority to execute her stood before her eyes is the primary cause of the scream.
 >
-> | 항목 | 내용 |
+> | Item | Content |
 > |:---:|:---|
-> | **비명의 원인** | 삼상 28:12 본문이 직접 설명 — "당신이 사울이잖아요" |
-> | **지리적 배경** | 엔돌은 사울의 통치 영역(므낫세 지파 땅) 내에 위치 — 무당은 사울이 선포한 사형 칙령 아래 숨어 영업 중 |
-> | **논증 활용 여부** | ❌ 본 법정에서 실제 사무엘 소환의 증거로 사용 불가 — 본문의 설명(사울 인식 공포)과 다른 방향으로 왜곡될 위험 |
-> | **기록 목적** | 진리 우선(Truth First) 원칙에 따라 배경 정황으로만 기재 |
+> | **The cause of the scream** | Directly explained by the 1 Sam. 28:12 text — "you are Saul" |
+> | **The geographic background** | Endor is located within Saul's own territory of rule (the land of the tribe of Manasseh) — the witch was operating in hiding, under the death decree Saul himself had proclaimed |
+> | **Whether usable in argument** | ❌ Not usable in this court as evidence of the actual summoning of Samuel — risk of being distorted in a direction contrary to the text's own explanation (fear of recognizing Saul) |
+> | **Purpose of the Record** | Recorded only as background circumstance, per the Truth First principle |
 
-> ⚖️ **판사 판정: 🚨 검찰의 어휘 오독(Lexical Fallacy) 적발**
-> 
-> 검찰은 "어지럽게 함(disquieted)"을 '영적 질서의 오염'이나 '마귀적 혼란'으로 해석했으나, 이는 명백한 단어의 오독입니다. 
-> 
-> 영어 *disquieted*(히브리어 רָגַז)는 '어지러워서 쓰러질 것 같다'는 뜻이 아니라, **"왜 평안히 안식하고 있는 나를 방해하고 깨웠느냐(disturb my peace)"**라는 뜻입니다. 문법적으로도 완료/과거형("hast thou disquieted me")으로 쓰였습니다.
-> 
-> 1. **안식의 증명:** 이 발언은 오히려 소환된 존재가 직전까지 낙원(아브라함의 품)에서 **평안한 안식**을 누리고 있었음을 완벽하게 증명합니다. 지옥에서 고통받는 마귀나 떠도는 악령은 '나의 안식을 왜 방해했느냐'고 불평하지 않습니다.
-> 2. **운반자 논리의 한계와 TYPE-P 철갑 증거:** 사무엘이 평안히 쉬고 있었다면, 사울을 사후에 운반한 주체에 대한 검찰의 마귀 운반 추론도 힘을 잃습니다. 나아가, 검찰의 이 뛰어난 운반자 추론은 **성경 저자의 명시적 기록(TYPE-P)**과 정면으로 충돌합니다. 검찰 논리대로라면 소환된 존재는 100% 가짜 마귀여야 하나, 성경 저자는 KJV에서 15번이나 이 존재를 일관되게 **"Samuel"**이라고 적었으며, "a familiar spirit"이라고 적지 않았습니다.
+> ⚖️ **Judge's Ruling: 🚨 Detection of a Lexical Fallacy by the Prosecution**
 >
-> **🚨 [마귀설 수용 시 발생하는 3중 자폭(Self-Destruct)]**
+> The prosecution interpreted "disquieted" as 'a contamination of spiritual order' or 'demonic confusion,' but this is a plain misreading of the word.
 >
-> 만약 검찰의 주장대로 소환된 존재가 마귀라고 수용하더라도, 다음 세 가지 치명적 문제가 성경 내부에서 즉시 발생합니다.
+> The English *disquieted* (Hebrew רָגַז) does not mean 'so disturbed as to be on the verge of collapse,' but means, **"why have you disturbed me, who was peacefully at rest (disturb my peace)."** It is also grammatically used in the perfect/past tense ("hast thou disquieted me").
 >
-> | # | 자폭 항목 | 내용 |
+> 1. **Proof of Rest:** this statement, rather, perfectly proves that the summoned being had, until just before, been enjoying **peaceful rest** in paradise (Abraham's bosom). A devil suffering in hell, or a wandering evil spirit, does not complain, "why have you disturbed my rest."
+> 2. **The Limits of the Conveyance-Agent Logic, and TYPE-P Ironclad Evidence:** if Samuel was peacefully resting, the prosecution's inference about a devil-conveyor for Saul's posthumous transport also loses its force. Furthermore, this excellent conveyance-agent inference of the prosecution collides head-on with **the biblical author's explicit record (TYPE-P).** By the prosecution's logic, the summoned being would have to be 100% a false devil, yet the biblical author consistently records this being as **"Samuel"** 15 times in the KJV, and never writes "a familiar spirit."
+>
+> **🚨 [The Triple Self-Destruction That Occurs If the Devil Theory Is Accepted]**
+>
+> Even granting the prosecution's claim that the summoned being is a devil, the following three fatal problems arise immediately from within Scripture itself.
+>
+> | # | Item of Self-Destruction | Content |
 > |:---:|:---|:---|
-> | **①** | **성경 저자의 15회 허위 기록** | 성경 저자가 마귀를 "Samuel"이라고 15번 속여 기록했다는 결론이 됩니다. 이는 성경 전체의 신뢰성을 붕괴시킵니다. |
-> | **②** | **마귀가 하나님의 심판을 100% 정확히 예언** | 이 존재의 예언("내일 너와 아들들이 전사하고 이스라엘이 패한다")은 다음 날 그대로 성취되었습니다. 성경 전체에서 마귀가 하나님의 심판을 정확히 대언하고 그것이 성취된 전례는 **단 한 건도 없습니다.** |
-> | **③** | **마귀에게 방해받을 '안식'이 존재** | "어찌하여 나를 어지럽혔느냐"는 불평은 직전까지 **평안한 안식(Rest)**이 있었다는 전제입니다. 고통받거나 떠도는 마귀에게는 방해받을 '안식'이 없으므로, 이 대사 자체가 마귀에게는 논리적으로 성립하지 않습니다. |
+> | **①** | **The biblical author's 15 false records** | It would follow that the biblical author falsely recorded a devil as "Samuel" 15 times. This collapses the reliability of the whole of Scripture. |
+> | **②** | **A devil prophesying God's judgment 100% accurately** | This being's prophecy ("tomorrow you and your sons will fall in battle and Israel will be defeated") was fulfilled exactly the next day. There is **not a single precedent** in all of Scripture of a devil accurately speaking God's judgment on his behalf and having it fulfilled. |
+> | **③** | **A 'rest' exists that could be disturbed by a devil** | The complaint "why hast thou disquieted me" presupposes that there had been **peaceful rest** just prior. A suffering or wandering devil has no 'rest' to be disturbed, so this line does not logically hold for a devil at all. |
 >
-> BVCAP 원칙(Tota Scriptura)상, 인간의 완벽한 추론이라도 성경 저자의 직접 명명(OVERRIDE-0)을 덮을 수는 없습니다.
+> Under the BVCAP principle (Tota Scriptura), even the most perfect human inference cannot override the biblical author's direct naming (OVERRIDE-0).
 >
-> **📌 [신학적 불가능성 논제에 대한 주권적 예외 원칙 — Divine Sovereign Exception]**
+> **📌 [The Divine Sovereign Exception Principle Regarding the Thesis of Theological Impossibility]**
 >
-> 검찰의 숨겨진 전제는 "낙원의 의인이 무당의 주술에 의해 소환될 수 없다"는 것입니다. 그러나 이 전제 자체가 성경과 충돌합니다.
+> The prosecution's hidden premise is that "a righteous man in paradise cannot be summoned by a witch's sorcery." But this very premise collides with Scripture.
 >
-> | 전례 | 본문 | 핵심 |
+> | Precedent | Text | Core Point |
 > |:---:|:---:|:---|
-> | **변화산 현현** | 마 17:3 (KJV) — *"there appeared unto them Moses and Elias"* | 이미 죽어 낙원에 있는 모세가 지상에 나타남. 무당이 아닌 **하나님의 직접 허락**으로 영적 경계를 초월 |
-> | **두 증인** | 계 11:11 — *"the Spirit of life from God entered into them"* | 하나님의 영이 죽은 자에게 직접 개입 — 영적 경계를 초월하는 하나님의 주권 행사 |
-> | **삼상 28장 자체** | 대상 10:13-14 — 하나님께서 사울을 직접 처형 | **심판의 집행자이신 하나님**이 그 최후 선고를 위해 사무엘을 도구로 사용하심 |
+> | **The Transfiguration** | Matt. 17:3 (KJV) — *"there appeared unto them Moses and Elias"* | Moses, already dead and in paradise, appears on earth. Not through a witch, but through **God's direct permission**, transcending the spiritual boundary |
+> | **The Two Witnesses** | Rev. 11:11 — *"the Spirit of life from God entered into them"* | The Spirit of God directly intervenes upon the dead — an exercise of God's sovereignty transcending the spiritual boundary |
+> | **1 Sam. 28 Itself** | 1 Chron. 10:13-14 — God himself executes Saul | **God, the executor of judgment**, uses Samuel as an instrument for that final sentence |
 >
-> **핵심 구별 — 채널의 주체 vs 허락의 주체:**
-> 무당의 의식(ritual)은 *채널*이었을 뿐입니다. **허락의 주체는 하나님**이셨습니다. 변화산에서 모세가 나타났을 때 아무도 "낙원의 의인이 지상에 나타날 수 없으므로 저것은 마귀"라고 주장하지 않습니다. 삼상 28장도 동일한 원칙 위에 있습니다: **채널이 무당이었다는 사실이, 허락하신 분이 하나님이심을 부정하지 않습니다.**
+> **The Core Distinction — the Subject of the Channel vs. the Subject of the Permission:**
+> The witch's ritual was merely the *channel*. **The subject of the permission was God.** When Moses appeared at the Transfiguration, no one claimed, "a righteous man in paradise cannot appear on earth, so that must be a devil." 1 Sam. 28 stands on the same principle: **the fact that the channel was a witch does not negate that the one who permitted it was God.**
 >
-> 이것은 하나님이 발람의 나귀(민 22:28)를 통해 말씀하신 것과 동일한 주권 원칙입니다. 비정상적인 채널의 사용이 하나님의 메시지의 진정성을 훼손하지 않습니다.
+> This is the same sovereign principle by which God spoke through Balaam's donkey (Num. 22:28). The use of an abnormal channel does not compromise the authenticity of God's message.
 >
-> **결론:** 검찰의 강력한 마귀설은 ① "disquieted"의 의미를 곡해한 어휘 오독, ② 성경 저자의 15회 명명이라는 절대 장벽(TYPE-P), ③ 신학적 불가능성 전제 자체가 변화산·발람 전례로 붕괴, 이 세 겹의 장벽에 동시에 부딪혀 완벽히 붕괴되었습니다.
+> **Conclusion:** the prosecution's formidable devil theory has been completely collapsed, striking simultaneously against three barriers: ① a lexical misreading that distorts the meaning of "disquieted," ② the absolute barrier (TYPE-P) of the biblical author's fifteen namings, and ③ the very premise of theological impossibility collapsing against the precedents of the Transfiguration and Balaam.
 >
-> **🔵 변호인 승리 | 점수: 변호인 9 : 검찰 1** (검찰 어휘 오독 및 명명법 충돌로 붕괴)
+> **🔵 Defense Wins | Score: Defense 9 : Prosecution 1** (collapsed by the prosecution's lexical misreading and a collision with the naming convention)
 
 ---
 
-## 3. 📊 최종 종합 점수표
+## 3. 📊 Final Comprehensive Scoreboard
 
-| 쟁점 | 주제 | 🔵 변호인 | 🔴 검찰 | 승자 |
+| Issue | Topic | 🔵 Defense | 🔴 Prosecution | Winner |
 |:---:|:---|:---:|:---:|:---:|
-| **A** | 소환된 존재의 정체 | **10** | 0 | 🔵 **변호인 압승** |
-| **B** | "나와 함께"의 의미 | **7** | 4 | 🔵 **변호인 우세** |
-| **C** | "하나님의 원수" 선언 | **9** | 1 | 🔵 **변호인 압승** (검찰 주어 혼동 적발) |
-| **D** | 죄의 성격 (고의적 반역) | **6** | 4 | 🔵 **변호인 우세** (검찰 자가 모순) |
-| **E** | 히 11장 부재 | 5 | 5 | ⚖️ **무승부** |
-| **F** | 사후 운반자 이론 & "어지럽게 함" | **9** | 1 | 🔵 **변호인 압승** (검찰 어휘 오독 적발) |
-| | **합계** | **46** | **15** | 🔵 **변호인 절대적 승리** |
+| **A** | The identity of the summoned being | **10** | 0 | 🔵 **Overwhelming Defense Win** |
+| **B** | The meaning of "with me" | **7** | 4 | 🔵 **Defense Prevails** |
+| **C** | The declaration "God's enemy" | **9** | 1 | 🔵 **Overwhelming Defense Win** (prosecution's subject confusion detected) |
+| **D** | The nature of the sin (deliberate rebellion) | **6** | 4 | 🔵 **Defense Prevails** (prosecution's self-contradiction) |
+| **E** | Absence from Heb. 11 | 5 | 5 | ⚖️ **A Draw** |
+| **F** | The conveyance-agent theory & "disquieted" | **9** | 1 | 🔵 **Overwhelming Defense Win** (prosecution's lexical misreading detected) |
+| | **Total** | **46** | **15** | 🔵 **An Absolute Defense Victory** |
 
 ---
 
-## 4. ⚖️ 대법정 최종 판결
+## 4. ⚖️ The Supreme Court's Final Verdict
 
-### 📜 판결 선언
+### 📜 Declaration of the Verdict
 
-> **BVCAP 대법정은 다음과 같이 판결합니다:**
-> 
-> **사울왕은 죽어 낙원(아브라함의 품)에 갔다.**
-> 
-> 이는 **✅ CONSISTENT(확정)** 판결입니다.
+> **The BVCAP Supreme Court renders the following verdict:**
+>
+> **King Saul died and went to paradise (Abraham's bosom).**
+>
+> This is a verdict of **✅ CONSISTENT (Confirmed).**
 
-### 📌 판결 이유
+### 📌 Reason for the Verdict
 
-**1. 변호인의 결정적 승리 — 쟁점 A (실제 사무엘 소환)**
+**1. The Defense's Decisive Victory — Issue A (the actual summoning of Samuel)**
 
-성경 저자(KJV)가 이 존재를 직접 "Samuel"로 명명한 사실은 검찰이 단 한 번도 반박하지 못한 철갑 증거입니다. 실제 사무엘이 올라왔다면, 그의 예언("나와 함께 있을 것")은 진실이며, 이 예언의 해석이 전체 판결의 기반이 됩니다.
+The fact that the biblical author (the KJV) directly names this being "Samuel" is ironclad evidence that the prosecution never once rebutted. If the actual Samuel came up, his prophecy ("thou shalt be with me") is true, and the interpretation of this prophecy is the foundation of the entire verdict.
 
-**2. 변호인의 핵심 승리 — 쟁점 B (요나단 포함 논증)**
+**2. The Defense's Core Victory — Issue B (the argument from Jonathan's inclusion)**
 
-검찰의 교도소 비유는 직관적이나, **"분리될 사람들을 왜 '함께'라고 묶어 말했는가?"**라는 질문에 답하지 못합니다. 사무엘이 요나단(의인)과 사울을 함께 묶어 "나와 함께"라고 말한 것은, 둘 다 같은 구역(낙원)으로 오기 때문이라는 해석이 언어적으로 가장 자연스럽습니다. עִמִּי의 물리적 근접 공존 용례가 이를 뒷받침합니다.
+The prosecution's prison analogy is intuitive but fails to answer the question, **"Why would he bind together, as 'with,' those who are to be separated?"** The interpretation that Samuel bound Jonathan (righteous) and Saul together and said "with me" because both were coming to the same region (paradise) is linguistically the most natural. The usage of עִמִּי for physical, proximate coexistence supports this.
 
-**3. 검찰의 핵심 무기 붕괴 — 쟁점 C ("하나님의 원수" 주어 혼동)**
+**3. The Collapse of the Prosecution's Core Weapon — Issue C (the subject confusion of "God's enemy")**
 
-검찰의 유일한 고득점 무기였던 "하나님의 벗 vs 하나님의 원수" 속성 충돌 논증이 **주어 혼동(Subject Confusion)**으로 무효화되었습니다. KJV 원문 "thine enemy"는 **"사울이 하나님의 원수"**가 아니라 **"하나님이 사울의 원수(사울을 대적하시는 분)"**를 뜻합니다. 애 2:5에서 하나님이 이스라엘의 "원수처럼(as an enemy)" 행동하셨으나 이스라엘이 영원히 멸망하지 않은 것처럼, 이 표현은 징계적 대적 관계를 나타냅니다. 이 붕괴로 인해 검찰의 확정 장벽이 사라졌습니다.
+The prosecution's sole high-scoring weapon — the attribute-collision argument of "God's friend vs. God's enemy" — has been nullified by a **subject confusion.** The KJV original "thine enemy" does not mean **"Saul is God's enemy"** but **"God is Saul's enemy (the one who opposes Saul)."** Just as, in Lam. 2:5, God acted "as an enemy" toward Israel without Israel being eternally destroyed, this expression signifies a disciplinary, adversarial relationship. With this collapse, the prosecution's confirming barrier has vanished.
 
-**4. 검찰의 두 번째 무기 붕괴 — 쟁점 F ("어지럽게 함" 오독)**
+**4. The Collapse of the Prosecution's Second Weapon — Issue F (the misreading of "disquieted")**
 
-검찰은 "어지럽게 함(disquieted)"을 마귀적 혼란으로 해석하여 가짜 마귀라고 주장했으나, 이는 명백한 어휘 오독입니다. 본문의 "Why hast thou disquieted me"는 **"왜 낙원에서 평안히 쉬고 있는 나를 귀찮게 깨웠느냐(방해했느냐)"**는 의미로, 소환된 존재가 낙원에서 안식 중이던 진짜 사무엘임을 확증하는 증거입니다. 평안이 없는 마귀는 이런 불평을 할 수 없습니다.
+The prosecution interpreted "disquieted" as demonic confusion and claimed this was a false devil, but this is a plain lexical misreading. The text's "Why hast thou disquieted me" means, **"why have you troubled (disturbed) me, who was peacefully resting in paradise,"** evidence confirming that the summoned being is the real Samuel, at rest in paradise. A devil without peace cannot voice such a complaint.
 
-**5. 검찰의 자가 모순 — 쟁점 D (고의적 반역죄)**
+**5. The Prosecution's Self-Contradiction — Issue D (deliberate rebellion)**
 
-민 15:30의 "끊어짐"을 구원 상실로 해석하면, 다윗의 고의적 간음·살인에도 동일 기준을 적용해야 하나 성경은 다윗을 구원에서 제외하지 않았습니다. 이 자가 모순으로 인해 검찰의 무기도 실질적 파괴력을 상실했습니다.
+If the "cutting off" of Num. 15:30 is interpreted as the loss of salvation, the same standard must apply to David's deliberate adultery and murder as well, yet Scripture does not exclude David from salvation. This self-contradiction likewise strips the prosecution's weapon of its practical destructive force.
 
 ---
 
-## 5. 🏛️ 확정 판결(CONSISTENT)의 근거 — 검찰의 장벽이 모두 붕괴됨
+## 5. 🏛️ The Grounds for the Confirmed Verdict (CONSISTENT) — Every Prosecution Barrier Has Collapsed
 
-| 검찰의 장벽 | 붕괴 원인 | 상태 |
+| The Prosecution's Barrier | Cause of Collapse | Status |
 |:---:|:---|:---:|
-| **"하나님의 원수" 선언** | ❌ **주어 혼동 적발** — "thine enemy" = 사울의 원수(하나님이 사울을 대적), "하나님의 원수"(사울이 하나님을 대적)가 아님 | 🔵 무효화 |
-| **고의적 반역죄** | ❌ **자가 모순** — 다윗도 고의적 죄를 지었으나 구원 유지 → 민 15:30의 "끊어짐" ≠ 구원 상실 | 🔵 무효화 |
-| **히 11장 부재** | ⚖️ 침묵의 논증 — 최약 증거. 히 11장은 구원자 명단이 아닌 믿음의 모범 명단 | ⚖️ 무승부 |
-| **명시적 회개 없음** | ⚠️ 유효하나, 위 3개 장벽 붕괴 후 이것만으로 확정 판결을 뒤집을 수 없음 | ⚠️ 잔존 유보 |
+| **The declaration "God's enemy"** | ❌ **Subject Confusion Detected** — "thine enemy" = Saul's enemy (God opposes Saul), not "God's enemy" (Saul opposes God) | 🔵 Nullified |
+| **Deliberate rebellion** | ❌ **Self-Contradiction** — David too committed deliberate sin yet retained salvation → the "cutting off" of Num. 15:30 ≠ loss of salvation | 🔵 Nullified |
+| **Absence from Heb. 11** | ⚖️ An Argument from Silence — the weakest evidence. Heb. 11 is not a roster of the saved but a list of models of faith | ⚖️ A Draw |
+| **No explicit repentance** | ⚠️ Valid, but after the collapse of the above three barriers, this alone cannot overturn the confirmed verdict | ⚠️ Remains reserved |
 
-> **판사의 최종 소견:** 검찰의 가장 강력한 무기("하나님의 벗 vs 원수" 속성 충돌)가 주어 혼동이라는 치명적 오독 위에 세워진 것으로 판명되었습니다. 두 번째 무기(고의적 반역죄)도 다윗과의 자가 모순으로 붕괴되었습니다. 남은 장벽(히 11장 부재, 회개 기록 없음)은 "침묵의 논증"에 해당하며, 이것만으로 **요나단 포함 논증 + עִמִּי 원어 분석 + KJV 저자의 Samuel 명명**이라는 변호인의 3중 적극 증거를 압도할 수 없습니다.
+> **The Judge's Final Opinion:** the prosecution's most powerful weapon (the attribute collision of "God's friend vs. enemy") was found to be built upon the fatal misreading of a subject confusion. The second weapon (deliberate rebellion) also collapsed under self-contradiction with the case of David. The remaining barriers (absence from Heb. 11, no record of repentance) constitute an "Argument from Silence," and cannot alone overwhelm the defense's threefold affirmative evidence: the argument from Jonathan's inclusion + the original-language analysis of עִמִּי + the KJV author's naming of "Samuel."
 
 ---
 
-## 6. 📋 대법정 최종 판결 요약
+## 6. 📋 Summary of the Supreme Court's Final Verdict
 
 ```
 ┌──────────────────────────────────────────────────────────┐
 │                                                          │
-│   ⚖️ BVCAP 대법정 최종 판결                               │
+│   ⚖️ BVCAP Supreme Court Final Verdict                    │
 │                                                          │
-│   피고: 사울왕 (King Saul)                                │
-│   혐의: 영원한 멸망 (Eternal Damnation)                    │
+│   Defendant: King Saul                                   │
+│   Charge: Eternal Damnation                               │
 │                                                          │
-│   판결: ✅ 무죄 확정 — 낙원 입성 CONFIRMED                  │
+│   Verdict: ✅ Acquittal Confirmed — Entry into Paradise CONFIRMED │
 │                                                          │
-│   [적극적 증거 — 변호인]                                   │
-│   ・요나단(의인) 포함 + עִמִּי 원어 →                       │
-│     "나와 함께" = 낙원 구역 확정                           │
-│   ・눅 16:26 큰 구렁 논증 →                               │
-│     고통의 장소에서 낙원의 사무엘과 "함께" 물리적 불가       │
-│     ∴ "나와 함께" = 낙원만 가능 (유일 생존 모델)            │
-│   ・사울 생애 타임라인 →                                   │
-│     무당 추방(강도 높음) + 하나님 먼저 물음 = 회개 행위 존재 │
+│   [Affirmative Evidence — the Defense]                    │
+│   ・The inclusion of Jonathan (righteous) + the original-language עִמִּי → │
+│     "with me" = the region of paradise confirmed          │
+│   ・The great gulf argument of Luke 16:26 →                │
+│     physically impossible to be "with" Samuel in paradise while in the place of torment │
+│     ∴ "with me" = only paradise is possible (the sole surviving model) │
+│   ・Saul's life timeline →                                 │
+│     the removal of the witches (a strong action) + inquiring of God first = an act of repentance exists │
 │                                                          │
-│   [검찰 무기 전수 붕괴]                                    │
-│   ・"하나님의 원수" → 주어 혼동 적발 — 무효화               │
-│   ・"고의적 반역죄" → 다윗과의 자가 모순 — 무효화            │
-│   ・"어지럽게 함(disquieted)" → 어휘 오독 적발 — 무효화     │
-│   ・"Macro-Sheol 진입론" → 눅 16:26 큰 구렁으로 기각        │
-│   ・"회개 기록 전무" → 사실 오류 — 기각                     │
+│   [Total Collapse of the Prosecution's Weapons]             │
+│   ・"God's enemy" → Subject confusion detected — nullified  │
+│   ・"Deliberate rebellion" → self-contradiction with David — nullified │
+│   ・"disquieted" → lexical misreading detected — nullified  │
+│   ・"The Macro-Sheol entry theory" → rejected by the great gulf of Luke 16:26 │
+│   ・"No record of repentance whatsoever" → a factual error — rejected │
 │                                                          │
-│   학술 합의 수준: ✅ CONSISTENT                            │
-│   최종 STATUS: ✅ PARADISE CONFIRMED                       │
+│   Level of Scholarly Consensus: ✅ CONSISTENT             │
+│   Final STATUS: ✅ PARADISE CONFIRMED                       │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
 
-### ⚖️ 한 문장 요약
+### ⚖️ A One-Sentence Summary
 
-> **"사울은 왕권은 잃고 육신은 심판받았으나, 영혼은 사무엘과 요나단이 있는 낙원(아브라함의 품)에 갔다. 검찰의 모든 무기는 무효화되었다 — '하나님의 원수'는 주어 혼동, '어지럽게 함'은 어휘 오독, '고의적 반역죄'는 다윗과의 자가 모순, 'Macro-Sheol 진입론'은 눅 16:26 큰 구렁으로 격파되었다. '나와 함께(עִמִּי)'는 낙원과 고통의 장소 사이 건너갈 수 없는 큰 구렁(눅 16:26)으로 인해 낙원만을 지시할 수 있다. 회개 기록이 전무하다는 주장도 삼상 15:24, 26:21, 28:3(무당 추방), 28:6(하나님 먼저 물음)으로 사실 오류임이 확인되었다."**
-
----
-
-## 7. ❓ FAQ — 추가 쟁점 정리 (실제 논쟁에서 제기된 질문들)
-
-> 본 FAQ는 실제 신학 논쟁에서 제기된 추가 질문들과 그에 대한 BVCAP 검증을 기록합니다.
-> FAQ-1~5는 검찰의 추가 도전을 다루며, **FAQ-6는 최후 방어선을 완성하여 CONFIRMED 판결을 확정**합니다.
+> **"Saul lost his kingship and his flesh was judged, but his soul went to paradise (Abraham's bosom), where Samuel and Jonathan are. Every weapon of the prosecution was nullified — 'God's enemy' was a subject confusion, 'disquieted' was a lexical misreading, 'deliberate rebellion' was a self-contradiction with David, and the 'Macro-Sheol entry theory' was defeated by the great gulf of Luke 16:26. 'With me (עִמִּי)' can point only to paradise, on account of the impassable great gulf (Luke 16:26) between paradise and the place of torment. The claim of a total absence of a record of repentance was also confirmed to be a factual error, by 1 Sam. 15:24, 26:21, 28:3 (the removal of the witches), and 28:6 (inquiring of God first)."**
 
 ---
 
-### ❓ FAQ-1: "나와 함께"는 위치가 아닌 **포괄적 죽음의 공통점**을 말하는 것 아닌가요?
+## 7. ❓ FAQ — Further Issues Compiled (Questions Raised in the Actual Debate)
 
-**질문 요지:**
-> *"삼상 28:19의 '함께'는 특정 구역(낙원)이 아니라 '사후 세계에 가게 됨'이라는 포괄적 의미일 수 있습니다. 사후 세계에는 낙원과 지옥이 구분되어 있으나, '나와 함께'는 그 구분보다 '너도 죽음의 세계에 오게 된다'는 넓은 의미로 볼 수 있습니다."*
+> This FAQ records additional questions raised in the actual theological debate, along with the BVCAP verification of each.
+> FAQ-1~5 address further challenges from the prosecution, while **FAQ-6 completes the final line of defense, confirming the CONFIRMED verdict.**
 
-**⚖️ BVCAP 판정:**
+---
 
-이 논증은 **합당하며** 이미 쟁점 B에서 검찰(Macro-Sheol Theory)이 동일하게 제기했습니다. 판사는 7:4로 변호인 우세를 판정했으나 검찰 논거 자체는 인정했습니다.
+### ❓ FAQ-1: Isn't "With Me" Speaking Not of a Location but of the **Comprehensive Commonality of Death**?
 
-| 핵심 질문 | 변호인 입장 | 검찰/질문자 입장 |
+**Gist of the Question:**
+> *"The 'with me' of 1 Sam. 28:19 may not signify a specific region (paradise) but may carry the comprehensive meaning of 'coming into the world of the dead.' While the afterlife is divided into paradise and hell, 'with me' could be read in the broader sense of 'you too are coming into the world of the dead,' rather than that specific division."*
+
+**⚖️ BVCAP Ruling:**
+
+This argument is **valid**, and was already raised identically by the prosecution (the Macro-Sheol Theory) in Issue B. The judge ruled a 7:4 defense advantage, yet acknowledged the prosecution's argument itself.
+
+| Core Question | The Defense's Position | The Prosecution's/Questioner's Position |
 |:---:|:---|:---|
-| "나와 함께"의 범위 | עִמִּי = 물리적 근접 공존 → 낙원 구역 특정 | Sheol 시스템 전체 입장 선언 → 구역 미특정 |
-| 요나단 포함 문제 | 의인과 악인을 "함께" 묶은 것 = 같은 구역 지시 | 같은 날 죽어 같은 시스템에 들어간 것 = "함께" |
+| The scope of "with me" | עִמִּי = physical proximate coexistence → the region of paradise specified | A declaration of entry into the Sheol system as a whole → the region unspecified |
+| The problem of Jonathan's inclusion | Binding the righteous and the wicked as "together" = points to the same region | Dying the same day and entering the same system = "together" |
 
-> **결론:** 이 해석은 BVCAP 기준으로 **⚠️ 유효한 대안 해석**입니다. 판결이 변호인 우세이지만 검찰 논거가 완전히 기각된 것은 아닙니다. **사울의 구원 여부는 여전히 논쟁 중(UNRESOLVED 경계)**임을 인정합니다.
+> **Conclusion:** by BVCAP standard, this interpretation is **⚠️ a valid alternative interpretation**. While the verdict favors the defense, the prosecution's argument is not entirely rejected. It is acknowledged that **whether Saul was saved remains under debate (bordering on UNRESOLVED)**.
 
 ---
 
-### ❓ FAQ-2: 사무엘의 말은 **낙원 초대가 아니라 심판 선언**이 아닌가요?
+### ❓ FAQ-2: Isn't Samuel's Statement Not an Invitation to Paradise but **a Declaration of Judgment**?
 
-**질문 요지:**
-> *"사무엘이 사울에게 한 말들은 심판에 가까운 선언입니다. 하나님의 대언을 위해 소환된 것이지, 사울을 낙원으로 초대하는 의미가 아닙니다."*
+**Gist of the Question:**
+> *"What Samuel said to Saul is a declaration closer to judgment. He was summoned to speak on God's behalf, not to signify an invitation of Saul to paradise."*
 
-**⚖️ BVCAP 판정:**
+**⚖️ BVCAP Ruling:**
 
-이 관점은 **신학적으로 합당**합니다. 삼상 28:16-19을 보면 사무엘의 발언 전체가 심판과 예고입니다:
+This view is **theologically valid.** Looking at 1 Sam. 28:16-19, Samuel's entire statement is judgment and prophecy:
 
-> - "여호와께서 너를 떠나 네 대적이 되셨거늘" (심판 선언)
-> - "이스라엘을 네 손에서 빼앗아 다윗에게 주셨느니라" (왕권 박탈 확인)
-> - "내일 너와 네 아들들이 나와 함께 있을 것이요" (사망 예고)
+> - "the LORD is departed from thee, and is become thine enemy" (a declaration of judgment)
+> - "the LORD hath rent the kingdom out of thine hand, and given it to... David" (confirming the loss of kingship)
+> - "to morrow shalt thou and thy sons be with me" (a foretelling of death)
 
-**"나와 함께"가 심판 선언의 맥락 안에 있다는 것은 맞습니다.** 그러나 이것이 낙원설을 완전히 기각하지는 않습니다:
+**It is correct that "with me" stands within the context of a declaration of judgment.** But this does not entirely dismiss the paradise theory:
 
-| 논점 | 분석 |
+| Point | Analysis |
 |:---:|:---|
-| 심판 선언 맥락 | ✅ 맞음 — 사무엘의 발언은 전체적으로 심판 선고 |
-| "함께"의 공간성 | ⚠️ 심판 선언이어도 **1인칭 직접 화법의 공간 지시성**은 남음 |
-| 결론 | 이 논거는 "나와 함께" = 낙원 확정을 **약화**시키며 UNRESOLVED 경계를 지지함 |
+| The context of a declaration of judgment | ✅ Correct — Samuel's statement is, as a whole, a pronouncement of judgment |
+| The spatiality of "with" | ⚠️ Even within a declaration of judgment, the **spatial indexicality of first-person direct speech** remains |
+| Conclusion | This argument **weakens** the confirmation of "with me" = paradise, and supports the bordering-on-UNRESOLVED position |
 
-> **BVCAP 소견:** 이 해석은 최종 판결을 `✅ CONSISTENT`가 아닌 `🟡 HIGH PROBABILITY (유력 견해)` 수준으로 조정해야 하는 근거 중 하나입니다.
+> **BVCAP Opinion:** this interpretation is one of the grounds for adjusting the final verdict from `✅ CONSISTENT` to the level of `🟡 HIGH PROBABILITY (a probable view)`.
 
 ---
 
-### ❓ FAQ-3: 삼손 비교는 무효입니다 — **열매(회개의 증거)가 없습니다**
+### ❓ FAQ-3: The Comparison with Samson Is Invalid — **There Is No Fruit (Evidence of Repentance)**
 
-**질문 요지:**
-> *"삼손은 히브리서 11장에 기록되고, 마지막에 기둥을 무너뜨리며 자신을 희생시켰습니다. 이것이 회개의 열매입니다. 열매는 믿음이 진짜인가의 증거입니다. 사울왕은 구원받았다고 볼 만한 회개의 증거나 열매에 대한 기록이 전무합니다."*
+**Gist of the Question:**
+> *"Samson is recorded in Hebrews 11, and at the end, he brought down the pillars and sacrificed himself. This is the fruit of repentance. Fruit is evidence of whether faith is genuine. For King Saul, there is no record whatsoever of a fruit or evidence of repentance that would suggest he was saved."*
 
-**⚖️ BVCAP 논점 정밀화 — "열매 부재" → "회개의 진정성 부재"로 수정**
+**⚖️ BVCAP Refinement of the Point — "Absence of Fruit" Corrected to "Absence of the Authenticity of Repentance"**
 
-먼저 구원의 논리 구조를 바로잡아야 합니다:
+First, the logical structure of salvation must be set right:
 
 ```
-회개/믿음 → 구원 → 열매
-(열매는 구원의 원인이 아니라 결과이자 증거)
+Repentance/Faith → Salvation → Fruit
+(Fruit is not the cause but the result and evidence of salvation)
 ```
 
-> **📖 반례 — 십자가 강도 (눅 23:43, KJV)**
+> **📖 A Counter-Example — the Thief on the Cross (Luke 23:43, KJV)**
 > *"And Jesus said unto him, Verily I say unto thee, Today shalt thou be **with me in paradise**."*
 >
-> | 항목 | 강도 | 삼손 | 다윗 | 사울 |
+> | Item | Thief | Samson | David | Saul |
 > |:---:|:---:|:---:|:---:|:---:|
-> | **회개** | ✅ (눅 23:42) | ✅ (삿 16:28) | ✅ (시 51편) | ⚠️ 의심 |
-> | **열매** | ❌ (시간 없음) | ✅ | ✅ | ❌ |
-> | **구원 확증** | ✅ 예수님 직접 선언 | ✅ 히 11장 | ✅ 행 13:22 | ❌ |
+> | **Repentance** | ✅ (Luke 23:42) | ✅ (Judg. 16:28) | ✅ (Ps. 51) | ⚠️ Doubted |
+> | **Fruit** | ❌ (no time) | ✅ | ✅ | ❌ |
+> | **Confirmation of Salvation** | ✅ Jesus's direct declaration | ✅ Heb. 11 | ✅ Acts 13:22 | ❌ |
 
-> **결론:** 십자가 강도는 **열매가 전무**했음에도 낙원에 갔습니다. 따라서 **"열매 없음 = 지옥"은 절대 법칙이 아닙니다.** 열매는 회개/구원의 결과이지 조건이 아닙니다.
+> **Conclusion:** the thief on the cross went to paradise despite **having no fruit whatsoever.** Therefore, **"no fruit = hell" is not an absolute law.** Fruit is a result of repentance/salvation, not a condition.
 
-**⚖️ BVCAP 정밀 판정 — 진짜 쟁점은 "열매"가 아니라 "회개의 진정성"**
+**⚖️ Precise BVCAP Ruling — the Real Issue Is Not "Fruit" but "the Authenticity of Repentance"**
 
-삼손·다윗·강도는 모두 **회개**가 있었습니다. 사울과의 결정적 차이는 열매가 아닌 **회개의 진정성**입니다:
+Samson, David, and the thief all had **repentance.** The decisive difference from Saul is not fruit but **the authenticity of the repentance**:
 
-| 인물 | 회개 기록 | 마지막 행동 방향 | 구원 확증 |
+| Figure | Record of Repentance | Direction of the Final Act | Confirmation of Salvation |
 |:---:|:---|:---:|:---:|
-| **삼손** | ✅ 삿 16:28 — 하나님께 기도 | 하나님께 → | ✅ 히 11:32 |
-| **다윗** | ✅ 시 51장 — 진정한 회개 | 하나님께 → | ✅ 행 13:22 |
-| **십자가 강도** | ✅ 눅 23:42 — "나를 기억하소서" | 하나님께 → | ✅ 눅 23:43 |
-| **사울** | ⚠️ 삼상 15:24, 26:21 — "내가 죄를 지었다" | ⚠️ 의심 (아래 참조) | ❌ |
+| **Samson** | ✅ Judg. 16:28 — prays to God | Toward God → | ✅ Heb. 11:32 |
+| **David** | ✅ Ps. 51 — genuine repentance | Toward God → | ✅ Acts 13:22 |
+| **The Thief on the Cross** | ✅ Luke 23:42 — "remember me" | Toward God → | ✅ Luke 23:43 |
+| **Saul** | ⚠️ 1 Sam. 15:24, 26:21 — "I have sinned" | ⚠️ Doubted (see below) | ❌ |
 
-**사울의 회개 기록 정밀 검토:**
+**A Precise Examination of Saul's Record of Repentance:**
 
-| 구절 | 내용 | 진정성 판정 |
+| Verse | Content | Verdict on Authenticity |
 |:---:|:---|:---:|
-| **삼상 15:24** | "내가 범죄하였나이다" → 바로 "나를 높여달라" (15:30)로 이어짐 | ⚠️ 의심 — 체면 보전 목적 |
-| **삼상 26:21** | "내가 죄를 지었도다" (다윗에게) | ⚠️ 의심 — 정치적 상황 |
-| **삼상 28장** | 하나님께 응답이 없자 **무당을 찾음** — 생애 마지막 밤의 선택 | ❌ **반대 방향** |
+| **1 Sam. 15:24** | "I have sinned" → immediately followed by "honour me" (15:30) | ⚠️ Doubted — appears aimed at preserving face |
+| **1 Sam. 26:21** | "I have sinned" (to David) | ⚠️ Doubted — a political circumstance |
+| **1 Sam. 28** | Upon receiving no answer from God, **seeks out a witch** — his choice on the last night of his life | ❌ **The opposite direction** |
 
-> **BVCAP 수용:** 삼손·다윗 비유를 "타락해도 구원"의 전례로 사용하는 것은 **회개의 유무**라는 결정적 차이를 간과한 불완전한 비유입니다. 진짜 논거는 이렇게 정밀화되어야 합니다:
+> **BVCAP Acknowledgment:** using the Samson/David analogy as a precedent for "saved despite falling" is an incomplete analogy that overlooks the decisive difference of **whether repentance was present.** The genuine argument must be refined as follows:
 >
-> *"사울에게는 회개 열매가 없는 것이 아니라, 회개 자체가 진정성 있게 기록된 적이 없으며, 마지막 행동이 하나님이 아닌 마귀 채널(무당)로 향했다."*
+> *"It is not that Saul lacks the fruit of repentance, but that repentance itself was never authentically recorded, and his final act turned not toward God but toward a devil's channel (a witch)."*
 
-> **방어 가능 범위:** 사울이 삼상 15:24에서 한 말이 진정한 회개일 수 있다는 가능성은 완전히 닫히지 않습니다. 단, 그것을 입증하는 후속 행동이 없고, 마지막 행동이 반대 방향이었다는 사실이 이 가능성을 매우 좁힙니다.
+> **The Scope of a Viable Defense:** the possibility that what Saul said in 1 Sam. 15:24 was genuine repentance is not entirely foreclosed. However, the fact that there is no subsequent act proving it, and that his final act ran in the opposite direction, greatly narrows this possibility.
 
 
-
----
-
-### ❓ FAQ-4: **회개 기록이 전무**한 사람의 구원을 논증할 수 있는가?
-
-**질문 요지:**
-> *"정경 기록만으로는 사울왕의 회개나 구원에 대한 뚜렷한 근거가 없습니다."*
-
-**⚖️ BVCAP 판정:**
-
-이 논거는 이미 쟁점 E(히 11장 부재)에서 **무승부(5:5)**로 처리된 것과 동일한 구조입니다. **침묵의 논증(Argument from Silence)**은 BVCAP 원칙상 최약 증거이며, 양방향 모두에 적용됩니다:
-
-> - "회개 기록이 없다" → 멸망의 증명이 아님
-> - "구원 확증 기록이 없다" → 낙원 입성의 증명이 아님
-
-**그러나 FAQ-3과 결합할 때 강도가 높아집니다:**
-
-> 단순한 침묵이 아니라, 마지막 순간의 **반대 방향 행동**(무당 방문)이 존재하며, 이것이 삼손의 마지막 행동(하나님께 기도)과 **정반대**의 방향을 가리킵니다.
 
 ---
 
-### ❓ FAQ-5: 사울의 생애 행동 타임라인 — 회개의 근거가 있는가?
+### ❓ FAQ-4: Can the Salvation of One with an **Utterly Absent Record of Repentance** Be Argued?
 
-**질문 요지:**
-> *"사무엘이 '반역은 점치는 죄와 같다'(삼상 15:23)고 한 마지막 말을 기억하고, 사울이 무당을 강하게 쓸어버렸다면 이것이 회개의 행위 아닌가? 그리고 무당 찾아가기 전에 하나님께 먼저 물었다는 사실도 있다."*
+**Gist of the Question:**
+> *"There is no clear canonical basis for King Saul's repentance or salvation."*
 
-**⚖️ BVCAP 판정: 🟡 이 타임라인은 회개의 진정성을 부분적으로 지지하는 근거가 됩니다.**
+**⚖️ BVCAP Ruling:**
 
-#### 📅 사울왕 생애 핵심 타임라인 — 회개 행위 중심
+This argument has the identical structure already treated as a **draw (5:5)** in Issue E (absence from Heb. 11). **The Argument from Silence** is the weakest evidence under BVCAP principle, and applies in both directions:
 
-| 시기 | 사건 | 구절 | 성격 |
+> - "There is no record of repentance" → not proof of destruction
+> - "There is no record confirming salvation" → not proof of entry into paradise
+
+**However, its force increases when combined with FAQ-3:**
+
+> This is not mere silence, but the existence of **an act in the opposite direction** in the final moment (visiting a witch), which points in a direction **exactly opposite** to Samson's final act (praying to God).
+
+---
+
+### ❓ FAQ-5: A Timeline of Saul's Life Actions — Is There Any Basis for Repentance?
+
+**Gist of the Question:**
+> *"If Saul remembered Samuel's final words, that 'rebellion is as the sin of witchcraft' (1 Sam. 15:23), and strongly swept away the witches, isn't that an act of repentance? And there is also the fact that he inquired of God first, before going to the witch."*
+
+**⚖️ BVCAP Ruling: 🟡 This Timeline Serves as Partial Support for the Authenticity of Repentance.**
+
+#### 📅 A Key Timeline of King Saul's Life — Centered on Acts of Repentance
+
+| Period | Event | Verse | Character |
 |:---:|:---|:---:|:---:|
-| 삼상 10장 | 사무엘에게 기름 부음. 하나님의 신이 임함 | 10:1,6 | ✅ 순종 시작 |
-| 삼상 11장 | 하나님의 신이 임해 암몬 격파 — 이스라엘 구원 | 11:6-11 | ✅ 하나님의 능력 |
-| 삼상 14:35 | **여호와께 제단을 쌓음 — 사울이 세운 첫 제단** | 14:35 | ✅ 예배 행위 |
-| 삼상 13장 | 사무엘 기다리지 않고 번제 드림 | 13:9 | ❌ 1차 불순종 |
-| 삼상 15장 | 아말렉 전쟁 — 아각과 가축 살려둠 | 15:9 | ❌ 2차 불순종 |
-| 삼상 15:23 | 사무엘의 마지막 선언: **"반역은 점치는 죄(witchcraft)와 같다"** | 15:23 | ⚠️ 핵심 경고 |
-| 삼상 15:24 | *"내가 범죄하였나이다... 백성이 두려워서"* — 1차 고백 | 15:24 | ⚠️ 의심 |
-| 삼상 15:30 | *"내가 범죄하였나이다... 나를 높여달라"* — 2차 고백 | 15:30 | ❌ 즉시 자기 이익 |
-| 삼상 15:35 | **사무엘이 사울을 죽을 때까지 만나지 않음** | 15:35 | — |
-| 삼상 15~24장 | ⚠️ **사울이 무당에게 찾아간 기록 = 단 한 번도 없음** | — | 🟡 의미 있음 |
-| 삼상 24:2 | 다윗 추격 — 엔게디 (사무엘 생존 시) | 24:2 | ❌ |
-| 삼상 24:17 | *"너는 나보다 의롭다"* — 다윗이 왕 될 것 인정 | 24:17 | 🟡 부분 인정 |
-| **삼상 25:1** | **사무엘 사망 — 라마에 장사** | 25:1 | ☠️ |
-| **삼상 26:2** | 사무엘 사망 **이후** 다윗 추격 — 십 광야 | 26:2 | ❌ |
-| **삼상 26:21** | *"내가 죄를 지었도다... 다시는 해하지 않겠다"* — 3차 고백 + 이후 추격 기록 없음 | 26:21,25 | 🟡 약속 지킨 것으로 보임 |
-| **삼상 28:3** | **신접한 자와 박수를 땅에서 쓸어버림** (강한 표현 — 완전 제거) | 28:3 | 🟡 핵심 행위 |
-| **삼상 28:6** | **하나님께 먼저 물음 — 꿈·우림·선지자 전부 응답 없음** | 28:6 | 🟡 정상 채널 먼저 |
-| **삼상 28:7** | 하나님 침묵 후 무당 찾아감 | 28:7 | ❌ |
-| 삼상 31:4 | 전투 중 스스로 칼에 엎드러져 죽음. 회심 기록 없음 | 31:4 | — |
+| 1 Sam. 10 | Anointed by Samuel. The Spirit of God comes upon him | 10:1, 6 | ✅ The start of obedience |
+| 1 Sam. 11 | The Spirit of God comes upon him, defeats Ammon — salvation of Israel | 11:6-11 | ✅ The power of God |
+| 1 Sam. 14:35 | **Builds an altar to the LORD — Saul's first altar** | 14:35 | ✅ An act of worship |
+| 1 Sam. 13 | Offers a burnt offering without waiting for Samuel | 13:9 | ❌ 1st disobedience |
+| 1 Sam. 15 | The war with Amalek — spares Agag and the livestock | 15:9 | ❌ 2nd disobedience |
+| 1 Sam. 15:23 | Samuel's final declaration: **"rebellion is as the sin of witchcraft"** | 15:23 | ⚠️ A core warning |
+| 1 Sam. 15:24 | *"I have sinned... because I feared the people"* — 1st confession | 15:24 | ⚠️ Doubted |
+| 1 Sam. 15:30 | *"I have sinned... honour me"* — 2nd confession | 15:30 | ❌ Immediate self-interest |
+| 1 Sam. 15:35 | **Samuel does not meet Saul again until his death** | 15:35 | — |
+| 1 Sam. 15-24 | ⚠️ **A record of Saul visiting a witch = not a single instance** | — | 🟡 Significant |
+| 1 Sam. 24:2 | Pursues David — En-gedi (while Samuel is still alive) | 24:2 | ❌ |
+| 1 Sam. 24:17 | *"thou art more righteous than I"* — acknowledges David will be king | 24:17 | 🟡 Partial acknowledgment |
+| **1 Sam. 25:1** | **Samuel dies — buried in Ramah** | 25:1 | ☠️ |
+| **1 Sam. 26:2** | Pursues David **after** Samuel's death — the wilderness of Ziph | 26:2 | ❌ |
+| **1 Sam. 26:21** | *"I have sinned... I will no more do thee harm"* — 3rd confession + no subsequent record of pursuit | 26:21, 25 | 🟡 Appears the promise was kept |
+| **1 Sam. 28:3** | **Puts away those with familiar spirits and the wizards from the land** (strong language — total removal) | 28:3 | 🟡 A key act |
+| **1 Sam. 28:6** | **Inquires of the LORD first — dreams, Urim, and prophets all give no answer** | 28:6 | 🟡 The normal channels tried first |
+| **1 Sam. 28:7** | After God's silence, seeks out a witch | 28:7 | ❌ |
+| 1 Sam. 31:4 | Falls on his own sword mid-battle and dies. No record of conversion | 31:4 | — |
 
 ---
 
-#### 🔑 핵심 논증 — 삼상 28:3의 신학적 해석
+#### 🔑 Core Argument — The Theological Interpretation of 1 Sam. 28:3
 
-**KJV 본문:**
+**KJV text:**
 > *"Now Samuel was dead... And Saul had put away those that had familiar spirits, and the wizards, out of the land."*
 
-성경 저자가 **사무엘의 사망**과 **무당 추방**을 **같은 절에 나란히 배치**했습니다. 이것은 단순한 병렬 서술이 아닐 수 있습니다.
+The biblical author placed **Samuel's death** and **the removal of the witches** **side by side in the same verse.** This may not be a mere parallel narration.
 
-| 분석 항목 | 내용 |
+| Analysis Item | Content |
 |:---:|:---|
-| **사무엘의 마지막 말** | "반역은 점치는 죄(witchcraft)와 같다" (삼상 15:23) |
-| **사울의 행동** | 사무엘 사망 직후, 신접한 자들을 **쓸어버림** (강한 제거 동사) |
-| **연결 가능한 해석** | 사무엘의 경고를 기억하고, 그 말처럼 반역 = 점치는 죄임을 인식하여 무당을 제거 |
-| **쓸어버렸다는 강도** | 단순 퇴출이 아닌 완전 제거 — 소극적 순종이 아닌 **적극적 행동** |
-| **무당 찾아간 이력** | 사무엘 생존 기간 전체(삼상 10~25장) 동안 무당 접촉 기록 **전무** |
+| **Samuel's final words** | "rebellion is as the sin of witchcraft" (1 Sam. 15:23) |
+| **Saul's action** | Immediately after Samuel's death, **sweeps away** those with familiar spirits (a strong verb of removal) |
+| **A Plausible Connecting Interpretation** | Remembering Samuel's warning, and recognizing, as that warning said, that rebellion = the sin of witchcraft, he removes the witches |
+| **The Intensity of "Swept Away"** | Not a mere expulsion but total removal — not passive obedience but **active action** |
+| **History of Visiting Witches** | **Utterly absent** throughout the entire span of Samuel's life (1 Sam. 10-25) |
 
-> **결론:** 사울이 무당을 쓸어버린 것은 **단순한 율법 집행이 아닐 수 있습니다.** 사무엘의 마지막 말("반역 = 점치는 죄")을 기억하고, 그 말에 응답하는 행위로 해석할 수 있습니다. 무당을 지울 이유가 별달리 없는 상황에서의 강한 제거 행동은 **회개의 행위(Repentance Act)**의 외적 증거로 기능할 수 있습니다.
+> **Conclusion:** Saul's sweeping away of the witches **may not be a mere execution of the law.** It can be interpreted as an act responding to Samuel's final words ("rebellion = the sin of witchcraft"). A strong act of removal, in a situation with no particular reason to remove the witches otherwise, can function as external evidence of **an Act of Repentance.**
 
 ---
 
-#### 🧭 사울의 마지막 밤 — 하나님을 먼저 찾은 순서
+#### 🧭 Saul's Final Night — The Order in Which He Sought God First
 
-> **삼상 28:6 (KJV):** *"And when Saul enquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets."*
+> **1 Sam. 28:6 (KJV):** *"And when Saul enquired of the LORD, the LORD answered him not, neither by dreams, nor by Urim, nor by prophets."*
 
-| 시도 순서 | 채널 | 결과 |
+| Order Attempted | Channel | Result |
 |:---:|:---:|:---:|
-| **1st** | 꿈 (Dreams) | ❌ 응답 없음 |
-| **2nd** | 우림 (Urim) | ❌ 응답 없음 |
-| **3rd** | 선지자 (Prophets) | ❌ 응답 없음 |
-| **최후** | 무당 | ❌ 금지된 채널 |
+| **1st** | Dreams | ❌ No answer |
+| **2nd** | Urim | ❌ No answer |
+| **3rd** | Prophets | ❌ No answer |
+| **Last resort** | The witch | ❌ A forbidden channel |
 
-> **이 순서가 중요합니다:** 사울은 무당을 **첫 번째 선택**으로 찾아가지 않았습니다. 하나님께서 허락하신 **모든 정상 채널을 먼저 시도**했습니다. 하나님의 완전한 침묵 이후, 극한의 두려움(블레셋 대군) 속에서 무너진 것입니다.
+> **This order matters:** Saul did not go to the witch as his **first choice.** He **first tried every normal channel** God permitted. It was only after God's complete silence, amid extreme fear (the great Philistine army), that he collapsed.
 
 ---
 
-#### ⚖️ 종합 판정 — "회개 기록이 전무하다"는 진술은 수정되어야 합니다
+#### ⚖️ Comprehensive Ruling — The Statement "There Is Utterly No Record of Repentance" Must Be Revised
 
-| 구분 | 기존 주장 | 수정된 평가 |
+| Category | Original Claim | Revised Assessment |
 |:---:|:---|:---|
-| **고백 기록** | "전무" | ❌ 틀림 — 삼상 15:24, 15:30, 26:21 세 차례 존재 |
-| **무당 제거** | 단순 율법 집행 | 🟡 사무엘 경고 연상 + 강한 제거 = 회개 행위 가능성 |
-| **무당 방문 이력** | 언급 없음 | ✅ 사무엘 생존 기간 전체 동안 전무 |
-| **마지막 밤 순서** | "무당 찾아감" | 🟡 하나님 먼저 → 침묵 → 무당 (마지막 수단) |
-| **3차 고백 후 행동** | "다윗 다시 쫓음" | ❌ 틀림 — 이후 추격 기록 없음 |
+| **Record of confession** | "Utterly absent" | ❌ Incorrect — three instances exist, at 1 Sam. 15:24, 15:30, 26:21 |
+| **The removal of the witches** | A mere execution of the law | 🟡 An association with Samuel's warning + strong removal = a possibility of an act of repentance |
+| **History of visiting witches** | No mention | ✅ Utterly absent throughout the entirety of Samuel's life |
+| **The order on the final night** | "Went to the witch" | 🟡 God first → silence → the witch (a last resort) |
+| **Action after the 3rd confession** | "Pursued David again" | ❌ Incorrect — no subsequent record of pursuit |
 
-> **📌 수정된 평가:** 사울에게는 회개의 패턴이 존재합니다. 완전하지 않고 매번 실패했지만, 완전히 부재하지도 않았습니다. 최종 행동(무당)은 **하나님의 침묵이라는 극한 상황에서의 붕괴**였으며, 이것이 그의 신앙적 한계를 드러내지만, **회개 시도 자체가 없었다**는 주장은 본문 근거가 없습니다.
-
----
+> **📌 Revised Assessment:** a pattern of repentance exists in Saul. It was incomplete and failed each time, but it was not entirely absent either. His final act (the witch) was **a collapse under the extreme circumstance of God's silence**, and while this reveals the limits of his faith, the claim that **the attempt at repentance itself never existed** has no textual basis.
 
 ---
 
-### ❓ FAQ-6: "나와 함께" = 포괄적 스올 진입이라는 주장의 **최종 격파**
+---
 
-**질문 요지:**
-> *"스올은 낙원과 고통의 장소를 모두 포함합니다. '나와 함께'는 '내가 있는 스올 시스템으로 진입한다'는 뜻일 수 있습니다. 진입 후 낙원과 고통의 장소로 분류되는 것입니다."*
+### ❓ FAQ-6: The **Final Defeat** of the Claim That "With Me" = a Comprehensive Entry into Sheol
 
-**⚖️ BVCAP 판정: ✅ 눅 16:26 큰 구렁 논증으로 완전 격파**
+**Gist of the Question:**
+> *"Sheol includes both paradise and the place of torment. 'With me' could mean 'I am entering the Sheol system where I am.' After entry, one is then classified into paradise or the place of torment."*
 
-#### 🔑 결정적 증거 — 누가복음 16:26
+**⚖️ BVCAP Ruling: ✅ Completely Defeated by the Great Gulf Argument of Luke 16:26**
 
-> **눅 16:26 (KJV):**
+#### 🔑 Decisive Evidence — Luke 16:26
+
+> **Luke 16:26 (KJV):**
 > *"And beside all this, between us and you there is a **great gulf fixed**: so that they which would pass from hence to you **cannot**; neither can they pass to us, that would come from thence."*
 
-| 스올 내부 구조 | 내용 |
+| The Internal Structure of Sheol | Content |
 |:---:|:---|
-| **낙원 구역** | 아브라함의 품 — 사무엘, 요나단이 있는 곳 |
-| **큰 구렁** | 건너갈 수 없음 (고정됨) — 눅 16:26 |
-| **고통의 장소** | 부자가 있는 곳 |
+| **The region of paradise** | Abraham's bosom — where Samuel and Jonathan are |
+| **The great gulf** | Impassable (fixed) — Luke 16:26 |
+| **The place of torment** | Where the rich man is |
 
-#### 🏹 TYPE-G + TYPE-L: 문법 체인 + 연쇄 추론
+#### 🏹 TYPE-G + TYPE-L: A Grammatical Chain + a Sequential Inference
 
 ```
-[전제 1] 스올 내 낙원과 고통의 장소 사이 = 큰 구렁 고정 (눅 16:26)
-[전제 2] 사무엘 = 낙원에 있음 (disquieted = 평안한 안식이 방해받음)
-[전제 3] 사무엘이 말함: "너와 아들들이 나와 함께(עִמִּי)"
+[Premise 1] Between paradise and the place of torment within Sheol = a great gulf is fixed (Luke 16:26)
+[Premise 2] Samuel = is in paradise (disquieted = his peaceful rest was disturbed)
+[Premise 3] Samuel says: "thou and thy sons [shall be] with me (עִמִּי)"
 
-[연산 보완 — 🚨 이중 목적지 지시 불가 원칙]
-만약 검찰 주장대로 사울은 고통의 장소로 가고, 의인 요나단은 낙원으로 간다면:
+[Supplementary Calculation — 🚨 the Principle of the Impossibility of Dual-Destination Reference]
+If, as the prosecution claims, Saul goes to the place of torment while the righteous Jonathan goes to paradise:
 
-사무엘은 "너(고통)와 네 아들들(낙원)이 나와 함께(עִמִּי)"라고 말한 것이 됩니다.
-  → 이는 사무엘이 하나의 "나와 함께"라는 단어로 큰 구렁 양쪽의 완전히 다른 두 공간을 동시에 지시했다는 뜻이 됩니다.
-  → 문법적으로 "나와 함께(in Torment) 그리고 나와 함께(in Paradise)"라는 이중 지시는 성립할 수 없습니다.
+Samuel would have said, "thou (in torment) and thy sons (in paradise) [shall be] with me (עִמִּי)."
+  → This would mean Samuel used the single term "with me" to simultaneously refer to two completely different spaces on either side of the great gulf.
+  → Grammatically, a dual reference of "with me (in Torment) and with me (in Paradise)" cannot hold.
 
-결론: 사울과 요나단을 하나로 묶어 "나와 함께"라고 불렀다면, 둘 다 큰 구렁의 같은 편(사무엘이 있는 낙원)에 있어야만 언어적으로 성립합니다. 
-따라서 "나와 함께"는 관용적 사후세계 표현이 될 수 없으며, 정확히 동일한 위치(낙원)를 가리킵니다. ✅
+Conclusion: if Saul and Jonathan were bound together and called "with me," this can only hold linguistically if both are on the same side of the great gulf (paradise, where Samuel is).
+Therefore "with me" cannot be an idiomatic expression for the afterlife in general, and points to exactly the same location (paradise). ✅
 ```
 
-#### 🏹 TYPE-P: Macro-Sheol 해석 역회귀 선언
+#### 🏹 TYPE-P: A Declaration Reversing the Macro-Sheol Interpretation
 
-> *"Macro-Sheol 진입론이 성립하려면, 큰 구렁으로 분리된 고통의 장소에 있는 자도 낙원에 있는 사무엘과 '함께(עִמִּי)'라고 말할 수 있어야 한다. 그러나 눅 16:26은 이 건너감이 물리적으로 불가능하다고 예수님이 직접 선언하셨다. 따라서 '나와 함께'는 구렁이 없는 동일 구역 — 낙원 — 만을 지시할 수 있다."*
+> *"For the Macro-Sheol entry theory to hold, one who is in the place of torment, separated by the great gulf, would also have to be able to say he is 'with' Samuel (עִמִּי), who is in paradise. But Luke 16:26 has Jesus himself directly declare that this crossing is physically impossible. Therefore, 'with me' can point only to the same region, without a gulf — paradise."*
 
-#### 🏹 TYPE-E: 경쟁 모델 최종 기각
+#### 🏹 TYPE-E: The Final Rejection of the Competing Model
 
-| 모델 | 눅 16:26 적용 결과 | 생존 여부 |
+| Model | Result When Luke 16:26 Is Applied | Survives? |
 |:---:|:---|:---:|
-| **Macro-Sheol 진입론** | 고통의 장소 → 사무엘과 큰 구렁으로 분리 → "함께" 불가 | ❌ **기각** |
-| **낙원 특정 모델** | 낙원 → 사무엘과 동일 구역, 구렁 없음 → "함께" 성립 | ✅ **유일 생존** |
+| **The Macro-Sheol Entry Theory** | The place of torment → separated from Samuel by the great gulf → "with" is impossible | ❌ **Rejected** |
+| **The Paradise-Specific Model** | Paradise → the same region as Samuel, no gulf → "with" holds | ✅ **The Sole Survivor** |
 
-#### 🛡️ 검찰의 마지막 탈출구 — "눅 16장은 비유다"
+#### 🛡️ The Prosecution's Last Escape — "Luke 16 Is a Parable"
 
-| 탈출구 | 결과 |
+| Escape Route | Result |
 |:---:|:---|
-| "눅 16장은 비유이므로 큰 구렁도 비유적 표현" | **자가 모순** — 비유라면 낙원/고통의 장소 구분도 비유가 됨. 사후 세계 구조 자체가 붕괴되어 검찰 전체 논거 기반 消滅 |
-| "큰 구렁은 상징적 분리, 물리적 차단 아님" | **눅 16:26 원문** *"cannot"* — 절대 불가 선언. 상징이 아닌 확정적 불가능 |
+| "Luke 16 is a parable, so the great gulf too is figurative" | **A self-contradiction** — if it is a parable, the distinction between paradise/the place of torment also becomes figurative. The structure of the afterlife itself collapses, and the whole foundation of the prosecution's argument vanishes |
+| "The great gulf is a symbolic separation, not a physical barrier" | **The Luke 16:26 original** — *"cannot"* — an absolute declaration of impossibility. Not a symbol, but a definitive impossibility |
 
-> **📌 FAQ-6 판정:** Macro-Sh
+> **📌 FAQ-6 Ruling:** the Macro-Sh[eol theory is completely defeated by the great gulf argument.]
 
 ---
 
-### ❓ FAQ-7: 심화 반론 종합 검증 (회개, 원수 선언, 감옥 비유)
+### ❓ FAQ-7: A Comprehensive Verification of Deeper Objections (Repentance, the Declaration of an Enemy, the Prison Analogy)
 
-**질문 요지:**
-> *"사울은 최종적 회개가 없었습니다. 또한 하나님이 원수가 되셨다는 것은 심판 대상으로 넘어갔다는 의미로 더 무겁습니다. 그리고 '나와 함께'라는 표현은 감옥에 있는 죄수들이 서로 방을 마음대로 오가지 못해도 '감옥에 함께 있다'고 묶어 말할 수 있는 것처럼, 죽은 자들과 같이 눕는다는 포괄적 표현입니다."*
+**Gist of the Question:**
+> *"Saul had no final repentance. Also, that God became an enemy is heavier, meaning he passed over into the object of judgment. And the expression 'with me' is a comprehensive expression of lying down together with the dead, just as prisoners in a jail, though they may not freely move between rooms, can still be described together as 'being in jail together.'"*
 
-**⚖️ BVCAP 판정:**
+**⚖️ BVCAP Ruling:**
 
-하지만 BVCAP 2.0 엔진에 이 반론들을 입력하여 교차 검증한 결과, 이 주장들은 성경 텍스트의 정밀한 구조(KJV 원어, 대명사 용법, 교차 구절)를 넘어서지 못하고 최종 기각(❌)됩니다.
+However, when these objections are entered into the BVCAP 2.0 engine and cross-verified, these claims fail to overcome the precise structure of the biblical text (the KJV original, pronoun usage, cross-verse comparison) and are finally rejected (❌).
 
-다음은 BVCAP이 이 반론들을 하나씩 해부하고 논파한 결과입니다.
+Below is the result of BVCAP dissecting and refuting these objections one by one.
 
-#### 🛡️ [BVCAP 방어 1] "최종적 회개가 없다"는 주장에 대하여
+#### 🛡️ [BVCAP Defense 1] Regarding the Claim of "No Final Repentance"
 
-> **반론 요지:** 사울은 중간에 회개했지만 계속 죄를 지었고, 최종적 회개가 없으므로 구원받지 못했다.
+> **Gist of the Objection:** Saul repented in the middle but continued to sin, and since there was no final repentance, he was not saved.
 
-**⚖️ 판정: ⚠️ UNRESOLVED (부분 수용하나 결정적 반증 불가)**
+**⚖️ Ruling: ⚠️ UNRESOLVED (Partially Acknowledged, but No Decisive Counter-Proof)**
 
-이 부분은 FAQ-3, 4에서 이미 다룬 내용입니다. 사울의 명시적 회개 기록이 부족하다는 것은 **사실**입니다. 그러나 BVCAP은 **"기록의 부재(침묵)가 곧 지옥행의 증거가 될 수 없다"**는 원칙(침묵의 논증 기각)을 고수합니다. 무엇보다 십자가 한편의 강도는 '삶의 열매'가 전혀 없었으나 마지막 순간의 고백 하나로 낙원에 갔습니다. 사울의 마지막 밤, 그가 무당을 찾기 전 **"먼저 하나님께 물었다(삼상 28:6)"**는 기록은 그가 완전히 하나님을 버린 것이 아니라, 극도의 두려움 속에서 응답받지 못해 무너진 연약함의 결과로 볼 여지를 남깁니다. 회개 기록의 부재는 사울의 구원을 확정하지 못하게 하는 약점일 뿐, 지옥행을 확정하는 무기가 될 수는 없습니다.
+This portion has already been addressed in FAQ-3 and FAQ-4. It is **a fact** that Saul's explicit record of repentance is insufficient. However, BVCAP holds to the principle that **"an absence of record (silence) cannot in itself be evidence of going to hell"** (rejection of the Argument from Silence). Above all, the thief on the cross had absolutely no 'fruit of life,' yet went to paradise through a single confession in his final moment. The record that, on Saul's last night, before seeking the witch, he **"first inquired of God" (1 Sam. 28:6)** leaves room to view this not as his having wholly abandoned God, but as the result of a weakness that collapsed under extreme fear after receiving no answer.
+The absence of a record of repentance is only a weakness preventing the confirmation of Saul's salvation; it cannot be a weapon confirming his damnation.
 
-#### 🛡️ [BVCAP 방어 2] "하나님이 원수가 되신 것"에 대한 재반론 방어
+#### 🛡️ [BVCAP Defense 2] A Defense Against the Rebuttal Regarding "God Having Become an Enemy"
 
-> **반론 요지:** '사울이 원수'든 '하나님이 원수'든 본질은 '관계 파괴'와 '징계/심판'이다. 하나님이 원수가 되셨다는 것은 보호 아래 있는 것이 아니라 심판 대상으로 넘어갔다는 뜻이므로 더 무겁다.
+> **Gist of the Objection:** whether 'Saul is the enemy' or 'God is the enemy,' the essence is 'the breaking of the relationship' and 'discipline/judgment.' God having become an enemy means passing over not into protection but into the object of judgment, and is therefore heavier.
 
-**⚖️ 판정: ❌ 기각 (TYPE-C: 범주 혼동 - 육신의 심판 vs 영혼의 멸망)**
+**⚖️ Ruling: ❌ Rejected (TYPE-C: Category Confusion — the Judgment of the Flesh vs. the Destruction of the Soul)**
 
-이 반론은 **"육신적/시대적 징계"**와 **"영원한 영적 멸망"**을 혼동하는 치명적 비약(E-09)을 범하고 있습니다. 성경은 하나님께서 자신의 백성에게 '원수'처럼 대적하시어 육신을 심판하시지만, 영혼은 구원하시는 사례를 명백히 보여줍니다.
+This objection commits the fatal leap (E-09) of confusing **"physical/temporal discipline"** with **"eternal spiritual destruction."** Scripture clearly shows cases in which God opposes his own people "as an enemy," judging the flesh, yet still saves the soul.
 
-**1. 이사야 63:10 (KJV) — 하나님이 자기 백성의 원수가 되신 사례**
+**1. Isaiah 63:10 (KJV) — a case of God becoming his own people's enemy**
 > *"But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, and he fought against them."*
-> (그들이 반역하여 그의 성령을 근심케 하였으므로, 그가 돌이켜 그들의 원수가 되사 친히 그들을 치셨더니)
-*   **분석:** 하나님은 이스라엘 백성이 반역했을 때 "원수가 되시어(turned to be their enemy)" 그들을 치셨습니다. 그러나 이스라엘 전체가 영원히 지옥에 갔습니까? 아닙니다. 이것은 언약 백성에 대한 '가장 무거운 시대적/육신적 징계'이지 지옥 선고가 아닙니다.
+*   **Analysis:** when the people of Israel rebelled, God "turned to be their enemy" and struck them. But did all of Israel go to hell forever? No. This is 'the heaviest temporal/physical discipline' upon the covenant people, not a sentence to hell.
 
-**2. 고린도전서 5:5 (KJV) — 육신의 멸망과 영혼의 구원**
+**2. 1 Corinthians 5:5 (KJV) — the destruction of the flesh and the salvation of the spirit**
 > *"To deliver such an one unto Satan for the destruction of the flesh, that the spirit may be saved in the day of the Lord Jesus."*
-*   **분석:** 구원받은 자라도 심각한 죄를 지으면 하나님은 보호를 거두시고 사탄에게 내어주어 '육신을 멸망(사형/질병)' 시킵니다. 사울 역시 하나님이 대적이 되시어 육신의 생명과 왕권을 거두신 것(대상 10:13)입니다. 사울은 육신이 심판받아 전사함으로써 죄값을 치렀으나, 이것이 영혼의 멸망(지옥)을 담보하지는 않습니다.
+*   **Analysis:** even a saved person, if he commits a grave sin, may have God's protection withdrawn and be delivered to Satan for the 'destruction of the flesh' (death/disease). Saul likewise had God become his adversary, withdrawing his physical life and kingship (1 Chron. 10:13). Saul paid the wages of his sin through his flesh being judged and falling in battle, but this does not guarantee the destruction (hell) of his soul.
 
-#### 🛡️ [BVCAP 방어 3] '교도소 비유'와 '포괄적 죽음 표현'의 완전한 논파
+#### 🛡️ [BVCAP Defense 3] A Complete Refutation of the 'Prison Analogy' and 'the Comprehensive Expression of Death'
 
-> **반론 요지:** '함께'라는 표현은 죽은 자들과 같이 눕는다는 식의 포괄적 표현이다. 감옥의 죄수들이 서로 방을 마음대로 오가지 못해도, "너희가 있는 장소가 어디야?" 물으면 "감옥에 함께 있다"고 말할 수 있다.
+> **Gist of the Objection:** the expression 'together' is a comprehensive expression like lying down together with the dead. Even if prisoners in a jail cannot freely move between rooms, if asked, "where are you located?" they can answer, "we are together in jail."
 
-**⚖️ 판정: ❌ 기각 (TYPE-L: 귀납적 연쇄 추론 / 눅 16장 앵커 충돌)**
+**⚖️ Ruling: ❌ Rejected (TYPE-L: Inductive Sequential Inference / a Collision with the Luke 16 Anchor)**
 
-이 반론이 내세운 '감옥 비유'는 인간의 논리로는 매우 그럴듯하지만, 성경이 직접 묘사한 사후세계(Sheol)의 대명사 사용법과 정면으로 충돌하여 박살납니다.
+The 'prison analogy' put forward by this objection is highly plausible by human logic, but it is shattered on direct collision with the pronoun usage Scripture itself uses to describe the afterlife (Sheol).
 
-성경에서 스올(Sheol) 내의 두 구역(낙원과 고통의 장소) 사이에서 벌어지는 유일한 대화 기록인 누가복음 16장을 보겠습니다. 반론자의 주장대로라면 낙원에 있는 아브라함(교도소장/의인)과 고통의 장소에 있는 부자(죄수)는 큰 구렁(감옥의 벽)으로 분리되어 있어도 "스올이라는 같은 감옥 안에 함께 있다"고 말할 수 있어야 합니다.
+Let us examine Luke 16, the only recorded conversation in Scripture taking place between the two regions (paradise and the place of torment) within Sheol. If the objector's claim held, Abraham (the warden/righteous man) in paradise and the rich man (the prisoner) in the place of torment, though separated by the great gulf (the prison wall), should be able to say they are "together within the same prison called Sheol."
 
-과연 성경은 그렇게 표현합니까?
+Does Scripture actually express it this way?
 
-> **눅 16:26 (KJV)**
+> **Luke 16:26 (KJV)**
 > *"And beside all this, between us and you there is a great gulf fixed: so that they which would pass from hence to you cannot; neither can they pass to us, that would come from thence."*
-> (이 모든 것 외에도 우리와 너희 사이에는 큰 구렁이 고정되어 있어...)
 
-*   **치명적 모순 적발:** 아브라함은 결코 부자를 향해 "우리는 이 스올 안에 함께(with me) 있다"고 묶어서 표현하지 않습니다. 철저하게 **"우리(Us) - 낙원"**와 **"너희(You) - 고통의 장소"**로 대명사를 완벽히 분리하여 부릅니다.
-*   **귀류법 (TYPE-P):** 만약 사울이 고통의 장소로 가고 사무엘이 낙원에 있었다면, 사무엘의 대사는 눅 16장의 용법에 따라 *"내일 너는 큰 구렁 저편(You)에 있을 것이고, 나는 이편(Us)에 있을 것이다"*가 되어야 맞습니다.
-*   하지만 사무엘은 요나단(의인)과 사울을 묶어 **"나와 함께(With me, עִמִּי)"**라고 불렀습니다. 구렁을 사이에 두고는 결코 '나와 함께'라는 1인칭 공간 공유 대명사를 쓸 수 없습니다. 오직 구렁 이편의 같은 낙원 구역에 들어올 때만 문법적으로 성립합니다.
+*   **A Fatal Contradiction Detected:** Abraham never once binds himself to the rich man and expresses that "we are together (with me) within this Sheol." He thoroughly and completely separates the pronouns, calling one **"Us — paradise"** and the other **"You — the place of torment."**
+*   **Reductio ad Absurdum (TYPE-P):** if Saul had gone to the place of torment while Samuel was in paradise, then, following the usage of Luke 16, Samuel's line ought to have been, *"tomorrow you will be on the far side of the great gulf (You), and I will be on this side (Us)."*
+*   But Samuel bound Jonathan (righteous) and Saul together and called them **"with me (עִמִּי)."** Across a gulf, the first-person spatial-sharing pronoun 'with me' can never be used. It is grammatically valid only when entering the same region of paradise, on this side of the gulf.
 
-#### 🏛️ 최종 정리 및 피드백 지침
+#### 🏛️ Final Summary and Guidance for Response
 
-비판자들의 반론에 대해 다음과 같이 대응하실 수 있도록 핵심 논리를 요약해 드립니다.
+To help you respond to critics' objections, the core logic is summarized as follows.
 
-*   **"하나님이 원수가 되신 것"에 대한 답변:**
-    "말씀하신 대로 관계의 파괴와 징계가 맞습니다. 그러나 이사야 63:10에서 하나님이 이스라엘의 '원수가 되시어(turned to be their enemy)' 치셨다고 해서 이스라엘 백성 전체가 지옥에 간 것은 아닙니다. 고린도전서 5:5처럼 사울은 보호가 거두어져 육신의 멸망(사형)과 왕권 박탈이라는 엄청난 징계를 받은 것이지, 영혼의 지옥 선고를 받은 것이 아닙니다."
-*   **"감옥 비유와 포괄적 함께(immi)"에 대한 답변:**
-    "감옥 비유는 일리가 있습니다. 하지만 성경이 사후세계(스올)를 어떻게 묘사하는지 보면 다릅니다. 누가복음 16장 26절에서 낙원의 아브라함과 지옥의 부자는 같은 스올에 있었지만, 아브라함은 결코 '우리가 스올에 함께 있다'고 하지 않았습니다. 철저히 '우리(Us)'와 '너희(You)'로 구역을 대명사로 분리했습니다. 사무엘이 의인 요나단과 사울을 묶어 '나와 함께(With me)'라고 한 것은 구렁 너머의 포괄적 장소가 아니라, 같은 낙원 구역임을 가리킬 수밖에 없습니다."
+*   **A Response to "God Having Become an Enemy":**
+    "You are correct that it is the breaking of a relationship and discipline. But in Isaiah 63:10, God 'turned to be [Israel's] enemy' and struck them, yet the entire people of Israel did not thereby go to hell. As in 1 Corinthians 5:5, Saul had his protection withdrawn and received the tremendous discipline of the destruction of the flesh (death) and the loss of kingship, but was not sentenced to hell in soul."
+*   **A Response to "the Prison Analogy and the Comprehensive 'Together' (immi)":**
+    "The prison analogy has some merit. But it is different when we look at how Scripture describes the afterlife (Sheol). In Luke 16:26, Abraham in paradise and the rich man in hell were in the same Sheol, yet Abraham never once said 'we are together in Sheol.' He thoroughly separated the regions by pronoun, into 'Us' and 'You.' Samuel binding the righteous Jonathan and Saul together and saying 'with me' can only point to the same paradise region, not some comprehensive place beyond the gulf."
 
-이처럼 BVCAP 시스템은 어떠한 교묘한 인간적 비유가 들어와도, 반드시 **'성경 내의 다른 용례(눅 16장, 사 63장)'**라는 거울에 비추어 그 비유가 성경적 문법과 일치하는지를 검증하여 방어해 냅니다. 이 반론은 훌륭했지만 성경의 교차 검증을 통과하지 못했습니다.
-
----
-
-### 🥊 심화 쟁점 H: 엔돌의 신접한 여인이 본 "신들(gods)"과 영계 통신 메커니즘
-
-> **반론 요지:** 신접한 여인이 어떻게 사무엘을 불러올 수 있는가? 그녀가 본 "땅에서 올라오는 신들(gods)"은 마귀들이 아닌가? 만약 마귀들이라면 사무엘이 진짜가 아니라는 증거가 된다.
-
-**⚖️ 판정: ❌ 기각 (눅 16장 영적 생태계와의 완벽한 교차 검증으로 돌파)**
-
-신접한 여인(무당)의 강신술 메커니즘을 성경 전체의 영적 생태계로 분석해 보면, 이 사건이 왜 예외적으로 진짜 사무엘이 소환된 사건인지, 그리고 왜 여인이 기겁하며 비명을 질렀는지 명확히 드러납니다.
-
-**1. 신들(gods)의 정체와 영적 에스코트 (눅 16:22)**
-여인이 본 "땅에서 올라오는 신들(gods)"의 히브리어는 '엘로힘(Elohim)'이며, 구약에서 이는 영적 존재(천사들)를 뜻하기도 합니다. 누가복음 16:22은 구원받은 나사로가 죽었을 때 **"천사들에게 이끌려(carried by the angels)"** 아브라함의 품(낙원)으로 갔다고 명시합니다. 
-반면, 구원받지 못한 부자가 지옥에 갈 때는 천사들의 에스코트가 없습니다. 지옥과 이승을 오갈 수 있는 권세를 가진 마귀들이 그 혼을 지하(지옥)로 끌고 내려갑니다. 
-당시 낙원은 지구의 심장부(지하 스올)에 있었습니다. 낙원에 있던 의인 사무엘이 지상으로 올라올 때, 그는 혼자 온 것이 아닙니다. 구원받은 혼을 호위하는 **거룩한 천사들(여인의 눈에는 엘로힘/신들로 보임)의 에스코트를 받으며 올라온 것**입니다.
-
-**2. 무당이 비명을 지른 진짜 이유 (사무엘의 실제 강림과 사울의 정체 발각)**
-무당에게는 평소 부리는 '점치는 영(familiar spirit, 마귀)'이 있었습니다. 일반적인 강신술은 다음과 같이 작동합니다: 무당의 점치는 영이 지하 세계(지옥)의 마귀들과 통신 네트워크(전화통화 하듯)를 연결하여, 지옥에 있는 자들에게 죽은 자에 대한 정보를 물어보고 수집해 옵니다. 마귀들은 전지전능하지 않으므로 자신들의 통신망을 통해 죽은 지인들을 사칭하여 과거의 정보를 전달합니다.
-그런데 이번에는 달랐습니다. 무당이 평소처럼 지하 세계에 대리 통신을 걸었는데, 무당의 통제 범위를 완전히 벗어난 **'진짜 사무엘'이 거룩한 천사들(신들)의 호위를 받으며 직접 땅을 뚫고 올라와 버린 것**입니다. 무당이 비명을 지른 결정적 이유는 단순히 신들이 올라와서가 아닙니다(삼상 28:12). 올라온 자가 **'진짜 사무엘'**임을 두 눈으로 확인하는 순간, 자신을 찾아와 강신술을 요구한 이 변장한 남자가 바로 무당을 모조리 사형시키라는 국법을 제정한 **'사울 왕'**이라는 사실을 깨닫고 죽음의 공포를 느꼈기 때문입니다.
-
-**결론:** 여인이 본 "신들"은 사탄의 악령이 아니라 사무엘을 호위하는 거룩한 천사들입니다. 또한, 사울이 요청하자마자 사무엘이 즉각적으로 응답할 수 있었던 것은, 영적 세계의 통신과 이동이 물리적 시간을 초월하여 큰 구렁(great gulf) 사이를 가로지르는 즉각적인 소통망(눅 16장)으로 연결되어 있기 때문입니다. 이는 사무엘의 정체를 확증하는 강력한 교차 증거입니다.
+In this way, no matter how clever a human analogy is introduced, the BVCAP system defends by holding it up to the mirror of **'other usages within Scripture (Luke 16, Isaiah 63)'** to verify whether the analogy is consistent with biblical grammar. This objection was excellent, but did not pass Scripture's cross-verification.
 
 ---
 
-### 📊 FAQ 종합 판정표
+### 🥊 Deeper Issue H: The "gods" the Medium of Endor Saw, and the Mechanism of Spiritual-World Communication
 
-| FAQ | 강도 | 수용/기각 | 판결 영향 |
+> **Gist of the Objection:** how could the medium summon Samuel? Are the "gods ascending out of the earth" that she saw not devils? If they are devils, does this not become evidence that Samuel was not real?
+
+**⚖️ Ruling: ❌ Rejected (broken through a perfect cross-verification with the spiritual ecosystem of Luke 16)**
+
+Analyzing the necromantic mechanism of the medium (the witch) against the spiritual ecosystem of the whole of Scripture makes clear both why this event is the exceptional case in which the real Samuel was summoned, and why the woman shrieked in terror.
+
+**1. The Identity of the "gods," and Spiritual Escort (Luke 16:22)**
+The Hebrew of "gods ascending out of the earth," which the woman saw, is 'Elohim,' which in the Old Testament can also signify spiritual beings (angels). Luke 16:22 explicitly states that when the saved Lazarus died, he was **"carried by the angels"** into Abraham's bosom (paradise).
+By contrast, when the unsaved rich man went to hell, there was no escort of angels. Devils, who hold the power to move between hell and the world of the living, drag his soul down into the netherworld (hell).
+At that time, paradise was located at the heart of the earth (in the subterranean Sheol). When the righteous Samuel, who was in paradise, ascended to the surface, he did not come alone. He ascended **escorted by holy angels (which appeared to the woman's eyes as Elohim/gods)** guarding the saved soul.
+
+**2. The Real Reason the Medium Shrieked (the Actual Descent of Samuel and the Discovery of Saul's Identity)**
+The medium ordinarily had a spirit she employed, 'a familiar spirit (a devil).' Ordinary necromancy operates as follows: the medium's familiar spirit connects a communication network (like a phone call) with the devils of the netherworld (hell), inquiring of and gathering, from those in hell, information about the dead. Since devils are not omniscient, they impersonate deceased acquaintances through their communication network and relay past information.
+But this time was different. The medium had, as usual, placed a proxy call to the netherworld, but this time, entirely beyond the medium's range of control, **the 'real Samuel,' escorted by holy angels (gods), pierced directly up through the ground.** The decisive reason the medium shrieked was not simply because gods had ascended (1 Sam. 28:12). The moment she confirmed with her own eyes that the one who had ascended was **'the real Samuel,'** she realized that this disguised man who had come to demand necromancy of her was none other than **'King Saul,'** who had enacted the national law commanding the execution of every medium — and she felt the terror of death.
+
+**Conclusion:** the "gods" the woman saw are not Satan's evil spirits but holy angels escorting Samuel. Moreover, the reason Samuel could respond immediately the instant Saul requested it is that communication and movement within the spiritual world transcend physical time, connected through an instantaneous communication network (Luke 16) crossing the great gulf. This is powerful cross-evidence confirming Samuel's identity.
+
+---
+
+### 📊 Comprehensive FAQ Ruling Table
+
+| FAQ | Strength | Accepted/Rejected | Effect on the Verdict |
 |:---:|:---:|:---:|:---:|
-| **FAQ-1** 포괄적 죽음 해석 | ⭐⭐⭐⭐ | ❌ **기각** — FAQ-6로 완전 격파 | 모호성 제거 |
-| **FAQ-2** 심판 선언 해석 | ⭐⭐⭐ | 🟡 부분 수용 | 맥락 설명, 낙원 특정 유지 |
-| **FAQ-3** 회개의 진정성 | ⭐⭐⭐⭐ | 🟡 부분 수용 | 십자가 강도 반례로 보완됨 |
-| **FAQ-4** 회개 기록 전무 | ⭐⭐⭐ | ❌ **기각** — 사실 오류 | FAQ-5로 반박됨 |
-| **FAQ-5** 사울 타임라인 | ⭐⭐⭐⭐ | ✅ 변호인 보강 | 회개 행위 근거 확보 |
-| **FAQ-6** 큰 구렁 논증 | ⭐⭐⭐⭐⭐ | ✅ **완전 격파** | **판결 CONFIRMED 확정** |
-| **FAQ-7** 심화 반론 종합 검증 | ⭐⭐⭐⭐⭐ | ❌ **기각** — 눅 16장 앵커, 고전 5:5 적용 | 인간적 비유 원천 차단 |
-| **FAQ-8** 영계 통신망과 신들(gods)의 정체 | ⭐⭐⭐⭐⭐ | ✅ **완전 격파** | 영적 생태계(눅 16장) 교차 검증 완성 |
+| **FAQ-1** the comprehensive-death interpretation | ⭐⭐⭐⭐ | ❌ **Rejected** — completely defeated by FAQ-6 | Ambiguity removed |
+| **FAQ-2** the judgment-declaration interpretation | ⭐⭐⭐ | 🟡 Partially accepted | Provides context, paradise-specificity maintained |
+| **FAQ-3** the authenticity of repentance | ⭐⭐⭐⭐ | 🟡 Partially accepted | Supplemented by the counter-example of the thief on the cross |
+| **FAQ-4** utterly absent record of repentance | ⭐⭐⭐ | ❌ **Rejected** — a factual error | Rebutted by FAQ-5 |
+| **FAQ-5** the timeline of Saul's life | ⭐⭐⭐⭐ | ✅ Reinforces the defense | Secures grounds for an act of repentance |
+| **FAQ-6** the great gulf argument | ⭐⭐⭐⭐⭐ | ✅ **Completely defeats** | **Confirms the CONFIRMED verdict** |
+| **FAQ-7** a comprehensive verification of deeper objections | ⭐⭐⭐⭐⭐ | ❌ **Rejected** — applying the Luke 16 anchor, 1 Cor. 5:5 | Blocks the human analogy at its source |
+| **FAQ-8** the spiritual communication network and the identity of the "gods" | ⭐⭐⭐⭐⭐ | ✅ **Completely defeats** | Completes cross-verification with the spiritual ecosystem (Luke 16) |
 
-> **📌 FAQ 최종 소견:** FAQ-6(눅 16:26 큰 구렁), FAQ-7(심화 반론), 그리고 새롭게 확립된 FAQ-8(영계 통신망)이 Macro-Sheol 해석의 마지막 탈출구와 인간적 감옥 비유, 강신술의 오류를 완벽히 봉쇄했습니다. "나와 함께"가 고통의 장소를 포함할 수 없음이 물리적·문법적·신학적으로 확정되었습니다. 검찰의 모든 무기가 붕괴되었고 변호인의 적극적 증거는 논파되지 않았습니다. 판결은 **✅ PARADISE CONFIRMED**입니다.
+> **📌 Final FAQ Opinion:** FAQ-6 (the great gulf of Luke 16:26), FAQ-7 (deeper objections), and the newly established FAQ-8 (the spiritual communication network) have completely sealed off the last escape route of the Macro-Sheol interpretation, the human prison analogy, and the fallacy regarding necromancy. It has been confirmed, physically, grammatically, and theologically, that "with me" cannot include the place of torment. Every weapon of the prosecution has collapsed, and the defense's affirmative evidence remains unrefuted. The verdict is **✅ PARADISE CONFIRMED.**
 
 ---
 
-*Engine: BVCAP_GHQ.md (판결 양식) + BVCAP_Pipeline.md v1.0 (실행 엔진)*
-*사건 번호: BVCAP-SAUL-001*
-*변호인 문서: saul1.md | 검찰 문서: saul2.md*
-*교차 심리 쟁점: 7건 | 변호인 종합 46 : 검찰 15*
-*FAQ 추가: 8건 (실제 논쟁 반영 + 영계 통신 메커니즘 최후 방어선 완성)*
-*최종 판결: ✅ PARADISE CONFIRMED*
-
-
+*Engine: BVCAP_GHQ.md (verdict format) + BVCAP_Pipeline.md v1.0 (execution engine)*
+*Case Number: BVCAP-SAUL-001*
+*Defense Document: saul1.md | Prosecution Document: saul2.md*
+*Cross-examined issues: 7 | Defense total 46 : Prosecution 15*
+*FAQs added: 8 (reflecting the actual debate + completing the final line of defense on the spiritual communication mechanism)*
+*Final Verdict: ✅ PARADISE CONFIRMED*
