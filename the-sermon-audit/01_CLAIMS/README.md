@@ -1,11 +1,4 @@
-<!--
-TranslationID: [011]
-Category: sermon_audit
-Language: en
-Status: completed
-TranslatedDate: 2026-08-26
-SourceFile: D:\01.TheScriptureAudit_ko\the-sermon-audit\01_CLAIMS(주장추출)\README.md
--->
+<!-- doc_no: 20260829_0217 | ver: 20260829_1145 -->
 
 # 📋 01_CLAIMS
 
