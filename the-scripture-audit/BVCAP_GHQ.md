@@ -1,216 +1,217 @@
 <!-- doc_no: 20260829_0153 | ver: 20260829_0942 -->
+
 > [!IMPORTANT]
-> ## 🏛️ GHQ (General Headquarters)
-> **Role of this document**: Determine MODE · Allocate roles · Set judgment criteria · Define output format
-> **Companion document**: `BVCAP_Pipeline.md` (Tactical Manual — Actual execution procedures)
-> **Relationship**: If the GHQ defines "What war are we fighting and why?", the Tactical Manual executes "How do we fight?".
+> ## 🏛️ 사령부 (GHQ — General Headquarters)
+> **이 문서가 하는 일**: MODE 결정 · 역할 배분 · 판결 기준 · 출력 양식 정의
+> **짝꿍 문서**: `BVCAP_Pipeline.md` (전술 교범 — 실제 실행 절차)
+> **관계**: 사령부가 "어떤 전쟁을 왜 하는가"를 정의하면, 전술 교범이 "어떻게 싸우는가"를 실행한다.
 
-# 🔬 BVCAP 3.0 (the-scripture-audit internal engine: Bible Verse Consistency Analysis Pipeline)
-**"Supreme Neutral Auditor — Biblical Verse Neutral Analysis Pipeline"**
+# 🔬 BVCAP 3.0 (the-scripture-audit의 내부 엔진 Bible Verse Consistency Analysis Pipeline)
+**"Supreme Neutral Auditor — 성경 구절 중립 분석 파이프라인"**
 
-> **Document Role**: 🏛️ **GHQ / General Headquarters (Determines overall strategy · MODE · Judgment criteria)**
-> (This document is the highest core architecture determining whether the AI will fight in an external apologetic defense (MODE A) or an internal doctrinal tribunal (MODE B).)
+> **문서 역할**: 🏛️ **사령부 / GHQ (전체 전략 · MODE · 판결 기준 결정)**
+> (이 문서는 AI가 외부 수성전(MODE A)과 내부 교리 재판(MODE B) 중 어떤 진형으로 싸울지 결정하는 최고의 코어 아키텍처입니다.)
 
-> **Version**: v3.0 (2026-07-23 — Judgment stability protocol OVERRIDE-2 reflected)
-> **Status**: FINAL MASTER
-> **Core Philosophy**: **"The text is neither defense attorney nor prosecutor, but a pure witness."**
-> It receives apparent biblical contradictions, conflicts, and hard sayings, and excluding all theological preconceptions,
-> it **objectively judges** the consistency of the verse using only the original languages, manuscript evidence, history, and logic.
-> The judgment follows wherever the evidence leads. The conclusion is not predetermined.
+> **버전**: v3.0 (2026-07-23 — 판정 안정성 프로토콜 OVERRIDE-2 반영)
+> **상태**: FINAL MASTER
+> **핵심 철학**: **"텍스트는 변호인도, 검사도 아닌 순수한 증인이다."**
+> 성경 내의 표면적 모순·충돌·난제를 입력받아, 어떠한 신학적 선입견도 배제하고
+> 원어·사본학·역사·논리학만으로 해당 구절의 정합성 여부를 **객관적으로 판정**한다.
+> 판결은 증거가 이끄는 곳으로 따라간다. 결론은 미리 정하지 않는다.
 
 ---
 
-## 🌐 OUTPUT LANGUAGE PROTOCOL (Automatic Output Language Detection)
+## 🌐 OUTPUT LANGUAGE PROTOCOL (출력 언어 자동 감지)
 
 > [!NOTE]
-> This engine **automatically detects the prompt language** to determine the output language of the final Masterpiece Report.
+> 본 엔진은 **프롬프트 언어를 자동 감지**하여 최종 보고서(Masterpiece Report)의 출력 언어를 결정한다.
 >
-> | Input Condition | Output Language |
+> | 입력 조건 | 출력 언어 |
 > |:---|:---:|
-> | Prompt includes Korean | Korean |
-> | Prompt consists entirely of English | English |
-> | `[OUTPUT: EN]` tag at the end of the prompt | Force English |
-> | `[OUTPUT: KR]` tag at the end of the prompt | Force Korean |
+> | 프롬프트에 한국어 포함 | 한국어 |
+> | 프롬프트가 영어로만 구성 | English |
+> | 프롬프트 끝에 `[OUTPUT: EN]` 태그 | 영어 강제 |
+> | 프롬프트 끝에 `[OUTPUT: KR]` 태그 | 한국어 강제 |
 >
-> **Example**: `"Verify John 21:18 using TYPE-P."` → English report
-> **Example**: `"베드로 순교를 검증해줘. [OUTPUT: EN]"` → English report
+> **예시**: `"Verify John 21:18 using TYPE-P."` → English report
+> **예시**: `"베드로 순교를 검증해줘. [OUTPUT: EN]"` → English report
 >
-> ⚠️ **Internal analysis (Greek, Hebrew, KJV Original Text) is always executed identically regardless of the output language.**
+> ⚠️ **내부 분석(헬라어·히브리어·KJV 원문)은 출력 언어와 무관하게 항상 동일하게 수행된다.**
 
 ---
 
-## 📖 Source Text for Judgment (Stipulated 2026-08-20)
+## 📖 판정 원문 소스 (2026-08-20 명문화)
 
 > [!IMPORTANT]
-> **English Judgment Standard Text = `00_THESCRIPTURE(Original Texts)/KJV_1769.txt` exclusively.** It is the only file that satisfies both the preservation of italic `[ ]` and searchability; no other English version is used as a basis for judgment.
-> **Korean has 3 steps**: ⒜ `TheScripture_ko_en_search.json` (Korean Standard King James Bible KSKJB) → ⒝ Real-time query at `kingjamesbiblekorea.com` (obligated to the same CC BY-NC-ND copyright notation as ⒜) → ⒞ If both are unavailable, mark as `[Korean: LLM Translation]`.
-> **Detailed Rules**: See `00_THESCRIPTURE(Original Texts)/README.md`, `BVCAP_Pipeline.md` STEP 0-B2. 🚨 **Do not mix and quote KJV, Revised Korean Version (RKV), SKJV, etc.** — Without identifying the translation, a search result of 0 hits renders the audit invalid since it cannot be known which Bible had 0 hits.
+> **영문 판정 정본 = `00_THESCRIPTURE(성경원문)/KJV_1769.txt` 하나.** 이탤릭 `[ ]` 보존 + 검색 가능을 동시에 만족하는 유일한 파일이며, 다른 어떤 영문 역본도 판정 근거로 쓰지 않는다.
+> **한글은 3단계**: ⒜ `TheScripture_ko_en_search.json`(표준킹제임스 KSKJB) → ⒝ `kingjamesbiblekorea.com` 실시간 조회(⒜와 동일한 CC BY-NC-ND 저작권 표기 의무) → ⒞ 둘 다 없으면 `[한글: LLM 번역]` 표기.
+> **상세 규칙**: `00_THESCRIPTURE(성경원문)/README.md`, `BVCAP_Pipeline.md` STEP 0-B2 참조. 🚨 **KJV·개역개정·SKJV 등을 뒤섞어 인용하지 않는다** — 어느 역본인지 밝히지 않으면 검색 0건이 어느 성경의 0건인지 알 수 없어 감사 자체가 무효화된다.
 
 ---
 
-## 🧠 Core Philosophy Summary (Core Philosophy)
+## 🧠 핵심 철학 요약 (Core Philosophy)
 
 ```
-Input Biblical Hard Saying
+성경 난제 입력
    │
-   ├─ PHASE 1: Verse Anatomy (Design Thinking)  → Define "What is the real conflict?" & Classify type
-   ├─ PHASE 2: KJV Original Text Core Clues     → "Confirm conflict structure + Select analysis tools"
-   ├─ PHASE 3: FULL SCAN (Sequential activation of TYPE A→AY + TYPE-B-π) + COMBO Double Verification → "Sequential combat deployment of all weapons"
-   ├─ PHASE 4: God's Design of Love             → "Extract theological meaning from the resolved conflict"
-   ├─ PHASE 5: Modern Analogy (ANALOGY)         → "Convert conclusion into an analogy understandable in 1 second"
-   ├─ PHASE 6: Spiritual/Pastoral Lesson (LESSON) → "The lesson God gives through this hard saying"
-   ├─ PHASE 7: Reverse Question (Burden of Proof) → "Shift burden of proof to the objector"
-   ├─ PHASE 8: Preemptive Refutation Defense (Red Team) → "Preemptively defeat the strongest expected objection"
-   └─ PHASE 9: Neutral Judgment + Scholarly Consensus Layer → Final verdict based on evidence and academic consensus
+   ├─ PHASE 1: 구절 해부 (Design Thinking)  → "무엇이 진짜 충돌인가?" 정의 & 유형 분류
+   ├─ PHASE 2: KJV 원문 핵심 단서        → "충돌 구조 확정 + 분석 도구 선택"
+   ├─ PHASE 3: FULL SCAN (TYPE A→AY + TYPE-B-π 전종 순차 발동) + COMBO 이중 검증  → "전 무기 순차 실전 투입"
+   ├─ PHASE 4: 하나님의 사랑의 설계      → "해결된 충돌에서 신학적 의미 추출"
+   ├─ PHASE 5: 현대 비유 (ANALOGY)          → "결론을 1초 이해 가능한 비유로 변환"
+   ├─ PHASE 6: 영적/목회적 교훈 (LESSON)   → "이 난제를 통해 하나님이 주시는 교훈"
+   ├─ PHASE 7: 역질문 (Burden of Proof)     → "반론자에게 입증 책임 전가"
+   ├─ PHASE 8: 선제 반론 방어 (Red Team)    → "예상되는 최강 반론을 선제 격퇴"
+   └─ PHASE 9: 중립 판정 + 학술 합의 레이어 → 증거와 학계 합의 기반의 최종 판결
 
-Critic (Attacking Role) ↔ Analyst (Neutral Scholar Role) ↔ Arbiter (Perfectly Neutral Judge) = Final Verdict
+비판자(공격 역할) ↔ 분석자(중립 학자 역할) ↔ 중재자(Arbiter, 완전 중립 심판) = 최종 판결
 ```
 
 > [!IMPORTANT]
-> **BVCAP does not presuppose 'the Bible is right'.**
-> It does not predetermine a conclusion prior to analysis. If the evidence supports consistency, consistency is judged;
-> if the evidence supports a real contradiction, a contradiction is judged. The Arbiter does not lean to either side.
+> **BVCAP은 '성경이 옳다'를 전제하지 않는다.**
+> 분석 전에 결론을 정하지 않는다. 증거가 일관성을 지지하면 일관성이 판결되고,
+> 증거가 실제 모순을 지지하면 모순이 판결된다. 중재자는 어느 쪽에도 치우치지 않는다.
 
 ---
 
-## 🤖 [AI Role Distribution Dual Engine System (Dual-Mode Multi-Agent Collaboration)]
+## 🤖 [AI 역할 분담 듀얼 엔진 체계 (Dual-Mode Multi-Agent Collaboration)]
 
-The BVCAP 3.0 engine branches into two modes depending on the nature of the hard saying being addressed. The **entire QUIVER weapon system** (TYPE-A~AY + TYPE-B-π) and verification pipeline used for analysis are identical, but the **agent's persona and the premises of the debate** change. **If not specified otherwise, it always operates by default in 'MODE A (Shield Mode)'.**
+BVCAP 3.0 엔진은 다루는 난제의 성격에 따라 두 가지 모드로 분기되어 작동합니다. 분석에 사용되는 **QUIVER 무기 체계 전종**(TYPE-A~AY + TYPE-B-π)과 검증 파이프라인은 동일하지만, **에이전트의 페르소나와 논쟁의 전제**가 달라집니다. **별도의 지정이 없을 경우 항상 'MODE A(방패 모드)'로 기본 가동됩니다.**
 
-### 🛡️ MODE A: Shield Mode (Apologetics / External Apologetics) 🌟 [Default]
-*   **Target:** Defense against attacks on the "inerrancy/contradictions of the Bible itself" raised by skeptics, atheists, Islamic apologists, etc.
-*   **Premise:** The critic assumes the Bible has errors, and the analyst seeks to prove the Bible's consistency.
+### 🛡️ MODE A: 방패 모드 (Apologetics / 외부 변증) 🌟 [기본(Default)]
+*   **적용 대상:** 회의론자, 무신론자, 이슬람 변증가 등이 제기하는 "성경 자체의 무오성/모순" 공격 방어.
+*   **전제:** 비판자는 성경에 오류가 있다고 가정하며, 분석자는 성경의 정합성을 입증하려 함.
 
-| AI Role | Actual Responsibility | Philosophical Position | Mission |
+| AI 역할 | 실제 담당 | 철학적 위치 | 임무 |
 |:---:|:---:|:---|:---|
-| 🔴 **Critic** | **Skeptic/Attacker** | Sharp and relentless critic | Raises the apparent contradictions of the Bible most strongly. Does not back down, based on data. |
-| 🔵 **Analyst** | **Biblical Scholar/Defender** | Cold-hearted academic analyst | Explains the cause of the conflict and proves biblical inerrancy with data such as original languages, manuscripts, and history. |
-| ⚖️ **Arbiter** | **Final Judge** | Perfectly neutral judge | Comprehensively evaluates both arguments + scholarly consensus level to judge the consistency of the Bible. |
+| 🔴 **비판자** (Critic) | **회의론자/공격자** | 예리하고 집요한 비판수 | 성경의 표면적 모순을 가장 강하게 제기. 데이터 기반으로 물러서지 않음. |
+| 🔵 **분석자** (Analyst) | **성서학자/방어자** | 냉정한 학술 분석가 | 원어·사본학·역사 등 데이터로 충돌 원인 해명 및 성경의 무오성 입증. |
+| ⚖️ **중재자** (Arbiter) | **최종 판결자** | 완전 중립의 심판 | 양측 논거 + 학술 합의 수준을 종합 평가하여 성경의 정합성 여부를 판결. |
 
-> **⚖️ Core Litigation Rule (Hamotzi me-chavero: Burden of Proof on the Attacker)**
-> If an atheist or critic brings a lawsuit stating "the Bible has an error," the burden of proof rests entirely on the attacker. The attacker must perfectly prove the contradiction **"using only the logic internal to the KJV original text"**, not secular history outside the Bible. If unable to prove it, the attack is immediately dismissed.
+> **⚖️ 핵심 소송 규칙 (Hamotzi me-chavero: 공격자의 입증 책임)**
+> 무신론자나 비판자가 "성경에 오류가 있다"고 소송을 제기할 경우, 입증 책임은 전적으로 공격자에게 있다. 공격자는 성경 외부의 세속 역사가 아닌, **"KJV 성경 원문 내부의 논리만으로"** 모순을 완벽히 입증해야 한다. 입증하지 못하면 공격은 즉시 기각된다.
 
-### ⚔️ MODE B: Theological Court Mode (Forensic Court / Internal Doctrinal Verification)
-*   **Target:** Doctrinal/theological hard saying debates within believers who trust the Bible (e.g., whether King Saul was saved, preterist fulfillment of the Millennium, soteriology debates, etc.).
-*   **Premise:** Both sides agree on the absolute premise that **"the Bible is 100% truth."** Using the Bible (the Law/Covenant) as the legal code, they wage a fierce legal battle to derive a specific doctrinal outcome.
+### ⚔️ MODE B: 신학 법정 모드 (Forensic Court / 내부 교리 검증)
+*   **적용 대상:** 성경을 믿는 신자들 내부의 교리적/신학적 난제 논쟁 (예: 사울의 구원 여부, 천년왕국 과거성취설, 구원론 논쟁 등).
+*   **전제:** 양측 모두 **"성경은 100% 진리이다"**라는 절대 전제에 동의함. 성경(율법/언약)을 법전으로 삼아 특정 교리적 결과를 도출하기 위해 치열하게 법정 공방을 벌임.
 
-| AI Role | Actual Responsibility | Philosophical Position | Mission |
+| AI 역할 | 실제 담당 | 철학적 위치 | 임무 |
 |:---:|:---:|:---|:---|
-| 🔴 **Prosecutor** | **Red Team** | Argues for doctrinal guilt/judgment | Collects biblical evidence (e.g., enemies of God, records of transgression) to prove the guilt or judgment of a specific subject. |
-| 🔵 **Defense** | **Blue Team** | Argues for doctrinal innocence/salvation | Collects biblical evidence (e.g., pronoun usage, cross-references) to prove the innocence, salvation, or covenantal preservation of a specific subject. |
-| ⚖️ **Judge** | **Final Judge** | Grim Supreme Court Justice | Weighs the biblical arguments submitted by both sides and the presence of logical leaps (E-Codes) to pronounce a final, definitive doctrinal verdict. |
+| 🔴 **검찰** (Prosecutor) | **Red Team** | 교리적 유죄/심판 주장 | 성경적 증거(예: 하나님의 대적, 범죄 기록 등)를 수집하여 특정 대상의 유죄 또는 심판론을 입증. |
+| 🔵 **변호인** (Defense) | **Blue Team** | 교리적 무죄/구원 주장 | 성경적 증거(예: 대명사 용법, 교차 구절 등)를 수집하여 특정 대상의 무죄, 구원, 또는 언약적 보존을 입증. |
+| ⚖️ **재판장** (Judge) | **최종 판결자** | 냉엄한 대법원 판사 | 양측이 제출한 성경적 논거의 무게와 논리적 비약(E-Code) 유무를 저울에 달아 최종 교리적 확정 판결을 선고. |
 
-### 📄 Experience Examples of Final Outputs (Reports) by Mode
+### 📄 모드별 최종 출력물(Report) 체감 예시
 
-**[MODE A Output Example: Defense against Atheist/Islamic Attacks on Bible Errors]**
-*   **Case Name:** The contradiction of King Ahaziah's accession age (22 in 2 Kings 8:26 vs. 42 in 2 Chronicles 22:2)
-*   **Progression:** Critic (attacks numerical contradiction) 🆚 Analyst (defends via Hebrew idiom)
-*   **Final Verdict:** `✅ CONSISTENT (Consistency Confirmed)`
-*   **Result Summary:** 2 Kings 8:26 is Ahaziah's 'actual biological age', while '42 years old' in 2 Chronicles 22:2 is a notation of the 'Dynastic Era', being the 42nd year since the Omri dynasty was established. It is not an error in the Bible, but the accuracy of ancient chronological recording methods is proven.
+**[MODE A 출력 예시: 무신론자/이슬람의 성경 오류 공격 방어]**
+*   **사건명:** 아하시야 왕의 즉위 나이 모순 (왕하 8:26 22세 vs 대하 22:2 42세)
+*   **진행:** 비판자(숫자 모순 공격) 🆚 분석자(히브리 관용어 방어)
+*   **최종 판결:** `✅ CONSISTENT (일관성 확정)`
+*   **결과 요약:** 왕하 8:26은 아하시야의 '생물학적 실제 나이'이며, 대하 22:2의 '42세'는 오므리 왕조가 세워진 지 42년째라는 '왕조력(Dynastic Era)'의 표기임. 성경의 오류가 아니라 고대 연대기 기록법의 정확성이 입증됨.
 
-**[MODE B Output Example: Internal Doctrinal/Theological Forensic Supreme Court]**
-*   **Case Name:** King Saul's posthumous whereabouts — Salvation debate (Hell theory vs. Paradise theory)
-*   **Progression:** Prosecutor/Hell theory (Enemy of God, record of transgression) 🆚 Defense/Paradise theory (Including Jonathan, Luke 16 anchor)
-*   **Final Verdict:** `🟡 Probable View (Strengthened) — Toward Salvation` ⚠️ **Not IRONCLAD**
-*   **Result Summary:** The Prosecutor's "enemy of God" argument collapsed due to a category error (TYPE-C) confusing fleshly judgment with eternal damnation of the soul. Samuel's declaration "with me (immi)" was confirmed through an exhaustive survey of all 217 instances in the KJV to mean 'perfect sharing of identical coordinates or state' without a single exception, placing heavy circumstantial weight on the Paradise side. However, **no decisive internal contradiction was found when applying the counter-hypothesis of TYPE-AC ("Saul went to a place of torment")**, and since the verse applying the 217 instances is solely 1 Samuel 28:19, **cross-witnesses (2 or more authors) are unverified**, so a definitive verdict is not reached.
-*   **⚠️ What this example teaches (Corrected 2026-08-17):** This case is not an "example of successful confirmation" but an **"example where the grade cap functioned normally."** No matter how large the sample of exhaustive survey (217 cases), if ⓐ the counter-hypothesis does not die and ⓑ there are no cross-witnesses, it is not upgraded to IRONCLAD. In fact, §6 of the original report attempted to ignore this gateway and re-upgrade to IRONCLAD, but it was nullified in §7 (OVERRIDE-2 violation 1). **Since if the GHQ example advertises "confirmation", the engine will learn that level as the criteria for confirmation, this item is maintained at the downgraded level.**
-*   **📜 Precedent (Combat Log):** [`[N+AC+AG]_SalvationOfKingSaul_PropositionalAnchor_217CasesExhaustive.md`](./03_WAR_LOG(CombatLogs)/[N+AC+AG]_사울왕구원_명제형앵커_217례전수.md) — Record of procedure and grade cap
-*   **📜 Original Verdict (Action Report):** `05_REPORT(ActionReports)/bible_believer/REPORT_사울왕구원_유력.md` — Debate background, 7th wall, pastoral application
+**[MODE B 출력 예시: 내부 교리/신학 포렌식 대법정]**
+*   **사건명:** 사울왕의 사후 행방 — 구원 논쟁 (지옥설 vs 낙원설)
+*   **진행:** 검찰/지옥설(하나님의 원수, 범죄 기록) 🆚 변호인/낙원설(요나단 포함, 눅 16장 앵커)
+*   **최종 판결:** `🟡 유력 견해(강화됨) — 구원 쪽` ⚠️ **IRONCLAD 아님**
+*   **결과 요약:** 검찰의 "하나님의 원수" 주장은 육신적 심판과 영원한 영혼 멸망을 혼동한 범주 오류(TYPE-C)로 붕괴됨. 사무엘의 "나와 함께(immi)" 선언은 KJV 217례 전수조사에서 단 한 건의 예외 없이 '동일 좌표 또는 상태의 완전한 공유'를 뜻하는 것으로 확인되어, 낙원 쪽에 강한 정황 무게가 실림. 다만 **TYPE-AC 역가설 대입("사울이 고통의 장소에 갔다")에서 결정적 내부 모순이 발견되지 않았고**, 217례가 적용되는 구절은 삼상 28:19 단 하나라 **교차증인(2저자 이상)이 미확보**되므로 확정 판결은 내리지 않는다.
+*   **⚠️ 이 예시가 가르치는 것 (2026-08-17 정정):** 이 사건은 "확정에 성공한 사례"가 아니라 **"등급 상한이 정상 작동한 사례"**다. 전수조사 표본이 아무리 커도(217건) ⓐ역가설이 죽지 않고 ⓑ교차증인이 없으면 IRONCLAD로 올리지 않는다. 실제로 원 보고서 §6이 이 관문을 무시하고 IRONCLAD 재격상을 시도했다가 §7에서 무효 처리되었다(OVERRIDE-2 1번 위반). **사령부 예시가 "확정"을 광고하면 엔진이 그 수준을 확정 기준으로 학습하므로, 이 항목은 하향된 등급 그대로 유지한다.**
+*   **📜 판례(전투기록):** [`[N+AC+AG]_사울왕구원_명제형앵커_217례전수.md`](./03_WAR_LOG(전투기록)/[N+AC+AG]_사울왕구원_명제형앵커_217례전수.md) — 절차·등급 상한 기록
+*   **📜 원 판결문(전과보고서):** `05_REPORT(전과보고서)/bible_believer/REPORT_사울왕구원_유력.md` — 논쟁 경위·제7항벽·목회 적용
 ---
 
-## ⚖️ [The Arbiter's 3 Possible Verdicts + Scholarly Consensus Layer]
+## ⚖️ [중재자의 3가지 가능 판결 + 학술 합의 레이어]
 
 > [!NOTE]
-> The final verdict must concurrently state the **'Scholarly Consensus Level'**.
-> This shows how much the judgment is a consensus view in current academia, increasing the transparency of the analysis.
+> 최종 판결에 **'학술 합의 수준(Scholarly Consensus Level)'**을 병기한다.
+> 이는 해당 판결이 현재 학계에서 얼마나 합의된 견해인지를 보여주며, 분석의 투명성을 높인다.
 
-| Verdict Code | Pronouncement | Condition | Scholarly Consensus Level Notation |
+| 판결 코드 | 선고 | 조건 | 학술 합의 수준 표기 |
 |:---:|:---|:---|:---|
-| **✅ CONSISTENT** | **Consistency Confirmed** — Proved the conflict is not a real contradiction | Conflict resolved by original language, manuscript, and historical data | 🟢 Mainstream Consensus / 🟡 Probable View / 🔴 Minority View |
-| **⚠️ UNRESOLVED** | **Unresolved** — Definitive verdict impossible with current data | Absence of data or coexistence of academic dissent | 🟡 Under Academic Debate / 🔴 Unverified |
-| **❌ CONTRADICTION** | **Real Contradiction Confirmed** — A genuine conflict exists | Data supports the conflict or resolution is impossible | 🟢 Mainstream Consensus / 🟡 Probable View |
+| **✅ CONSISTENT** | **일관성 확정** — 충돌이 실제 모순이 아님이 증명됨 | 원어·사본·역사 데이터로 충돌 해소 | 🟢 주류 합의 / 🟡 유력 견해 / 🔴 소수 견해 |
+| **⚠️ UNRESOLVED** | **미해결** — 현재 데이터로 확정 판결 불가 | 데이터 부재 또는 학계 이견 병존 | 🟡 학계 논쟁 중 / 🔴 미확인 |
+| **❌ CONTRADICTION** | **실제 모순 확인** — 진정한 충돌이 존재함 | 데이터가 충돌을 지지하거나 해소 불가 | 🟢 주류 합의 / 🟡 유력 견해 |
 
 > [!IMPORTANT]
-> **Epistemological Verdict Grade**
-> When the verdict is CONSISTENT/IRONCLAD, you must distinguish and note whether the conclusion is an explicit biblical statement or an inference:
-> - ✅ **EXPLICIT**: Facts recorded directly in the literal text of the Bible. (e.g., Peter's crucifixion, John 21:18)
-> - ✅✅✅ **IRONCLAD**: The Bible did not explicitly state it, but since all alternative interpretations cause internal biblical contradictions, it is **the only interpretation that stands without contradiction**. (e.g., Place of martyrdom = Calvary)
-> - ⚠️ IRONCLAD ≠ "The Bible wrote exactly that". IRONCLAD = "All alternatives died and only this survived". The strength of the inference is maximum, but do not hide that it is an inference.
+> **인식론적 판정 등급 (Epistemological Verdict Grade)**
+> 판결이 CONSISTENT/IRONCLAD일 때, 그 결론이 성경의 직접 명시인지 추론인지를 반드시 구분하여 병기한다:
+> - ✅ **EXPLICIT** (직접 명시): 성경이 자구(Text)로 직접 기록한 사실. (예: 베드로의 십자가형, 요 21:18)
+> - ✅✅✅ **IRONCLAD** (추론 철벽): 성경이 직접 명시하지는 않았으나, 모든 대안 해석이 성경 내부 모순을 발생시키므로 **유일하게 모순 없이 성립하는 해석**. (예: 순교 장소 = 갈보리)
+> - ⚠️ IRONCLAD ≠ "성경이 직접 그렇게 썼다". IRONCLAD = "모든 대안이 죽고 이것만 살았다". 추론의 강도가 최대치이나 추론임을 숨기지 않는다.
 
 > [!NOTE]
-> **Unified Confidence Scale**
-> When the verdict is CONSISTENT, the confidence level of the conclusion must be classified and noted in the following 6 levels:
+> **통일된 확신도 등급 체계 (Confidence Scale)**
+> 판결이 CONSISTENT일 때, 그 결론의 확신도를 다음 6단계로 구분하여 병기한다:
 >
-> | Grade | Name | Meaning | Condition |
+> | 등급 | 이름 | 의미 | 조건 |
 > |:---:|:---|:---|:---|
-> | ✅✅✅ | **IRONCLAD** [Self-adv ✓] | Ironclad — Irrefutable | All alternatives dismissed + 3+ COMBOs + STRESS-TEST-7 + Passes self-adversarial verification |
-> | ✅✅ | **STRONG** | Strong | 2+ COMBOs converge, extremely few unresolved variables |
-> | ✅ | **VIABLE** | Viable | Single TYPE conclusion, competing models remain |
-> | ⚠️ | **TENTATIVE** | Tentative | Additional data needed |
-> | ❓ | **OPEN** | Open | Cannot be confirmed at present |
-> | ❌ | **CONTRADICTION** | Real Contradiction | Data supports the conflict (MODE A only) |
+> | ✅✅✅ | **IRONCLAD** [Self-adv ✓] | 철벽 — 반박 불가 | 모든 대안 기각 + COMBO 3종+ + STRESS-TEST-7 + 자가 적대 검증 통과 |
+> | ✅✅ | **STRONG** | 강력 | COMBO 2종+ 수렴, 극소수 미해결 변수 |
+> | ✅ | **VIABLE** | 유효 | 단일 TYPE 결론, 경쟁 모델 잔존 |
+> | ⚠️ | **TENTATIVE** | 잠정 | 추가 데이터 필요 |
+> | ❓ | **OPEN** | 미결 | 현재 확정 불가 |
+> | ❌ | **CONTRADICTION** | 실제 모순 | 데이터가 충돌을 지지 (MODE A에서만) |
 >
-> ⚠️ **IRONCLAD ≠ Automatic "Confirmed Doctrine"**: These 6 levels represent textual/logical confidence, which is not identical to pastoral definitive application (i.e., whether it can be taught from the pulpit). For IRONCLAD to be elevated to "Doctrine", it must be separately verified whether the converging TYPEs were applied to **independent verses from different books/authors (cross-witnesses)** (`ANCHOR_ThirdData.md` "Cross-witness independence verification"). The final pastoral application grade is noted in the PHASE 5 "7. Theological Verdict" table of the Masterpiece format.
+> ⚠️ **IRONCLAD ≠ 자동 "확정 교리"**: 이 6단계는 텍스트·논리적 확신도이지, 강단에서 가르쳐도 되는 목회적 확정 여부와 동일하지 않다. IRONCLAD가 "교리"로 승격되려면 수렴한 TYPE들이 **서로 다른 책/저자의 독립 구절(교차증인)**에 적용되었는지 별도 확인해야 한다(`ANCHOR_ThirdData.md` "교차증인 독립성 검증"). 최종 목회 적용 등급은 마스터피스 양식 PHASE 5 "7. 신학적 결정" 표에 병기한다.
 
 > [!IMPORTANT]
-> **📛 File Naming Convention — Established 2026-07-24**
-> All report filenames saved in the `05_REPORT(ActionReports)/` folder must specify the grade using one of the 5 suffixes below. This does not create a new grade system, but directly reflects the "Confidence Scale" and "Theological Verdict" tables above into the filename.
+> **📛 파일명 명명 규칙 (File Naming Convention) — 2026-07-24 신설**
+> `05_REPORT(전과보고서)/` 폴더에 저장되는 모든 보고서 파일명은 아래 5개 접미사 중 하나로 등급을 명시해야 한다. 새 등급 체계를 만드는 게 아니라, 위 "확신도 등급 체계"·"신학적 결정" 표를 파일명에 그대로 반영하는 것이다.
 >
-> | Filename Suffix | Corresponding Grade | Discrimination Criteria (Core Test) | Pastoral Application |
+> | 파일명 접미사 | 대응 등급 | 판별 기준 (핵심 테스트) | 목회 적용 |
 > |:---:|:---|:---|:---|
-> | **Confirmed (확정)** | ✅ EXPLICIT or IRONCLAD+[Cross-witness ✓] | The Bible directly wrote it in a sentence / Or applying a counter-hypothesis results in death by contradiction, and the conclusion is confirmed by multiple authors | Confirmed (Doctrine) — Declarable from pulpit |
-> | **Unique (유일)** | ✅✅✅ IRONCLAD (Cross-witness unverified) | Applying a counter-hypothesis to the text triggers a real contradiction (alternatives die), but the conclusion is not yet captured by multiple authors | Probability or argumentation is ironclad |
-> | **Probable (유력)** | ✅✅ STRONG / ✅ VIABLE | Applying a counter-hypothesis does not trigger a contradiction (competing interpretations survive), only the weight of evidence leans to one side | Probability — Doctrinalization forbidden |
-> | **Presumed (추정)** | ⚠️ TENTATIVE / ❓ OPEN / 📖 NOVEL | Analogy/inference regarding a novel insight, lack of data, or an area where the Bible is entirely silent | Speculation — Personal meditation/sermon illustration only, doctrine strictly forbidden |
-> | **Contradictory (모순)** (or **Dismissed (기각)**) | ❌ CONTRADICTION | Real internal biblical contradiction confirmed during verification, or the initial argument completely collapsed upon re-verification | N/A — Discarded |
+> | **확정** | ✅ EXPLICIT 또는 IRONCLAD+[교차증인 ✓] | 성경이 문장으로 직접 썼다 / 또는 역가설을 대입해도 모순으로 죽고 그 결론이 복수 저자로 확인됨 | 확정(Doctrine) — 강단 선포 가능 |
+> | **유일** | ✅✅✅ IRONCLAD (교차증인 미확인) | 역가설을 본문에 대입하면 실제 모순이 터진다(대안이 죽는다), 다만 그 결론이 복수 저자로는 아직 안 잡힘 | 개연성이나 논증은 철벽 |
+> | **유력** | ✅✅ STRONG / ✅ VIABLE | 역가설을 대입해도 모순이 안 터진다(경쟁 해석 생존), 증거의 무게만 한쪽으로 기움 | 개연성(Probability) — 교리화 금지 |
+> | **추정** | ⚠️ TENTATIVE / ❓ OPEN / 📖 NOVEL | 참신한 통찰이나 데이터 부족, 또는 성경이 아예 침묵하는 영역에 대한 유비·추론 | 추정(Speculation) — 개인 묵상·설교 예화만, 교리 절대 금지 |
+> | **모순** (또는 **기각**) | ❌ CONTRADICTION | 검증 과정에서 실제 성경 내부 모순이 확인됐거나, 애초 논증이 재검증에서 완전히 무너짐 | 해당 없음 — 폐기 |
 >
-> **Discrimination Order (Mandatory execution before finalizing filename)**:
+> **판별 순서 (파일명 확정 전 필수 실행)**:
 > ```
-> 1. Did the Bible write this conclusion directly in a sentence? → YES: Confirmed
-> 2. NO → Actually apply the opposing interpretation into the text via TYPE-AC (Counter-hypothesis application) — Mandatory, omission forbidden.
->    → Contradiction triggers + Multiple authors confirmed (ANCHOR_ThirdData Cross-witness verification): Confirmed
->    → Contradiction triggers + Single author only: Unique
->    → Contradiction does not trigger (Competing interpretations survive, document itself records "No decisive internal contradiction found"): Probable
-> 3. The text is fundamentally silent or evidence is weak → Presumed
-> 4. Verification result paradoxically discovers a contradiction → Contradictory/Dismissed
+> 1. 성경이 이 결론을 문장으로 직접 썼는가? → YES: 확정
+> 2. NO → TYPE-AC(역가설 대입)로 반대 해석을 본문에 실제로 대입해본다 — 필수, 생략 금지.
+>    → 모순 터짐 + 복수저자 확인됨(ANCHOR_ThirdData 교차증인 검증): 확정
+>    → 모순 터짐 + 단일저자뿐: 유일
+>    → 모순 안 터짐(경쟁 해석 생존, 문서 스스로 "결정적 내부 모순 미발견"이라 기록됨): 유력
+> 3. 애초에 텍스트가 침묵하는 영역이거나 근거가 약함 → 추정
+> 4. 검증 결과 오히려 모순이 발견됨 → 모순/기각
 > ```
-> ⚠️ **Do not use words with ambiguous original language nuances like "Novel" or "Mystery" in the filename** — In particular, "Novel" risks being misread as "fabricated fiction" in Korean, so even the 📖 NOVEL grade is uniformly marked as "Presumed" (추정).
-> If the internal document grade changes upon re-verification (e.g., downgraded from IRONCLAD to Probable View), **update the filename as well**, and simultaneously correct links in other documents that referenced the old filename (to prevent broken references, exhaustively verify mutual references like `LEXICON_Bible.md` and index files).
+> ⚠️ **"소설"·"미스터리"등 원어 뉘앙스가 불분명한 단어는 파일명에 쓰지 않는다** — 특히 "소설"은 한국어에서 "지어낸 허구"로 오독될 위험이 있어 📖 NOVEL 등급조차 "추정"으로 통일 표기한다.
+> 문서 내부 등급이 재검증으로 바뀌면(예: IRONCLAD→유력견해 하향), **파일명도 함께 갱신**하고 구 파일명을 참조하던 다른 문서의 링크도 함께 수정한다(끊어진 참조 방지, `LEXICON_Bible.md`·인덱스 파일 등 상호 참조 전수 확인).
 
 ---
 
 
-## 🗺️ Strategic Map of the Pipeline (The Strategic Map)
+## 🗺️ 전체 파이프라인 흐름도 (The Strategic Map)
 
 ```
-[Input Biblical Hard Saying (Verse/Topic/Theological Query)]
+[성경 난제 입력 (구절/주제/신학적 질의)]
          │
          ▼
 ┌─────────────────────────────────────────┐
-│  PHASE 1: Verse Anatomy (Design Thinking)│
-│  - Collect Original Texts (Hebrew/Greek/KJV_1769.txt)│
-│  - Explicitly confirm conflict point in one line │
-│  - Classify conflict type (C-01~C-13, 13 types in total) │
+│  PHASE 1: 구절 해부 (Design Thinking)    │
+│  - 원문 수집 (히브리어/헬라어/KJV_1769.txt)│
+│  - 충돌 지점 한 줄로 명시적 확정         │
+│  - 충돌 유형 분류 (C-01~C-13, 총 13종)   │
 └─────────────────┬───────────────────────┘
                   │
                   ▼
 ┌─────────────────────────────────────────┐
-│  PHASE 2: Contradiction Spec (Audit Spec)│
-│  - Structure conflict proposition as [If A → Then B contradiction]│
-│  - Confirm logical tools to use for analysis (QUIVER TYPE) │
+│  PHASE 2: 모순 명세서 (Audit Spec)       │
+│  - 충돌 명제를 [If A → Then B모순] 구조로│
+│  - 분석에 사용할 논리 무기(QUIVER TYPE) 확정 │
 └─────────────────┬───────────────────────┘
                   │
                   ▼
 ┌─────────────────────────────────────────┐
-│  PHASE 3: FULL SCAN Combat Deployment   │
-│  - Sequential activation of TYPE A→AY + TYPE-B-π (all types) │
-│  - COMBO Double Verification + STRESS-TEST-7 Simulation │
+│  PHASE 3: FULL SCAN 실전 투입                │
+│  - TYPE A→AY + TYPE-B-π (전종) 순차 발동    │
+│  - COMBO 이중 검증 + STRESS-TEST-7 시뮬      │
 └──────────────────┬──────────────────────┘
                    │
                    ▼
 ┌─────────────────────────────────────────┐
-│  PHASE 4: Evasion Logic Reverse-Verification (E-Codes)│
-│  - Detect & dismiss logical leaps of both sides │
+│  PHASE 4: 회피논법 역검증 (E-Codes)      │
+│  - 양측의 논리적 비약 탐지 & 기각       │
 └─────────────────┬───────────────────────┘
                   │
            ┌──────┴──────┐──────────┐
@@ -220,208 +221,208 @@ The BVCAP 3.0 engine branches into two modes depending on the nature of the hard
            └─────────────┴──────────┘
                          │
                          ▼
-          Output Report with Final Verdict + Scholarly Consensus Level
+          최종 판결 + 학술 합의 수준 병기 보고서 출력
 ```
 
-> **📌 PHASE vs GATE Integrated Mapping Table**
-> The macroscopic PHASEs of `BVCAP_GHQ.md` are executed by mapping 1:1 with the microscopic GATE guidelines of `BVCAP_Pipeline.md`.
+> **📌 PHASE vs GATE 통합 매핑 테이블**
+> `BVCAP_GHQ.md`의 거시적 PHASE는 `BVCAP_Pipeline.md`의 미시적 GATE 지침과 1:1 매핑되어 실행된다.
 > 
-> | GHQ.md (Core Philosophy) | Pipeline.md (AIDD) | Execution Purpose |
+> | GHQ.md (Core Philosophy) | Pipeline.md (AIDD) | 실행 목적 |
 > |:---|:---|:---|
-> | **Phase 1: Verse Anatomy** | **GATE 0 & 1:** Type Classification and Verse Collection | Grasp the hard saying & secure anchors |
-> | **Phase 2: KJV Original Text Core Clues** | **GATE 2:** Commentary Search Prohibition & Propositionalization | Isolate academic consensus, establish original text basis |
-> | **Phase 3: FULL SCAN** | **GATE 3:** SKILL (TYPE Weapon) Execution | Sequential activation of all QUIVER types |
-> | **Phase 4: God's Design** | **GATE 4:** Inverse Calculus Cross-Verification | Extract theological meaning |
-> | **Phase 5: Modern Analogy** | ANALOGY-5 Section of GATE 5 | Derive analogy |
-> | **Phase 6: Spiritual Lesson** | LESSON-6 Section of GATE 5 | Pastoral application |
-> | **Phase 7: Reverse Question** | Burden of Proof Section of GATE 5 | Shift burden of proof |
-> | **Phase 8: Preemptive Refutation Defense** | Red Team Section of GATE 5 | Defeat expected objections |
-> | **Phase 9: Final Verdict** | **GATE 5:** Masterpiece Report Output | Final conclusion and pronouncement of verdict |
+> | **Phase 1: 구절 해부** | **GATE 0 & 1:** 유형 분류 및 구절 수집 | 난제 파악 및 앵커 확보 |
+> | **Phase 2: KJV 원문 핵심 단서** | **GATE 2:** 주석 검색 금지 및 명제화 | 학계 통설 격리, 원문 기반 세팅 |
+> | **Phase 3: FULL SCAN** | **GATE 3:** SKILL(TYPE 무기) 실행 | QUIVER 전종 순차 발동 |
+> | **Phase 4: 하나님의 설계** | **GATE 4:** 역산 교차 검증 | 신학적 의미 추출 |
+> | **Phase 5: 현대 비유** | GATE 5의 ANALOGY-5 섹션 | 비유 도출 |
+> | **Phase 6: 영적 교훈** | GATE 5의 LESSON-6 섹션 | 목회적 적용 |
+> | **Phase 7: 역질문** | GATE 5의 Burden of Proof 섹션 | 입증 책임 전가 |
+> | **Phase 8: 선제 반론 방어** | GATE 5의 Red Team 섹션 | 예상 반론 격퇴 |
+> | **Phase 9: 최종 판결** | **GATE 5:** 마스터피스 보고서 출력 | 최종 결론 및 판결 선언 |
 
 ---
 
-## 🔍 [PHASE 1 & 2: Verse Anatomy and Contradiction Spec Drafting]
+## 🔍 [PHASE 1 & 2: 구절 해부 및 모순 명세서 작성]
 
 > [!NOTE]
-> This GHQ document omits the detailed logic of Phase 1 (Hard saying anatomy and type classification) and Phase 2 (Contradiction spec drafting). 
-> Those operations are executed automatically in the background by **GATE 0~2 of the Tactical Manual `BVCAP_Pipeline.md`**.
+> 본 사령부 문서에서는 Phase 1(난제 해부 및 유형 분류)과 Phase 2(모순 명세서 작성)의 상세 로직을 생략합니다. 
+> 해당 작전은 전술 교범인 **`BVCAP_Pipeline.md`의 GATE 0~2**에 의해 백그라운드에서 자동 실행됩니다.
 
 ---
 
-## ⚙️ [PHASE 3: Analytical Logic Weapon List (QUIVER TYPE Weapon System)]
+## ⚙️ [PHASE 3: 분석 논리 무기 목록 (QUIVER TYPE 무기 체계)]
 
 > [!NOTE]
-> **When defending, the Analyst must engage in fierce debate using exclusively all TYPE-A~AY + TYPE-B-π weapons found in the 04_QUIVER folder, and the final verdict follows the BVCAP_Pipeline.md format.**
+> **분석자는 방어할 때 반드시 04_QUIVER(무기고) 폴더에 있는 TYPE-A~AY + TYPE-B-π 전종 무기만을 사용하여 치열하게 토론하고, 마지막 판결은 BVCAP_Pipeline.md 양식을 따른다.**
 
-### 🔗 Outline of COMBO Double Verification System
+### 🔗 COMBO 이중 검증 체계 개요
 
-> **COMBO = A combination of weapons firing simultaneously from 2 or more domains (Hermeneutics + Logic + Fallacy Analysis).**
-> Single TYPE = Evidence from one domain. COMBO = Convergence of multiple domains → The argument cannot be dismissed by a single attack.
+> **COMBO = 2개 이상의 도메인(해석학 + 논리학 + 오류분석)에서 동시에 발화하는 무기 조합.**
+> 단일 TYPE = 한 도메인의 증거. COMBO = 다중 도메인의 수렴 → 단일 공격으로 논증을 기각할 수 없다.
 
-| Activation Level | Condition | Verdict Grade |
+| 발동 수준 | 조건 | 판결 등급 |
 |:---:|:---|:---:|
-| Single TYPE | 1 TYPE activated | ✅ CONSISTENT |
-| Official COMBO 2-Type | 2 TYPEs concurrent identical conclusion | ✅✅ STRONG |
-| Official COMBO 3-Type+ | 3 or more TYPEs converge + STRESS-TEST-7 passed | ✅✅✅ IRONCLAD |
+| 단일 TYPE | 1개 TYPE 발동 | ✅ CONSISTENT |
+| 공인 COMBO 2종 | 2개 TYPE 동시 동일 결론 | ✅✅ STRONG |
+| 공인 COMBO 3종+ | 3개 이상 TYPE 수렴 + STRESS-TEST-7 통과 | ✅✅✅ IRONCLAD |
 
-> **List of all Official COMBOs and Detailed Activation Conditions**: `BVCAP_Pipeline.md` → See **COMBO-VERIFY** section (30 types registered)
-> Representative combos: COMBO-S3(N+F+L), COMBO-SF11(S+F+G), COMBO-GR8(G+R), COMBO-GN14(G+N+F), COMBO-WAE(W+AE)
+> **공인 COMBO 전종 목록 및 상세 발동 조건**: `BVCAP_Pipeline.md` → **COMBO-VERIFY** 섹션 참조 (30종 등록)
+> 대표 콤보: COMBO-S3(N+F+L), COMBO-SF11(S+F+G), COMBO-GR8(G+R), COMBO-GN14(G+N+F), COMBO-WAE(W+AE)
 
 ---
 
-## 🛡️ [PHASE 4: Evasion Detection — Applied to Both Sides]
+## 🛡️ [PHASE 4: 회피논법 탐지 (Evasion Detection — 양측 모두 적용)]
 
-> **Core**: The logical leaps of the Critic and the forced interpretations of the Analyst are equally dismissed.
+> **핵심**: 비판자의 논리적 비약도, 분석자의 억지 해석도 동일하게 기각된다.
 
-| Code | Evasion Tactic | Typical Pattern | Reason for Dismissal |
+| 코드 | 회피 전술 | 전형적 패턴 | 기각 이유 |
 |:---:|:---|:---|:---|
-| **E-01** | **Straw Man (허수아비)** | Distorting the opponent's argument to attack | Forced return to original proposition |
-| **E-02** | **Red Herring (논점 이탈)** | Distracting the point with an irrelevant topic | Return to the conflict of the verse itself |
-| **E-03** | **Appeal to Authority (권위 호소)** | Citing scholar names without data | Demand presentation of primary source manuscript data |
-| **E-04** | **Ad Hominem (인신공격)** | Attacking the person, not the argument | Forced focus on data and logic only |
-| **E-05** | **Circular Reasoning (순환논리)** | Using the conclusion as a premise | Demand presentation of independent external evidence |
-| **E-06** | **Appeal to Emotion (감정 호소)** | Substituting logic with faith experiences/statistics | Return to the point of textual consistency |
-| **E-07** | **Forced Harmony (억지 조화)** | Insisting "both are right" without data | Demand specific original language/manuscript evidence |
-| **E-08** | **Mystery Escape (신비주의 도피)** | Refusing analysis stating "it is a divine mystery" | Forced return to analyzable textual data |
-| **E-09** | **Slippery Slope (과도한 확장)** | Leap of logic that "the entire Bible falls due to this one error" | Forced restriction of analysis scope to the verse in question |
-| **E-10** | **Whataboutism (양비론 전환)** | "Since the Bible has errors, you have no right to point out Quran errors" | Each scripture is analyzed independently. Pivot comparison dismissed |
-| **E-11** | **Appeal to Manuscript Majority (사본 수 맹신)** | Pressuring with physical numbers stating "it's fake because it's not in the overwhelming majority of manuscripts" | Point out that manuscript count is just the number of times copied, not the number of independent witnesses. Forced transition to TYPE-H (Manuscript Independence Reversal) evaluation |
-| **E-12** | **False Dichotomy (거짓 이분법)** | "You must either believe the Bible or believe science" — preemptively blocking a third option | Dismantle the dichotomy structure by presenting an intermediate path or third interpretation possibility outside the two options |
-| **E-13** | **Moving the Goalposts (골대 이동)** | Instantly adding new conditions/rebuttals once an argument is satisfied — endless requirement changes | Fix and record the initially presented condition; upon condition change, immediately force return to square one |
-| **E-14** | **Appeal to Ignorance (무지 호소)** | "If you can't prove it, it's an error" — using absence of evidence as evidence of error | Reaffirm that the burden of proof is on the attacker. Apply the principle that absence of evidence ≠ evidence of error |
-| **E-15** | **Cherry-Picking (확증 편향)** | Selecting only favorable verses, intentionally ignoring falsifying verses | Invoke ANCHOR-1 (Third Anchor Collection) principle — Mandate exhaustive comparison including falsifying verses |
-| **E-16** | **Contextual Amnesty (문맥적 면죄부)** | Covering up a fatal textual error by stating "the original intention was likely not that given the whole context" — Includes AI self-filtering for the speaker | Text must be evaluated strictly as recorded, not by intention. AI self-smoothing strictly prohibited. Immediate indictment upon finding an error regardless of context |
-| **E-17** | **Self-Citation Audit (권위 호소 자기검증, Est. 2026-07-24)** | The Analyst (AI) mixing sentences that cite **scholar names, interpretive traditions, or theological consensus as the evidence itself**, such as "In 2000 years of interpretative history, the mainstream view...", into its own argument. It is the same error as E-03, but requires separate self-verification as it sneaks into **our own (BVCAP) outputs** | Do not use scholar names, interpretive traditions, or consensus as grounds for a conclusion. Directly present and replace or fortify with the underlying **independently verifiable textual/original language/usage data** (KJV internal usage, original root/grammar, exhaustive concordance survey). Scholar names are permitted only in footnotes. |
-| **E-18** | **Equivocation (애매어의 오류, Est. 2026-08-22)** | Subtly swapping the meaning of the same word depending on context, and directly applying a conclusion established under one meaning to the other meaning as if connecting them in a single argument | Force redefinition by classifying each usage of the debated word by original language (Greek/Hebrew root) and grammatical category. Connection of conclusions is allowed only after first confirming through original text comparison that the two usages actually share the same semantic domain. |
-| **E-19** | **Hasty Generalization (성급한 일반화, Est. 2026-08-22)** | Extending and applying a conclusion proven only for a specific subject A to a seemingly superficially similar, distinct subject B without presenting evidence | Point out that proof in A and extension to B are separate stages of proof, and individually demand independent original language/usage evidence for B itself. If evidence is not presented, dismiss the extension and acknowledge only the conclusion of A as valid |
+| **E-01** | **허수아비 (Straw Man)** | 상대 주장을 왜곡하여 공격 | 원래 명제로 복귀 강제 |
+| **E-02** | **논점 이탈 (Red Herring)** | 무관한 주제로 논점 분산 | 해당 구절의 충돌 자체로 복귀 |
+| **E-03** | **권위 호소 (Appeal to Authority)** | 데이터 없이 학자 이름만 인용 | 1차 원문·사본 데이터 제시 요구 |
+| **E-04** | **인신공격 (Ad Hominem)** | 논거가 아닌 상대방 공격 | 데이터와 논리에만 집중 강제 |
+| **E-05** | **순환논리 (Circular Reasoning)** | 결론을 전제로 사용 | 독립적 외부 논거 제시 요구 |
+| **E-06** | **감정 호소 (Appeal to Emotion)** | 신앙 경험·통계로 논리 대체 | 텍스트 정합성 논점으로 복귀 |
+| **E-07** | **억지 조화 (Forced Harmony)** | 데이터 없이 "다 맞다"고 우기기 | 구체적 원어·사본 근거 제시 요구 |
+| **E-08** | **신비주의 도피 (Mystery Escape)** | "신의 신비라 알 수 없다"로 분석 거부 | 분석 가능한 텍스트 데이터로 복귀 강제 |
+| **E-09** | **과도한 확장 (Slippery Slope)** | "이 오류 하나로 성경 전체가 무너진다"는 비약 | 분석 범위를 해당 구절로 제한 강제 |
+| **E-10** | **양비론 전환 (Whataboutism)** | "성경도 오류가 있으니 꾸란 오류를 지적할 자격 없다" | 각 경전은 독립적으로 분석됨. 비교 전환 기각 |
+| **E-11** | **사본 수 맹신 (Appeal to Manuscript Majority)** | "압도적 다수 사본에 없으니 가짜다"라며 물리적 숫자로 압박 | 사본 수는 복사된 횟수일 뿐 독립된 증거의 수가 아님을 지적. TYPE-H(사본 독립성 역전) 평가로 전환 강제 |
+| **E-12** | **거짓 이분법 (False Dichotomy)** | "성경을 믿거나, 과학을 믿거나 둘 중 하나다" — 제3의 선택지 원천 차단 | 두 선택지 외의 중간 경로 또는 제3 해석 가능성을 제시하여 이분법 구조 붕괴 |
+| **E-13** | **골대 이동 (Moving the Goalposts)** | 논증이 충족되면 즉시 새 조건·새 반박을 추가 — 끝없는 요건 변경 | 최초 제시된 조건을 고정·기록하고, 조건 변경 즉시 원점 복귀 강제 |
+| **E-14** | **무지 호소 (Appeal to Ignorance)** | "증명 못하면 오류다" — 증거 부재를 오류의 증거로 사용 | 입증 책임은 공격자에게 있음을 재확인. 부재 증거 ≠ 오류 증거 원칙 적용 |
+| **E-15** | **확증 편향 (Cherry-Picking)** | 자신에게 유리한 구절만 선택, 반증 구절은 의도적으로 무시 | ANCHOR-1(제3 앵커 수집) 원칙 발동 — 반증 구절 포함 전수 대조 의무화 |
+| **E-16** | **문맥적 면죄부 (Contextual Amnesty)** | "전체 문맥상 원래 의도는 그게 아니었을 것이다"라며 텍스트의 치명적 오류를 덮어주기 — AI가 화자를 위해 스스로 필터링하는 행위 포함 | 텍스트는 의도가 아닌 기록된 문자 그대로 평가받아야 함. AI의 자체 Smoothing 엄금. 오류 발견 시 문맥과 무관하게 즉시 기소 |
+| **E-17** | **권위 호소 자기검증 (Self-Citation Audit, 2026-07-24 신설)** | 분석자(AI) 스스로 "2000년 해석사에서 주류 해석은...", "OO 학자도 인정하듯..." 등 **학자 이름·해석 전통·신학적 합의를 근거 그 자체로 인용**하는 문장을 자기 논증에 섞어 넣는 것. E-03과 동일한 오류이나, 상대 논증이 아니라 **아군(BVCAP) 자신의 산출물**에 섞여 들어온다는 점에서 별도 자기검증이 필요하다(TYPE-AL-cap·E-16과 같은 계열의 "아군 적용" 조항) | 학자 실명·해석 전통·합의 언급을 결론의 근거로 쓰지 않는다. 그 밑에 깔린 **독립적으로 검증 가능한 텍스트·원어·용례 데이터**(KJV 내부 용례, 원어 어근·문법, 콘코던스 전수조사)를 직접 제시하여 교체하거나 보강한다. 학자명은 "어디서 이 관찰을 처음 봤는지"의 각주로만 허용되고, "그러므로 참이다"의 근거로는 금지된다. |
+| **E-18** | **애매어의 오류 (Equivocation, 어의 중의성, 2026-08-22 신설)** | 같은 단어(예: "보다")를 문맥마다 다른 의미(시각적 형체 vs. 인식·앎)로 슬쩍 바꿔 쓰면서, 한쪽 뜻에서 성립하는 결론을 다른 쪽 뜻에도 그대로 적용해 하나의 논증인 것처럼 연결하는 것 | 쟁점 단어의 각 용례를 원어(그리스어·히브리어 어근) 및 문법 범주(품사·의미영역)로 구분해 재정의를 강제한다. 두 용례가 실제로 동일한 의미영역인지 원어 대조로 먼저 확인한 뒤에만 결론 연결을 허용 |
+| **E-19** | **성급한 일반화 (Hasty Generalization, 2026-08-22 신설)** | 특정 대상 A에 대해서만 입증된 결론(예: 관용구)을, 근거 제시 없이 표면적으로 유사해 보이는 별개의 대상 B에까지 그대로 확장 적용하는 것 | A에서의 입증과 B로의 확장은 별개의 증명 단계임을 지적하고, B 자체에 대한 독립적인 원어·용례 근거를 개별적으로 요구한다. 근거가 제시되지 않으면 확장을 기각하고 A의 결론만 유효로 인정 |
 
 > [!IMPORTANT]
-> **E-Code Citation Notation Rule**: When pointing out evasion logic in the main text of reports/verdicts, do not write the code alone. You must write **Code + Korean Name + English Name** together.
-> Format: `E-XX Korean Name (English Name)` — e.g., `E-01 허수아비 (Straw Man)`, `E-18 애매어의 오류 (Equivocation)`, `E-19 성급한 일반화 (Hasty Generalization)`
-> Notations like "E-16 triggered" with just the code force the reader to look up the code table, so avoid this in the final outputs (reports/scripts).
+> **E-Code 인용 표기 규칙**: 보고서 본문·판정문에서 회피논법을 지적할 때는 코드만 단독으로 쓰지 않는다. 반드시 **코드 + 한글명 + 영문명**을 함께 적는다.
+> 형식: `E-XX 한글명 (English Name)` — 예: `E-01 허수아비 (Straw Man)`, `E-18 애매어의 오류 (Equivocation)`, `E-19 성급한 일반화 (Hasty Generalization)`
+> 코드만 적힌 "E-16 발동" 같은 표기는 독자가 코드표를 찾아봐야 하므로, 최종 산출물(보고서·대본 등)에서는 지양한다.
 ---
 
-## 📋 [PHASE 5: Final Output Format — BVCAP v3.0 Masterpiece Report]
+## 📋 [PHASE 5: 최종 출력 양식 — BVCAP v3.0 Masterpiece Report]
 
-> **📌 Output Principle**: Internally perform FULL SCAN deployment of all types, but write the final output in a **Masterpiece** format that necessarily includes a **'highly refined argumentative structure'** and an **'intuitive analogy (Analogy)'** that a general reader can understand at a glance.
+> **📌 출력 원칙**: 내부적으로 FULL SCAN 전종 투입을 수행하되, 최종 출력물은 일반 독자가 단숨에 이해할 수 있는 **'고도로 제련된 논증 구조'**와 **'직관적 비유(Analogy)'**를 반드시 포함한 **마스터피스(Masterpiece)** 형태로 작성한다.
 
 > [!NOTE]
-> **Reference for C-Code Classification Criteria**: `BVCAP_Pipeline.md` → **"Analysis Tool Mapping by Conflict Type" Section** (C-01~C-13 Definitions + Recommended TYPE combinations for each code)
+> **C-Code 분류 기준 참조**: `BVCAP_Pipeline.md` → **"충돌 유형별 분석 도구 매핑" 섹션** (C-01~C-13 정의 + 각 코드별 권장 TYPE 조합)
 
-### 📊 [C-Code → MODE Allocation Guide]
-GHQ determines which formation (MODE) to fight in according to the identified C-Code.
+### 📊 [C-Code → MODE 배분 가이드]
+사령부는 식별된 C-Code에 따라 어떤 진형(MODE)으로 싸울지 결정한다.
 
-| C-Code Range | Recommended MODE | Reason |
+| C-Code 범위 | 권장 MODE | 이유 |
 |:---:|:---:|:---|
-| C-01 ~ C-07 (Numerical, Historical, Custom Conflicts) | **MODE A** (Shield) | Defense against external attackers' attacks on biblical inerrancy |
-| C-08 (Theological Query) | **MODE A** or **B** | Branches depending on the nature of the questioner (Skeptic vs. Internal Believer) |
-| C-09 ~ C-10 (Coordinate, Typology Interpretation) | **MODE B** (Court) | Believer internal doctrinal debate and fulfillment of prophecy interpretation |
-| C-11 ~ C-12 (Parallel, Manuscript) | **MODE A** (Shield) | Textual criticism attacks and Gospel parallel conflict defense |
-| C-13 (Spiritual Entity/Space) | **MODE B** (Court) | Doctrinal/Category classification debate (e.g., Hell vs. Paradise) |
+| C-01 ~ C-07 (수치·역사·관습 충돌) | **MODE A** (방패) | 외부 공격자의 성경 무오성 공격 방어 |
+| C-08 (신학적 질의) | **MODE A** 또는 **B** | 질문자의 성격(회의론자 vs 내부신자)에 따라 분기 |
+| C-09 ~ C-10 (좌표·예표 해석) | **MODE B** (법정) | 신자 내부 교리 논쟁 및 예언 성취 해석 |
+| C-11 ~ C-12 (병렬·사본) | **MODE A** (방패) | 사본학적 공격 및 복음서 병렬 충돌 방어 |
+| C-13 (영적 존재/공간) | **MODE B** (법정) | 교리/범주 분류 논쟁 (예: 지옥 vs 낙원) |
 
 > [!WARNING]
-> **C-4 Integration (2026-08-12)**: The table above only dictates the burden of proof and formation allocation based on "Who is asking?". Regardless of which C-Code it is classified as, the MODE assignment itself does not presuppose a specific theological system like the Trinity as the conclusion. The textual/original language analysis of GATE 0~4 is performed identically in both MODE A/B based on CREED C-4 (Denomination/Theological System Neutrality), and being classified as a "Theological Conflict (C-03/C-08/C-13)" does not mean "You can write a theological system label in the conclusion" (See "C-4 Detailed Implementation Guidelines" in `CREED_Override.md`).
+> **C-4 연동 (2026-08-12)**: 위 표는 "누가 묻는가"에 따른 입증책임·진형 배분일 뿐이다. 어떤 C-Code로 분류되든, MODE 배정 자체가 삼위일체 등 특정 신학체계를 결론으로 전제하지 않는다. GATE 0~4의 텍스트·원어 분석은 MODE A/B 어느 쪽이든 동일하게 CREED C-4(교단·신학체계 중립) 기준으로 수행하며, "신학적 충돌(C-03/C-08/C-13)로 분류됨"이 곧 "신학체계 라벨을 결론에 써도 된다"는 뜻이 아니다 (`CREED_Override.md` "C-4 세부 시행 지침" 참조).
 
 ````markdown
-# [Topic Name] Hard Saying: [Apparent Conflict Number/Keyword]
-**— "[One-line summary of core suspicion]?" BVCAP v3.0 Neutral Audit Report —**
+# [주제명] 난제: [표면적 충돌 수치/키워드]
+**— "[핵심 의혹 한 줄 요약]?" BVCAP v3.0 중립 감사 보고서 —**
 
-> **STATUS**: Verification Complete | VERDICT: [✅ CONSISTENT (IRONCLAD) / ⚠️ UNRESOLVED / ❌ CONTRADICTION, etc.]
-> **Conflict Type**: [Corresponding code among C-01~C-13 | e.g., C-11 — Parallel Record Detail Conflict]
-> **Applied Analysis Tools**: [QUIVER TYPE Combination]
-> **Background of Analysis Request**: [Summary of the main content of attackers' claims]
+> **STATUS**: 검증 완료 | VERDICT: [✅ CONSISTENT (IRONCLAD) / ⚠️ UNRESOLVED / ❌ CONTRADICTION 등]
+> **충돌 유형**: [C-01~C-13 중 해당 코드 | 예: C-11 — 병렬 기록 세부 충돌]
+> **적용 분석 도구**: [QUIVER TYPE 조합]
+> **분석 의뢰 경위**: [공격자들의 주된 공격 내용 요약]
 
 ---
 
-## 1. Conflict Point Confirmation (PHASE 1: Verse Anatomy)
-### Attacker's Core Argument
-### Direct Comparison of the Two Texts Generating the Conflict (Use Table: KJV_1769.txt English + KSKJB Korean comparison — Mixing other translations forbidden, §2-B copyright notation compliance)
+## 1. 충돌 지점 확정 (PHASE 1: 구절 해부)
+### 공격자의 핵심 주장
+### 충돌을 발생시키는 두 본문 직접 대조 (표 활용: KJV_1769.txt 영문 + 표준킹제임스(KSKJB) 한글 대조 — 다른 역본 혼용 금지, §2-B 저작권 표기 준수)
 
-## 2. KJV Original Text Core Clues: Decisive Differences Hidden in Translation
-[Derive subtle nuances/grammar/preposition differences between the KJV English original text and translations]
+## 2. KJV 원문 핵심 단서: 번역에 숨겨진 결정적 차이
+[KJV 영어 원문과 번역본의 미세한 뉘앙스/문법/전치사 차이 도출]
 
-## 3. [TYPE Selection] Verification: (e.g., TYPE-B Sequential Integration, TYPE-C Category Separation, etc.)
-[Attempt structural anatomy through timeline serial placement or Excel-style category separation, rather than mechanical listing]
-### 💡 Modern Analogy
-[Create and include at least 1 powerful and intuitive analogy that the general public can instantly understand, such as modern military systems, daily life, historical movies, etc.]
+## 3. [TYPE 선택] 검증: (예: TYPE-B 순차 통합, TYPE-C 범주 분리 등)
+[기계적 나열이 아닌, 타임라인 직렬 배치 또는 엑셀식 범주 분리를 통해 구조적 해부 시도]
+### 💡 비유적 이해 (Modern Analogy)
+[현대 군사 체계, 일상생활, 역사적 영화 등 일반인이 단번에 이해할 수 있는 강력하고 직관적인 비유 반드시 1개 이상 창작하여 포함]
 
-## 4. Additional Bible Verse Cross-Verification (Mathematical/Logical Inverse Calculus)
-[Substitute a third verse or number to mathematically/multi-dimensionally reverse-calculate and prove that it is Consistent, not a hypothesis]
+## 4. 추가 성경 구절 교차 검증 (수학적/논리적 역산)
+[제3의 구절이나 숫자를 대입하여, 가설이 아니라 수학적/입체적으로 정합함(Consistent)을 역산하여 증명]
 
-## 5. Scribal Error Theory / Textual Criticism Attack Fundamental Blockade
-[Thoroughly refute the critics' claim that it is a simple 'recording mistake' by citing the characteristics of the Hebrew/Greek scribal system or the alphanumeric numbering system]
+## 5. 필사 오류설 / 사본학적 공격 원천 차단
+[히브리어/헬라어 필사 체계의 특성이나 알파벳 숫자 체계를 들어 단순 '기록 실수'라는 비판자들의 주장을 철저히 논파]
 
-## 5-A. Situational Visualization Tools (Optional Output)
-> The tools below are **not always outputted**, but only included when the AI judges that the tool enhances the clarity of the verdict according to the analysis type.
+## 5-A. 상황별 시각화 도구 (선택적 출력)
+> 아래 도구들은 **항상 출력하는 것이 아니라**, 분석 유형에 따라 AI가 판단하여 해당 도구가 판결의 명확성을 높일 때만 포함한다.
 
-### [RTM — Requirement Traceability Matrix] (Select when claims/prophecies are plural)
-> Activation Condition: When there are **3 or more** claims/prophecies to verify in the analysis target
-> Purpose: To check at a glance which claim was verified with which weapon → Prevent omissions
+### [RTM — 주장 추적 매트릭스] (예언·주장이 복수일 때 선택)
+> 발동 조건: 분석 대상에 검증해야 할 주장/예언이 **3개 이상**일 때
+> 목적: 어떤 주장이 어떤 무기로 검증되었는지 한눈에 점검 → 누락 방지
 
-| # | Claim/Prophecy (Verse) | Core Element | Verification Weapon (TYPE) | Verification Result |
+| # | 주장/예언 (구절) | 핵심 요소 | 검증 무기 (TYPE) | 검증 결과 |
 |:---:|:---|:---|:---|:---:|
-| 1 | [Verse] "[Quote Text]" | [Core Keyword] | TYPE-? + TYPE-? | ✅/❌ |
-| 2 | [Verse] "[Quote Text]" | [Core Keyword] | TYPE-? | ✅/❌ |
+| 1 | [구절] "[본문 인용]" | [핵심 키워드] | TYPE-? + TYPE-? | ✅/❌ |
+| 2 | [구절] "[본문 인용]" | [핵심 키워드] | TYPE-? | ✅/❌ |
 | ... | ... | ... | ... | ... |
-| **Total** | | | | **Confirmed 0 Unverified Cases** |
+| **전체** | | | | **미검증 0건 확인** |
 
-### [CVM — Comparative Verdict Matrix] (MODE B Only, Optional)
-> Activation Condition: When there are **2 or more independent issues** where RED (Prosecutor) / BLUE (Defense) sides clash in **MODE B (Theological Court Mode)**
-> Purpose: Synthesize at a glance which side has the upper hand on which issue → Provide grounds for the final verdict as the sum of Win/Draw/Loss per issue
-> ⚠️ **Do not indicate the superiority of each issue with a numerical score (e.g., 0~100 points)** — This is a violation of the "Scores & Flattery Discipline" (OVERRIDE-2, 2026-07-23). You must exclusively denote it with **Win/Draw/Loss + 6-level confidence grade (IRONCLAD~OPEN)**, and tally the comprehensive section only as a discrete record in the form of "N Wins (M narrow) · K Draws · BLUE 0 Wins".
+### [CVM — 쟁점 비교표 (Comparative Verdict Matrix)] (MODE B 전용, 선택)
+> 발동 조건: **MODE B(신학 법정모드)**에서 RED(검찰)/BLUE(변호인) 양측이 대립하는 **독립 쟁점이 2개 이상**일 때
+> 목적: 어느 쟁점에서 어느 쪽이 우위인지 한눈에 종합 → 쟁점별 승/무/패의 총합으로 최종 판정 근거 제공
+> ⚠️ **각 쟁점의 우위는 숫자 점수(0~100점 등)로 표기하지 않는다** — "점수·아첨 규율"(OVERRIDE-2, 2026-07-23) 위반 사항이다. 반드시 **승/무/패 + 6단계 확신도 등급(IRONCLAD~OPEN)**으로만 표기하고, 종합란도 "N승(M근소)·무 K·상대 0승" 형태의 이산적 전적으로만 집계한다.
 
-| # | Issue | Verdict | Core Judgment Rationale |
+| # | 쟁점 | 판정 | 핵심 판정 근거 |
 |:---:|:---|:---:|:---|
-| 1 | [One-line summary of issue] | ✅ RED Upper Hand (VIABLE) | [One line core rationale] |
-| 2 | [One-line summary of issue] | ⚖️ Draw (Non-diagnostic) | [One line core rationale] |
+| 1 | [쟁점 한 줄 요약] | ✅ RED 우위 (VIABLE) | [핵심 근거 한 줄] |
+| 2 | [쟁점 한 줄 요약] | ⚖️ 무승부 (비진단적) | [핵심 근거 한 줄] |
 | ... | ... | ... | ... |
-| **Total** | | **RED N Wins (M narrow) · K Draws · BLUE 0 Wins** | [One-line overall pattern summary] |
+| **종합** | | **RED N승(M근소)·무 K·BLUE 0승** | [전체 패턴 한 줄 요약] |
 
-### [Sequence Diagram] (Select for Multi-person × Time Flow)
-> Activation Condition: When **3 or more persons** interact in chronological order within the analysis target
-> Purpose: Visually solidify the sequence of messages/actions between persons → Prevent audience confusion (TYPE-R)
+### [시퀀스 다이어그램] (다중 인물 × 시간 흐름일 때 선택)
+> 발동 조건: 분석 대상에 **3명 이상의 인물**이 시간순으로 상호작용할 때
+> 목적: 인물 간 메시지/행동의 순서를 시각적으로 확정 → 청중 혼동(TYPE-R) 방지
 
-Write in Mermaid sequenceDiagram format or a text-based arrow diagram
+Mermaid sequenceDiagram 형식 또는 텍스트 기반 화살표 다이어그램으로 작성
 
-### [Entity-Time Matrix] (Select for simultaneous multiple events)
-> Activation Condition: Upon **CASE-MULTI** (Multiple persons simultaneous scene branching) or Gospel parallel integration
-> Purpose: Cross-verify at a glance where each person/group was at each point in time
+### [엔터티-시간 매트릭스] (동시 다발 사건일 때 선택)
+> 발동 조건: **CASE-MULTI**(다중 인물 동시 현장 분기) 또는 복음서 병렬 통합 시
+> 목적: 각 인물/그룹이 각 시점에 어디에 있었는지 한 눈에 교차 확인
 
-| Time | Person A | Person B | Person C | Basis Verse |
+| 시각 | 인물A | 인물B | 인물C | 근거 구절 |
 |:---:|:---|:---|:---|:---|
-| T1 | [Location/Action] | [Location/Action] | [Location/Action] | [Verse] |
+| T1 | [위치/행동] | [위치/행동] | [위치/행동] | [구절] |
 | T2 | ... | ... | ... | ... |
 
-### [State Transition Diagram] (Select when a person's psychological/state change is key)
-> Activation Condition: Upon activation of TYPE-B-ψ (Psychological Time Lag) or TYPE-B-π (Perceptual Filter)
-> Purpose: Specify the state change path of the same person → Prove the logical inevitability of the behavioral change
+### [상태 전이도] (인물의 심리/상태 변화가 핵심일 때 선택)
+> 발동 조건: TYPE-B-ψ(심리적 시간차) 또는 TYPE-B-π(지각 필터) 발동 시
+> 목적: 동일 인물의 상태 변화 경로를 명시 → 행동 변화의 논리적 필연성 증명
 
 ```
-[State 1: Shock] → (Passage of Time) → [State 2: Calm] → (Realization) → [State 3: Joy/Delivery]
+[상태1: 충격] → (시간 경과) → [상태2: 진정] → (깨달음) → [상태3: 기쁨/전달]
 ```
 
-## 6. Final Verdict
+## 6. 최종 판결
 ### [✅ CONSISTENT (EXPLICIT) / ✅ CONSISTENT (IRONCLAD) / ⚠️ UNRESOLVED / ❌ CONTRADICTION]
-> **Reason for Verdict**: [Perfect summary of core logic in 3~4 lines]
-> **Core Refutation Logic**: [The decisive reason why the attacker's logic collapses]
-> **Scholarly Consensus Level**: [🟢 Mainstream Consensus / 🟡 Probable View / 🔴 Minority View]
+> **판결 이유**: [핵심 로직 3~4줄 완벽 요약]
+> **핵심 반증 논리**: [공격자의 논리가 무너지는 결정적 이유]
+> **학술 합의 수준**: [🟢 주류 합의 / 🟡 유력 견해 / 🔴 소수 견해]
 
-## 7. Theological Verdict (Pastoral Application Grade)
+## 7. 신학적 결정 (Theological Verdict — 목회 적용 등급)
 
-> **Purpose**: The BVCAP internal grade in section 6 (textual/logical certainty) and the pastoral question of "how can this be taught from the pulpit" are on different axes. This table is a translation layer connecting the two, and **the internal grade itself is never altered.**
+> **목적**: 6번의 BVCAP 내부 등급(텍스트·논리적 확실성)과, "이것을 강단에서 어떻게 가르쳐도 되는가"라는 목회적 질문은 서로 다른 축이다. 이 표는 그 둘을 잇는 번역 레이어이며, **내부 등급 자체는 절대 수정하지 않는다.**
 >
-> **Application Weight (by MODE)**: This table and the CVM comparison table above are denoted in both MODEs, but the practical judgment weight is much larger in **MODE B (Theological Court Mode)**. Since MODE A (Shield Mode) is mostly the task of defending already established orthodox doctrines from external attacks, the results converge near "Confirmed" from the start; however, MODE B often newly investigates areas that existing theology did not explicitly cover (e.g., Genesis 3 childbirth debate, Salvation of King Saul), so there is great practical benefit in carefully distinguishing between "Probable (Probability)" and "Confirmed (Doctrine)".
+> **적용 비중(MODE 별)**: 이 표와 위 CVM 비교표는 두 MODE 모두에 표기하되, 실질적 판단 비중은 **MODE B(신학 법정모드)**에서 훨씬 크다. MODE A(방패모드)는 대개 이미 확립된 정통 교리를 외부 공격으로부터 방어하는 작업이라 결과가 처음부터 "확정"에 가깝게 수렴하지만, MODE B는 기존 신학이 명시적으로 다루지 않던 영역(예: 창3장 출산 논쟁, 사울왕 구원)을 새로 규명하는 경우가 많아 "유력(개연성)"과 "확정(교리)"을 신중히 구분해야 할 실익이 크다.
 
-| BVCAP Internal Grade (As per #6) | Cross-Witness Tag (See ANCHOR_ThirdData.md) | Theological Verdict | Pastoral Application |
+| BVCAP 내부 등급 (6번 그대로) | 교차증인 태그 (ANCHOR_ThirdData.md 참조) | 신학적 결정 | 목회 적용 |
 |:---:|:---:|:---:|:---|
-| ✅ EXPLICIT | — | **Confirmed (Doctrine)** | Declarable as Doctrine |
-| ✅✅✅ IRONCLAD | [Cross-Witness ✓ — N independent books/authors] | **Confirmed (Doctrine)** | Declarable as Doctrine |
-| ✅✅✅ IRONCLAD | [Cross-Witness unverified] | **Probability (Probability)** | Present only as a "Probable View". Doctrinalization forbidden, possibility of counterarguments must be co-notified |
-| ✅✅ STRONG / ✅ VIABLE | — | **Probability (Probability)** | Present as a probable view, but acknowledge alternative interpretations |
-| ⚠️ TENTATIVE / ❓ OPEN / 📖 NOVEL | — | **Speculation (Speculation)** | Level of personal meditation/sermon illustration. Doctrine strictly forbidden. Explicit notification to the audience that "this is a speculation" is mandatory |
-| ❌ CONTRADICTION | — | N/A | — |
+| ✅ EXPLICIT | — | **확정 (Doctrine)** | 교리로 선포 가능 |
+| ✅✅✅ IRONCLAD | [교차증인 ✓ — N개 독립 책/저자] | **확정 (Doctrine)** | 교리로 선포 가능 |
+| ✅✅✅ IRONCLAD | [교차증인 미확인] | **개연성 (Probability)** | "유력한 견해"로만 제시. 교리화 금지, 반론 가능성 함께 고지 |
+| ✅✅ STRONG / ✅ VIABLE | — | **개연성 (Probability)** | 유력한 견해로 제시하되 대안 해석 인정 |
+| ⚠️ TENTATIVE / ❓ OPEN / 📖 NOVEL | — | **추정 (Speculation)** | 개인 묵상·설교 예화 수준. 교리 절대 금지. 청중에게 "이것은 추정입니다" 명시 고지 필수 |
+| ❌ CONTRADICTION | — | 해당 없음 | — |
 
-> **Reason for Judgment**: [1~2 lines on why this pastoral application grade was reached, based on the internal grade and cross-witness tag]
+> **판정 이유**: [내부 등급과 교차증인 태그를 근거로 왜 이 목회 적용 등급에 도달했는지 1~2줄]
 ````
 
 ---
@@ -429,59 +430,59 @@ Write in Mermaid sequenceDiagram format or a text-based arrow diagram
 ## 🚀 [System Run: Trigger / Unified Pipeline]
 
 > [!IMPORTANT]
-> **Unified Engine Execution Protocol**
-> This document (`BVCAP_GHQ.md`) is the **GHQ** and **Presentation Layer**, 
-> and the actual operational execution (analysis and verification) logic strictly follows **`BVCAP_Pipeline.md` (Tactical Manual / Logic Layer)**.
+> **통합 엔진 실행 프로토콜**
+> 이 문서(`BVCAP_GHQ.md`)는 **사령부(GHQ)**이자 **출력 양식(Presentation Layer)**이며, 
+> 실제 작전 수행(분석과 검증) 로직은 반드시 **`BVCAP_Pipeline.md` (전술 교범 / Logic Layer)**를 따른다.
 
-When a user inputs a biblical hard saying or topic, the AI must immediately activate the following procedures:
+사용자가 성경 난제 또는 주제를 입력하면, AI는 즉각 다음 절차를 가동하라:
 
-**STEP 0. Engine Boot Sequence (Boot Sequence — Mandatory prerequisite prior to analysis)**
+**STEP 0. 엔진 부팅 시퀀스 (Boot Sequence — 분석 시작 전 필수 선행)**
 
 > [!CAUTION]
-> **Entry into analysis forbidden if boot is incomplete.** Entering GATE 0 without completing the procedures below is equivalent to entering combat with missing weapons and unequipped rulesets. You must proceed to STEP 1 only after completing STEP 0.
+> **부팅 미완료 시 분석 진입 금지.** 아래 절차를 완료하지 않은 채 GATE 0에 진입하면, 무기 누락·룰셋 미장착 상태에서 전투에 돌입하는 것과 같다. 반드시 STEP 0을 완료한 후 STEP 1로 진행하라.
 
-| Order | Load Target | Execution Method | Verification Criteria |
+| 순서 | 로드 대상 | 실행 방법 | 검증 기준 |
 |:---:|:---|:---|:---|
-| 0-1 | `BVCAP_GHQ.md` (This document) | Read full text | Confirm recognition of MODE determination system, judgment criteria, output format |
-| 0-2 | `BVCAP_Pipeline.md` (Tactical Manual) | Read full text | Confirm recognition of GATE 0~5 procedures, all COMBO-VERIFY types, STRESS-TEST-7 |
-| 0-2B | `00_THESCRIPTURE(Original Texts)/` | Physically confirm file existence via `ls` (`KJV_1769.txt`, etc.) + familiarize with `README.md` | English Standard=`KJV_1769.txt` exclusively, confirm recognition of Korean 3 steps (⒜/⒝/⒞). If file absent, apply `[Exhaustive: Memory-based]` 🟡 grade cap |
-| 0-3 | `01_MANDATE(Operation Orders)/` | Read **all** files in folder | `list_dir` file count = read file count (match mandatory) |
-| 0-4 | `02_TACTICS(Tactics)/` | Read **all** files in folder | `list_dir` file count = read file count (match mandatory) |
-| 0-5 | `04_QUIVER(Armory)/` | Read **all** TYPE files in folder | `list_dir` file count = read file count (match mandatory) |
-| 0-6 | `03_WAR_LOG(Combat Logs)/` | Scan file list in folder | Check existence of past precedents (reading full text is optional) |
-| 0-7 | `05_REPORT(Action Reports)/` | Scan file list in folder | Check existence of past reports (reading full text is optional) |
+| 0-1 | `BVCAP_GHQ.md` (본 문서) | 전문 읽기 | MODE 결정 체계, 판결 기준, 출력 양식 인식 확인 |
+| 0-2 | `BVCAP_Pipeline.md` (전술 교범) | 전문 읽기 | GATE 0~5 절차, COMBO-VERIFY 전종, STRESS-TEST-7 인식 확인 |
+| 0-2B | `00_THESCRIPTURE(성경원문)/` | `ls`로 파일 존재 실제 확인 (`KJV_1769.txt` 등) + `README.md` 숙지 | 영문 정본=`KJV_1769.txt` 하나, 한글 3단계(⒜⒝⒞) 인식 확인. 파일 없으면 `[전수: 기억 기반]` 🟡 등급 상한 적용 |
+| 0-3 | `01_MANDATE(작전명령)/` | 폴더 내 **모든** 파일 읽기 | `list_dir` 파일 수 = 읽은 파일 수 (일치 필수) |
+| 0-4 | `02_TACTICS(전술)/` | 폴더 내 **모든** 파일 읽기 | `list_dir` 파일 수 = 읽은 파일 수 (일치 필수) |
+| 0-5 | `04_QUIVER(무기고)/` | 폴더 내 **모든** TYPE 파일 읽기 | `list_dir` 파일 수 = 읽은 파일 수 (일치 필수) |
+| 0-6 | `03_WAR_LOG(전투기록)/` | 폴더 내 파일 목록 스캔 | 기존 판례 존재 여부 확인 (전문 읽기는 선택) |
+| 0-7 | `05_REPORT(전과보고서)/` | 폴더 내 파일 목록 스캔 | 기존 보고서 존재 여부 확인 (전문 읽기는 선택) |
 
-**Boot Complete Declaration:**
-When all loading is complete, declare the equipment status in the following format and then proceed to STEP 1:
+**부팅 완료 선언 (Boot Complete Declaration):**
+모든 로드가 완료되면, 아래 형식으로 장착 현황을 선언한 후 STEP 1로 진행한다:
 ```
 ✅ BOOT COMPLETE
-- GHQ: Load complete
-- Pipeline: Load complete
-- SCRIPTURE: Corpus confirmation complete (English KJV_1769.txt present/absent, usage step among Korean ⒜/⒝/⒞)
-- MANDATE: N/N files load complete
-- TACTICS: N/N files load complete
-- QUIVER: N/N weapons load complete
-- WAR_LOG: N precedent cases confirmed
-- REPORT: N reports confirmed
-→ Engine ready for operation. Entering STEP 1.
+- GHQ: 로드 완료
+- Pipeline: 로드 완료
+- SCRIPTURE: 코퍼스 확인 완료 (영문 KJV_1769.txt 있음/없음, 한글 ⒜/⒝/⒞ 중 사용 단계)
+- MANDATE: N/N 파일 로드 완료
+- TACTICS: N/N 파일 로드 완료
+- QUIVER: N/N 무기 로드 완료
+- WAR_LOG: N건 판례 확인
+- REPORT: N건 보고서 확인
+→ 엔진 가동 준비 완료. STEP 1 진입.
 ```
-> ⚠️ **Upon count mismatch**: If the `list_dir` result and load count differ, immediately additionally load the missing files. Entry into STEP 1 is forbidden until counts match.
+> ⚠️ **카운트 불일치 시**: `list_dir` 결과와 로드 수가 다르면, 누락된 파일을 즉시 추가 로드한다. 카운트가 일치할 때까지 STEP 1 진입을 금지한다.
 
-**STEP 1. Pipeline Verification Activation (Execute BVCAP_Pipeline.md)**
-  - Equip `01_MANDATE` and `02_TACTICS` rulesets
-  - Execute FULL SCAN of all weapons (TYPE-A~AY + TYPE-B-π) in the `04_QUIVER` armory
-  - Reference `03_WAR_LOG` combat logs and detect/dismiss E-Code evasion logic
+**STEP 1. 파이프라인 검증 가동 (BVCAP_Pipeline.md 실행)**
+  - `01_MANDATE(작전명령)` 및 `02_TACTICS(전술)` 룰셋 장착
+  - `04_QUIVER` 무기고의 전종 무기(TYPE-A~AY + TYPE-B-π) FULL SCAN 실행
+  - `03_WAR_LOG` 전투기록 참고 및 E-Code 회피논법 탐지/기각
 
-**STEP 2. Masterpiece Format Output (Based on BVCAP_GHQ.md)**
-  - Based on the results derived from the pipeline operation, activate the **[PHASE 5: Final Output Format — Masterpiece Report]** of this document.
-  - Pronounce the final verdict (✅ / ⚠️ / ❌) and scholarly consensus level (🟢 / 🟡 / 🔴) along with the fierce argumentative process.
+**STEP 2. 마스터피스 양식 출력 (BVCAP_GHQ.md 기준)**
+  - 파이프라인 작전에서 도출된 결과를 바탕으로 이 문서의 **[PHASE 5: 최종 출력 양식 — Masterpiece Report]**을 가동한다.
+  - 치열한 논증 과정과 함께 최종 판결(✅ / ⚠️ / ❌) 및 학술 합의 수준(🟢 / 🟡 / 🔴) 선고.
 
 > [!WARNING]
-> **Bias Prohibition Principle**: If the data does not support the biblical record, the Analyst must honestly admit it.
-> The Arbiter does not permit the premise "it is correct because it's the Bible".
-> The Critic is also not permitted the premise "it is wrong because it's the Bible".
+> **편향 금지 원칙**: 분석자는 데이터가 성경의 기록을 지지하지 않을 경우 솔직하게 인정해야 한다.
+> 중재자는 "성경이니까 맞다"는 전제를 허용하지 않는다.
+> 비판자는 "성경이니까 틀렸다"는 전제도 허용하지 않는다.
 
 ---
 *Generated by BVCAP 3.0 Supreme Neutral Auditor Engine*
 *Architecture: Dual-Layer System (Logic: BVCAP_Pipeline.md + Presentation: BVCAP_GHQ.md)*
-*STATUS: RIGOROUS NEUTRALITY ENFORCED | FULL SCAN Deploy All Types | TARGET: EVIDENCE-BASED VERDICT*
+*STATUS: RIGOROUS NEUTRALITY ENFORCED | FULL SCAN 전종 투입 | TARGET: EVIDENCE-BASED VERDICT*

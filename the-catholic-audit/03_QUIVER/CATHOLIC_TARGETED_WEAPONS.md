@@ -1,169 +1,158 @@
----
-id: "catholic-quiver-021"
-title_ko: "🏹 가톨릭 교리 특화 성경 무기 카드"
-title_en: "🏹 Scripture Weapon Cards Targeting Catholic Doctrine"
-file_ko: "CATHOLIC_TARGETED_WEAPONS.md"
-file_en: "CATHOLIC_TARGETED_WEAPONS.md"
-category: "quiver"
-status: "translated"
-source: "KO"
-updated: "2026-08-27"
----
-# 🏹 Scripture Weapon Cards Targeting Catholic Doctrine
-## The BVCAP Catholic-Strike Forensics Set
+# 🏹 가톨릭 교리 특화 성경 무기 카드
+## BVCAP 가톨릭 타격 포렌식 세트
 
 > [!IMPORTANT]
-> **Jurisdiction Notice**: because this file is a **Catholic-only asset**, it is kept in the-catholic-audit's
-> weapons cache (`03_QUIVER/`), but the content of these cards falls under the **jurisdiction of the Scripture Court (BVCAP)**.
-> **Deployment in the CVCAP Document Court (internal-document argumentation) is prohibited** — used only for BVCAP (`../../the-scripture-audit/`) scriptural verification and
-> at the final merged-content production stage.
+> **관할 주의 (Jurisdiction Notice)**: 이 파일은 **가톨릭 전용 자산**이므로 the-catholic-audit의
+> 무기고(`03_QUIVER/`)에 보관하지만, 카드 내용은 **성경 법정(BVCAP) 관할**이다.
+> CVCAP 문헌 법정(내부 문헌 논증)에는 **투입 금지** — BVCAP(`../../the-scripture-audit/`) 성경 검증과
+> 최종 병합 콘텐츠 제작 시에만 사용한다.
 
-> **Purpose**: to be deployed immediately when Catholicism argues doctrine from Scripture (within the BVCAP process)
-> **Principle**: the KJV original text alone is evidence. Translations, tradition, and the Magisterium are not admissible as evidence.
-> **Counterpart**: verification of Catholicism's internal documents (CCC, councils, papal declarations) is handled by `QVCAP_WEAPONS.md` (the Document Court) in the same folder.
-> The two reports are merged at the final content stage.
-
----
-
-## 🎯 Overview of the Four Strike Logics
-
-1. **Lexical & Textual Strike** — corrects errors in the Bible translation Catholicism uses to support a given doctrine (e.g., the Latin Vulgate) against the original Greek/Hebrew text, removing the doctrine's foundation. Example: cross-analysis of Greek usage completely blocks the attempt to defend "Mary's perpetual virginity" by reinterpreting "brothers" (adelphoi) as "cousins."
-2. **Timeline Contradiction** — proves the historical impossibility of a Catholic-claimed tradition (e.g., Peter's episcopacy at Rome and his primacy) by placing it against the timeline of Acts and the Pauline epistles. Example: pressing the fact that in Romans (c. AD 57-58), Paul greets numerous people but makes no mention at all of Peter, the supposed "head" of the Roman church.
-3. **Contextual Collapse** — when a specific verse (e.g., Matt. 16:18) is isolated to build a doctrine, forcibly restoring the surrounding context (Matt. 16:23, "Get thee behind me, Satan") to collapse the legitimacy of the claim.
-4. **Typological Strike (Redemptive-Historical)** — dismantles the Eucharist, which denies the "once for all" atonement and repeats Christ's sacrifice at every Mass (transubstantiation), through the redemptive-historical typology of Hebrews (Jesus Christ the High Priest).
+> **용도**: 가톨릭이 성경을 근거로 교리를 주장할 때 즉시 투입 (BVCAP 절차 내에서)
+> **원칙**: KJV 원문만이 증거. 번역·전통·교도권은 증거 불채택.
+> **짝꿍**: 가톨릭 내부 문헌(CCC·공의회·교황 선언) 검증은 같은 폴더의 `QVCAP_WEAPONS.md` (문헌 법정) 담당.
+> 최종 콘텐츠 단계에서 양측 보고서를 통합한다.
 
 ---
 
-## ⚔️ Weapon Card A: John 6:63 — Striking at the Heart of Transubstantiation
+## 🎯 4대 타격 로직 개요 (Strike Logic Overview)
 
-### Status
-The key verse **both sides avoided** in Round 2. Must be deployed preemptively in Round 3.
+1. **원어 및 사본학 타격 (Lexical & Textual Strike)** — 가톨릭이 특정 교리를 뒷받침하기 위해 사용하는 성경 번역(예: 라틴어 불가타)의 오류를 헬라어/히브리어 원문으로 바로잡아 교리의 기반을 삭제. 예: '마리아의 평생 동정성'을 방어하기 위해 '형제들(아델포이)'을 '사촌'으로 우회 해석하려는 시도를 헬라어 용례 교차 분석으로 원천 차단.
+2. **타임라인 모순 적발 (Timeline Contradiction)** — 가톨릭이 주장하는 전통(예: 베드로의 로마 주교설 및 수위권)을 사도행전과 바울 서신의 시간대에 대입하여 역사적 불가능성을 입증. 예: 바울이 로마서(AD 57-58경)에서 수많은 사람에게 문안하면서 로마 교회의 '수장'이라는 베드로에게는 전혀 언급하지 않은 정황 압박.
+3. **문맥 붕괴 타격 (Contextual Collapse)** — 특정 구절(예: 마 16:18)을 분리하여 교리를 전개할 때, 앞뒤 문맥(마 16:23 "사탄아 물러가라")을 강제 복원하여 주장의 정당성을 붕괴.
+4. **구속사적 모형 타격 (Typological Strike)** — 단번 속죄(Once for all)를 부인하고 매 미사마다 그리스도의 희생을 반복(화체설)하려는 성체성사를 히브리서의 구속사적 모형(대제사장 예수 그리스도)을 통해 폐기.
 
-### Original Text (KJV)
+---
+
+## ⚔️ 무기 카드 A: 요한복음 6:63 — 화체설의 심장부 타격
+
+### 현황
+2차전에서 **양측 모두 회피**한 핵심 구절. 3차전 선제 투입 필수.
+
+### 원문 (KJV)
 > *"It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life."*
+> (살리는 것은 영이니 육은 무익하니라. 내가 너희에게 이른 말은 영이요 생명이라)
 
-### Original-Language Analysis (TYPE-G)
-| Verse | Word | Greek | Same Word? |
+### 원어 분석 (TYPE-G)
+| 구절 | 단어 | 헬라어 | 동일 여부 |
 |:---:|:---:|:---:|:---:|
-| John 6:53-55 | "flesh" (except ye eat the flesh) | σάρξ (sarx) | ✅ Same |
-| John 6:63 | "flesh" (the flesh profiteth nothing) | σάρξ (sarx) | ✅ Same |
+| 요 6:53-55 | "살" (내 살을 먹지 아니하면) | σάρξ (sarx) | ✅ 동일 |
+| 요 6:63 | "육" (육은 무익하니라) | σάρξ (sarx) | ✅ 동일 |
 
-### Strike Logic
+### 타격 논리
 ```
-Transubstantiation premise: the "flesh" (sarx) of John 6:53-55 is physical flesh and blood
-             → this must be eaten for salvation/eternal life
+화체설 전제: 요 6:53-55의 살(sarx)은 물리적 살과 피
+             → 이것을 먹어야 구원/영생
 
-Introducing John 6:63: "sarx (flesh) profits nothing, my words are spirit (pneuma)"
-             → Jesus himself states that sarx profits nothing
+요 6:63 대입: "sarx(살)은 무익하다, 내 말은 영(pneuma)이다"
+             → 예수님이 직접 sarx가 무익하다고 하심
 
-TYPE-AI (Reductio ad Absurdum):
-IF transubstantiation is correct → the sarx of vv. 53-55 = something profitable
-IF v. 63 is correct → sarx = something unprofitable
-∴ the same word cannot be simultaneously profitable and unprofitable → transubstantiation is self-contradictory
+TYPE-AI(귀류법):
+IF 화체설이 맞다면 → 53-55절 sarx = 유익한 것
+IF 63절이 맞다면  → sarx = 무익한 것
+∴ 동일 단어가 동시에 유익하고 무익할 수 없다 → 화체설 자기모순
 ```
 
-### Blocking the Anticipated Rebuttal: The "Two sarx" Interpretation
-> Catholic response: "the sarx of vv. 53-55 = the glorified body of Christ / the sarx of v. 63 = fallen human nature"
+### 예상 반박 봉쇄: "두 개의 sarx" 해석
+> 가톨릭: "53-55절 sarx = 영광스러운 그리스도의 몸 / 63절 sarx = 타락한 인간 본성"
 
-**Blocking**:
-1. To shift the meaning of the same word within a single discourse (John 6), there must be a contextual marker of the shift (TYPE-AL, lexical ambiguity)
-2. No such marker exists anywhere in John 6
-3. That the audience (the disciples) said immediately after v. 63, "this is a hard saying," is evidence that Jesus **corrected** a physical interpretation
+**봉쇄**:
+1. 동일 담화(요 6장) 내에서 같은 단어를 다른 의미로 전환하려면 문맥적 전환 표시가 있어야 한다 (TYPE-AL 어의 중의성)
+2. 요 6장에는 해당 전환 표시가 없다
+3. 청중(제자들)이 63절 직후 "이 말씀이 어렵도다"라고 한 것은 — 예수님이 물리적 해석을 **정정하셨다**는 증거
 
 ---
 
-## ⚔️ Weapon Card B: Hebrews' Once-for-All Sacrifice — Collapsing the Structure of Transubstantiation
+## ⚔️ 무기 카드 B: 히브리서 단번 제사 — 화체설 구조 붕괴
 
-### Original Text (KJV)
-| Verse | Content |
+### 원문 (KJV)
+| 구절 | 내용 |
 |:---|:---|
-| Heb. 7:27 | *"who needeth not daily... to offer up sacrifice... for this he did **once**"* |
-| Heb. 9:12 | *"by his own blood he entered in **once** into the holy place"* |
-| Heb. 10:12 | *"this man... offered **one sacrifice** for sins for ever"* |
-| Heb. 10:14 | *"by **one offering** he hath perfected for ever them that are sanctified"* |
+| 히 7:27 | *"who needeth not daily... to offer up sacrifice... for this he did **once**"* |
+| 히 9:12 | *"by his own blood he entered in **once** into the holy place"* |
+| 히 10:12 | *"this man... offered **one sacrifice** for sins for ever"* |
+| 히 10:14 | *"by **one offering** he hath perfected for ever them that are sanctified"* |
 
-### Strike Logic
+### 타격 논리
 ```
-Transubstantiation: at every Mass, the flesh and blood of Christ really become a sacrifice again
-Hebrews: once (a single time), one sacrifice, no need for a daily sacrifice
+화체설: 미사마다 그리스도의 살과 피가 실재로 제물이 됨
+히브리서: once(단 한번), one sacrifice(한 제사), daily 불필요
 
-Forced Choice:
-(A) Hebrews is correct → the repeated sacrifice of the Mass denies the "complete once-for-all" → transubstantiation is discarded
-(B) Transubstantiation is correct → Hebrews's "once," "no need to do this daily," are false
-∴ Both cannot be true
+강제 선택:
+(A) 히브리서가 맞다 → 미사의 반복 제사는 "완전한 한 번"을 부정 → 화체설 폐기
+(B) 화체설이 맞다 → 히브리서의 "한 번", "날마다 필요 없다"가 거짓
+∴ 둘 다 참일 수 없음
 ```
 
 ---
 
-## ⚔️ Weapon Card C: 1 Timothy 2:5 — Foreclosing the Intercession of the Saints at the Source
+## ⚔️ 무기 카드 C: 딤전 2:5 — 성인 전구 원천 봉쇄
 
-### Original Text (KJV)
+### 원문 (KJV)
 > *"For there is **one God, and one mediator** between God and men, the man Christ Jesus"*
 
-### Strike Logic
+### 타격 논리
 ```
-The doctrine of the intercession of the saints: Mary and the saints mediate between God and man
-1 Tim. 2:5: there is only one mediator — Jesus Christ
+성인 전구론: 마리아와 성인들이 하나님과 인간 사이에서 중보함
+딤전 2:5: 중보자는 오직 한 분 — 예수 그리스도
 
-Forced Choice:
-(A) 1 Tim. 2:5 is correct → the intercession of Mary and the saints violates "one mediator"
-(B) the intercession of the saints is correct → the "one mediator" of 1 Tim. 2:5 is false
+강제 선택:
+(A) 딤전 2:5가 맞다 → 마리아·성인 전구는 "한 중보자"를 위반
+(B) 성인 전구가 맞다 → 딤전 2:5의 "한 중보자"가 거짓
 ```
 
-**Anticipated Rebuttal:** *"Intercession and mediation are different"*
-**Blocking:** the Greek μεσίτης (mesites, 1 Tim. 2:5) means one who connects two parties from the middle. If a saint "relays a prayer on someone's behalf," this is precisely the function of mesites. The function is the same; only the name differs.
+**예상 반박:** *"전구(intercession)와 중보(mediation)는 다릅니다"*
+**봉쇄:** 헬라어 μεσίτης (mesites, 딤전 2:5) = 중간에서 연결하는 자. 성인이 "기도를 대신 전달"한다면 이것이 mesites의 기능이다. 기능은 같고 명칭만 다르다.
 
 ---
 
-## ⚔️ Weapon Card D: "This Rock" of Matt. 16:18 — Defeating Petrine Primacy in the Original Language
+## ⚔️ 무기 카드 D: 마 16:18 반석 — 베드로 수위권 원어 격파
 
-### Original Text (KJV)
+### 원문 (KJV)
 > *"thou art Peter (Πέτρος), and upon this rock (πέτρα) I will build my church"*
 
-### Original-Language Analysis (TYPE-G)
-| Word | Greek | Meaning |
+### 원어 분석 (TYPE-G)
+| 단어 | 헬라어 | 의미 |
 |:---:|:---:|:---|
-| Peter | Πέτρος (Petros) | a small stone, a fragment of rock (masculine) |
-| this rock | πέτρα (petra) | a massive rock, bedrock (feminine) |
+| Peter (베드로) | Πέτρος (Petros) | 작은 돌, 조각돌 (남성형) |
+| this rock (이 반석) | πέτρα (petra) | 거대한 반석, 기반암 (여성형) |
 
 ```
-If Jesus called Peter "the rock," the same word would be used
-But a different word is used → a deliberate distinction
+예수님이 베드로를 "반석"이라 하셨다면 같은 단어 사용
+그러나 다른 단어 사용 → 의도적 구분
 
-"This rock" = Peter's confession, "Thou art the Christ, the Son of the living God" (Matt. 16:16)
-→ the foundation of the Church = the content of the confession (Christ's identity), not Peter himself
+"이 반석" = 베드로의 고백 "주는 그리스도시요 살아 계신 하나님의 아들이시니이다" (마 16:16)
+→ 교회의 기반 = 고백의 내용 (그리스도의 정체성), 베드로 개인이 아님
 
-Confirmation: in Matt. 16:23, Jesus says to that very Peter, "Get thee behind me, Satan"
-→ Peter, the supposed rock of the Church, is called Satan in the very next passage → the context is destroyed
+확증: 마 16:23에서 예수님이 바로 베드로에게 "사탄아 물러가라"고 함
+→ 교회의 반석이라는 베드로가 바로 다음 절에서 사탄이라 불림 → 문맥 파괴
 ```
 
-### ⚠️ The Anticipated Strongest Rebuttal: "There Is No Distinction in the Original Aramaic" (the Kepha Objection)
+### ⚠️ 예상 최강 반박: "아람어 원어에는 구분이 없다" (케파/Kepha 반론)
 
-> A common rebuttal from Catholics and some biblical scholars: "The language Jesus actually spoke was Aramaic, and in Aramaic, Peter (Kepha) and rock (Kepha) are **exactly the same word**. The gender distinction between the Greek Πέτρος/πέτρα is merely a grammatical accommodation to a masculine proper noun in Greek, not a deliberate choice by Jesus to use different words."
+> 가톨릭·일부 성서학자 공통 반박: "예수님이 실제 사용하신 언어는 아람어이며, 아람어에서는 베드로(Kepha)와 반석(Kepha)이 **완전히 동일한 단어**다. 그리스어의 Πέτρος/πέτρα 성별 구분은 그리스어 문법상 남성 고유명사에 맞추기 위한 표기일 뿐, 예수님이 의도적으로 다른 단어를 구분해 쓰신 것이 아니다."
 
-**Blocking Under the FULL SCAN Principle (Preemptive Rebuttal Defense):**
+**FULL SCAN 원칙에 따른 봉쇄(선제 반론 방어):**
 ```
-1. This pipeline's principle of primary evidence is "the Greek text underlying the KJV (English)."
-   The inspired text we actually possess is the Greek Gospel of Matthew, not a hypothetical Aramaic original.
-   The Greek author (Matthew) deliberately adopted the different forms Πέτρος and πέτρα —
-   had identical repetition been intended, he could have forced πέτρος into a feminine form,
-   or specified identity through some other construction, yet he did not.
-2. Even granting that a Kepha/Kepha homonymic wordplay existed in the original Aramaic utterance,
-   this proves only that "a play on words existed between Peter's name and the rock,"
-   and does not automatically yield the conclusion that "the rock = Peter's person/office."
-   The possibility that the object of the wordplay was not "Peter as an individual" but
-   "the content of the faith Peter had just confessed" (16:16) remains equally open even under the Aramaic hypothesis.
-3. Even the Church Father Augustine, in a later work (the Retractationes 1.21.1),
-   revised his own view to the interpretation that "the rock is the Christ whom Peter confessed" —
-   this is corroborating evidence that "the homonymy of the original language" and "the referent of the rock" are separate issues.
-4. Decisively, the contextual argument from Matt. 16:23 ("Get thee behind me, Satan") stands
-   independently, regardless of the Aramaic/Greek language question — regardless of whether wordplay is present,
-   the structural contradiction remains that the very same person identified as the rock just a few verses earlier
-   is called "Satan."
+1. 본 파이프라인의 1차 증거 원칙은 "KJV(영어) 배후의 헬라어 원문"이다.
+   우리가 실제로 소유한 영감된 본문은 헬라어 마태복음이며, 가상의 아람어 원본이 아니다.
+   헬라어 저자(마태)는 굳이 Πέτρος와 πέτρα라는 다른 형태를 채택했다 —
+   동일어 반복이 필요했다면 πέτρος를 여성형으로 억지로 쓰거나 다른 구문으로
+   동일성을 명시할 수 있었음에도 그렇게 하지 않았다.
+2. 설사 아람어 원발화에서 케파/케파로 동음이의 언어유희가 있었다 하더라도,
+   이는 "베드로의 이름과 반석 사이에 말장난이 존재했다"는 사실만 증명할 뿐,
+   "반석 = 베드로의 인격/직분"이라는 결론까지 자동으로 도출하지 않는다.
+   말장난의 대상이 "베드로 개인"이 아니라 "베드로가 방금 고백한 신앙 내용"(16:16)일
+   가능성은 아람어 가설 하에서도 동일하게 열려 있다.
+3. 교부 아우구스티누스조차 후기 저작(재고, Retractationes 1.21.1)에서
+   "반석은 베드로가 고백한 그리스도"라는 해석으로 스스로 견해를 수정했다 —
+   이는 "원어의 동음이의성"과 "반석의 지시 대상"이 별개 쟁점임을 보여주는 방증이다.
+4. 결정적으로 마 16:23("사탄아 물러가라") 문맥 논증은 아람어/헬라어 언어 문제와
+   무관하게 독립적으로 성립한다 — 언어유희 여부와 상관없이, 반석으로 지목된 지
+   불과 몇 절 뒤에 동일 인물이 "사탄"으로 불리는 구조적 모순은 그대로 남는다.
 ```
-> **Conclusion**: the Kepha objection proves only "the existence of wordplay," not "Peter = the rock of the Church itself." Level of scholarly consensus: 🟡 a genuine debate (both positions exist) — the referent of the rock (Peter as an individual vs. Peter's confession of faith) remains disputed between Catholic and Protestant scholars, and it is stated honestly here that this is not a matter settled by original-language argumentation alone.
+> **결론**: 케파 반론은 "언어유희의 존재"를 입증할 뿐 "베드로 = 교회의 반석 그 자체"를 입증하지 못한다. 학술 합의 수준: 🟡 유력 견해(양쪽 모두 존재) — 반석의 지시 대상(베드로 개인 vs 베드로의 신앙고백)은 가톨릭·개신교 학자 간 여전히 논쟁 중이며, 원어 논증 하나만으로 단독 확정되는 사안이 아님을 정직하게 병기한다.
 
 ---
 
-*BVCAP Catholic-targeted weapon cards — kept as a Catholic-only asset in the-catholic-audit/03_QUIVER/ (under the jurisdiction of the Scripture Court, reserved for the merge stage)*
-*The patristic weapon (Augustine's reverse cherry-picking) is a Catholic "internal document," so see Collapse Card 6 of QVCAP_WEAPONS.md in the same folder*
+*BVCAP 가톨릭 특화 무기 카드 — 가톨릭 전용 자산으로 the-catholic-audit/03_QUIVER/에 보관 (성경 법정 관할, 병합 단계 전용)*
+*교부 문헌 무기(아우구스티누스 역체리피킹)는 가톨릭 '내부 문헌'이므로 같은 폴더 QVCAP_WEAPONS.md 파탄 카드 6 참조*

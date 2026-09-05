@@ -1,46 +1,35 @@
----
-id: "catholic-doctrine_db-062"
-title_ko: "TRENT-S07-C05 — 세례가 구원에 필수 아니라 하면 파문"
-title_en: "TRENT-S07-C05 — Anathema for Denying That Baptism Is Necessary for Salvation"
-file_ko: "TRENT_S07_C05.md"
-file_en: "TRENT_S07_C05.md"
-category: "doctrine_db"
-status: "translated"
-source: "KO"
-updated: "2026-08-27"
----
-# TRENT-S07-C05 — Anathema for Denying That Baptism Is Necessary for Salvation
+# TRENT-S07-C05 — 세례가 구원에 필수 아니라 하면 파문
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | TRENT-S07-C05 |
-| **Source** | Council of Trent (Concilium Tridentinum) |
-| **Reference** | Seventh Session, Decree on Baptism, Canon 5 |
-| **Doctrinal Rank** | De Fide |
-| **Anathema** | ✅ Yes |
-| **Year** | 1547 |
+| **출처** | 트렌트 공의회 (Concilium Tridentinum) |
+| **조항** | 제7차 회기, 세례에 관한 교령, Canon 5 |
+| **교의 등급** | De Fide |
+| **파문(Anathema)** | ✅ 예 |
+| **연도** | 1547 |
 
-## Original Text (Summary)
-> "If anyone says that baptism is optional (ad libitum), that is, not necessary for salvation: let him be anathema (anathema sit)."
+## 원문 (요약)
+> "세례가 구원에 자유로이(ad libitum) 필요한 것, 즉 구원에 필수적이지 않다고 말하는 자는 파문될지어다(anathema sit)."
 
-## Latin Text
+## 라틴어 원문
 > "Si quis dixerit, baptismum liberum esse, hoc est non necessarium ad salutem: anathema sit."
 
-## Tags
-`sacramental_theology`, `baptism`, `soteriology`, `de_fide`, `necessary`, `prohibited`
+## 태그
+`성사론`, `세례`, `구원론`, `de_fide`, `필수`, `금지`
 
-## Claims
-1. Baptism is necessary for salvation (necessarium ad salutem)
-2. Salvation cannot be attained without baptism (as the ordinary means)
-3. Baptism is not optional but obligatory
-4. Whoever denies this doctrine is anathematized
+## 주장 (Claims)
+1. 세례는 구원에 필수적(necessarium ad salutem)이다
+2. 세례 없이는 구원에 이를 수 없다 (통상적 수단으로서)
+3. 세례는 선택 사항이 아니라 의무이다
+4. 이 교리를 부정하는 자는 파문(anathema)된다
 
-## Negates
-1. The proposition that baptism is not necessary for salvation
-2. The proposition that baptism is optional (ad libitum)
-3. The proposition that one can be saved by faith alone, without baptism
+## 부정 (Negates)
+1. 세례가 구원에 필수가 아니라는 명제
+2. 세례가 선택적(자유로이)이라는 명제
+3. 세례 없이도 믿음만으로 구원받을 수 있다는 명제
 
-## Related Collisions
-- → TRENT-S06-CH04 (The desire for baptism — an exception via votum baptismi)
-- → LG-16 (The possibility of salvation for the unbaptized)
-- → CCC-1257 (Baptism is necessary, yet God himself is not bound by his sacraments)
+## 관련 충돌
+- → TRENT-S06-CH04 (세례의 열망 — votum baptismi에 의한 예외)
+- → LG-16 (세례 받지 않은 이들의 구원 가능성)
+- → CCC-1257 (세례 필수이나, 하느님은 세례에 매이지 않으심)

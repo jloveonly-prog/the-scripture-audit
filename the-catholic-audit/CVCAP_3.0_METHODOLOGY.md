@@ -1,102 +1,124 @@
 > [!IMPORTANT]
-> ## 🧠 Automation Engine Spec (Automation Layer)
-> **What this document does**: Doctrine DB automatic conflict detection · Logical filters · Combo engine · Conflict severity definition
-> **Companion documents**: `CVCAP_GHQ.md` (HQ — Strategy/Verdict criteria) · `CVCAP_Pipeline.md` (Tactical manual — OODA execution procedure)
-> **Relationship**: The HQ determines "what to strike and why," this automation engine "mechanically unearths strike candidates," and the tactical manual "verifies the candidates in court."
+> ## 🧠 자동화 엔진 명세 (Automation Layer)
+> **이 문서가 하는 일**: 교리 DB 자동 충돌 탐지 · 논리 필터 · 콤보 엔진 · 충돌 등급 정의
+> **짝꿍 문서**: `CVCAP_GHQ.md` (사령부 — 전략·판결 기준) · `CVCAP_Pipeline.md` (전술 교범 — OODA 실행 절차)
+> **관계**: 사령부가 "무엇을 왜 치는가"를 정하면, 본 문서의 자동화 엔진이 "타격 후보를 기계적으로 발굴"하고, 전술 교범이 "후보를 법정에서 검증"한다.
 
-# 🧠 CVCAP 3.0 Methodology (The Ultimate Theological Logic Verification Algorithm)
+# 🧠 CVCAP 3.0 방법론 (궁극의 신학 논리 검증 알고리즘)
 ## Catholic Vault & Conciliar Audit Pipeline — Automation Engine Spec
 
-> **Version**: v3.0
-> **Status**: Active
-> **Target**: Catholic internal documents only (CCC · Councils · Papal declarations · Canon Law · CDF documents)
-> **Scriptural Verification**: Not handled by this engine — `../the-scripture-audit/` (BVCAP) handles it separately, and the two reports are merged at the final output stage.
+> **버전**: v3.0
+> **상태**: Active
+> **검증 대상**: 가톨릭 내부 문헌 전용 (CCC · 공의회 · 교황 선언 · 교회법 · 신앙교리부 문서)
+> **성경 검증**: 본 엔진에서 다루지 않음 — `../the-scripture-audit/` (BVCAP)가 별도 담당하며, 최종 산출물 단계에서 두 보고서를 통합한다.
 
 ---
 
-## 📜 Version History
+## 📜 버전 연혁 (Version History)
 
-| Version | Method | Limitation → Reason for Next Version |
+| 버전 | 방식 | 한계 → 다음 버전 도입 이유 |
 |:---:|:---|:---|
-| **1.0** | Manual verification | Speed limits, only handles known conflicts |
-| **2.0** | Doctrine DB structure + A→Not-A auto-detect + Hermeneutical rupture, Modus Tollens, Reductio ad absurdum, Practical contradiction filters | Mostly surface conflicts — couldn't catch the 'mindset itself' of defense logic |
-| **3.0** | Inherits all 2.0 + 4 Meta logic filters (Moving goalposts, Retorsion, False dichotomy, Argument from silence) + Combo engine + LLM secondary judge | (Current) |
+| **1.0** | 수동 검증 — 알려진 충돌을 사람이 정리 | 발굴 속도 한계, 알려진 충돌만 다룸 |
+| **2.0** | 교리 DB(`04_DOCTRINE_DB/`) 구조화 + A→Not-A 자동 탐지 + 해석학적 단절·후건 부정식·귀류법·실천적 모순 필터 | 표면 충돌 위주 — 방어 논리의 '사고방식 자체'는 못 잡음 |
+| **3.0** | 2.0 전체 계승 + 메타 논리 필터 4종(목표대 이동·부메랑 논증·거짓 이분법·침묵 논증) + 콤보 엔진 + LLM 2차 심사 | (현행) |
+
+> 구버전 설계 문서(`CVCAP_1.0.md`, `CVCAP_2.0.md`)는 본 문서로 흡수 후 삭제되었다. 이력은 git 히스토리 참조.
 
 ---
 
-## 1. Overview
+## 1. 개요 (Overview)
 
-CVCAP 1.0 was a 1-dimensional formal logic filter detecting only explicit text conflicts (A vs Not A).
-CVCAP 2.0 caught surface absurdities through 'hermeneutical rupture, modus tollens, reductio ad absurdum, and practical contradictions'.
-**CVCAP 3.0** goes a step further, absorbing advanced forensic logic weapons to completely shut down the **'deception and logical fallacy of the mindset itself'** used by the Catholic Magisterium to defend itself, acting as the Ironclad filter.
-
----
-
-## 2. Automatic Conflict Discovery Pipeline (Zero-day Discovery Pipeline)
-
-### Step 1: Proposition Extraction
-Extract `claims[]` and `negates[]` from each doctrine card in `04_DOCTRINE_DB/`.
-
-### Step 2: Cross-Reference
-- Check if Card A's `claims[]` semantically matches Card B's `negates[]`.
-- Execute: `scripts/conflict_detector.py` → `07_REPORT/auto_conflict_results.csv`
-
-### Step 3: LLM Secondary Precision Judge (LLM-as-a-Judge)
-- Embedding similarity cannot distinguish 'topic proximity' from 'logical contradiction', so LLM re-judges candidates in theological context.
-- Execution: `scripts/llm_judge.py` or `cvcap-judge` agent.
-
-### Step 4: Combo Detection (2~4 stages)
-- Execute: `scripts/run_cvcap_combos.py` → `07_REPORT/cvcap_combo_results.csv`
-
-### Step 5: Conflict Card Registration
-Save verified conflicts in `05_COLLISION_CARDS/confirmed/` and `05_COLLISION_CARDS/combos/`.
+CVCAP 1.0은 문헌 간의 '명시적인 텍스트 정면 충돌(A vs Not A)'만을 탐지하는 1차원적 형식 논리 필터였습니다.
+CVCAP 2.0은 '해석학적 단절, 후건 부정식, 귀류법, 실천적 모순'을 통해 표면적 부조리를 적발했습니다.
+**CVCAP 3.0**은 여기서 한 걸음 더 나아가, 고급 포렌식 논리 무기들을 흡수하여 가톨릭 교도권이 스스로를 방어할 때 사용하는 **'사고방식 자체의 기만과 논리적 오류(Fallacy)'**를 원천 차단하는 최종 종결(Ironclad) 필터입니다.
 
 ---
 
-## 3. Collision Severity Levels
+## 2. 자동 충돌 탐지 파이프라인 (Zero-day Discovery Pipeline)
 
-| Level | Description | Destructive Power |
+### Step 1: 명제 추출
+각 교리 카드(`04_DOCTRINE_DB/`, `schema.md` 형식)의 `claims[]`와 `negates[]`를 추출
+
+### Step 2: 교차 대조 (Cross-Reference)
+- 카드 A의 `claims[]`가 카드 B의 `negates[]`와 의미론적으로 매칭되는지 확인 (Sentence-Transformers 임베딩, 임계값 0.60)
+- Cross-claim 재확인: A의 주장이 B 자신의 claims와도 유사하면 "동일 입장"으로 오탐 제외
+- 실행: `scripts/conflict_detector.py` → `07_REPORT/auto_conflict_results.csv` (+ 제외 사례 별도 CSV)
+
+### Step 3: LLM 2차 정밀 심사 (LLM-as-a-Judge)
+- 임베딩 유사도는 '주제 인접'과 '논리 모순'을 구분하지 못하므로, 후보를 LLM이 신학적 맥락에서 재심사
+- **실행 경로 2가지 (둘 다 별도 API 키 불필요 — 로그인된 Claude Code 사용)**:
+  - 배치 스크립트: `python scripts/llm_judge.py [N] [START]` — claude CLI 헤드리스(`claude -p`)를 자식 프로세스로 호출, 10건씩 묶음 심사, 구간 분할 실행 시 판정 자동 병합 → `07_REPORT/llm_verified_conflicts.csv`(YES만) + `llm_judge_full_log.csv`(전체 로그)
+  - 대화형 서브에이전트: Claude Code 세션에서 `cvcap-judge` 에이전트 호출 (정의: 리포 루트 `.claude/agents/cvcap-judge.md`) — 원문 카드 대조까지 겸한 정밀 심사에 적합
+- ⚠️ **방향 오류 가드 (실측 교훈)**: "A의 주장이 B의 단죄 명제와 모순"은 충돌이 아니라 **동일 입장**이다(둘 다 그 명제를 배격). 진짜 충돌은 "A가 주장하는 바로 그것을 B가 단죄"할 때만 성립 — 이 가드 없이 심사하면 동일 입장 쌍이 대량 오탐된다 (2026-07-07 실측: 상위 100건 심사에서 오탐 9건 발생 후 프롬프트에 가드 추가).
+
+### Step 4: 콤보 탐지 (2~4단)
+```
+2단: A ↔ B 직접 충돌
+3단: A→B 양립, B→C 양립, A→C 불가
+4단: A+B 전제 → C 필요 → C↔D 충돌 → D=A의 근거
+```
+- 실행: `scripts/run_cvcap_combos.py` → `07_REPORT/cvcap_combo_results.csv`
+- ⚠️ **정직성 원칙**: 콤보 엔진의 필터는 키워드 태깅이다. 결과 수치는 "필터 히트 건수"이지 "논리적으로 확정된 모순 수"가 아니다. 확정은 반드시 사람 또는 LLM 심사를 거쳐 `05_COLLISION_CARDS/confirmed/` 및 `combos/`에 카드로 등록한다.
+
+### Step 5: 충돌 카드 등록
+검증 완료된 충돌을 `05_COLLISION_CARDS/confirmed/`(단일 충돌) 및 `05_COLLISION_CARDS/combos/`(콤보)에 저장, 시각화는 `scripts/generate_graph.py`
+
+---
+
+## 3. 충돌 등급 분류 (Collision Severity Levels)
+
+| Level | 설명 | 파괴력 |
 |:---:|:---|:---|
-| **5** | De Fide vs De Fide — Absolute dogma contradiction | ☢️ Nuke |
-| **4** | De Fide vs Council document | 💣 High Explosive |
-| **3** | CCC vs CCC internal conflict | 🔥 Grenade |
-| **2** | Canon Law vs CCC | 🔫 Bullet |
-| **1** | Recent Papal document vs Past dogma tension | 🔍 Probe |
+| **5** | De Fide vs De Fide — 절대 교의끼리 모순 | ☢️ 핵폭탄 |
+| **4** | De Fide vs 공의회 문서 충돌 | 💣 고폭탄 |
+| **3** | CCC vs CCC 내부 충돌 | 🔥 수류탄 |
+| **2** | 교회법 vs CCC 충돌 | 🔫 총탄 |
+| **1** | 최근 교황 문서 vs 과거 교의 긴장 | 🔍 탐색 |
 
 ---
 
-## 4. Core Logical Filters
+## 4. 핵심 알고리즘 — 8대 논리 필터 (Core Logical Filters)
 
-### 🔴 Filter 1: Reductio ad absurdum
-* Finds structures where assuming a doctrine is true leads to an absurd conclusion against other Catholic doctrines or historical facts.
+### 🔴 필터 1: 귀류법 (Reductio ad absurdum) — 전제 파괴 탐지기 (2.0 계승)
+* **정의**: 특정 교리(전제)가 참이라고 가정했을 때, 가톨릭 내부의 다른 교리나 역사적 사실과 부딪혀 말도 안 되는 결론(부조리)이 도출되는 구조를 찾아냅니다.
 
-### 🔵 Filter 2: Hermeneutical Rupture
-* Exposes the historical deception of subtly accepting previously condemned heretical doctrines by just changing the 'words and nuances' today.
+### 🔵 필터 2: 해석학적 단절 (Hermeneutical Rupture) — 의미 변개 탐지기 (2.0 계승)
+* **정의**: 과거에 단죄했던 이단적 교리를, 현대에 와서 '단어와 뉘앙스'만 교묘하게 바꾸어 은근슬쩍 수용하는 역사적 기만을 적발합니다.
 
-### 🟡 Filter 3: Modus Tollens
-* Finds logical cracks where an "absolute necessity" collapses in the face of physical impossibility, negating its divine origin.
+### 🟡 필터 3: 역논법 / 후건 부정식 (Modus Tollens) — 절대성 훼손 탐지기 (2.0 계승)
+* **정의**: '반드시 필요하다'는 절대적 규범이 물리적 불가능성 앞에서 무너지는 경우, 해당 규범의 신적 기원을 부정하는 논리적 틈새를 찾습니다.
 
-### 🟣 Filter 4: Action-vs-Doctrine Discrepancy
-* Detects hypocrisy where the text defends a principle, but pastoral practice allows the 'essential evil' that the principle condemns.
+### 🟣 필터 4: 실천적 모순 (Action-vs-Doctrine Discrepancy) — 위선 탐지기 (2.0 계승)
+* **정의**: 교리적 텍스트로는 원칙을 수호하는 척하지만, 사목적 실천(행동)으로는 그 원칙의 근간인 '본질적 악'을 허용하고 축복하는 위선을 탐지합니다.
 
-### 🟠 Filter 5: Moving Goalposts [New 3.0]
-* Exposes the trick of subtly shrinking or altering the definition or scope of a doctrine when it hits a logical/historical limit (e.g., Limbo, Papal Infallibility conditions).
+### 🟠 필터 5: 목표대 이동 적발 (Moving Goalposts) [3.0 신규]
+* **정의**: 특정 교리가 논리적·역사적 한계에 부딪혔을 때, 그 정의나 적용 범위(목표대)를 슬그머니 축소하거나 변경하여 방어하는 꼼수를 적발합니다.
+* **적용**: '림보(Limbo)'의 은근한 폐기, '교황 무류성'의 극단적 조건 축소 방어 등.
 
-### 🟢 Filter 6: Retorsion (Boomerang Argument) [New 3.0]
-* Takes the logical premise used by the opponent to defend the Magisterium and applies it to their own system, causing self-contradiction.
+### 🟢 필터 6: 부메랑 논증 / 역논법 (Retorsion) [3.0 신규]
+* **정의**: 상대방이 교도권을 방어할 때 내세운 '논리적 전제'를 상대방의 교리 시스템에 똑같이 대입하여, 스스로 자가당착에 빠지게 만듭니다.
+* **적용**: "오류 없는 해석을 위해 무류한 교도권이 필요하다"는 주장에 대해 "무류한 교도권의 문헌은 평신도가 오류 없이 해석할 수 있는가?"로 반격.
 
-### 🟤 Filter 7: False Dichotomy [New 3.0]
-* Destroys the false frame of "either A (infallible Catholic) or B (chaos)" by presenting a third option.
+### 🟤 필터 7: 거짓 이분법 적발 (False Dichotomy) [3.0 신규]
+* **정의**: 가톨릭 호교론이 A(무류한 가톨릭) 아니면 B(혼란)밖에 없다는 거짓 프레임을 씌울 때, 제3의 선택지를 제시하여 프레임을 파괴합니다.
 
-### ⚫ Filter 8: First Mention & Argument from Silence [New 3.0]
-* Contrasts the absolute silence in early documents (1st-3rd century Fathers) with the 'first appearance' of a doctrine to confirm it as a later invention rather than a 'development' (e.g., Assumption of Mary).
-
----
-
-## 5. Priority Scan Targets (Zero-day Goldmines)
-> → See `06_ZERO_DAY/scan_targets.md` (Fiducia Supplicans, Amoris Laetitia, Limbo, Fratelli Tutti, etc.)
+### ⚫ 필터 8: 첫 언급의 법칙과 침묵 논증 (First Mention & Argument from Silence) [3.0 신규]
+* **정의**: 교리의 역사성을 검증할 때 초기 문헌(1~3세기 교부)의 '완벽한 침묵'과 역사 속 '첫 등장 시기'를 대조하여, '교리의 발전'이라는 변명을 '후대의 창작'으로 확정 짓습니다.
+* **적용**: 마리아 몽소승천, 평생 동정설 등.
 
 ---
 
-## 6. Application Guidelines (For Subagents)
-CVCAP 3.0 is a Meta logic analyzer beyond text collision. You must thoroughly dissect whether the defense logic falls into the post-apologetic tricks caught by filters 5-8. Ensure findings go through the OODA court procedure in `CVCAP_Pipeline.md`.
+## 5. 우선 스캔 대상 (Zero-day 노다지)
+
+> → `06_ZERO_DAY/scan_targets.md` 참조 (Fiducia Supplicans, Amoris Laetitia 8장, 림보 폐기, Fratelli Tutti 등)
+
+---
+
+## 6. 적용 지침 (For Subagents)
+
+CVCAP 3.0은 텍스트 충돌 분석을 넘어선 메타(Meta) 논리 분석기입니다. 데이터 분석 시, 방어 논리가 5~8번 필터에 걸려드는 사후 변증적 꼼수인지 철저히 해부해야 합니다. 단, 자동 탐지 결과는 항상 "사람의 신학적 재검토가 필요한 1차 후보"로 취급하며, 최종 확정은 `CVCAP_Pipeline.md`의 OODA 법정 절차를 거칩니다.
+
+---
+
+*Generated by CVCAP 3.0 (Catholic Vault & Conciliar Audit Pipeline)*
+*Layer: Automation Engine Spec | Target: Systematic Zero-day Implosion Discovery*

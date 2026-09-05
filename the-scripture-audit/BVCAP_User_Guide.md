@@ -1,4 +1,3 @@
-<!-- doc_no: 20260829_0156 | ver: 20260829_0942 -->
 # 🏛️ THE SCRIPTURE AUDIT SYSTEM
 **"Search the scriptures" — John 5:39 KJV**
 
@@ -70,12 +69,12 @@ the-scripture-audit/
 ├── ⚖️ BVCAP_GHQ.md                  ← Hybrid Engine (GHQ - Mode/Verdict Criteria)
 ├── 🧠 BVCAP_Pipeline.md       ← Tactical Pipeline (Execution Procedures)
 │
-├── 🕊️ 01_MANDATE(Operation Orders)/                ← [Phase 1] Preparation — Persona + Philosophy Injection
+├── 🕊️ 01_MANDATE(작전명령)/                ← [Phase 1] Preparation — Persona + Philosophy Injection
 │   ├── IDENTITY_Scribe42.md         (Who am I? — 42nd Scribe + Integrity Philosophy)
 │   ├── CREED_Override.md            (Quarantine academic consensus into H0)
 │   └── MANDATE_Agent.md             (Agent mandate and core rules)
 │
-├── 📖 02_TACTICS(Tactics)/               ← [Phase 2] Tactics Training — Rules before using weapons
+├── 📖 02_TACTICS(전술)/               ← [Phase 2] Tactics Training — Rules before using weapons
 │   │  "He teacheth my hands to war" — Psalm 18:34
 │   ├── HERMENEUTICS_Hillel_7.md     (Hermeneutical Constitution — Hillel's 7 Rules)
 │   ├── ANCHOR_ThirdData.md          (3rd Anchor Collection Rule — The key to reverse calculation)
@@ -83,10 +82,10 @@ the-scripture-audit/
 │   ├── LEXICON_Bible.md             (Biblical Names/Locations/Aliases Identifier Dictionary)
 │   └── ANALOGY_Modern.md            (Analogy Creation — 1-second understanding technique)
 │
-├── 📚 03_WAR_LOG(Battle Records)/              ← [Phase 3] Audiovisual Education — Past Battle Records
+├── 📚 03_WAR_LOG(전투기록)/              ← [Phase 3] Audiovisual Education — Past Battle Records
 │   (See the Precedents Index Table below for details)
 │
-├── 🏹 04_QUIVER(Armory)/               ← [Phase 4] Weapons for the Battlefield (QUIVER TYPEs)
+├── 🏹 04_QUIVER(무기고)/               ← [Phase 4] Weapons for the Battlefield (QUIVER TYPEs)
 │   ├── TYPE-A_Chronological.md      (Chronological Serial Dismantling)
 │   ├── TYPE-B_Sequential.md         (Event Sequential Parallel Integration)
 │   ├── TYPE-B-pi_PerceptionFilter.md (Perception Filter)
@@ -132,11 +131,11 @@ the-scripture-audit/
 │   ├── TYPE-AP_SpeechActTheory.md     (Speech Act Theory)
 │   └── TYPE-AQ_AudienceCriticism.md   (Audience Criticism)
 │
-├── 📥 _INBOX(Operational Objectives)/              ← [Input] Target list for biblical verification/defense
+├── 📥 _INBOX(작전목표)/              ← [Input] Target list for biblical verification/defense
 │   ├── Bible_Defense_List.md        (30 Dilemmas + TYPE Mapping)
 │   └── Shabir_Ally_101_Contradictions.md (Islam's 101 Contradiction Attacks)
 │
-└── 📁 05_REPORT(Combat Reports)/             ← [Output] Completed Audit Report Repository
+└── 📁 05_REPORT(전과보고서)/             ← [Output] Completed Audit Report Repository
     └── (Saved in REPORT_[DilemmaName].md format)
 ```
 
@@ -163,7 +162,7 @@ The folder structure of this repository is not a simple file classification. It 
 > **AI Instruction**: When analyzing a new case, open precedents of the same TYPE or higher grade first to secure a quality standard.
 > 🏆 = S-Grade | The more complex TYPEs involved, the closer to A-grade.
 >
-> ⚠️ **Label Caution (2026-08-12)**: The "Core Weapon / Victory Point" column names the *technique* applied (e.g. numeric symmetry, typology count), not a pre-established theological conclusion to inherit. Recognizing a topic word (e.g. "Trinity") in this index must never substitute for re-deriving the conclusion from the KJV text and original languages on a new challenge — treat every row here as a prior H0 to re-verify, not a fact to import (`CREED_Override.md` OVERRIDE-0 / "C-4 Detailed Implementation Guidelines").
+> ⚠️ **Label Caution (2026-08-12)**: The "Core Weapon / Victory Point" column names the *technique* applied (e.g. numeric symmetry, typology count), not a pre-established theological conclusion to inherit. Recognizing a topic word (e.g. "Trinity") in this index must never substitute for re-deriving the conclusion from the KJV text and original languages on a new challenge — treat every row here as a prior H0 to re-verify, not a fact to import (`CREED_Override.md` OVERRIDE-0 / "C-4 세부 시행 지침").
 
 | Filename | Main TYPEs | Core Weapon / Victory Point | Verdict |
 |:---|:---:|:---|:---:|
@@ -258,6 +257,7 @@ They are an integration of **three independent academic domains** into a single 
 `
 
 ### 📌 TYPE Weapon Domain Mapping
+
 | TYPE | Weapon Name | Domain |
 |:---:|:---|:---:|
 | **F** | Typology / Foreshadowing | Hermeneutics |
@@ -335,7 +335,7 @@ The precision forensic weapons loaded as `TYPE-*.md` files in the actual `QUIVER
 | **TYPE-AO** | Canonical Criticism | Audits narrative units for structural integrity. |
 | **TYPE-AP** | Speech Act Theory | Interprets illocutionary force in divine commands. |
 | **TYPE-AQ** | Audience Criticism | Analyzes how the original audience understood the text. |
-│
+
 ---
 
 ## 🏆 CHRONICLE Grade System
@@ -373,7 +373,7 @@ Handling Method:
 **CASE-MULTI Mandatory Complex Weapons:**
 `TYPE-B` + `TYPE-B-ψ` + `TYPE-B-π` + `TYPE-C` + `DE-OVERLAP`
 
-**Reference Precedent (S-Grade):** `03_WAR_LOG(Battle Records)/[B]_TombIncident_ResurrectionMorning.md`
+**Reference Precedent (S-Grade):** `03_WAR_LOG(전투기록)/[B]_TombIncident_ResurrectionMorning.md`
 
 ---
 
@@ -548,7 +548,7 @@ This system fully integrates the core interpretation laws of the Independent Bap
 | **Literal-Grammatical-Historical** | **TYPE-G** (Grammar) <br> **TYPE-T** (Tense/Lexical) | Views every tense, case, comma, and conjunction as God's precise design, accepting them literally to strike down alteration attempts. |
 | **Scripture Interprets Scripture** | **ANCHOR System** <br> **TYPE-S** (Lexical Bridge) | Excludes commentaries; ambiguous or conflicting verses find their own answers by bringing in other clear verses (3rd Anchor) from within the Bible. |
 | **Dispensationalism (Rightly Dividing)** | **TYPE-C** (Category) <br> **TYPE-W** (Prophetic) | Functionally separates recipients and commands according to ages (dispensations), blocking contradiction attacks caused by mixing OT/NT, Law/Grace. |
-| **Final Authority of the KJV** | **TYPE-H** (Manuscript) | Proves the superiority of the Textus Receptus and KJV over Critical Texts using the 'Independent Source Superiority Authority'. Defends the Majority/Minority text debate with source reversal logic. |
+| **Providential Preservation** | **OVERRIDE-0** (Exclude Academics)<br> **TYPE-H** (Manuscript) | Postulates the KJV text itself as the inerrant 'Final Authority'. Defends the Majority/Minority text debate with source reversal logic. |
 | **Numerical/Structural Symmetry** | **TYPE-I** (Frequency) <br> **TYPE-V** (Gematria) | Reverse-calculates word counts and the mathematical arrangement of the 66 books to empirically prove the text is edited by God, not man. |
 
 #### 2. Detailed Laws of Hermeneutics
@@ -585,5 +585,3 @@ A mapping table proving how the deep interpretation methods of ancient Judaism (
 | **Talmudic Logic: Hazakah** <br> Status quo until counter-evidence | **TYPE-U** (First Mention)<br>**TYPE-O** (Absence) | A state or doctrine established in the first verse persists permanently unless clear physical/narrative evidence of change (counter-evidence) appears in the text. |
 | **Talmud: Ha-motzi me-havero** <br> Burden of proof on the attacker | **TYPE-P** (Retorsion / Boomerang) | Places the burden of proof on those attacking the Bible (Islam/Liberals), returning their premises back to them so they destroy themselves. |
 | **Rambam's Shorashim** <br> Independent law vs Sub-clause | **TYPE-E** (Reject Models)<br>**TYPE-C** (Category) | Blocks misinterpretations by filtering whether a given verse is a new independent doctrinal premise or a descriptive sub-clause supplementing an existing doctrine. |
-
-

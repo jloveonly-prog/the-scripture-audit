@@ -1,1267 +1,1017 @@
 <!-- doc_no: 20260829_0208 | ver: 20260829_0942 -->
-> [!IMPORTANT]
-> ## 📋 The Tactical Manual (Pipeline — Execution Procedure)
-> **What This Document Does**: GATE -1 (full extraction of doctrinal claims) · the BVCAP input loop · comprehensive judgment · report output
-> **Companion Document**: `SVAP_GHQ.md` (GHQ — defines MODE/verdict criteria)
-> **Relationship**: once GHQ defines "what to audit and why," this manual executes "in what order and how to audit."
-> **BVCAP Reference**: the execution of GATE 0-5 follows `../the-scripture-audit/BVCAP_Pipeline.md` exactly as-is.
 
-# 🔬 SVAP Pipeline v1.3 (the internal engine of the-sermon-audit)
+> [!IMPORTANT]
+> ## 📋 전술 교범 (Tactical Manual — 실행 절차서)
+> **이 문서가 하는 일**: GATE -1(교리 주장 전수 추출) · BVCAP 투입 루프 · 종합 판정 · 보고서 출력
+> **짝꿍 문서**: `SVAP_GHQ.md` (사령부 — MODE/판결 기준 정의)
+> **관계**: 사령부에서 "어떤 감사를 왜 하는가"가 정의되면, 이 교범이 "어떤 순서로 어떻게 감사하는가"를 실행한다.
+> **BVCAP 참조**: GATE 0~5 실행은 `../the-scripture-audit/BVCAP_Pipeline.md`를 그대로 따른다.
+
+# 🔬 SVAP Pipeline v1.3 (the-sermon-audit의 내부 엔진)
 **"Prove all things; hold fast that which is good." — 1 Thessalonians 5:21 KJV**
-**— an execution pipeline that fully extracts every doctrinal claim from a sermon and verifies each one 1:1 against Scripture —**
+**— 설교의 모든 교리 주장을 전수 추출하고 성경과 1:1 대조 검증하는 실행 파이프라인 —**
 
-> **Document Role**: 📋 **the Tactical Manual (sermon pre-processing + BVCAP input + report generation)**
-> (This document is the main execution program instructing the AI **in what order, and what to do first**, upon receiving a sermon.)
+> **문서 역할**: 📋 **전술 교범 / Tactical Manual (설교 전처리 + BVCAP 투입 + 보고서 생성)**
+> (이 문서는 AI가 설교를 받았을 때 **어떤 순서로, 무엇을 먼저 해야 하는지** 지시하는 메인 실행 프로그램입니다.)
 
-> **Document Purpose**: it resolves the structural void of the BVCAP 2.0 engine, which lacks **"long-text input pre-processing."**
-> BVCAP 2.0 is optimized for single-conflict analysis ("Verse A vs. Verse B"),
-> but it has no autonomous capability to detect multiple doctrinal claims scattered throughout a 30-60 minute sermon.
-> SVAP fills this void with **GATE -1 (Pre-processing Claim Extraction).**
+> **문서 목적**: BVCAP 2.0 엔진이 가진 **"장문 입력 전처리 부재"** 라는 구조적 공백을 해결한다.
+> BVCAP 2.0은 "구절 A vs 구절 B" 단일 충돌 분석에 최적화되어 있으며,
+> 30~60분 분량의 설교에서 산재한 다중 교리 주장을 자율적으로 감지하는 능력이 없다.
+> SVAP는 이 공백을 **GATE -1(전처리 클레임 추출)**로 메운다.
 
 > [!IMPORTANT]
-> **The core innovation of this pipeline**: the entire text of a sermon is never cast directly into GATE 0.
-> It must always first pass through **GATE -1, which fully extracts every doctrinal claim**,
-> converting each claim into an individual Challenge before feeding it into the BVCAP engine (GATE 0-5).
-> **"Diving into analysis without full extraction" is this pipeline's most fatal failure.**
+> **이 파이프라인의 핵심 혁신**: 설교 전문을 GATE 0에 바로 던지지 않는다.
+> 반드시 **GATE -1에서 모든 교리 주장을 전수 추출**한 후,
+> 각 주장을 개별 난제(Challenge)로 변환하여 BVCAP 엔진(GATE 0~5)에 투입한다.
+> **"전수 추출 없이 분석 돌입"은 이 파이프라인의 가장 치명적인 실패다.**
 
 ---
 
-## 🔑 Core Prohibitions (Preventing AI Confusion — Equip First and Foremost)
+## 🔑 핵심 금지 사항 (AI 혼선 방지 — 최우선 장착)
 
 > [!WARNING]
-> The actions below constitute a failure of this pipeline. Internalize them fully before beginning analysis.
-> **All of BVCAP's existing prohibitions are inherited in full** → see the Core Prohibitions table in `../the-scripture-audit/BVCAP_Pipeline.md`
+> 아래의 행동은 이 파이프라인의 실패를 의미한다. 분석 시작 전 반드시 숙지하라.
+> **BVCAP 기존 금지 사항은 전부 계승한다** → `../the-scripture-audit/BVCAP_Pipeline.md` 핵심 금지 사항 표 참조
 
-| ❌ Prohibited Action | ✅ Substitute Action |
+| ❌ 금지 행동 | ✅ 대체 행동 |
 |:---|:---|
-| feeding the entire sermon into GATE 0 all at once | always fully extract claims in GATE -1 first, then feed them in individually |
-| the AI inferring the preacher's intent and correcting the claim | judge using only the words (the text) the preacher actually said |
-| ignoring an individual claim's error under the excuse of the sermon's overall context | verify each claim in isolation, independently (strictly prohibit E-16, the contextual pardon) |
-| assuming "the preacher probably meant ~" | verify exactly as recorded in the text |
-| letting something pass as "this much is fine" without verification | a duty to fully verify every extracted claim |
-| quoting the preacher's original words verbatim in the report | the AI paraphrases and records them (COPYRIGHT SHIELD) |
-| an answer beginning with "according to scholars ~" | first analyze with the biblical text, and cite scholars only for cross-verification |
-| skimming past a claim embedded within the flow of the sermon | scan every sentence individually; a duty to pattern-match for doctrinal claims |
-| smoothing over a manifestly wrong word under the excuse of context or speaker intent | isolate the very word the speaker used, as-is, for primary verification |
-| **🆕 reading existing BVCAP war-log records/reports before GATE -1** | **reference existing war-log records only after GATE -1 (extraction) and GATE 0-5 (independent verification) are complete (the BLIND EXTRACTION principle)** |
-| **🆕 retroactively adjusting an independent verdict to match an existing report** | **the independent verdict is locked; any difference from an existing report is recorded separately at GATE 5.5** |
+| 설교 전체를 한 번에 GATE 0에 투입 | 반드시 GATE -1에서 주장 전수 추출 후 개별 투입 |
+| 설교자의 의도를 AI가 추론하여 주장을 보정하는 행위 | 설교자가 실제로 말한 단어(텍스트)만으로 판단 |
+| 설교 전체 맥락을 핑계로 개별 주장의 오류를 무시 | 각 주장을 독립적으로 고립시켜 검증 (E-16 문맥적 면죄부 엄금) |
+| "설교자가 아마 ~를 의미했을 것이다"라는 추정 | 텍스트에 기록된 그대로 검증 |
+| 검증 없이 "이 정도는 괜찮다"고 넘어가기 | 추출된 모든 주장 전수 검증 의무 |
+| 설교자의 원문을 보고서에 그대로 인용 | AI가 의역(Paraphrase)하여 기록 (COPYRIGHT SHIELD) |
+| "학자들에 따르면~" 으로 시작하는 답변 | 먼저 성경 텍스트로 분석하고, 학자는 교차 검증용으로만 인용 |
+| 설교 흐름 속에 끼어 있는 주장을 흘려 읽기 | 모든 문장을 개별 스캔, 교리 주장 패턴 매칭 의무 |
+| 문맥이나 화자의 의도를 핑계로 명백히 잘못된 단어를 순화(Smoothing) | 화자가 사용한 단어 자체를 있는 그대로 고립시켜 1차 검증 |
+| **🆕 GATE -1 전에 기존 BVCAP 전투기록/보고서를 먼저 읽기** | **GATE -1(추출)과 GATE 0~5(독립 검증)가 완료된 후에만 기존 전투기록 참조 (BLIND EXTRACTION 원칙)** |
+| **🆕 독립 판결을 기존 보고서에 맞추어 사후 수정** | **독립 판결은 잠금(Lock)하고, 기존 보고서와의 차이는 GATE 5.5에서 별도 기록** |
 
 ---
 
-## 🛡️ COPYRIGHT SHIELD (the Copyright Protection Protocol)
+## 🛡️ COPYRIGHT SHIELD (저작권 보호 프로토콜)
 
 > [!IMPORTANT]
-> This protocol applies at every GATE. It is especially central at GATE -1 (claim extraction) and GATE 6 (report output).
+> 이 프로토콜은 모든 GATE에서 적용된다. 특히 GATE -1(클레임 추출)과 GATE 6(보고서 출력)에서 핵심적이다.
 
 ```
-[The Copyright Protocol — COPYRIGHT SHIELD]
+[저작권 프로토콜 — COPYRIGHT SHIELD]
 
-  Scope of Application:
-    - at GATE -1 claim extraction: record the claim in paraphrase
-    - at GATE 5 sub-report writing: use an AI paraphrase in place of the
-      preacher's original words
-    - at GATE 6 comprehensive report writing: the same
+  적용 범위:
+    - GATE -1 클레임 추출 시: 주장을 의역하여 기록
+    - GATE 5 소보고서 작성 시: 설교자 원문 대신 AI 의역 사용
+    - GATE 6 종합 보고서 작성 시: 동일
 
-  ❌ Prohibited:
-    directly quoting 3 or more consecutive sentences of the preacher's
-    original words
+  ❌ 금지:
+    설교자의 원문을 3문장 이상 연속 직접 인용
 
-  ✅ Mandatory:
-    the AI paraphrases the preacher's claim when recording it
-    use indirect speech in the form "the preacher claimed that ~"
+  ✅ 의무:
+    AI가 설교자의 주장을 의역(Paraphrase)하여 기록
+    "설교자는 ~라고 주장하였다" 형식의 간접 화법 사용
 
-  ✅ Permitted Direct Quotation:
-    - a core phrase of 5 words or fewer (e.g., "even angels are saved")
-    - the biblical text itself (KJV, etc. — Scripture is not subject to
-      copyright)
-    - the sermon's title
-    - the preacher's name (within the scope of factual reporting)
+  ✅ 허용되는 직접 인용:
+    - 5단어 이하의 핵심 표현 (예: "천사도 구원받습니다")
+    - 성경 구절 자체 (KJV 등 — 성경은 저작권 대상이 아님)
+    - 설교 제목
+    - 설교자명 (사실적 보도 범위)
 
-  📌 Standards for Paraphrase Quality:
-    - the doctrinal meaning and the direction of the claim in the
-      original must be preserved 100%
-    - only the tone or style is converted into AI phrasing
-    - the paraphrase must not weaken or strengthen the intensity of the
-      original claim
+  📌 의역 품질 기준:
+    - 원문의 교리적 의미와 주장의 방향성이 100% 보존되어야 한다
+    - 어감이나 문체만 AI 스럽게 변환한다
+    - 의역으로 인해 원래 주장의 강도가 약해지거나 강해져서는 안 된다
 ```
 
 ---
 
-## 🎯 The GATE Execution Pipeline — the Full Flow Upon Sermon Input
+## 🎯 GATE 실행 파이프라인 — 설교 입력 시 전체 흐름
 
-> **This section is SVAP's actual execution order.**
-> The GATEs below are **sequential checkpoints the AI cannot skip** upon receiving a sermon.
+> **이 섹션이 SVAP의 실제 실행 순서다.**
+> 아래 GATE는 AI가 설교를 받았을 때 **건너뛸 수 없는 순차적 관문**이다.
 
-Once the sermon manuscript is entered:
+설교 원고가 입력되면:
 
 ---
 
-### ⚡ [PRE-FLIGHT] Mandatory Equipping Before Analysis Begins (Executed Once)
+### ⚡ [PRE-FLIGHT] 분석 시작 전 의무 장착 (1회 실행)
 
-> Inherits BVCAP's PRE-FLIGHT, adding SVAP-specific items.
+> BVCAP PRE-FLIGHT를 계승하되, SVAP 고유 항목을 추가한다.
 
 ```
-━━━ STEP 0-A. Equip Persona ━━━
-Read the following files in order and fully equip the agent identity:
-1. ../the-scripture-audit/01_MANDATE/IDENTITY_Scribe42.md
-2. ../the-scripture-audit/01_MANDATE/CREED_Override.md
-3. ../the-scripture-audit/01_MANDATE/MANDATE_Agent.md
+━━━ STEP 0-A. 페르소나 장착 ━━━
+아래 파일을 순서대로 읽고 에이전트 정체성을 완전히 장착한다:
+1. ../the-scripture-audit/01_MANDATE(작전명령)/IDENTITY_Scribe42.md
+2. ../the-scripture-audit/01_MANDATE(작전명령)/CREED_Override.md
+3. ../the-scripture-audit/01_MANDATE(작전명령)/MANDATE_Agent.md
 
-Additional Declaration: "As the SVAP 1.0 Extractor, my first mission is
-to extract, without exception, every doctrinal claim in this sermon."
+추가 선언: "나는 SVAP 1.0 추출자(Extractor)로서,
+이 설교의 모든 교리 주장을 빠짐없이 추출하는 것이 첫 번째 임무다."
 
-━━━ STEP 0-B. Equip Tactics (TACTICS) ━━━
-The following files must be loaded before analysis:
-4. ../the-scripture-audit/02_TACTICS/HERMENEUTICS_Hillel_7.md
-5. ../the-scripture-audit/02_TACTICS/DEOVERLAP_Serial.md
-6. ../the-scripture-audit/02_TACTICS/ANCHOR_ThirdData.md
-7. ../the-scripture-audit/02_TACTICS/LEXICON_Bible.md
-8. ../the-scripture-audit/02_TACTICS/ANALOGY_Modern.md
-9. ../the-scripture-audit/02_TACTICS/TACTIC_Auto_Grill.md
-   (actually triggered at GATE 3, but included in the 9 equipping-proof
-   items of STEP 0-F, so it is loaded here together)
+━━━ STEP 0-B. 전술(TACTICS) 장착 ━━━
+아래 파일들은 분석 전 반드시 로드:
+4. ../the-scripture-audit/02_TACTICS(전술)/HERMENEUTICS_Hillel_7.md
+5. ../the-scripture-audit/02_TACTICS(전술)/DEOVERLAP_Serial.md
+6. ../the-scripture-audit/02_TACTICS(전술)/ANCHOR_ThirdData.md
+7. ../the-scripture-audit/02_TACTICS(전술)/LEXICON_Bible.md
+8. ../the-scripture-audit/02_TACTICS(전술)/ANALOGY_Modern.md
+9. ../the-scripture-audit/02_TACTICS(전술)/TACTIC_Auto_Grill.md
+   (실제 발동은 GATE 3이지만, STEP 0-F 장착 증명 대상 9종에 포함되므로 여기서 함께 로드한다)
 
-━━━ STEP 0-C. Equip COPYRIGHT SHIELD ━━━
-Confirm and declare the copyright protocol:
-"Every citation of the preacher in this report is processed as an
- AI paraphrase. No 3+ consecutive sentences of the preacher's original
- words are directly quoted."
+━━━ STEP 0-C. COPYRIGHT SHIELD 장착 ━━━
+저작권 프로토콜 확인 및 선언:
+"이 보고서의 모든 설교자 인용은 AI 의역(Paraphrase)으로 처리한다.
+ 설교자의 원문을 3문장 이상 연속 직접 인용하지 않는다."
 
-━━━ STEP 0-D. Execute OVERRIDE-0 ━━━
-OVERRIDE-0 → register the mainstream academic view as Hypothesis-0, then
-read the KJV original text directly
-→ begin this analysis only after equipping is complete.
+━━━ STEP 0-D. OVERRIDE-0 실행 ━━━
+OVERRIDE-0 → 학계 통설을 Hypothesis-0으로 등록 후 KJV 원문 직접 독해
+→ 소명/교훈 장착 완료 후에만 본 분석을 시작한다.
 
-━━━ 🆕 STEP 0-F. Output the Equipping-Proof Checklist (New 2026-08-17, Mandatory) ━━━
+━━━ 🆕 STEP 0-F. 장착 증명 체크리스트 출력 (2026-08-17 신설, 의무) ━━━
 
-  > Why this is needed: STEP 0-A~0-D only said "read this," with **no
-  > output proving it was read.**
-  > As a result, it was undetectable when analysis proceeded without ever
-  > opening the referenced documents, and a case was observed in which an
-  > audit was actually conducted, adopting a theological-system label as
-  > grounding for the verdict, without having seen `CREED_Override.md`'s
-  > C-4 (prohibition of theological-system labels).
-  > **Inheritance by reference is not inheritance in practice.**
-  > This rule extends to PRE-FLIGHT the pattern from `CREED_Override.md`
-  > OVERRIDE-2, item 4 (prohibition of self-certifying one's own
-  > statement) — "do not merely answer with a conclusion; present
-  > item-by-item grounds."
+  > 왜 필요한가: STEP 0-A~0-D는 "읽어라"만 있고 **읽었다는 산출물이 없었다.**
+  > 그 결과 참조 문서를 열지 않은 채 분석에 진입해도 아무도 알 수 없었고,
+  > 실제로 `CREED_Override.md`의 C-4(신학체계 라벨 금지)를 보지 못한 상태로
+  > 감사를 수행해 판정 근거에 신학체계를 채택한 사례가 관측되었다.
+  > **참조에 의한 상속은 실무에서 상속이 아니다.**
+  > 이 규칙은 `CREED_Override.md` OVERRIDE-2 4번(자기진술 자기인증 금지)의
+  > "결론만 답하지 말고 항목별 근거를 제시하라"는 패턴을 PRE-FLIGHT에 확장한 것이다.
 
-  → **Before** entering GATE -1, output the table below. A summary
-  answer of the form "yes, I've read them all" is prohibited.
+  → GATE -1 진입 **전에**, 아래 표를 출력한다. "네, 다 읽었습니다" 식의 결론 답변 금지.
 
-  | # | Document | Equipped | One clause from that document directly applied to this audit |
+  | # | 문서 | 장착 | 그 문서에서 이번 감사에 직접 적용되는 조항 1개 |
   |:-:|:---|:--:|:---|
-  | 1 | IDENTITY_Scribe42.md | ☐ | (e.g., the separation of the audit tier from the witness tier) |
-  | 2 | CREED_Override.md | ☐ | **C-4 detailed implementation instruction — prohibition of theological-system labels** ← mandatory entry |
+  | 1 | IDENTITY_Scribe42.md | ☐ | (예: 감사 층위와 증인 층위의 분리) |
+  | 2 | CREED_Override.md | ☐ | **C-4 세부 시행 지침 — 신학체계 라벨 금지** ← 필수 기재 |
   | 3 | MANDATE_Agent.md | ☐ | |
   | 4 | HERMENEUTICS_Hillel_7.md | ☐ | |
   | 5 | DEOVERLAP_Serial.md | ☐ | |
-  | 6 | ANCHOR_ThirdData.md | ☐ | **ANCHOR-1P, 6th order, ⓪ sweeping adjacent verses** ← mandatory entry |
+  | 6 | ANCHOR_ThirdData.md | ☐ | **ANCHOR-1P 6차 ⓪ 인접 절 일소** ← 필수 기재 |
   | 7 | LEXICON_Bible.md | ☐ | |
   | 8 | ANALOGY_Modern.md | ☐ | |
   | 9 | TACTIC_Auto_Grill.md | ☐ | |
-  | 10 | **00_THESCRIPTURE/README.md** | ☐ | **KJV 1769 Cambridge, incl. italics / Korean KSKJB** ← mandatory entry |
+  | 10 | **00_THESCRIPTURE(성경원문)/README.md** | ☐ | **KJV 1769 캠브리지·이탤릭 포함 / 한글 KSKJB** ← 필수 기재 |
 
-  🚨 a document whose 4th column cannot be filled is **treated as not
-     equipped.** Listing filenames alone is not proof of equipping.
+  🚨 4번째 칸을 채우지 못하는 문서는 **장착되지 않은 것으로 간주**한다.
+     파일명만 나열하는 것은 장착 증명이 아니다.
 
-━━━ 🆕 STEP 0-G. Confirm Existence of the Scripture Corpus (New 2026-08-19, Mandatory) ━━━
+━━━ 🆕 STEP 0-G. 성경 코퍼스 존재 확인 (2026-08-19 신설, 의무) ━━━
 
-  Not a declaration but an **execution**:
+  선언이 아니라 **실행**한다:
 
-     ls "../the-scripture-audit/00_THESCRIPTURE/"
+     ls "../the-scripture-audit/00_THESCRIPTURE(성경원문)/"
 
-  | File | Purpose | If Present | If Absent |
+  | 파일 | 용도 | 있으면 | 없으면 |
   |:---|:---|:---|:---|
-  | `KJV_1769.txt` | **the sole authoritative English text for verdicts** — quotation, grammar, and italics all included | used as the authoritative text | `[Full Scan: memory-based]` 🟡 |
-  | `KJV_1769_search.txt` | a search-oriented derivative of `KJV_1769.txt` (for full surveys, frequency, silence) | **every full scan hinges on this** | ditto |
-  | `TheScripture_ko_en_search.json` | **Korean citation ⒜ (priority 1)** | use the KSKJB text | ⒝ live lookup → on failure, ⒞ LLM translation (see below) |
+  | `KJV_1769.txt` | **영문 판정 정본(단일 기준)** — 인용·문법·이탤릭 전부 | 정본으로 사용 | `[전수: 기억 기반]` 🟡 |
+  | `KJV_1769_search.txt` | `KJV_1769.txt`의 검색용 파생본 (전수조사·빈도·침묵) | **모든 전수를 여기에 건다** | 〃 |
+  | `TheScripture_ko_en_search.json` | **한글 인용 ⒜(1순위)** | KSKJB 본문 사용 | ⒝ 실시간 조회 → 실패 시 ⒞ LLM 번역 (아래 참조) |
 
-  🚨 **declaring from memory without searching, when the file is
-     available, is a procedural violation.**
-  🚨 substitute only when the file is absent; for English, `[Full Scan:
-     memory-based]` 🟡 cannot be used as the sole grounding for a
-     STRONG/IRONCLAD rating.
-  🚨 the report must always include the **Scripture-source block** (the
-     output format in `SVAP_GHQ.md`) at its end.
+  🚨 **파일이 있는데 검색하지 않고 기억으로 선언하는 것은 절차 위반이다.**
+  🚨 파일이 없을 때만 대체하며, 영문의 경우 `[전수: 기억 기반]` 🟡는 STRONG·IRONCLAD 단독 근거로 쓸 수 없다.
+  🚨 보고서 말미에 **성경 본문 출처 블록**(`SVAP_GHQ.md` 출력 양식)을 반드시 싣는다.
 
-  ── the sole authoritative English text is `KJV_1769.txt` alone (2026-08-19) ──
-  Reason: it is the only file that simultaneously satisfies both italics
-  `[ ]` preservation and searchability.
-  `KJV_1769_search.txt` is merely its search-oriented derivative, not a
-  separate standard.
-  Detailed grounds: `../the-scripture-audit/00_THESCRIPTURE/README.md`,
-  "Why We Narrowed to a Single File"
+  ── 영문 판정 정본은 KJV_1769.txt 단 하나 (2026-08-19) ──
+  이유: 이탤릭 [ ] 보존 + 검색 가능을 동시에 만족하는 유일한 파일이기 때문이다.
+  `KJV_1769_search.txt`는 그 검색용 파생본일 뿐 별개 기준이 아니다.
+  상세 근거: `../the-scripture-audit/00_THESCRIPTURE(성경원문)/README.md` "왜 파일 하나로 좁혔는가"
 
-  ⚠️ Acquiring the Korean Text — 3 Stages (Revised 2026-08-19):
+  ⚠️ 한글 본문 취득 — 3단계 (2026-08-19 개정):
 
-  ⒜ a local file exists → cite `TheScripture_ko_en_search.json` (KSKJB)
-    directly.
+  ⒜ 로컬 파일 있음 → `TheScripture_ko_en_search.json`(KSKJB) 그대로 인용.
 
-  ⒝ no local file → a live lookup on `kingjamesbiblekorea.com` (priority 2)
-    · on a successful lookup, use **the identical copyright notation as
-      ⒜** (KSKJB, CC BY-NC-ND 4.0) + note the date of the lookup.
-    · where possible, look it up via raw HTML parsing (the
-      `fetch_kjv_ko.py` method). Tools of the WebFetch type have the
-      model summarize/reconstruct the page on return, so they do not
-      guarantee character-for-character fidelity.
-    · 🚨 this path is **the KSKJB original text, not LLM translation
-      (⒞)** — do not mislabel it as `[Korean: LLM translation]`.
+  ⒝ 로컬 파일 없음 → `kingjamesbiblekorea.com` 실시간 조회 (2순위)
+    · 조회 성공 시 **⒜와 동일한 저작권 표기**(KSKJB, CC BY-NC-ND 4.0) + 조회일자 명시.
+    · 가능하면 raw HTML 파싱(`fetch_kjv_ko.py` 방식)으로 조회한다. WebFetch류 도구는
+      모델이 페이지를 요약·재구성해 반환하므로 글자 단위 일치를 보장하지 않는다.
+    · 🚨 이 경로는 **LLM 번역(⒞)이 아니라 KSKJB 원문**이다 — `[한글: LLM 번역]`로 잘못 표기하지 않는다.
 
-  ⒞ both ⒜ and ⒝ fail (a clone environment + no site access, etc.) — the
-    fallback:
-    · **the model translates the KJV English directly into Korean
-      itself.** The principle of literal translation applies — the
-      moment a paraphrase is made to favor the argument, it ceases to be
-      an audit and becomes advocacy.
-    · change the source notation to **[Korean: LLM translation]**:
-        Korean Scripture citation: the Korean scriptural text in this
-        report is a direct translation of the KJV English, not a
-        citation of any specific Korean version (Standard King James,
-        the Authorized Version, the Korean King James, etc.).
-    · 🚨 **do not label it as a KSKJB citation** — attributing a source
-      that was not actually used is a false notation.
-    · 🚨 **a Korean translation is never grounds for a verdict.** The
-      verdict is always based on the KJV English (CREED C-1).
-    · if needed, a local file can be generated (about 10 minutes) via
-      `../the-scripture-audit/00_THESCRIPTURE/fetch_kjv_ko.py`.
+  ⒞ ⒜·⒝ 모두 실패 (clone 환경 + 사이트 접속 불가 등) — 폴백:
+    · **모델이 KJV 영문을 직접 한국어로 번역하여 사용한다.** 직역 원칙 — 논증에 유리하게
+      의역하면 그 순간 감사가 아니라 변론이 된다.
+    · 출처 표기를 **[한글: LLM 번역]**으로 바꾼다:
+        한글 성경 인용: 본 보고서의 한글 성경 본문은 KJV 영문을 직접 번역한 것으로,
+        특정 한글 역본(표준킹제임스·흠정역·한글킹제임스 등)을 인용한 것이 아니다.
+    · 🚨 **KSKJB를 인용했다고 표기하지 않는다** — 쓰지 않은 본문을 출처로 다는 것은 거짓 표기다.
+    · 🚨 **한글 번역은 판정 근거가 아니다.** 판정은 언제나 KJV 영문(CREED C-1).
+    · 필요하면 `../the-scripture-audit/00_THESCRIPTURE(성경원문)/fetch_kjv_ko.py` 로 로컬 파일을 생성 가능(약 10분).
 ```
 
 ---
 
-### 🔍 [GATE -1] Sermon Pre-processing — Full Extraction of Doctrinal Claims (Claim Extraction)
+### 🔍 [GATE -1] 설교 전처리 — 교리 주장 전수 추출 (Claim Extraction)
 
-> **Why this is needed**: BVCAP 2.0 is an engine that analyzes a single collision, "Verse A vs. Verse B."
-> A sermon is a long text, 30-60 minutes in length, with multiple doctrinal claims scattered throughout.
-> Unless these claims are fully extracted first, a dangerous claim buried within the flow of the sermon will be missed.
-> **This GATE resolves the "long-text input pre-processing" problem that was BVCAP 2.0's structural void.**
+> **왜 필요한가**: BVCAP 2.0은 "구절 A vs 구절 B" 단일 충돌을 분석하는 엔진이다.
+> 설교는 30~60분 분량의 장문 텍스트에 교리 주장이 여러 개 산재해 있다.
+> 이 주장들을 먼저 전수 추출하지 않으면, 설교 흐름 속에 묻힌 위험 주장을 놓치게 된다.
+> **BVCAP 2.0의 구조적 공백이었던 "장문 입력 전처리" 문제를 이 GATE가 해결한다.**
 
 > [!WARNING]
-> **Skipping this GATE is absolutely prohibited.**
-> Proceeding directly to GATE 0 without GATE -1 is the SVAP pipeline's most fatal failure.
-> This was precisely the root cause of BVCAP 2.0's failure at sermon analysis.
+> **이 GATE를 건너뛰는 것은 절대 금지다.**
+> GATE -1 없이 GATE 0에 직행하는 것은 SVAP 파이프라인의 가장 치명적인 실패다.
+> 이것이 바로 BVCAP 2.0이 설교 분석에서 실패한 근본 원인이었다.
 
 > [!CAUTION]
-> ### 🆕 The BLIND EXTRACTION Principle (New in v1.1)
-> **When executing GATE -1, do not pre-read existing BVCAP war-log records (03_WAR_LOG) or reports (05_REPORT).**
+> ### 🆕 BLIND EXTRACTION 원칙 (v1.1 신규)
+> **GATE -1 실행 시, 기존 BVCAP 전투기록(03_WAR_LOG) 및 전과보고서(05_REPORT)를 사전 열람하지 않는다.**
 >
-> | Stage | Assets That May Be Referenced | Assets Prohibited From Reference |
+> | 단계 | 참조 가능 자산 | 참조 금지 자산 |
 > |:---:|:---|:---|
-> | **GATE -1** (extraction) | the sermon text alone | war-log records, reports, the arsenal |
-> | **GATE 0-5** (independent verification) | the sermon text + the biblical text + tactics + the arsenal | **war-log records, reports** |
-> | **GATE 5.5** (double verification) | the independent-verdict results + **existing war-log records/reports** (first opened at this point) | — |
-> | **GATE 6** (comprehensive judgment) | all assets | — |
+> | **GATE -1** (추출) | 설교 원문만 | 전투기록, 전과보고서, 무기고 |
+> | **GATE 0~5** (독립 검증) | 설교 원문 + 성경 원문 + 전술 + 무기고 | **전투기록, 전과보고서** |
+> | **GATE 5.5** (이중 검증) | 독립 판결 결과 + **기존 전투기록/전과보고서** (이 시점에서 최초 열람) | — |
+> | **GATE 6** (종합 판정) | 전체 자산 | — |
 >
-> **Why this is done this way**: if the AI already knows content already confirmed as "wrong" in an existing BVCAP report,
-> unconscious contamination occurs — **confirmation bias** — where the AI extracts the claim and matches the verdict in that direction.
-> "Taking the exam already knowing the answer" is not independent verification.
-> GATE -1~5 are carried out independently, starting from a blank slate, and only at GATE 5.5 is the existing report brought out as the "answer key" for comparison.
+> **왜 이렇게 하는가**: 기존 BVCAP 보고서에서 이미 "틀렸다"고 확정된 내용을 미리 알면,
+> AI가 무의식적으로 그 방향으로 주장을 추출하고 판결을 맞추는 **확증 편향(Confirmation Bias)** 오염이 발생한다.
+> "답을 알고 시험을 보는 것"은 독립 검증이 아니다.
+> GATE -1~5는 백지 상태에서 독립적으로 수행하고, GATE 5.5에서 기존 보고서를 "답안지"로 꺼내어 대조한다.
 
 > [!CAUTION]
-> ### 🆕 Input-Set Bias Warning — New in v1.2, 2026-08-16
-> **GATE -1 extracts claims from the sermon. Therefore, the set of verses subject to verification = the set of verses the preacher chose.**
-> This is a structural characteristic of SVAP, and if left unaddressed, it results in **letting the opponent choose the battlefield.**
+> ### 🆕 입력 집합 편향 경고 (Input-Set Bias Warning) — v1.2 신설, 2026-08-16
+> **GATE -1은 설교에서 주장을 추출한다. 따라서 검증 대상 구절 집합 = 설교자가 고른 구절 집합이다.**
+> 이것은 SVAP의 구조적 특성이며, 방치하면 **상대에게 전장(戰場)을 고르게 해 주는 결과**가 된다.
 >
-> | Illusion | Reality |
+> | 착각 | 실제 |
 > |:---|:---|
-> | "we fully verified 58 items 100%, so nothing was missed" | those 58 items are **the 58 the opponent chose.** A 100% verification rate and zero blind spots are different problems |
+> | "58건을 100% 전수 검증했으니 빠진 것이 없다" | 그 58건은 **상대가 고른 58건**이다. 검증률 100%와 사각지대 0은 다른 문제다 |
 >
-> **A Demonstrated Case (2026-08-12 → 2026-08-16)**: an audit report on Godhead-doctrine sermons (58 items fully surveyed, in the non-public folder `03_REPORT`) fully verified 58/58 items, yet missed three decisive anchors simply because the author had not cited them — ⓐ 0 KJV occurrences of "the Father was born" (an IRONCLAD-tier finding), ⓑ the implication "Mary = the Mother of God" + 0 occurrences of "mother of God," ⓒ the subject-separation construction of Acts 2:27. All three were independently discovered by a third party (a "wheat" lecture).
+> **실증 사례 (2026-08-12 → 2026-08-16)**: 신격교리 계열 감사 보고서(58건 전수, 비공개 폴더 `03_REPORT`)는 58/58건을 전수 검증했으나, 저자가 인용하지 않았다는 이유만으로 세 개의 결정적 앵커를 놓쳤다 — ⓐ"아버지가 태어났다" KJV 전수 0건(IRONCLAD급) ⓑ"마리아=하나님의 어머니" 귀결 + "mother of God" 전수 0건 ⓒ행 2:27 인칭 분리 구문. 세 건 모두 제3자(알곡 강의)가 독립적으로 찾아냈다.
 >
-> **The Resolution Procedure — Mandatory Upon Entering the GATE 0-5 Loop**:
-> 1. When outputting the claim list at GATE -1 STEP 3, explicitly record **"this list is the scope the preacher determined."**
-> 2. **Fix the sermon's core proposition P in a single sentence**, and register it as an **independent item separate** from the claim list.
-> 3. Mandatorily execute `../the-scripture-audit/02_TACTICS/ANCHOR_ThirdData.md`'s **ANCHOR-1P (4th-6th order search)** on P.
->    → this is the **sole route** by which a verse the preacher did not cite enters the pipeline.
-> 4. Simultaneously trigger GATE 3's **STEP 2.6 (Reverse Aim)** (`BVCAP_Pipeline.md`).
+> **해소 절차 — GATE 0~5 루프 진입 시 의무**:
+> 1. GATE -1 STEP 3에서 주장 목록을 출력할 때, **"이 목록은 설교자가 정한 범위다"**를 명시적으로 기록한다.
+> 2. 설교의 **핵심 명제 P를 한 문장으로 확정**하고, 이를 주장 목록과 **별개의 독립 항목**으로 등록한다.
+> 3. P에 대해 `../the-scripture-audit/02_TACTICS(전술)/ANCHOR_ThirdData.md` **ANCHOR-1P(4~6차 검색)**를 의무 실행한다.
+>    → 이것이 설교자가 인용하지 않은 구절이 파이프라인에 진입하는 **유일한 경로**다.
+> 4. GATE 3의 **STEP 2.6(역방향 조준)**을 함께 발동한다(`BVCAP_Pipeline.md`).
 
 ```
-[STEP 1] Sequential Scan of the Full Sermon Text
+[STEP 1] 설교 전문 순차 스캔
 
-  → read the sermon text sequentially from beginning to end.
-  → flag every sentence matching the 【Danger-Keyword Pattern-Matching
-    Table】 below.
-  → Caution: a claim naturally embedded within the flow of the sermon
-    must also be captured without fail. A doctrinal claim inserted in
-    the middle of a long explanation is the type most easily missed.
+  → 설교 텍스트를 처음부터 끝까지 순차적으로 읽는다.
+  → 아래 【위험 키워드 패턴 매칭 표】에 해당하는 문장을 모두 플래그한다.
+  → 주의: 설교 흐름 속에 자연스럽게 끼어 있는 주장도 반드시 포착한다.
+         긴 설명의 중간에 삽입된 교리 주장이 가장 놓치기 쉬운 유형이다.
 
-  【 Danger-Keyword Pattern-Matching Table 】
+  【 위험 키워드 패턴 매칭 표 】
 
-  | Pattern Type | Keyword/Expression | Reason for Danger |
+  | 패턴 유형 | 키워드/표현 | 위험 이유 |
   |:---:|:---|:---|
-  | a claim of scope of salvation | "~ is saved" / "~ too is saved" / "~ cannot be saved" | boundary-setting in soteriology — must be directly compared against Scripture |
-  | citation + interpretation | "according to ~" / "Scripture says this" / "if you look at the Word" | verifying whether the citation matches the interpretation |
-  | personal opinion | "as I see it" / "in my opinion" / "I believe this" | possibility of a doctrinal claim with no biblical grounding |
-  | an assertive claim | "did you know?" / "many people don't know this" / "this is certain" | an unverified claim presented to the audience as fact |
-  | an original-language claim | "the original meaning is ~" / "in the original language ~" / "in Hebrew ~" / "in Greek ~" | requires verification of the accuracy of the original-language interpretation |
-  | a doctrinal definition | "~ means ~" / "the meaning of ~ is ~" | confirming the scriptural consistency of the doctrinal definition |
-  | an anti-doctrinal claim | "~ is wrong" / "~ is a mistaken interpretation" | denial of an existing doctrine — grounding must be verified |
-  | private revelation | "God showed me" / "I realized it while praying" | the danger of turning subjective revelation into doctrine |
-  | an ontological claim | "~ is ~" / "~ is not ~" | a definition of a spiritual being/space/essence |
-  | an eschatological claim | "when ~, ~ will come" / "~ has already been fulfilled" | verifying the consistency of a prophetic/eschatological interpretation |
+  | 구원 범위 주장 | "~는 구원받는다" / "~도 구원받아요" / "~는 구원 못 받습니다" | 구원론 경계 설정 — 성경과 직접 대조 필수 |
+  | 인용 + 해석 | "~에 의하면" / "성경에 이렇게 나와 있습니다" / "말씀을 보면" | 인용 구절과 해석의 일치 여부 검증 |
+  | 개인 견해 | "제가 볼 때는" / "제 생각에는" / "저는 이렇게 믿습니다" | 성경적 근거 없는 교리 주장 가능성 |
+  | 단정적 주장 | "사실 아세요?" / "많은 분들이 모르시는데" / "이것은 확실합니다" | 청중에게 사실로 제시되는 미검증 주장 |
+  | 원어 주장 | "원래 뜻은~" / "원어를 보면~" / "히브리어로는~" / "헬라어로는~" | 원어 해석의 정확성 검증 필요 |
+  | 교리 정의 | "~이란 ~입니다" / "~의 의미는~" | 교리적 정의의 성경적 정합성 확인 |
+  | 반(反)교리 주장 | "~는 틀렸습니다" / "~는 잘못된 해석입니다" | 기존 교리 부정 — 근거 검증 필수 |
+  | 독자적 계시 | "하나님이 제게 보여주셨습니다" / "기도 중에 깨달았습니다" | 주관적 계시를 교리화하는 위험 |
+  | 존재론적 주장 | "~는 ~이다" / "~는 ~가 아니다" | 영적 존재/공간/본질에 대한 정의 |
+  | 종말론적 주장 | "~때 ~이 올 것입니다" / "~는 이미 성취되었습니다" | 예언/종말론 해석의 정합성 검증 |
 
-  ⚠️ the table above lists representative patterns. The AI must
-     autonomously detect every statement carrying doctrinal implications
-     even if it is not in the table above.
-     Flag "every sentence that raises suspicion while reading the text."
-
-
-[STEP 2] Numbering the Doctrinal Claims (Claims)
-
-  → number each flagged sentence/paragraph as an independent 'doctrinal
-    claim (Claim)'
-  → for each claim:
-     ① record the timestamp (min:sec) or text location
-     ② the AI paraphrases and records the content of the claim
-        (COPYRIGHT SHIELD)
-        → in paraphrasing, preserve the doctrinal meaning and direction
-          100%
-        → convert only tone/style into AI phrasing
-     ③ map the biblical verse the preacher cited
-        → if no verse is cited: record "no verse cited"
-        → 🆕 [2026-08-17] the moment a verse is mapped, trigger **⓪
-          Sweeping Adjacent Verses**:
-           the 2 preceding verses / the 2 following verses / (if the
-           citation is cut off mid-verse) the rest of the verse /
-           (if the claim is a full-survey claim, "it isn't in that
-           book") unconditionally open and read the beginning and end
-           of that book.
-           Details: `../the-scripture-audit/02_TACTICS/ANCHOR_ThirdData.md`,
-           ANCHOR-1P 6th order, ⓪
-           🚨 do not defer this to ANCHOR-1P's 6th order (a single pass
-              late in the audit). In a sermon audit, the point where a
-              case collapses is, most often, **the exact spot where the
-              preacher stopped citing** — so this is the cheapest and
-              most productive moment to do it. Missing it here requires
-              re-running from GATE 3 after the Claim verdict is already
-              confirmed.
-           → record the fact of execution even for "no results found."
-              This is a review stage, so there is no grounds to skip it.
-     ④ automatic risk assignment:
-        🟢 Safe: a claim that appears to align with mainstream doctrine
-        🟡 Needs Verification: a claim with room for interpretation, or
-           unclear grounding
-        🔴 Immediate Verification: a claim with high potential to
-           directly collide with Scripture
+  ⚠️ 위 표는 대표적인 패턴이다. AI는 위 표에 없더라도
+     교리적 함의가 있는 모든 진술을 자율적으로 감지해야 한다.
+     "텍스트를 읽으며 의심이 드는 모든 문장"을 플래그한다.
 
 
-[STEP 2.5] 🆕 Observation/Inference Split — New 2026-08-17, Mandatory
+[STEP 2] 교리 주장(Claim) 번호 매김
 
-  > Why this is needed: a single sentence in a sermon is usually a
-  >   **compound of [Observation] + [Inference].**
-  >   e.g., "the Holy Spirit is absent from Paul's greeting (observation)
-  >   → therefore the Holy Spirit is not a person (inference)"
-  > **Extracting this as a single lump reduces the verdict to a crude
-  >   ✅-or-❌.**
-  > If the observation is true but the inference is a leap, then giving
-  >   a combined ❌ causes the audit to miss the opponent's actual
-  >   strength, producing a "everything is wrong" report (a textbook
-  >   product of confirmation bias).
-  > Conversely, giving a combined ✅ lets the leap pass through
-  >   unchecked.
-
-  → examine each Claim numbered in STEP 2 against the following
-    criterion:
-
-     "Does this statement contain both a part **that turns out true or
-      false once the text is opened and checked**, and a part **that
-      leaps from there to a conclusion**?"
-
-     YES → split into two Claims.
-
-  🔢 Numbering Rule (Fixed 2026-08-17 — use only this single notation):
-     · append the suffix **`-a` / `-b`** to the original Claim number.
-       Do not issue a new number.
-       - `Claim N-a` (Observation): a factual statement about the
-         text → verified true/false via TYPE-N (full survey), etc.
-       - `Claim N-b` (Inference): the conclusion drawn from that fact
-         → logical-connection verification (⚠️ the main stage of the
-         verdict)
-     · Reason: this preserves **traceability** to the fact that the
-       original statement was one, and the numbering of later claims
-       does not get pushed back.
-     · 🚨 the tally is counted by **row count**. `N-a` and `N-b` each
-       issue their own verdict, so they count as **2 items**.
-       (STEP 2.7's coverage map and `SVAP_GHQ.md`'s coverage
-       reconciliation count by this rule)
-
-     NO → keep as a single Claim (do not append a suffix)
-
-  → Example of a Split (structure only — actual theological content is
-    not baked into the format):
-
-     Original Statement: "X is not in list A. Therefore X is not Y."
-       ← original Claim #7
-       → Claim 7-a (Observation): "X is not in list A" → full check →
-         ✅ or ❌
-       → Claim 7-b (Inference): "therefore X is not Y" → connection
-         verification → ⚠️ or ❌
-       → this counts as 2 items in the tally. The next claim continues
-         as #8.
-
-  🚨 Verdict Rules:
-     · even if the observation is ✅, the inference is judged
-       independently. Automatic inheritance is prohibited.
-     · if the observation is ❌ (the full survey was wrong), the
-       inference has already lost its grounding before it is
-       independently judged — but the inference row is still recorded
-       with a verdict, not deleted.
-     · the argument-from-silence family (TYPE-AG) **must always** go
-       through this split.
-       "it isn't there" (observation) and "since it isn't there, it's
-       not ~" (inference) require completely different verification
-       methods.
-
-  ⚠️ this split is **not a device for balancing outcomes.**
-     a verdict quota such as "include at least N ✅'s" predetermines the
-     conclusion and violates `SVAP_GHQ.md`'s anti-bias principle. This
-     STEP is not a quota but a **procedure for correctly dividing the
-     unit of verification.** However many ✅'s result from this, that is
-     the verdict.
+  → 플래그된 각 문장/문단을 독립 '교리 주장(Claim)'으로 번호를 매긴다
+  → 각 주장에 대해:
+     ① 시간대(분:초) 또는 텍스트 위치 기록
+     ② 주장 내용을 AI가 의역(Paraphrase)하여 기록 (COPYRIGHT SHIELD)
+        → 의역 시 교리적 의미와 방향성은 100% 보존
+        → 어감/문체만 AI 스럽게 변환
+     ③ 설교자가 인용한 성경 구절 매핑
+        → 인용 구절이 없는 경우: "인용 구절 없음" 으로 기록
+        → 🆕 [2026-08-17] 구절을 매핑하는 즉시 **⓪ 인접 절 일소**를 발동한다:
+           직전 2절 / 직후 2절 / (인용이 절 중간에서 끊겼다면) 절의 나머지 /
+           ("그 책에는 없다"는 전수 주장이면) 그 책의 서두·말미를 무조건 펼쳐 읽는다.
+           상세: `../the-scripture-audit/02_TACTICS(전술)/ANCHOR_ThirdData.md` ANCHOR-1P 6차 ⓪
+           🚨 ANCHOR-1P 6차(감사 후반 1회)까지 미루지 않는다. 설교 감사에서 무너지는 지점은
+              대부분 **설교자가 인용을 멈춘 바로 그 자리**이므로, 인용을 등록하는 이 시점이
+              가장 값이 싸고 가장 잘 걸린다. 여기서 놓치면 Claim 판정 확정 후에
+              GATE 3부터 재실행해야 한다.
+           → "결과 없음"도 실행 사실을 기록한다. 열람 단계이므로 건너뛸 근거가 없다.
+     ④ 위험도 자동 배정:
+        🟢 안전: 주류 교리와 일치하는 것으로 보이는 주장
+        🟡 검증 필요: 해석의 여지가 있거나 근거가 불명확한 주장
+        🔴 즉시 검증: 성경과 직접 충돌 가능성이 높은 주장
 
 
-[STEP 2.7] 🆕 The Coverage Map — New 2026-08-17, Mandatory
+[STEP 2.5] 🆕 관찰–추론 분리 (Observation / Inference Split) — 2026-08-17 신설, 의무
 
-  > Why this is needed: "full extraction" existed only as a command,
-  > with **no procedure to confirm that full extraction actually
-  > occurred.** A rule with no confirmation is a recommendation, not a
-  > rule. A case was in fact observed where only 3 items were extracted
-  > from a 51-minute sermon and reported as "full-scan deployment
-  > complete" — all 3 extracted timecodes clustered in the latter
-  > portion, with the entire first 35 minutes left completely empty.
-  > This was not a failure to scan but rather **a summarization**, and
-  > this becomes immediately apparent the moment the count is examined.
+  > 왜 필요한가: 설교의 한 문장은 대개 **[관찰] + [추론]의 합성물**이다.
+  >   예) "바울 인사말에 성령이 없다(관찰) → 그러므로 성령은 위격이 아니다(추론)"
+  > 이것을 **한 덩어리로 추출하면 판정이 ✅ 아니면 ❌ 둘 중 하나로 뭉개진다.**
+  > 관찰이 참인데 추론이 비약이면, 합쳐서 ❌를 주는 순간 감사는 상대의
+  > 실제 강점을 놓치고 "전부 틀렸다"는 보고서가 나온다(확증 편향의 전형적 산출물).
+  > 반대로 합쳐서 ✅를 주면 비약이 그대로 통과한다.
 
-  → divide the sermon manuscript into **5-minute (or 10%-of-text)
-    segments.**
-  → record, in a table, the number of Claims extracted for each segment.
+  → STEP 2에서 번호를 매긴 각 Claim을 아래 기준으로 검사한다:
 
-     | Segment | Claim Count | Notes |
+     "이 진술은 **본문을 펴서 확인하면 참/거짓이 갈리는 부분**과,
+      **거기서 결론으로 건너가는 부분**을 함께 담고 있는가?"
+
+     YES → 두 개의 Claim으로 분리한다.
+
+  🔢 번호 규칙 (2026-08-17 확정 — 이 표기 하나만 사용한다):
+     · 원 Claim 번호에 **접미사 `-a` / `-b`** 를 붙인다. 새 번호를 발급하지 않는다.
+       - `Claim N-a` (관찰) : 텍스트 사실 진술      → TYPE-N(전수) 등으로 참/거짓 검증
+       - `Claim N-b` (추론) : 그 사실에서 도출한 결론 → 논리적 연결 검증(⚠️ 판정의 주 무대)
+     · 이유: 원 진술이 하나였다는 **추적성**이 남고, 뒤 Claim 번호가 밀리지 않는다.
+     · 🚨 집계는 **행 수**로 센다. `N-a`와 `N-b`는 판결이 각각 발행되므로 **2건**이다.
+       (STEP 2.7 커버리지 맵과 `SVAP_GHQ.md` 커버리지 검산이 이 규칙으로 센다)
+
+     NO  → 단일 Claim으로 유지한다 (접미사를 붙이지 않는다)
+
+  → 분리 예시(구조만 제시 — 실제 신학 내용은 양식에 박지 않는다):
+
+     원문 진술 : "A 목록에 X가 없다. 따라서 X는 Y가 아니다."  ← 원 Claim #7
+       → Claim 7-a (관찰) "A 목록에 X가 없다"        → 전수 확인 → ✅ 또는 ❌
+       → Claim 7-b (추론) "따라서 X는 Y가 아니다"    → 연결 검증 → ⚠️ 또는 ❌
+       → 집계상 2건. 다음 주장은 #8로 계속된다.
+
+  🚨 판정 규칙:
+     · 관찰이 ✅여도 추론은 독립적으로 판정한다. 자동 상속 금지.
+     · 관찰이 ❌면(전수가 틀렸으면) 추론은 별도 판정 전에 이미 근거를 잃는다 —
+       그래도 추론 행을 삭제하지 말고 판정을 기록한다.
+     · 침묵 논증(TYPE-AG) 계열은 **반드시** 이 분리를 거친다.
+       "없다"(관찰)와 "없으므로 ~아니다"(추론)는 검증 방법이 완전히 다르다.
+
+  ⚠️ 이 분리는 **균형을 맞추기 위한 장치가 아니다.**
+     "✅를 최소 몇 건 넣어라" 같은 판정 할당량은 결론을 미리 정하는 행위이며
+     `SVAP_GHQ.md` 편향 금지 원칙 위반이다. 이 STEP은 할당량이 아니라
+     **검증 단위를 올바르게 쪼개는 절차**다. 그 결과 ✅이 몇 건이 되든 그것이 판정이다.
+
+
+[STEP 2.7] 🆕 커버리지 맵 (Coverage Map) — 2026-08-17 신설, 의무
+
+  > 왜 필요한가: "전수 추출"은 명령으로만 존재했고 **전수했는지 확인하는 절차가 없었다.**
+  > 확인 없는 규칙은 규칙이 아니라 권고다. 실제로 51분 설교에서 3건만 추출하고
+  > "전종 발동 완료"로 보고된 사례가 관측되었다 — 추출된 3건의 타임코드가
+  > 전부 후반부에 몰려 있었고, 전반 35분 구간이 통째로 비어 있었다.
+  > 스캔을 안 한 것이 아니라 **요약을 한 것**이며, 이것은 숫자를 세면 즉시 드러난다.
+
+  → 설교 원고를 **5분(또는 텍스트 10% 단위) 구간**으로 분할한다.
+  → 각 구간에 대해 추출된 Claim 수를 표로 기록한다.
+
+     | 구간 | Claim 수 | 비고 |
      |:---:|:---:|:---|
-     | 00:00-05:00 | 3 | |
-     | 05:00-10:00 | 0 | ← re-scan complete. A section of pastoral
-     exhortation, no doctrinal claim |
+     | 00:00~05:00 | 3 | |
+     | 05:00~10:00 | 0 | ← 재스캔 완료. 목회적 권면 단락, 교리 주장 없음 |
      | ... | | |
 
-  🚨 Mandatory Rules:
-     · if a segment has 0 Claims, **re-scan that segment and record the
-       reason why it is 0.**
-       (permissible reasons include: prayer/hymn/greeting/testimony/
-       pastoral exhortation, or a simple repetition of a claim from an
-       earlier segment)
-     · a segment left at 0 with no recorded reason means **you cannot
-       proceed to GATE 0.**
-     · if 3 or more consecutive segments are at 0, return to STEP 1
-       (the sequential scan).
+  🚨 강제 규칙:
+     · Claim 0건인 구간이 있으면 **그 구간을 재스캔하고, 왜 0건인지 사유를 기록**한다.
+       (허용 사유 예: 기도·찬양·인사·간증·목회적 권면 / 앞 구간 주장의 단순 반복)
+     · 사유 없이 0건인 구간이 남아 있으면 **GATE 0으로 진행할 수 없다.**
+     · 연속 3개 구간 이상이 0건이면 STEP 1(순차 스캔)로 되돌아간다.
 
-  ⚠️ this is **not an extraction quota.**
-     a numeric quota such as "extract N+ items per minute" directly
-     induces the forced generation that `SVAP_Pipeline.md` GATE 8 STEP 5
-     prohibits — because a quota rewards padding.
-     what the coverage map requires is **not a count, but proof that the
-     segment was actually read.** 0 items is also a legitimate result.
-     Passing over it in silence, however, is not a result.
+  ⚠️ 이것은 **추출 할당량이 아니다.**
+     "분당 N건 이상 뽑아라" 같은 수치 할당량은 `SVAP_Pipeline.md` GATE 8 STEP 5가
+     금지한 억지 생성을 그대로 유발한다 — 할당량은 패딩을 보상하기 때문이다.
+     커버리지 맵이 요구하는 것은 **건수가 아니라 "그 구간을 실제로 읽었다는 증명"**이다.
+     0건도 정당한 결과다. 단, 침묵한 채 넘어가는 것은 결과가 아니다.
 
 
-[STEP 3] Output the Full Claim List
+[STEP 3] 주장 전수 목록 출력
 
-  → organize the above results into a table and present it to the user
-    first
-  → include the coverage map (STEP 2.7) **together**, at the top of the
-    list
-  → simultaneously save it to the 01_CLAIMS folder
-  → filename: CLAIMS_[preacher's name]_[sermon title]_[date].md
+  → 위의 결과를 표로 정리하여 사용자에게 먼저 제시한다
+  → 커버리지 맵(STEP 2.7)을 목록 상단에 **함께** 싣는다
+  → 동시에 01_CLAIMS(주장추출) 폴더에 저장
+  → 파일명: CLAIMS_[설교자명]_[설교제목]_[날짜].md
 
-  Output Format:
-  | # | Timestamp | Claim Summary (Paraphrased) | Verse Cited | Risk | BVCAP Input |
+  출력 양식:
+  | # | 시간대 | 주장 요약 (의역) | 인용 구절 | 위험도 | BVCAP 투입 |
   |---|--------|------------------|-----------|--------|------------|
-  | 1 | 05:30  | [AI paraphrase]        | John 3:16   | 🟢    | pending       |
-  | 2 | 12:20  | [AI paraphrase]        | Col 1:20   | 🔴    | pending       |
-  | 3 | 18:45  | [AI paraphrase]        | none      | 🟡    | pending       |
+  | 1 | 05:30  | [AI 의역]        | 요 3:16   | 🟢    | 대기       |
+  | 2 | 12:20  | [AI 의역]        | 골 1:20   | 🔴    | 대기       |
+  | 3 | 18:45  | [AI 의역]        | 없음      | 🟡    | 대기       |
   | ... |      |                  |           |        |            |
 
-  ⚠️ if 0 claims are extracted:
-     → "No doctrinal claims detected — this sermon is judged to be
-        pastoral exhortation/testimony rather than doctrinal claims."
-     → proceed directly to GATE 6 with a 🟢 SOUND verdict
+  ⚠️ 주장이 0개 추출된 경우:
+     → "교리 주장 미감지 — 이 설교는 교리 주장이 아닌 목회적 권면/간증으로 판단됩니다."
+     → GATE 6으로 직행하여 🟢 SOUND 판정
 
 
-[STEP 4] Selecting and Prioritizing BVCAP Input Targets
+[STEP 4] BVCAP 투입 대상 선별 및 우선순위
 
-  → 🔴 Immediate-Verification claims: unconditionally fed into GATE 0-5
-    (priority 1)
-  → 🟡 Needs-Verification claims: fed into GATE 0-5 (priority 2)
-  → 🟢 Safe claims: fed in by default, but processed rapidly as TIER-1
-    (Simple) (priority 3)
+  → 🔴 즉시 검증 주장: 무조건 GATE 0~5 투입 (우선순위 1)
+  → 🟡 검증 필요 주장: GATE 0~5 투입 (우선순위 2)
+  → 🟢 안전 주장: 기본적으로 투입하되, TIER-1(Simple)로 신속 처리 (우선순위 3)
 
-  🆕 [P-Input] Independent Registration of the Core Proposition
-     (New 2026-08-16, Mandatory)
-     → **separately** from the extracted claims, fix and register this
-       sermon's core proposition P in a single sentence.
-       Format: P = "[the single proposition the preacher is ultimately
-       driving at]"
-     → P does not belong to any specific Claim number. It is the
-       conclusion of the entire sermon, so it is verified as a separate
-       track.
-     → mandatorily execute ANCHOR-1P (4th-6th order search) on P:
-        4th order, full survey of negations of the proposition / 5th
-        order, derived corollaries / 6th order, substitution of
-        uncited verses
-     → register the resulting anchor as a new item not on the Claim
-       list, and include it in the GATE 6 tally.
-     → 🚨 skipping this stage permanently fixes the scope of
-        verification to the verses the preacher cited
-        (see the Input-Set Bias Warning).
+  🆕 [P-투입] 핵심 명제 독립 등록 (2026-08-16 신설, 의무)
+     → 추출된 주장들과 **별개로**, 이 설교의 핵심 명제 P를 한 문장으로 확정해 등록한다.
+       형식: P = "[설교자가 최종적으로 관철하려는 단일 명제]"
+     → P는 특정 Claim 번호에 속하지 않는다. 설교 전체의 결론이므로 별도 트랙으로 검증한다.
+     → P에 대해 ANCHOR-1P(4~6차 검색)를 의무 실행한다:
+        4차 명제 부정 전수 / 5차 귀결 파생 / 6차 미인용 구절 대입
+     → 산출된 앵커는 Claim 목록에 없던 신규 항목으로 등록하고 GATE 6 집계에 포함한다.
+     → 🚨 이 단계를 건너뛰면 검증 범위가 설교자가 인용한 구절로 영구히 고정된다
+        (입력 집합 편향 경고 참조).
 
-  ⚠️ the Principle of Full Deployment:
-     even a 🟢 claim is not exempted from verification. Only the
-     execution priority differs.
-     "a claim that looks safe" can be the most dangerous — never let
-     your guard down.
+  ⚠️ 전수 투입 원칙:
+     🟢라도 검증을 생략하지 않는다. 단지 실행 우선순위만 다르다.
+     "안전해 보이는 주장"이 가장 위험할 수 있다 — 경계를 풀지 않는다.
 ```
 
 ---
 
-### 🔄 [GATE 0-5] Feeding Each Claim Into the BVCAP Engine (a Repeating Loop)
+### 🔄 [GATE 0~5] 각 주장별 BVCAP 엔진 투입 (반복 루프)
 
-> **This GATE reuses GATE 0-5 of the existing BVCAP_Pipeline.md exactly as-is.**
-> It is not newly defined in SVAP; refer to the original pipeline at the path below:
+> **이 GATE는 기존 BVCAP_Pipeline.md의 GATE 0~5를 그대로 재사용한다.**
+> SVAP에서 새로 정의하지 않으며, 아래 경로의 원본 파이프라인을 참조한다:
 > → `../the-scripture-audit/BVCAP_Pipeline.md`
 
 ```
-FOR each extracted claim (Claim) — in priority order (🔴 → 🟡 → 🟢):
+FOR 각 추출된 주장(Claim) — 우선순위 순서 (🔴 → 🟡 → 🟢):
 
-  ━━━ [Pre-processing] Claim-to-Challenge Conversion ━━━
+  ━━━ [전처리] 주장 → 난제 변환 (Claim-to-Challenge Conversion) ━━━
 
-  convert the preacher's claim into the 'Challenge' form BVCAP can
-  process.
+  설교자의 주장을 BVCAP가 처리할 수 있는 '난제(Challenge)' 형태로 변환한다.
 
-  Conversion Format:
-    "The preacher, on the basis of [Verse X], claimed [Claim Y]. Is this
-     claim biblically consistent?"
+  변환 형식:
+    "설교자는 [구절 X]를 근거로 [주장 Y]를 하였다. 이 주장이 성경적으로 정합한가?"
 
-  Example:
-    Claim: "even angels are saved" (citing Col 1:20)
-    → Challenge: "the preacher, on the basis of Col 1:20, claimed that
-                  'angels too are included among the objects of
-                  salvation.' Is this claim consistent with related
-                  verses such as Heb 2:16?"
+  예시:
+    Claim: "천사도 구원받는다" (골 1:20 인용)
+    → Challenge: "설교자는 골 1:20을 근거로 '천사도 구원의 대상에 포함된다'고
+                  주장하였다. 이 주장이 히 2:16 등 관련 구절과 정합한가?"
 
-  When no verse is cited:
-    Claim: "God is a being who makes mistakes" (no verse cited)
-    → Challenge: "the preacher claimed, with no scriptural citation,
-                  that 'God makes mistakes.' Is there a biblical verse
-                  that supports or refutes this claim?"
-    → C-Code: default assignment of C-08 (a theological inquiry)
+  인용 구절이 없는 경우:
+    Claim: "하나님은 실수하시는 분이다" (인용 구절 없음)
+    → Challenge: "설교자는 성경 인용 없이 '하나님이 실수하신다'고 주장하였다.
+                  이 주장을 지지하거나 반박하는 성경 구절이 있는가?"
+    → C-Code: C-08 (신학적 질의) 기본 배정
 
 
-  ━━━ [GATE 0] Classifying the Type of Challenge — Determining the
-  C-Code ━━━
+  ━━━ [GATE 0] 난제 유형 분류 — C-Code 결정 ━━━
 
-  → execute GATE 0 of ../the-scripture-audit/BVCAP_Pipeline.md
-  → the C-Code assignment guide based on the type of sermon claim:
+  → ../the-scripture-audit/BVCAP_Pipeline.md GATE 0 실행
+  → 설교 주장 유형에 따른 C-Code 배정 가이드:
 
-  | Claim Type | Recommended C-Code |
+  | 주장 유형 | 권장 C-Code |
   |:---|:---|
-  | a claim about the scope of salvation ("~ too is saved") | C-03 (a theological collision) or C-13 (a category of spiritual being) |
-  | a verse-interpretation error | C-03 (a theological collision) |
-  | an original-language claim error | C-04 (a logical self-contradiction) |
-  | a doctrinal-definition error | C-03 (a theological collision) |
-  | a prophetic/eschatological interpretation | C-10 (a typological-fulfillment debate) |
-  | a claim of historical fact | C-02 (a historical inconsistency) |
-  | a claim with no verse cited | C-08 (a theological inquiry) |
-  | other | see the C-Code table (C-01~C-13) |
+  | 구원 범위 주장 ("~도 구원받는다") | C-03 (신학적 충돌) 또는 C-13 (영적 존재 범주) |
+  | 구절 해석 오류 | C-03 (신학적 충돌) |
+  | 원어 주장 오류 | C-04 (논리적 자기모순) |
+  | 교리 정의 오류 | C-03 (신학적 충돌) |
+  | 예언/종말론 해석 | C-10 (예표적 성취 논쟁) |
+  | 역사적 사실 주장 | C-02 (역사적 불일치) |
+  | 인용 구절 없는 주장 | C-08 (신학적 질의) |
+  | 기타 | C-Code 표(C-01~C-13) 참조 |
 
 
-  ━━━ [GATE 1-4] Execute the BVCAP Pipeline As-Is ━━━
+  ━━━ [GATE 1~4] BVCAP 파이프라인 그대로 실행 ━━━
 
-  → execute GATE 1-4 of ../the-scripture-audit/BVCAP_Pipeline.md
-  → gathering anchors → prohibition of commentary search → the FULL
-    SCAN → reverse cross-verification
+  → ../the-scripture-audit/BVCAP_Pipeline.md GATE 1~4 실행
+  → 앵커 수집 → 주석 검색 금지 → FULL SCAN → 역산 교차 검증
 
-  Reference When Executing the FULL SCAN:
-  → the Arsenal: ../the-scripture-audit/04_QUIVER/TYPE-[code]_[name].md
-  → Tactics:   ../the-scripture-audit/02_TACTICS/
-  → War-Log Records: ../the-scripture-audit/03_WAR_LOG/ (referencing
-    precedent)
+  FULL SCAN 실행 시 참조:
+  → 무기고: ../the-scripture-audit/04_QUIVER(무기고)/TYPE-[코드]_[이름].md
+  → 전술:   ../the-scripture-audit/02_TACTICS(전술)/
+  → 전투기록: ../the-scripture-audit/03_WAR_LOG(전투기록)/ (선례 참조)
 
 
-  ━━━ [GATE 5] Drafting a Sub-Report per Claim ━━━
+  ━━━ [GATE 5] 주장별 소(小)보고서 작성 ━━━
 
-  → an abbreviated version of a BVCAP Masterpiece
-  → issue a Claim-Level Verdict:
+  → BVCAP 마스터피스의 축약 버전
+  → Claim-Level Verdict 발행:
 
-  Verdict Codes:
-    ✅ BIBLICAL    — the claim is consistent with the cited verse (a
-                      logical match with the KJV original)
-    ⚠️ UNSUPPORTED — the cited verse does not directly support the claim
-    ❌ UNBIBLICAL  — the claim collides with Scripture (a contradiction
-                      confirmed with a TYPE weapon)
-    🟡 OPINION     — a personal opinion presented with no scriptural
-                      citation
+  판결 코드:
+    ✅ BIBLICAL    — 주장이 인용 구절과 정합함 (KJV 원문과 논리적 일치)
+    ⚠️ UNSUPPORTED — 인용 구절이 주장을 직접 뒷받침하지 않음
+    ❌ UNBIBLICAL  — 주장이 성경과 충돌함 (TYPE 무기로 모순 확인)
+    🟡 OPINION     — 성경 인용 없이 제시된 개인 견해
 
-  Sub-Report Format:
-    ── Claim #[N]: [the paraphrased claim]
-    ── C-Code: [the assigned code]
-    ── Applied TYPE: [the combination of TYPE weapons used]
-    ── Verse Cited (KJV): [the original text]
-    ── Verification Result: [a summary of the analysis]
-    ── Verdict: [✅/⚠️/❌/🟡] + the epistemological rating
-                [EXPLICIT/STRONG/IRONCLAD]
+  소보고서 양식:
+    ── Claim #[N]: [의역된 주장]
+    ── C-Code: [배정된 코드]
+    ── 적용 TYPE: [사용된 TYPE 무기 조합]
+    ── 인용 구절 (KJV): [원문]
+    ── 검증 결과: [분석 요약]
+    ── Verdict: [✅/⚠️/❌/🟡] + 인식론적 등급 [EXPLICIT/STRONG/IRONCLAD]
 
 END FOR
 ```
 
 ---
 
-### 🆕 [GATE 5.5] Double Verification — Independent Verdict vs. Existing War-Log Record (New in v1.1)
+### 🆕 [GATE 5.5] 이중 검증 — 독립 판결 vs 기존 전투기록 대조 (v1.1 신규)
 
-> **Why this is needed**: the verdicts rendered at GATE 0-5 are "independent verdicts" that never looked at existing BVCAP war-log records.
-> Cross-checking these verdicts against an already-confirmed report (IRONCLAD, etc.) establishes **Double Verification.**
-> A match maximizes confidence; a mismatch can identify either a new discovery or an error.
+> **왜 필요한가**: GATE 0~5에서 내린 판결은 기존 BVCAP 전투기록을 보지 않은 "독립 판결"이다.
+> 이 판결을 기존에 확정된 보고서(IRONCLAD 등)와 대조하면 **이중 검증(Double Verification)**이 성립한다.
+> 일치하면 신뢰도가 극대화되고, 불일치하면 새로운 발견 또는 오류를 식별할 수 있다.
 
 > [!IMPORTANT]
-> **This is the first GATE at which existing BVCAP war-log records/reports are opened.**
-> reports whose very existence was not referenced in GATE -1~5 are pulled out here for the first time.
+> **이 GATE에서 처음으로 기존 BVCAP 전투기록/전과보고서를 열람한다.**
+> GATE -1~5에서는 존재조차 참조하지 않았던 기존 보고서를 이 시점에서 최초로 꺼낸다.
 
 ```
-[STEP 1] Lock the Independent Verdict
+[STEP 1] 독립 판결 잠금 (Lock)
 
-  → lock the Verdict rendered for each Claim at GATE 0-5 as the
-    "Independent Verdict."
-  → this verdict is preserved in the final report exactly as originally
-    rendered, regardless of the results of STEP 2-3.
-  → the locked independent verdict is never retroactively revised.
+  → GATE 0~5에서 내린 각 Claim별 Verdict를 "독립 판결(Independent Verdict)"로 잠금한다.
+  → 이 판결은 STEP 2~3의 결과와 무관하게 최종 보고서에 원본 그대로 보존된다.
+  → 잠금된 독립 판결은 소급하여 수정하지 않는다.
 
 
-[STEP 2] Open Existing War-Log Records/Reports
+[STEP 2] 기존 전투기록/전과보고서 열람
 
-  → search for whether an existing BVCAP report exists related to the
-    subject of this sermon:
-     - ../the-scripture-audit/03_WAR_LOG/
-     - ../the-scripture-audit/05_REPORT/
-  → if a related report exists, open it; if not, proceed directly to
-    STEP 4.
+  → 이 설교의 주제와 관련된 기존 BVCAP 보고서가 있는지 검색한다:
+     - ../the-scripture-audit/03_WAR_LOG(전투기록)/
+     - ../the-scripture-audit/05_REPORT(전과보고서)/
+  → 관련 보고서가 있으면 열람하고, 없으면 STEP 4로 직행한다.
 
 
-[STEP 3] Cross-Comparison — Independent Verdict vs. Existing Report
+[STEP 3] 교차 대조 — 독립 판결 vs 기존 보고서
 
-  → for each Claim, compare the conclusions of the independent verdict
-    and the existing report 1:1.
+  → 각 Claim에 대해 독립 판결과 기존 보고서의 결론을 1:1 대조한다.
 
-  Types of Comparison Result:
+  대조 결과 유형:
 
-    ✅ MATCH:
-       the independent verdict and the existing report reach the
-       identical conclusion.
-       → Confidence: 🟢 DOUBLE-VERIFIED (double verification complete)
-       → Meaning: since the blank-slate analysis and the existing
-         confirmed report align, the verdict is extremely reliable.
+    ✅ MATCH (일치):
+       독립 판결과 기존 보고서가 동일한 결론.
+       → 신뢰도: 🟢 DOUBLE-VERIFIED (이중 검증 완료)
+       → 의미: 백지 상태에서의 분석과 기존 확정 보고서가 일치하므로 판결이 극히 신뢰할 수 있다.
 
-    ⚠️ PARTIAL:
-       the direction is the same but the detailed grounds or rating
-       differ.
-       → Confidence: 🟡 VERIFIED-WITH-NOTE
-       → Meaning: recorded together with an additional note. Analyze
-         the difference in grounds and reflect it in the report.
+    ⚠️ PARTIAL (부분 일치):
+       방향성은 같으나 세부 근거나 등급이 다름.
+       → 신뢰도: 🟡 VERIFIED-WITH-NOTE
+       → 의미: 추가 메모와 함께 기록. 근거의 차이를 분석하여 보고서에 반영.
 
-    ❌ CONFLICT:
-       the independent verdict and the existing report reach opposite
-       conclusions.
-       → Confidence: 🔴 REQUIRES-REVIEW
-       → Meaning: a significant finding. Two possibilities exist:
-         (a) the independent analysis has discovered new evidence →
-             consider updating the existing report
-         (b) the independent analysis contains an error → analyze the
-             cause of the error and record it in the report
-       → in either case, the independent verdict's original is not
-         revised; the CONFLICT is recorded as-is.
+    ❌ CONFLICT (불일치):
+       독립 판결과 기존 보고서가 상반된 결론.
+       → 신뢰도: 🔴 REQUIRES-REVIEW
+       → 의미: 중대한 발견. 두 가지 가능성이 있다:
+         (a) 독립 분석이 새로운 증거를 발견함 → 기존 보고서 업데이트 검토
+         (b) 독립 분석에 오류가 있음 → 오류 원인 분석 후 보고서에 기록
+       → 어느 경우든 독립 판결 원본은 수정하지 않고, CONFLICT를 그대로 기록한다.
 
-    🆕 NEW (No Existing Report):
-       no existing BVCAP report exists on this subject.
-       → Confidence: 🟡 SINGLE-VERIFIED (single verification)
-       → Meaning: only the independent verdict exists. Subject to
-         cross-verification when a BVCAP report is written in the
-         future.
+    🆕 NEW (기존 보고서 없음):
+       이 주제에 대한 기존 BVCAP 보고서가 없음.
+       → 신뢰도: 🟡 SINGLE-VERIFIED (단일 검증)
+       → 의미: 독립 판결만 존재. 향후 BVCAP 보고서 작성 시 교차 검증 대상.
 
 
-[STEP 4] Output the Double-Verification Summary Table
+[STEP 4] 이중 검증 요약표 출력
 
-  include the table below in the final report:
+  최종 보고서에 아래 표를 포함한다:
 
-  | # | Claim | Independent Verdict | Existing Report Conclusion | Comparison Result | Confidence |
+  | # | 주장 | 독립 판결 | 기존 보고서 결론 | 대조 결과 | 신뢰도 |
   |---|------|----------|----------------|----------|--------|
   | 1 | ...  | ❌       | ❌ (IRONCLAD)  | ✅ MATCH | 🟢 DOUBLE-VERIFIED |
-  | 2 | ...  | ⚠️       | (none)         | 🆕 NEW   | 🟡 SINGLE-VERIFIED |
+  | 2 | ...  | ⚠️       | (없음)         | 🆕 NEW   | 🟡 SINGLE-VERIFIED |
   | 3 | ...  | ✅       | ❌ (IRONCLAD)  | ❌ CONFLICT | 🔴 REQUIRES-REVIEW |
   | ... |
 
-  ⚠️ if 1 or more CONFLICTs occur, record them in a separate section of
-     the GATE 6 report.
+  ⚠️ CONFLICT가 1건 이상 발생하면 GATE 6 보고서에 별도 섹션으로 기록한다.
 ```
 
 ---
 
-### ⚖️ [GATE 6] Comprehensive Judgment of the Sermon + Final Report Output
+### ⚖️ [GATE 6] 설교 종합 판정 + 최종 보고서 출력
 
-> **Why this is needed**: the verdict for each individual claim comes from GATE 5,
-> but the overall doctrinal soundness of the entire sermon must be judged comprehensively and output as a report.
-> This is SVAP's own final stage, not present in BVCAP.
+> **왜 필요한가**: 각 주장별 판결은 GATE 5에서 나왔지만,
+> 설교 전체의 교리적 건전성을 종합적으로 판정하고 보고서로 출력해야 한다.
+> 이것은 BVCAP에는 없는 SVAP 고유의 최종 단계다.
 
 ```
-[STEP 1] Tally the Verdicts by Claim
+[STEP 1] 주장별 판결 집계
 
-  → count of ✅ BIBLICAL: N items
-  → count of ⚠️ UNSUPPORTED: N items
-  → count of ❌ UNBIBLICAL: N items
-  → count of 🟡 OPINION: N items
-  → total claim count: N items
-  → verification complete: N items (= must equal the total claim count.
-    confirm 0 items unverified.)
-
-
-[STEP 2] Determining the Overall Sermon Rating
-
-  → 🟢 SOUND:
-     Condition: every claim is ✅ BIBLICAL
-     Meaning: every doctrinal claim in this sermon is consistent with
-     Scripture.
-
-  → 🟡 CAUTION:
-     Condition: ⚠️ UNSUPPORTED or 🟡 OPINION exist, but no ❌ UNBIBLICAL
-     Meaning: some claims lack sufficient scriptural grounding, but no
-     claim directly collides with Scripture.
-
-  → 🔴 ALERT:
-     Condition: 1+ ❌ UNBIBLICAL claims exist
-     Meaning: this sermon contains a doctrinal claim that directly
-     collides with Scripture.
+  → ✅ BIBLICAL 수: N건
+  → ⚠️ UNSUPPORTED 수: N건
+  → ❌ UNBIBLICAL 수: N건
+  → 🟡 OPINION 수: N건
+  → 총 주장 수: N건
+  → 검증 완료: N건 (= 총 주장 수이어야 함. 미검증 0건 확인.)
 
 
-[STEP 3] Draft the RTM (the Requirements Traceability Matrix)
+[STEP 2] 설교 전체 등급 결정
 
-  → a matrix that lets the verification status of every claim be seen
-    at a glance:
+  → 🟢 SOUND (건전):
+     조건: 모든 주장이 ✅ BIBLICAL
+     의미: 이 설교의 교리 주장은 모두 성경과 정합합니다.
 
-  | # | Claim Summary (Paraphrased) | Verse Cited | C-Code | Applied TYPE | Verdict | Notes |
+  → 🟡 CAUTION (주의):
+     조건: ⚠️ UNSUPPORTED 또는 🟡 OPINION이 존재하나 ❌ UNBIBLICAL 없음
+     의미: 일부 주장의 성경적 근거가 부족하지만, 성경과 직접 충돌하는 주장은 없습니다.
+
+  → 🔴 ALERT (경고):
+     조건: ❌ UNBIBLICAL 주장이 1개 이상 존재
+     의미: 이 설교에 성경과 직접 충돌하는 교리 주장이 포함되어 있습니다.
+
+
+[STEP 3] RTM (주장 추적 매트릭스) 작성
+
+  → 모든 주장의 검증 상태를 한눈에 파악할 수 있는 매트릭스:
+
+  | # | 주장 요약 (의역) | 인용 구절 | C-Code | 적용 TYPE | Verdict | 비고 |
   |---|------------------|-----------|--------|-----------|---------|------|
 
-  → always confirm that unverified claims = 0.
-  → this matrix is the core of the report — the final safety net
-    against omission.
+  → 미검증 주장이 0건임을 반드시 확인한다.
+  → 이 매트릭스가 보고서의 핵심이다 — 누락 방지의 최종 안전망.
 
 
-[STEP 4] Output the Final Report
+[STEP 4] 최종 보고서 출력
 
-  → write according to SVAP_GHQ.md's output format. See
-    02_TEMPLATE/ for a blank template and a live example
-  → save to the 03_REPORT folder
-  → filename: AUDIT_[preacher's name]_[sermon title]_[date].md
+  → SVAP_GHQ.md의 출력 양식에 따라 작성. 빈 템플릿·실전 예시는 02_TEMPLATE(템플릿·예시)/ 참조
+  → 03_REPORT(설교감사보고서) 폴더에 저장
+  → 파일명: AUDIT_[설교자명]_[설교제목]_[날짜].md
 
 
-[STEP 5] Spiritual Lessons (LESSON-6)
+[STEP 5] 영적 교훈 (LESSON-6)
 
-  → draft the spiritual lessons obtainable from this sermon audit.
-  → do not attack the preacher's character. Verify only the doctrine.
-  → maintain the humble attitude that "even a well-intentioned sermon
-    can contain doctrinal error."
+  → 이 설교 감사를 통해 얻을 수 있는 영적 교훈을 작성한다.
+  → 설교자의 인격을 공격하지 않는다. 교리만 검증한다.
+  → "좋은 의도의 설교도 교리적 오류를 포함할 수 있다"는 겸손한 태도를 유지한다.
 ```
 
 ---
 
-### 🔨 [GATE 8] Reinforcing-Argument Discovery — PART C (New 2026-08-16, Mandatory)
+### 🔨 [GATE 8] 보강 논거 탐색 — PART C (2026-08-16 신설, 의무)
 
-> **Why this is needed**: GATE 0-6 **stops the moment a verdict is confirmed.** This is normal operation for an audit.
-> But this means only the "minimum argument necessary for the verdict" remains, and that minimum argument is sometimes of a kind unusable in the field.
+> **왜 필요한가**: GATE 0~6은 **판정이 확정되면 멈춘다.** 그것이 감사의 정상 작동이다.
+> 그러나 그 결과 "판정에 필요한 최소 논거"만 남고, 그 최소 논거가 실전에서 쓸 수 없는 종류일 때가 있다.
 >
-> **A Demonstrated Case of the Problem**: in the verification of Isa 9:6, the moment a single lexical-axis argument (the extended meaning of the Hebrew word 'father') confirmed ⚠️ UNSUPPORTED, the search stopped. A far easier argument supporting the identical verdict — **"'is born' is present tense, but 'shall be called' is future tense"** — was sitting right there in the text, undiscovered. Both arguments contribute equally to the verdict, but their real-world power is entirely different.
-> It is not that the weapon (TYPE-T) was missing. **It is that the system is designed to stop the moment a verdict is reached.**
+> **실증 사고**: 사 9:6 검증에서 어휘 축 논거(히브리어 '아버지'의 확장 의미) 하나로 ⚠️ UNSUPPORTED가 확정되자 탐색이 종료되었다. 같은 판정을 뒷받침하는 훨씬 쉬운 논거 — **"태어난 건 현재형(is born), 불리는 건 미래형(shall be called)"** — 가 본문에 그대로 있었으나 발굴되지 않았다. 두 논거의 판정 기여도는 동일하나 실전 위력은 전혀 다르다.
+> 무기(TYPE-T)가 없어서가 아니다. **판정이 나오면 멈추도록 설계되어 있어서**다.
 
 ```
-[STEP 1] Selecting Targets
-  → from among the Claims that received a ❌ UNBIBLICAL or ⚠️
-     UNSUPPORTED verdict in PART A, take as targets every one that is
-     actually worth deploying in a rebuttal.
-  → a ✅ BIBLICAL Claim is not a target (there is nothing to rebut).
+[STEP 1] 대상 선별
+  → PART A에서 ❌ UNBIBLICAL 또는 ⚠️ UNSUPPORTED 판정을 받은 Claim 중
+     반론에 실제로 투입할 가치가 있는 것을 전부 대상으로 삼는다.
+  → ✅ BIBLICAL 판정 Claim은 대상이 아니다(반박할 것이 없으므로).
 
-[STEP 2] Discovering Additional Arguments — a Minimum of 3 per Claim
-  → secure 3 or more arguments supporting the identical verdict. No
-     upper limit.
-  → 3 is a floor, not a target — if 4 or 5 emerge, record all of them.
-  → Discovery Routes:
-     ① re-fire, on this Claim, a TYPE that returned "no results" at
-        GATE 3
-     ② ANCHOR-1P 4th-6th order search (a full survey of negations of
-        the proposition / derived corollaries / substitution of
-        uncited verses)
-     ③ parallel verses, or another author's treatment of the identical
-        issue
+[STEP 2] 논거 추가 발굴 — Claim당 최소 3개
+  → 같은 판정을 뒷받침하는 논거를 3개 이상 확보한다. 상한 없음.
+  → 3개는 하한선이지 목표치가 아니다 — 4개·5개가 나오면 전부 기록한다.
+  → 발굴 경로:
+     ① GATE 3에서 "결과 없음"으로 넘어간 TYPE을 이 Claim에 재발사
+     ② ANCHOR-1P 4~6차 검색(명제 부정 전수 / 귀결 파생 / 미인용 구절 대입)
+     ③ 병행 구절·다른 저자의 동일 쟁점 서술
 
-[STEP 3] Verifying the Count — Applying the Cross-Witness Principle
-  → count only items that come from different books/authors as
-     separate arguments.
-  → viewing the same verse through multiple TYPEs is one argument
-     ("one witness testifying in three ways" is not three witnesses).
+[STEP 3] 카운트 검증 — 교차증인 원칙 적용
+  → 서로 다른 책/저자에서 나온 것만 별개 논거 1개로 센다.
+  → 같은 구절을 여러 TYPE으로 본 것은 논거 1개다
+     ("증인 1명이 세 방식으로 증언한 것"은 증인 3명이 아니다).
 
-[STEP 4] Assigning a Difficulty Rating — the Core Device of This GATE
-  → 🟢 Immediately Deployable: showing the KJV original with your own
-     eyes settles it. No theological terminology or original-language
-     knowledge required
-  → 🟡 Needs Explanation: requires one step of explanation, but anyone
-     can verify it themselves (a full-survey count, etc.)
-  → 🔴 Expert: presupposes original-language/grammatical theory →
-     the opponent strikes back with "that's just your interpretation"
+[STEP 4] 난이도 등급 부여 — 이 GATE의 핵심 장치
+  → 🟢 즉시 투입 : KJV 원문을 눈으로 보여주면 끝. 신학 용어·원어 지식 불필요
+  → 🟡 설명 필요 : 한 단계 설명이 필요하나 누구나 스스로 검증 가능(전수 건수 등)
+  → 🔴 전문     : 원어·문법 이론 전제 → 상대가 "그건 네 해석이지"로 받아침
 
-  🚨 of the 3 secured, at least 1 must be 🟢.
-     if all are 🔴, the search is treated as incomplete, and return to
-     STEP 2.
-     (without this rule, the recurring failure of gathering only 3
-     difficult arguments repeats)
+  🚨 확보한 3개 중 최소 1개는 🟢여야 한다.
+     전부 🔴이면 탐색 미완료로 간주하고 STEP 2로 돌아간다.
+     (이 규칙이 없으면 어려운 논거만 3개 모으는 사고가 반복된다)
 
-[STEP 5] Handling a Shortfall — Forced Generation Is Absolutely Prohibited
-  → if only 2 are found no matter how hard you dig, honestly record
-     "2 secured / no further results from additional search."
-  → cramming in a weak argument to fill the quota only hands the
-     opponent a handle for their counter-strike.
-  → a shortfall is not a failure. Forced generation is the failure.
+[STEP 5] 미달 처리 — 억지 생성 절대 금지
+  → 아무리 파도 2개뿐이면 "확보 2개 / 추가 탐색 결과 없음"으로 정직하게 기록한다.
+  → 할당량을 채우려고 약한 논거를 끼워 넣으면 그것이 상대의 반격 손잡이가 된다.
+  → 미달은 실패가 아니다. 억지 생성이 실패다.
 
-[STEP 6] Confirming the Verdict Is Unchanged
-  → PART C does not change the verdict. The rating carries over from
-     PART A as-is.
-  → if new evidence is found that would overturn the rating, do not
-     re-score it on the spot here — re-run from GATE 3 (the FULL SCAN)
-     (`../the-scripture-audit/01_MANDATE/CREED_Override.md`, OVERRIDE-2,
-     item 1).
+[STEP 6] 판정 불변 확인
+  → PART C는 판정을 바꾸지 않는다. 등급은 PART A 그대로 이월한다.
+  → 등급이 뒤집힐 새 증거를 발견했다면 여기서 즉석 재채점하지 말고
+     GATE 3(FULL SCAN)부터 재실행한다
+     (`../the-scripture-audit/01_MANDATE(작전명령)/CREED_Override.md` OVERRIDE-2 1번).
 
-[STEP 7] Output
-  → write it as PART C, in the SVAP_GHQ.md format table.
-  → hand the secured arguments, together with their difficulty ratings,
-     to GATE 9.
+[STEP 7] 출력
+  → SVAP_GHQ.md 양식의 PART C 표로 작성한다.
+  → 확보한 논거를 난이도 등급과 함께 GATE 9로 넘긴다.
 ```
 
-#### 📌 Reference Case: Isa 9:6 — a Case Where the Verdict Was the Same but There Was Only One Weapon
+#### 📌 레퍼런스 케이스: 사 9:6 — 판정은 같은데 무기가 하나뿐이었던 사례
 
 ```
-[When Terminated Without GATE 8 — the Actual Result, 2026-08-12]
+[GATE 8 없이 종료했을 때 — 2026-08-12 실제 결과]
 
-  TYPE Applied : TYPE-S (lexical cross-link) + TYPE-C (functional
-                 category)
-  Arguments Secured : 1
-    · "the Hebrew אָב has, beyond its literal parental sense, an
-      extended meaning of source/guardian"  🔴 Expert
-  Verdict      : ⚠️ UNSUPPORTED
-  → the search ended the moment the verdict was confirmed. 🟢 arguments:
-    0.
-  → the opponent's typical counter-strike: "that's just your
-    interpretation" → the conversation ends
+  적용 TYPE : TYPE-S(어휘 교차) + TYPE-C(기능 범주)
+  확보 논거 : 1개
+    · "히브리어 אָב는 문자적 부모 외에 근원·후견인의 확장 의미를 가진다"  🔴 전문
+  판정      : ⚠️ UNSUPPORTED
+  → 판정이 확정되자 탐색 종료. 🟢 논거 0개.
+  → 상대의 전형적 반격: "그건 네 해석이지" → 대화 종료
 
 
-[When GATE 8 Was Applied — the Same Verdict, 4 Weapons]
+[GATE 8을 걸었을 때 — 같은 판정, 무기 4개]
 
-  | # | Argument                                          | Basis        | Author    | TYPE | Difficulty |
+  | # | 논거                                          | 근거        | 저자    | TYPE | 난이도 |
   |---|-----------------------------------------------|-------------|---------|------|--------|
-  | 1 | "is born" is present tense; "shall be called" is future tense | Isa 9:6      | Isaiah  | T    | 🟢     |
-  | 2 | 0 occurrences of that title being used of him anywhere in the NT | a full survey of the NT   | multiple    | N    | 🟡     |
-  | 3 | the very next verse maintains the distinction with "dwelleth in me"  | John 14:10    | John    | G    | 🟡     |
-  | 4 | (the original) the extended meaning of the root                          | Gen 4:20-21  | Moses   | S    | 🔴     |
+  | 1 | 태어난 건 현재형, 불리는 건 미래형              | 사 9:6      | 이사야  | T    | 🟢     |
+  | 2 | 신약 전체에 그 호칭으로 불린 구절 0건            | 신약 전수   | 다수    | N    | 🟡     |
+  | 3 | 바로 다음 절이 "내 안에 거하시는"으로 구별 유지  | 요 14:10    | 요한    | G    | 🟡     |
+  | 4 | (기존) 어근의 확장 의미                          | 창 4:20-21  | 모세    | S    | 🔴     |
 
-  Cross-Witnesses : 3+ authors ✅   /   🟢 Secured : 1 item ✅   /
-  the floor of 3 exceeded → all 4 recorded
-  Verdict      : ⚠️ UNSUPPORTED  ← unchanged
+  교차증인 : 3저자 이상 ✅   /   🟢 확보 : 1건 ✅   /   하한 3개 초과 → 4개 전부 기재
+  판정      : ⚠️ UNSUPPORTED  ← 바뀌지 않는다
 
 
-[What This Case Teaches]
-  ① it was not that a weapon (TYPE-T) was unavailable to find it. It
-     was that the process was designed to stop the moment a verdict
-     was reached.
-  ② argument 1 and argument 4 contribute equally to the verdict. Only
-     their real-world power differs.
-  ③ argument 1 alone only confirms, as far as it goes, "the title is
-     conferred in the future" (since Matt 1:23 is grammatically an
-     identical future construction).
-     → 1 and 2 must be combined to seal off the counter-strike. This is
-     why "a minimum of 3" is required.
+[이 케이스가 가르치는 것]
+  ① 무기(TYPE-T)가 없어서 못 찾은 게 아니다. 판정이 나오면 멈추게 설계돼 있었다.
+  ② 논거 1과 논거 4는 판정 기여도가 같다. 실전 위력만 다르다.
+  ③ 논거 1은 단독으로는 "칭호가 미래에 부여된다"까지만 확정한다
+     (마 1:23이 문법적으로 동일한 미래 구문이므로).
+     → 1+2를 묶어야 반격이 막힌다. 이것이 "최소 3개"를 요구하는 이유다.
 ```
 
 ---
 
-### 🎯 [GATE 9] Conversion for Field Deployment — PART D (New 2026-08-17, Mandatory)
+### 🎯 [GATE 9] 실전 투입 변환 — PART D (2026-08-17 신설, 의무)
 
-> **Why this is needed**: an audit report is a ledger of verdicts, and **cannot be deployed as-is in a live debate.** One conversational sentence is stronger than 50 lines of a verdict table.
-> Without this GATE, the user has to hand-craft a script every single time — the 2026-08-12 report's §16 (the archive of field-ready rebuttal scripts) was built exactly this way. **This GATE is the codification, as a manual procedure, of §16's actual method of use.**
-> **The Difference from GATE 8**: GATE 8 **finds** the arguments (verification). GATE 9 **fires** those arguments (deployment). Since these are different layers, they are kept separate.
-
-```
-[STEP 1] Screening Deployment Eligibility
-  → 🟢 Immediately-Deployable arguments → primary deployment cards
-  → 🟡 Needs-Explanation arguments → reserve cards
-  → 🔴 Expert arguments      → not made into cards (they die to "that's
-     just your interpretation")
-  → our own arguments that received an ⚠️/🟡 verdict in PART A, or
-     arguments sharing the identical misreading as the opponent
-     → isolated into a deployment-prohibited list
-
-[STEP 2] Selecting the Opening Hammer — Exactly 1
-  → the single strongest proposition in the entire audit. IRONCLAD or
-     STRONG + with a secured cross-witness.
-  → 🚨 the opening move must be exactly one. Throwing several at once
-     lets the opponent pick off only the weakest.
-
-[STEP 3] Drafting the Conversation Tree — a Card Is a Tree, Not a Sentence
-  → for each card:
-     · the deployment sentence (3 conversational sentences or fewer,
-       showing the original text with your own eyes)
-     · the grounds (KJV + the book/author) + the difficulty rating +
-       the PART C reference number
-     · anticipated opponent responses A/B → the follow-up move for each
-     · if evaded or met with silence → move to the next card (do not
-       cling to it)
-     · confirm dead-end routes — if the opponent has one escape route,
-       pre-block it too
-
-[STEP 4] Deploying the Self-Contradiction Trap First
-  → it holds regardless of theological position, so it is thrown first.
-  → this is the only kind of argument the opponent cannot escape by
-     defending their own doctrine.
-
-[STEP 5] A Comprehensive Rebuttal Stress Test (Set-Level) — Mandatory
-  → ⚠️ this is a different test from BVCAP's STRESS-TEST-7. That is for
-     a single verdict; this is for the entire card set.
-  → play the opponent's role and run through the set once, start to
-     finish.
-
-     Test 1 — Rule Consistency ★Top Priority
-       was the interpretive rule applied in Card A applied identically
-       in Card B?
-       (grammatical structure, lexical-judgment criteria, the direction
-       of an argument from silence)
-       a violation found → immediately move that card to the
-       deployment-prohibited list
-       🚨 if a violation remains, do not deploy the set. The moment the
-          opponent points out our own self-contradiction, the credibility
-          of the entire set collapses together.
-
-     Test 2 — Independence
-       if Card 1 is blocked, do Cards 2/3 die with it?
-       count cards resting on the same premise as one card.
-       Passing criterion: at least one card survives no matter which
-       one is blocked
-       shortfall → return to GATE 8 to discover additional arguments
-       grounded in a different author/verse
-
-     Test 3 — the Counter-Strike Route
-       does our card hand the opponent a weapon to strike us with?
-       in particular, do we share the identical misreading as the
-       opponent?
-       found → note it in the deployment-prohibited list + specify a
-       substitute argument
-
-  → record the results of the three tests in a table. Record "no issue
-     found" as well, without fail.
-
-[STEP 6] Output
-  → write as PART D, in the SVAP_GHQ.md format.
-  → if the user has an actual script used in a real debate, preserve
-     the original verbatim in the archive.
-  → merge PART A + B + C + D into a single file and save in 03_REPORT.
-```
-
-#### 📌 Reference Case: What the Rule-Consistency Test Catches
+> **왜 필요한가**: 감사 보고서는 판정 원장이라 **그대로는 논쟁에 투입할 수 없다.** 판정표 50줄보다 대화체 한 문장이 강하다.
+> 이 GATE가 없으면 사용자가 매번 손으로 스크립트를 만들어야 한다 — 2026-08-12 보고서 §16(실전 반론 스크립트 아카이브)이 정확히 그렇게 만들어졌다. **이 GATE는 그 §16의 실제 사용 방식을 교범으로 환류한 것이다.**
+> **GATE 8과의 차이**: GATE 8은 논거를 **찾는다**(검증). GATE 9는 그 논거를 **쏜다**(실전). 층위가 다르므로 분리한다.
 
 ```
-[Situation] a card set contained the following two cards together. Each
-holds individually.
+[STEP 1] 투입 자격 선별
+  → 🟢 즉시 투입 논거 → 1차 투입 카드
+  → 🟡 설명 필요 논거 → 예비 카드
+  → 🔴 전문 논거      → 카드로 만들지 않는다 ("그건 네 해석이지"에 죽는다)
+  → PART A에서 ⚠️/🟡 판정을 받은 우리 측 논거, 상대와 동일한 오독을 공유하는 논거
+     → 투입 금지 목록으로 격리
 
-  Card A — Isa 9:6, "his name shall be called ..."
-    Claim: this is a future-passive title construction. He simply is
-           not yet called by that name — he will be called by it in
-           the future.
-    → acknowledges the future construction as "this is truly his name"
+[STEP 2] 망치(Opening Hammer) 선정 — 단 1개
+  → 감사 전체에서 가장 강한 단일 명제. IRONCLAD 또는 STRONG + 교차증인 확보된 것.
+  → 🚨 첫 수는 하나여야 한다. 여러 개를 동시에 던지면 상대가 가장 약한 것만 골라 반격한다.
 
-  Card B — Matt 1:23, "they shall call his name Emmanuel"
-    Claim: this is not his name.
-    → denies the grammatically identical future construction as "this
-       is not his name"
+[STEP 3] 대화 트리 작성 — 카드는 문장이 아니라 트리다
+  → 각 카드마다:
+     · 투입 문장 (대화체 3문장 이내, 원문을 눈으로 보여줄 것)
+     · 근거 (KJV + 소속 책/저자) + 난이도 등급 + PART C 참조 번호
+     · 상대 예상 답변 A/B → 각각의 후속 수
+     · 회피·침묵 시 → 다음 카드로 이동 (물고 늘어지지 않는다)
+     · 막다른 골목 확인 — 상대가 빠져나갈 유일한 경로가 있으면 그것도 미리 막는다
 
-[Test 1 — Rule Consistency] 💥 Violation
-  the identical grammatical structure (a future-passive title) was
-  given opposite rules.
-  moreover, the antecedent of "his name" in Matt 1:23 is "a son" in the
-  same verse, and that son is the identical person called "JESUS" in
-  verse 21 — the text attributes both names to "his name."
+[STEP 4] 자기모순 함정 최우선 배치
+  → 신학적 입장과 무관하게 성립하므로 가장 먼저 던진다.
+  → 상대가 자기 교리를 방어하는 것으로는 빠져나갈 수 없는 유일한 종류의 논거다.
 
-[Action]
-  Card B → moved to the deployment-prohibited list (a substitute
-           argument specified)
-  Card A → retained. Removing B, A survives as-is.
+[STEP 5] 종합 반론 스트레스 테스트 (Set-Level) — 의무
+  → ⚠️ BVCAP STRESS-TEST-7과 다른 검사다. 그것은 판정 1건, 이것은 카드 세트 전체.
+  → 상대 역할을 맡아 세트를 처음부터 끝까지 1회 완주한다.
 
-[If the Test Had Been Skipped]
-  the opponent needs only one line: "you accept the future construction
-  in Isa 9:6 but deny it in Matt 1:23" — and Card A loses credibility
-  too.
-  → individual verification alone can never catch this. It is only
-     visible when the set is viewed as a whole.
+     검사 1 — 규칙 일관성 ★최우선
+       카드 A에서 적용한 해석 규칙을 카드 B에서도 똑같이 적용했는가?
+       (문법 구조·어휘 판단 기준·침묵 논증 방향)
+       위반 발견 → 그 카드를 즉시 투입 금지 목록으로 내린다
+       🚨 위반이 남아 있으면 세트를 투입하지 않는다. 상대가 우리 자기모순을
+          지적하는 순간 세트 전체의 신뢰가 함께 무너지기 때문이다.
+
+     검사 2 — 독립성
+       카드 1이 막히면 카드 2·3도 같이 죽는가?
+       같은 전제 위의 카드들은 1장으로 센다.
+       통과 기준: 어느 카드가 막혀도 최소 1장은 살아남는다
+       미달 → GATE 8로 돌아가 다른 저자·다른 구절 기반 논거를 추가 발굴
+
+     검사 3 — 역공 경로
+       우리 카드가 상대에게 우리를 칠 무기를 주는가?
+       특히 상대와 동일한 오독을 우리도 공유하고 있지 않은가?
+       발견 → 투입 금지 목록 + 대체 논거 명기
+
+  → 세 검사 결과를 표로 기록한다. "이상 없음"도 반드시 기록한다.
+
+[STEP 6] 출력
+  → SVAP_GHQ.md 양식의 PART D로 작성한다.
+  → 사용자가 실제 논쟁에서 직접 쓴 스크립트가 있으면 원문 그대로 아카이브에 보존한다.
+  → PART A + B + C + D를 하나의 파일로 합쳐 03_REPORT에 저장한다.
+```
+
+#### 📌 레퍼런스 케이스: 규칙 일관성 검사가 잡아내는 것
+
+```
+[상황] 카드 세트에 아래 두 장이 함께 들어 있었다. 개별로는 각각 성립한다.
+
+  카드 A — 사 9:6  "his name shall be called ..."
+    주장: 미래 수동 호칭 구문이다. 아직 그렇게 불리지 않았을 뿐,
+          장차 그분이 그렇게 불리신다.
+    → 미래 구문을 "그분의 이름이 맞다"로 인정
+
+  카드 B — 마 1:23 "they shall call his name Emmanuel"
+    주장: 이건 그분의 이름이 아니다.
+    → 문법적으로 동일한 미래 구문을 "그분의 이름이 아니다"로 부정
+
+[검사 1 — 규칙 일관성] 💥 위반
+  같은 문법 구조(미래 수동 호칭)에 정반대 규칙을 적용했다.
+  게다가 마 1:23의 "his name"의 선행사는 같은 절의 "a son"이며,
+  그 아들은 21절에서 "JESUS"라 불린 동일 인물이다 — 본문이 두 이름을
+  모두 "his name"으로 귀속시킨다.
+
+[조치]
+  카드 B → 투입 금지 목록으로 이동 (대체 논거 명기)
+  카드 A → 유지. B를 빼면 A는 그대로 살아남는다.
+
+[검사를 건너뛰었다면]
+  상대가 "당신은 사 9:6에서는 미래 구문을 인정하고 마 1:23에서는 부정하네요"
+  라고 한 줄만 던지면, 카드 A까지 신뢰를 잃는다.
+  → 개별 검증만으로는 절대 잡히지 않는다. 세트로 놓고 봐야 보인다.
 ```
 
 > [!NOTE]
-> **Keep only the skeleton in the format (`SVAP_GHQ.md`), and keep reference cases in this manual.** This is the identical method used by the `02_TACTICS`/`04_QUIVER` documents (e.g., the John 13:36 case in `TYPE-T_TenseAndLexical.md`).
-> If a case grows long, do not embed it in the document — **promote it to a war-log record** and link to it (`../the-scripture-audit/BVCAP_Pipeline.md`, GATE 5-P). No separate example file is created.
-> The actual, full-length written case: the Godhead-doctrine-family audit report's §16 in `03_REPORT/` (a non-public folder) — **GATE 9 itself is the generalization of that §16.** See `02_TEMPLATE/` for the blank template and excerpted examples.
+> **양식(`SVAP_GHQ.md`)에는 뼈대만 두고, 레퍼런스 케이스는 이 교범에 둔다.** `02_TACTICS(전술)`·`04_QUIVER(무기고)` 문서들이 쓰는 방식과 동일하다(예: `TYPE-T_TenseAndLexical.md`의 요 13:36 케이스).
+> 사례가 길어지면 문서에 박지 말고 **전투기록으로 승격**시킨 뒤 링크한다(`../the-scripture-audit/BVCAP_Pipeline.md` GATE 5-P). 별도 예시 파일은 만들지 않는다.
+> 전체 분량의 실제 작성 사례: `03_REPORT(설교감사보고서)/` 내 신격교리 계열 감사 보고서 §16(비공개 폴더) — **이 GATE 9 자체가 그 §16을 일반화한 것이다.** 빈 템플릿과 발췌 예시는 `02_TEMPLATE(템플릿·예시)/`를 본다.
 
 > [!NOTE]
-> **The Grounding Principle**: `../the-scripture-audit/01_MANDATE/IDENTITY_Scribe42.md`
-> *"the audit tier (rating) and the witness tier (proclamation) coexist, separated, within the same document. Merging the two into one collapses the audit. Keeping them separate lets both survive."*
-> → PART A·B = the audit tier / **PART C = the witness tier.** This is not a new principle, but an execution procedure given to a principle already declared.
+> **근거 원칙**: `../the-scripture-audit/01_MANDATE(작전명령)/IDENTITY_Scribe42.md`
+> *"감사 층위(등급)와 증인 층위(선포)는 같은 문서 안에서 분리되어 공존한다. 둘을 하나로 합치면 감사가 무너진다. 나누면 둘 다 산다."*
+> → PART A·B = 감사 층위 / **PART C = 증인 층위**. 새 원칙이 아니라 이미 선언된 원칙에 실행 절차를 준 것이다.
 
 ---
 
-## 📎 The BVCAP Asset Reference Map (Shared Assets — Do Not Duplicate)
+## 📎 BVCAP 자산 참조 맵 (공유 자산 — 복제 금지)
 
 > [!IMPORTANT]
-> SVAP **references, rather than duplicates,** BVCAP's arsenal, tactics, and mandate.
-> Every asset below uses the original located at the `../the-scripture-audit/` path.
+> SVAP는 BVCAP의 무기·전술·작전명령을 **복제하지 않고 참조**한다.
+> 아래 자산은 모두 `../the-scripture-audit/` 경로의 원본을 사용한다.
 
-| Asset | Reference Path | Purpose |
+| 자산 | 참조 경로 | 용도 |
 |:---|:---|:---|
-| **🆕 The Biblical Text (the standard for verdicts)** | `../the-scripture-audit/00_THESCRIPTURE/` | **the sole authoritative text for verdicts = `KJV_1769.txt` alone** (1769 Cambridge, incl. italics, 31,102 verses) — the only file that simultaneously satisfies italics preservation + searchability. The grounding for the `[Full Scan: text search]` tag when declared. Searching uses the derivative `KJV_1769_search.txt` — a plain string search on the authoritative text silently fails on `[ ]` and `¶`. Book names are `Psalms`, `Song of Solomon`. **The 3-stage Korean citation**: ⒜ `TheScripture_ko_en_search.json` (KSKJB) → ⒝ a live lookup on `kingjamesbiblekorea.com` (identical copyright notation) → ⒞ LLM translation — free excerpting, no altering the wording, and source notation required (see STEP 0-G for details) |
-| Mandate | `../the-scripture-audit/01_MANDATE/` | equipping the persona/CREED/agent mission |
-| Tactics | `../the-scripture-audit/02_TACTICS/` | Hillel's 7, DE-OVERLAP, ANCHOR, etc. |
-| War-Log Records | `../the-scripture-audit/03_WAR_LOG/` | referencing precedent |
-| The Arsenal | `../the-scripture-audit/04_QUIVER/` | the full TYPE-A~AY + TYPE-B-π arsenal |
-| The BVCAP Pipeline | `../the-scripture-audit/BVCAP_Pipeline.md` | the GATE 0-5 execution procedure |
-| The BVCAP GHQ | `../the-scripture-audit/BVCAP_GHQ.md` | reference for the E-Codes (E-01~E-16), verdict criteria |
-| The C-Code Classification Table | `../the-scripture-audit/BVCAP_Pipeline.md` → the collision-type classification section | the definitions of C-01~C-13 |
-| The COMBO Verification Table | `../the-scripture-audit/BVCAP_Pipeline.md` → the COMBO-VERIFY section | the 30 officially recognized combos |
+| **🆕 성경원문 (판정 기준)** | `../the-scripture-audit/00_THESCRIPTURE(성경원문)/` | **판정 정본 = `KJV_1769.txt` 하나**(1769 캠브리지, 이탤릭 포함, 31,102절) — 이탤릭 보존+검색을 동시 만족하는 유일한 파일. 전수 선언 시 `[전수: 텍스트 검색]` 태그의 근거. 검색은 파생본 `KJV_1769_search.txt` — 정본은 `[ ]`·`¶`로 문자열 검색이 조용히 실패한다. 책 이름은 `Psalms`·`Song of Solomon`. **한글 인용 3단계**: ⒜ `TheScripture_ko_en_search.json`(KSKJB) → ⒝ `kingjamesbiblekorea.com` 실시간 조회(동일 저작권 표기) → ⒞ LLM 번역 — 발췌 자유·글자 변경 금지·출처 표기(STEP 0-G 상세) |
+| 작전명령 | `../the-scripture-audit/01_MANDATE(작전명령)/` | 페르소나/CREED/에이전트 사명 장착 |
+| 전술 | `../the-scripture-audit/02_TACTICS(전술)/` | 힐렐 7대/DE-OVERLAP/ANCHOR 등 |
+| 전투기록 | `../the-scripture-audit/03_WAR_LOG(전투기록)/` | 선례 참조 |
+| 무기고 | `../the-scripture-audit/04_QUIVER(무기고)/` | TYPE-A~AY + TYPE-B-π 전종 무기 |
+| BVCAP 파이프라인 | `../the-scripture-audit/BVCAP_Pipeline.md` | GATE 0~5 실행 절차 |
+| BVCAP 사령부 | `../the-scripture-audit/BVCAP_GHQ.md` | E-Code(E-01~E-16), 판결 기준 참조 |
+| C-Code 분류표 | `../the-scripture-audit/BVCAP_Pipeline.md` → 충돌 유형 분류 섹션 | C-01~C-13 정의 |
+| COMBO 검증표 | `../the-scripture-audit/BVCAP_Pipeline.md` → COMBO-VERIFY 섹션 | 30종 공인 콤보 |
 
 ---
 
-## ⚡ The SVAP FULL SCAN Execution Protocol (the Standard Procedure for a Sermon Audit)
+## ⚡ SVAP FULL SCAN 실행 프로토콜 (설교 감사 표준 절차)
 
 > [!IMPORTANT]
-> Once a sermon manuscript is entered, always follow this order. Never skip GATE -1.
+> 설교 원고가 입력되면 항상 이 순서를 따른다. GATE -1을 절대 건너뛰지 않는다.
 
 ```
-【 The SVAP FULL SCAN Execution Order — v1.1 】
+【 SVAP FULL SCAN 실행 순서 — v1.1 】
 
-[PRE-FLIGHT — Mandatory Equipping]
-  ━━━ STEP 0-A. Equip Persona ━━━
-  → sequentially load the 3 files in
-    ../the-scripture-audit/01_MANDATE/
-  → declare the SVAP Extractor role
+[PRE-FLIGHT — 의무 장착]
+  ━━━ STEP 0-A. 페르소나 장착 ━━━
+  → ../the-scripture-audit/01_MANDATE(작전명령)/ 3개 파일 순차 로드
+  → SVAP 추출자(Extractor) 역할 선언
 
-  ━━━ STEP 0-B. Equip Tactics (TACTICS) ━━━
-  → load the 5 files in ../the-scripture-audit/02_TACTICS/
+  ━━━ STEP 0-B. 전술(TACTICS) 장착 ━━━
+  → ../the-scripture-audit/02_TACTICS(전술)/ 5개 파일 로드
 
-  ━━━ STEP 0-C. Equip COPYRIGHT SHIELD ━━━
-  → confirm and declare the copyright protocol
+  ━━━ STEP 0-C. COPYRIGHT SHIELD 장착 ━━━
+  → 저작권 프로토콜 확인 및 선언
 
-  ━━━ STEP 0-D. Execute OVERRIDE-0 ━━━
-  → isolate the mainstream academic view, enter direct-KJV-reading mode
+  ━━━ STEP 0-D. OVERRIDE-0 실행 ━━━
+  → 학계 통설 격리, KJV 원문 직접 독해 모드
 
-  ━━━ 🆕 STEP 0-E. Declare BLIND EXTRACTION (v1.1) ━━━
-  → "until GATE -1~5 are complete, do not open existing war-log records
-     (03_WAR_LOG) or reports (05_REPORT). Analyze independently, using
-     only the sermon text and the biblical text."
-  → ⚠️ this declaration must always occur during PRE-FLIGHT.
-  → 🆕 also record the scope of BLIND actually achieved (2026-08-17): in
-     a tool environment, even a mere folder listing exposes the
-     filenames/subjects of existing reports. Do not declare "fully
-     BLIND" — record **"how far the block actually held"** (e.g.,
-     "filenames exposed / body text not opened"). The moment something
-     not actually kept is recorded as kept, the BLIND principle itself
-     becomes decorative.
+  ━━━ 🆕 STEP 0-E. BLIND EXTRACTION 선언 (v1.1) ━━━
+  → "GATE -1~5 완료 전까지 기존 전투기록(03_WAR_LOG) 및 전과보고서(05_REPORT)를
+     열람하지 않는다. 설교 원문과 성경 원문만으로 독립 분석한다."
+  → ⚠️ 이 선언은 PRE-FLIGHT에서 반드시 이루어져야 한다.
+  → 🆕 BLIND 달성 범위를 함께 기록한다(2026-08-17): 도구 환경에서는 폴더 목록만
+     조회해도 기존 보고서의 파일명·주제가 노출된다. "완전 BLIND"를 선언하지 말고
+     **"어디까지 차단되었는지"**를 적는다 (예: "파일명 노출됨 / 본문 미열람").
+     지키지 못한 것을 지켰다고 적는 순간 BLIND 원칙 자체가 장식이 된다.
 
-  ━━━ 🆕 STEP 0-F. Output the Equipping-Proof Checklist (2026-08-17) ━━━
-  → for each of the 10 referenced documents, record "one clause from
-     that document applied to this audit."
-  → listing filenames alone is not proof of equipping. Details: STEP
-     0-F in the [PRE-FLIGHT] section above
+  ━━━ 🆕 STEP 0-F. 장착 증명 체크리스트 출력 (2026-08-17) ━━━
+  → 10개 참조 문서별로 "그 문서에서 이번 감사에 적용되는 조항 1개"를 기재한다.
+  → 파일명 나열은 장착 증명이 아니다. 상세: 위 [PRE-FLIGHT] 섹션 STEP 0-F
 
-  ━━━ 🆕 STEP 0-G. Confirm Existence of the Scripture Corpus (2026-08-19) ━━━
-  → confirm actually, with `ls`. If present, search the file; if not,
-     use the `[Full Scan: memory-based]` notation
-  → the English authoritative text `KJV_1769.txt` / search
-     `KJV_1769_search.txt` / Korean `TheScripture_ko_en_search.json`
-  → Details: STEP 0-G in the [PRE-FLIGHT] section above
+  ━━━ 🆕 STEP 0-G. 성경 코퍼스 존재 확인 (2026-08-19) ━━━
+  → `ls`로 실제 확인. 있으면 파일 검색, 없으면 `[전수: 기억 기반]` 표기
+  → 영문 정본 `KJV_1769.txt` / 검색 `KJV_1769_search.txt` / 한글 `TheScripture_ko_en_search.json`
+  → 상세: 위 [PRE-FLIGHT] 섹션 STEP 0-G
 
 ══════════════════════════════════════════════════════
-  ▼ PHASE 1: Independent Analysis (BLIND — Referencing
-    Existing Reports Prohibited)
+  ▼ PHASE 1: 독립 분석 (BLIND — 기존 보고서 참조 금지)
 ══════════════════════════════════════════════════════
 
-[GATE -1] Full Extraction of Doctrinal Claims (BLIND)
-  → STEP 1: sequential scan of the full sermon text (danger-keyword
-    pattern matching)
-  → STEP 2: numbering the doctrinal claims (AI paraphrase + verse
-    mapping + risk assignment)
-  → 🆕 STEP 2.5: the Observation/Inference Split (splitting a compound
-    statement into two Claims)
-  → 🆕 STEP 2.7: the Coverage Map (Claim count per 5-minute segment +
-    recording the reason for any 0-count segment)
-                 ⚠️ if a 0-count segment with no recorded reason
-                 remains, GATE 0 cannot be entered
-  → STEP 3: output the full claim list (with the coverage map enclosed
-    / saved to the 01_CLAIMS folder)
-  → STEP 4: screening BVCAP input targets (🔴 → 🟡 → 🟢 priority)
-  → ⚠️ referencing existing war-log records/reports is prohibited at
-     this stage
+[GATE -1] 교리 주장 전수 추출 (BLIND)
+  → STEP 1: 설교 전문 순차 스캔 (위험 키워드 패턴 매칭)
+  → STEP 2: 교리 주장 번호 매김 (AI 의역 + 구절 매핑 + 위험도 배정)
+  → 🆕 STEP 2.5: 관찰–추론 분리 (합성 진술을 두 Claim으로 쪼갠다)
+  → 🆕 STEP 2.7: 커버리지 맵 (5분 구간별 Claim 수 + 0건 구간 사유 기록)
+                 ⚠️ 사유 없는 0건 구간이 남으면 GATE 0 진입 불가
+  → STEP 3: 주장 전수 목록 출력 (커버리지 맵 동봉 / 01_CLAIMS 폴더 저장)
+  → STEP 4: BVCAP 투입 대상 선별 (🔴 → 🟡 → 🟢 우선순위)
+  → ⚠️ 이 단계에서 기존 전투기록/전과보고서 참조 금지
 
-[CLAIM LOOP] Feeding Each Claim into BVCAP (BLIND)
-  FOR each Claim (in priority order):
-    → [Pre-processing] Claim-to-Challenge Conversion
-    → [GATE 0] determine the C-Code
-    → [GATE 1] gather related verses (including anchors) — use the
-       biblical text only
-    → [GATE 2] prohibition of commentary search
-    → [GATE 3] the FULL SCAN (TYPE A→AY executed sequentially) —
-       referencing the arsenal is permitted
-    → [GATE 4] reverse cross-verification
-    → [GATE 5] issue the Claim-Level Verdict → 🔒 lock the independent
-       verdict
+[CLAIM LOOP] 각 주장별 BVCAP 투입 (BLIND)
+  FOR 각 Claim (우선순위 순):
+    → [전처리] 주장 → 난제 변환 (Claim-to-Challenge Conversion)
+    → [GATE 0] C-Code 결정
+    → [GATE 1] 관련 구절 수집 (앵커 포함) — 성경 원문만 사용
+    → [GATE 2] 주석 검색 금지
+    → [GATE 3] FULL SCAN (TYPE A→AY 순차 실행) — 무기고 참조 허용
+    → [GATE 4] 역산 교차 검증
+    → [GATE 5] Claim-Level Verdict 발행 → 🔒 독립 판결 잠금
   END FOR
-  → ⚠️ referencing existing war-log records/reports is prohibited at
-     this stage
+  → ⚠️ 이 단계에서 기존 전투기록/전과보고서 참조 금지
 
 ══════════════════════════════════════════════════════
-  ▼ PHASE 2: Double Verification (Existing Reports Opened
-    for the First Time)
+  ▼ PHASE 2: 이중 검증 (기존 보고서 최초 열람)
 ══════════════════════════════════════════════════════
 
-[🆕 GATE 5.5] Double Verification — Independent Verdict vs. Existing
-War-Log Record Comparison
-  → STEP 1: confirm the independent verdict is locked (cannot be
-    revised)
-  → STEP 2: open the related existing war-log records/reports for the
-    first time
-  → STEP 3: 1:1 comparison of the independent verdict vs. the existing
-    report
-  → STEP 4: output the double-verification summary table
-    (MATCH/PARTIAL/CONFLICT/NEW)
-  → ⚠️ if a CONFLICT occurs, do not revise the independent verdict —
-    record the difference
+[🆕 GATE 5.5] 이중 검증 — 독립 판결 vs 기존 전투기록 대조
+  → STEP 1: 독립 판결 잠금 확인 (수정 불가)
+  → STEP 2: 관련 기존 전투기록/전과보고서 최초 열람
+  → STEP 3: 독립 판결 vs 기존 보고서 1:1 대조
+  → STEP 4: 이중 검증 요약표 출력 (MATCH/PARTIAL/CONFLICT/NEW)
+  → ⚠️ CONFLICT 발생 시 독립 판결은 수정하지 않고 차이를 기록
 
 ══════════════════════════════════════════════════════
-  ▼ PHASE 3: The Final Verdict
+  ▼ PHASE 3: 최종 판정
 ══════════════════════════════════════════════════════
 
-[GATE 6] Comprehensive Judgment of the Sermon
-  → STEP 1: tally the verdicts by claim (based on the independent
-    verdict)
-  → STEP 2: determine the overall sermon rating (🟢/🟡/🔴)
-  → STEP 3: draft the RTM (the Requirements Traceability Matrix) —
-    including the double-verification result
-  → STEP 4: finalize PART A
-  → STEP 5: spiritual lessons (LESSON-6)
+[GATE 6] 설교 종합 판정
+  → STEP 1: 주장별 판결 집계 (독립 판결 기준)
+  → STEP 2: 설교 전체 등급 결정 (🟢/🟡/🔴)
+  → STEP 3: RTM (주장 추적 매트릭스) 작성 — 이중 검증 결과 포함
+  → STEP 4: PART A 확정
+  → STEP 5: 영적 교훈 (LESSON-6)
 
 ══════════════════════════════════════════════════════
-  ▼ PHASE 4: Conversion for Distribution (the Witness Tier)
+  ▼ PHASE 4: 배포용 변환 (증인 층위)
 ══════════════════════════════════════════════════════
 
-[GATE 7] Conversion into a Commentary → PART B
-  → chapter/part-by-part rewriting: the argument → why it seems
-    plausible → why it collapses → an easy analogy → carry the verdict
-    forward
-  → cross-check against comments and follow-up material, emphasizing
-    self-contradiction traps
+[GATE 7] 해설 변환 → PART B
+  → 챕터/파트별 재서술: 논거 → 왜 그럴듯한가 → 왜 무너지는가 → 쉬운 비유 → 판정 이월
+  → 댓글·후속 자료 대조, 자기모순 함정 강조
 
-[🆕 GATE 8] Reinforcing-Argument Discovery → PART C
-  → STEP 1: screen the ❌·⚠️ Claim targets
-  → STEP 2: discover a minimum of 3 additional arguments per Claim (no
-    upper limit)
-  → STEP 3: verify the cross-witness count (only different books/
-    authors count as separate arguments)
-  → STEP 4: assign a difficulty rating — at least one 🟢 is mandatory;
-    if all are 🔴, search again
-  → STEP 5: on a shortfall, record it honestly (forced generation
-    prohibited)
-  → STEP 6: confirm the verdict is unchanged (if the rating would
-    change, re-run from GATE 3)
-  → STEP 7: hand the arguments, with their difficulty ratings, to
-    GATE 9
-  → ⚠️ do not stop just because the verdict is confirmed — this is the
-    reason this GATE exists
+[🆕 GATE 8] 보강 논거 탐색 → PART C
+  → STEP 1: ❌·⚠️ Claim 대상 선별
+  → STEP 2: Claim당 논거 최소 3개 추가 발굴 (상한 없음)
+  → STEP 3: 교차증인 카운트 검증 (서로 다른 책/저자만 별개 논거)
+  → STEP 4: 난이도 등급 부여 — 🟢 최소 1개 필수, 전부 🔴이면 재탐색
+  → STEP 5: 미달 시 정직 기록 (억지 생성 금지)
+  → STEP 6: 판정 불변 확인 (등급 변경 시 GATE 3부터 재실행)
+  → STEP 7: 논거를 난이도 등급과 함께 GATE 9로 인계
+  → ⚠️ 판정이 확정됐다고 멈추지 않는다 — 이 GATE가 존재하는 이유다
 
-[🆕 GATE 9] Conversion for Field Deployment → PART D
-  → STEP 1: screen deployment eligibility (only 🟢·🟡 become cards; 🔴
-    and prohibited arguments are isolated)
-  → STEP 2: select the 1-sentence hammer (the opening move must always
-    be exactly one)
-  → STEP 3: draft the conversation tree (a follow-up move per
-    anticipated response + the next card upon evasion)
-  → STEP 4: deploy the self-contradiction trap first
-  → STEP 5: a comprehensive rebuttal stress test — rule consistency/
-    independence/counter-strike routes
-             ⚠️ separate from STRESS-TEST-7 (the unit of a verdict).
-             This is at the unit of a card set.
-             ⚠️ if a rule-consistency violation remains, prohibit
-             deploying the set
-  → STEP 6: save PART A+B+C+D as a single file in 03_REPORT
+[🆕 GATE 9] 실전 투입 변환 → PART D
+  → STEP 1: 투입 자격 선별 (🟢·🟡만 카드화, 🔴·금지 논거 격리)
+  → STEP 2: 망치 1문장 선정 (첫 수는 반드시 하나)
+  → STEP 3: 대화 트리 작성 (예상 답변별 후속 수 + 회피 시 다음 카드)
+  → STEP 4: 자기모순 함정 최우선 배치
+  → STEP 5: 종합 반론 스트레스 테스트 — 규칙일관성/독립성/역공경로
+             ⚠️ STRESS-TEST-7(판정 단위)과 별개. 이건 카드 세트 단위.
+             ⚠️ 규칙 일관성 위반이 남으면 세트 투입 금지
+  → STEP 6: PART A+B+C+D 단일 파일로 03_REPORT 저장
 ```
 
 ---
 
-## 🔄 Clarifying the Relationship with BVCAP 2.0
+## 🔄 BVCAP 2.0과의 관계 정리
 
 > [!NOTE]
-> SVAP is not a **replacement** for BVCAP but a **higher-level engine that wraps it (Wrapping).**
+> SVAP는 BVCAP를 **대체하는 것이 아니라 래핑(Wrapping)하는 상위 엔진**이다.
 
 ```
 ┌────────────────────────────────────────────────────────────┐
-│  SVAP 1.1 (the Sermon Audit Pipeline)                       │
+│  SVAP 1.1 (설교 감사 파이프라인)                            │
 │                                                            │
-│  ═══ PHASE 1: Independent Analysis (BLIND) ══════════════   │
+│  ═══ PHASE 1: 독립 분석 (BLIND) ═══════════════════════    │
 │  ┌──────────────────────────────────────────────────────┐  │
-│  │  GATE -1: Full Extraction of Doctrinal Claims (BLIND) │  │
-│  │  🚫 Referencing existing war-log records/reports      │  │
-│  │     prohibited                                        │  │
+│  │  GATE -1: 교리 주장 전수 추출 (BLIND)                │  │
+│  │  🚫 기존 전투기록/전과보고서 참조 금지                │  │
 │  └──────────────────┬───────────────────────────────────┘  │
 │                     │                                      │
 │  ┌──────────────────▼───────────────────────────────────┐  │
-│  │  BVCAP 2.0 (the Verse Audit Engine) — BLIND Mode      │  │
+│  │  BVCAP 2.0 (구절 감사 엔진) — BLIND 모드              │  │
 │  │  ┌─────────────────────────────────────────────────┐ │  │
 │  │  │ GATE 0 → 1 → 2 → 3 → 4 → 5                    │ │  │
-│  │  │ (using the arsenal/tactics ✅ | war-log records/ │ │  │
-│  │  │  reports 🚫)                                     │ │  │
+│  │  │ (무기고/전술 사용 ✅ | 전투기록/보고서 🚫)       │ │  │
 │  │  └─────────────────────────────────────────────────┘ │  │
-│  │  → 🔒 Independent Verdict Locked                      │  │
+│  │  → 🔒 독립 판결 잠금 (Lock)                          │  │
 │  └──────────────────┬───────────────────────────────────┘  │
 │                     │                                      │
-│  ═══ PHASE 2: Double Verification ═══════════════════      │
+│  ═══ PHASE 2: 이중 검증 ══════════════════════════════     │
 │  ┌──────────────────▼───────────────────────────────────┐  │
-│  │  🆕 GATE 5.5: Double Verification                     │  │
-│  │  📖 Existing war-log records/reports opened for the   │  │
-│  │     first time                                         │  │
-│  │  🔒 Independent Verdict vs. 📖 Existing Report →      │  │
-│  │     compared                                            │  │
-│  │  → classified as MATCH / PARTIAL / CONFLICT / NEW      │  │
+│  │  🆕 GATE 5.5: 이중 검증 (Double Verification)        │  │
+│  │  📖 기존 전투기록/전과보고서 최초 열람                │  │
+│  │  🔒 독립 판결 vs 📖 기존 보고서 → 대조               │  │
+│  │  → MATCH / PARTIAL / CONFLICT / NEW 분류              │  │
 │  └──────────────────┬───────────────────────────────────┘  │
 │                     │                                      │
-│  ═══ PHASE 3: The Final Verdict ═════════════════════      │
+│  ═══ PHASE 3: 최종 판정 ══════════════════════════════     │
 │  ┌──────────────────▼───────────────────────────────────┐  │
-│  │  GATE 6: Comprehensive Judgment of the Sermon         │  │
-│  │  (Independent Verdict + Double-Verification Result →  │  │
-│  │   Final Rating)                                        │  │
+│  │  GATE 6: 설교 종합 판정                              │  │
+│  │  (독립 판결 + 이중 검증 결과 → 최종 등급)            │  │
 │  └──────────────────────────────────────────────────────┘  │
 └────────────────────────────────────────────────────────────┘
 ```
 
-Core Points:
-- SVAP is a **Wrapper** around BVCAP.
-- GATE -1, GATE 5.5, and GATE 6 are SVAP's own; the core verification in between (GATE 0-5) is BVCAP exactly as-is.
-- the Arsenal (TYPE-A~AY), Tactics (Hillel's 7, DE-OVERLAP), and the Mandate all share the identical existing assets.
-- when a new weapon is added to BVCAP, SVAP automatically benefits.
-- **The Core Change in v1.1**: by not referencing existing reports during PHASE 1 (independent analysis),
-  and opening existing reports for comparison only in PHASE 2 (double verification),
-  **contamination from "taking the exam already knowing the answer" is blocked at the source.**
+핵심:
+- SVAP는 BVCAP의 **래퍼(Wrapper)**다.
+- GATE -1, GATE 5.5, GATE 6이 SVAP 고유이고, 중간의 핵심 검증(GATE 0~5)은 BVCAP 그대로다.
+- 무기고(TYPE-A~AY), 전술(힐렐 7대, DE-OVERLAP), 작전명령은 모두 기존 자산을 공유한다.
+- BVCAP에 새 무기가 추가되면 SVAP도 자동으로 혜택을 받는다.
+- **v1.1 핵심 변경**: PHASE 1(독립 분석)에서 기존 보고서를 참조하지 않고,
+  PHASE 2(이중 검증)에서 비로소 기존 보고서를 열어 대조함으로써
+  **"답을 알고 시험 보는" 오염을 원천 차단**한다.
 
 ---
 *Generated by SVAP 1.3 Supreme Sermon Auditor Engine*
-*Architecture: a Wrapper over BVCAP 2.0 (BLIND GATE-1 + BVCAP GATE 0-5 + GATE 5.5 Double Verification + GATE 6 Aggregation)*
-*BVCAP Engine: ../the-scripture-audit/ (sharing the arsenal · tactics · mandate)*
+*Architecture: Wrapper over BVCAP 2.0 (BLIND GATE-1 + BVCAP GATE 0~5 + GATE 5.5 Double Verification + GATE 6 Aggregation)*
+*BVCAP Engine: ../the-scripture-audit/ (무기고·전술·작전명령 공유)*
 *STATUS: BLIND EXTRACTION | FULL SCAN PER CLAIM | DOUBLE VERIFICATION | COPYRIGHT SHIELD ACTIVE*
-*CHANGELOG: v1.0 → v1.1 (2026-06-28) — added the BLIND EXTRACTION principle + GATE 5.5 double verification*
-*CHANGELOG: v1.1 → v1.2 (2026-08-16) — established the Input-Set Bias Warning — codifying the structural bias whereby the set of verses subject to verification is confined to the list the opponent chose (a missing entry retroactively recorded 2026-08-17)*
-*CHANGELOG: v1.2 → v1.3 (2026-08-17) — established 4 types of mandatory execution guardrails. ① the PRE-FLIGHT STEP 0-F equipping-proof checklist ② GATE -1 STEP 2.5, the Observation/Inference Split ③ GATE -1 STEP 2.7, the Coverage Map ④ honest recording of the scope of BLIND achieved. Background of invocation: an incident where two audits of the same sermon diverged with extraction counts of 3 vs. 51, and the 3-count side adopted theological-system labels as grounds for its verdict. The cause was not a lack of weapons, but **a lack of verification gates in the rules.** ※ the "N-extractions-per-minute quota" and "a mandatory minimum of 1 ✅" proposed during review conflicted with GATE 8 STEP 5 (prohibition of forced generation) and the GHQ anti-bias principle, and so were **not adopted.***
-*CHANGELOG: v1.3 supplement (2026-08-17) — reflecting a pre-commit consistency check. ⑤ added the ⓪ Sweeping Adjacent Verses trigger hook to STEP 2 ③ (deferring to ANCHOR-1P's 6th order incurs a re-execution cost after the verdict is finalized) ⑥ finalized STEP 2.5's numbering rule to a single `N-a`/`N-b` suffix (resolving the issue where the text and the examples used different notations; the tally counts by row) ⑦ added `TACTIC_Auto_Grill.md` to the STEP 0-B load list (resolving the discrepancy with the 9 items in the STEP 0-F checklist)*
-*CHANGELOG: v1.3 → v1.4 (2026-08-19) — integrating the Scripture corpus. ① newly established PRE-FLIGHT **STEP 0-G** — use only after **actually confirming** via `ls` that the corpus file exists, substituting with memory-based only when absent and capping the rating ② added `00_THESCRIPTURE/README.md` to the STEP 0-F equipping checklist (10 items) ③ registered the Korean citation file (`TheScripture_ko_en_search.json`) in the asset reference map. **The standard edition = KJV 1769 Cambridge (incl. italics) / Korean = the Standard King James (KSKJB).***
+*CHANGELOG: v1.0 → v1.1 (2026-06-28) — BLIND EXTRACTION 원칙 + GATE 5.5 이중 검증 추가*
+*CHANGELOG: v1.1 → v1.2 (2026-08-16) — 입력 집합 편향 경고(Input-Set Bias Warning) 신설 — 검증 대상 집합이 상대가 고른 목록으로 한정되는 구조적 편향을 명문화 (누락된 이력을 2026-08-17 소급 기재)*
+*CHANGELOG: v1.2 → v1.3 (2026-08-17) — 실행 강제 장치(Guardrail) 4종 신설. ① PRE-FLIGHT STEP 0-F 장착 증명 체크리스트 ② GATE -1 STEP 2.5 관찰–추론 분리 ③ GATE -1 STEP 2.7 커버리지 맵 ④ BLIND 달성 범위 정직 기록. 발동 배경: 동일 설교에 대한 두 감사의 추출 건수가 3건 vs 51건으로 갈리고, 3건 측이 판정 근거에 신학체계 라벨을 채택한 사건. 원인은 무기 부족이 아니라 **규칙에 검증 게이트가 없었던 것**이다. ※ 검토 과정에서 제안된 "분당 N건 추출 할당량"과 "✅ 최소 1건 강제"는 GATE 8 STEP 5(억지 생성 금지) 및 GHQ 편향 금지 원칙과 충돌하므로 **채택하지 않았다.***
+*CHANGELOG: v1.3 보강 (2026-08-17) — 커밋 전 정합성 점검 반영. ⑤ STEP 2 ③에 ⓪ 인접 절 일소 발동 훅 추가(ANCHOR-1P 6차까지 미루면 판정 확정 후 재실행 비용이 발생) ⑥ STEP 2.5 번호 규칙을 `N-a`/`N-b` 접미사 하나로 확정(본문·예시가 서로 다른 표기를 쓰던 문제 해소, 집계는 행 수 기준) ⑦ STEP 0-B 로드 목록에 `TACTIC_Auto_Grill.md` 추가(STEP 0-F 체크리스트 9종과 불일치 해소)*
+*CHANGELOG: v1.3 → v1.4 (2026-08-19) — 성경 코퍼스 연동. ① PRE-FLIGHT STEP 0-G 신설(코퍼스 파일 존재를 `ls`로 실제 확인 후 사용, 없을 때만 기억 기반 + 등급 상한) ② STEP 0-F 장착 체크리스트에 `00_THESCRIPTURE/README.md` 추가 ③ 자산 참조 맵에 한글 인용 파일(`TheScripture_ko_en_search.json`) 등재. 기준 판본 = KJV 1769 캠브리지(이탤릭 포함) / 한글 = 표준킹제임스(KSKJB).*
+*CHANGELOG: v1.3 -> v1.4 (2026-08-19) — 성경 코퍼스 연동. ① PRE-FLIGHT **STEP 0-G 신설** — 코퍼스 파일 존재를 `ls`로 **실제 확인**한 뒤 사용하고, 없을 때만 기억 기반으로 대체하며 등급 상한을 건다 ② STEP 0-F 장착 체크리스트에 `00_THESCRIPTURE/README.md` 추가(10항목) ③ 자산 참조 맵에 한글 인용 파일(`TheScripture_ko_en_search.json`) 등재. **기준 판본 = KJV 1769 캠브리지(이탤릭 포함) / 한글 = 표준킹제임스(KSKJB)**.*

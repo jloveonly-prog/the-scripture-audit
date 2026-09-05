@@ -1,344 +1,483 @@
 # ⚖️ TheScriptureAudit
 **Official Home: [TheScripture.org](https://TheScripture.org)**  
-**Core Engine: `the-scripture-audit`**  
-> 🇰🇷 **Korean Repository(한국어 전용 저장소)**: [the-scripture-audit-ko](https://github.com/jloveonly-prog/the-scripture-audit-ko)
+**Core Engine: `the-scripture-audit`**
+> en **English Repository(영어 전용 저장소)**: [the-scripture-audit](https://github.com/jloveonly-prog/the-scripture-audit)
 
 
-> **"For the word of the LORD is right; and all his works are done in truth." (Psalm 33:4)**  
-> **"We place the written text not on the altar of theology, but on the operating table of 'pure logic'."**
+> **"대저 여호와의 말씀은 정직하며 그 행사는 다 진실하시도다." (시 33:4)**  
+> **"우리는 기록된 텍스트를 신학이 아닌 '순수 논리'의 해부대에 올린다."**
 
-This repository is the final checkpoint and integrity assurance mechanism of **The Scripture** ecosystem. Its purpose is to defend the authority of the biblical record and systematically audit and dismantle all false doctrines worldwide using a scientific and rigorous logic engine.
+본 리포지토리는 **The Scripture** 생태계의 최종 검문소이자 무결성 보증 기구입니다. 성경 기록의 권위를 수호하고, 전 세계의 모든 거짓 교리를 과학적이고 체계적인 논리 엔진으로 감사(Audit)하여 파쇄하는 것을 목적으로 합니다.
 
 ---
 
 ## 📜 [System Genealogy & Context]
 
-**Evolved Biblical Forensic System**: 
-This system is the result of transplanting and evolving the rigorous logic of the Quranic analysis frameworks (QSP/QVCAP) into biblical analysis. The Bible contains 66 books of vast chronologies and complex structures, meaning the basic logic of standard AI LLMs is insufficient to deduce its deep consistency. To overcome this limitation, **`the-scripture-audit`** was born by combining **ancient Jewish hermeneutics (the rules of Rabbi Hillel/Ishmael)** with **modern forensic investigation techniques**.
+**진화된 성경 포렌식 시스템**: 
+본 시스템은 꾸란 분석 체계인 QSP/QVCAP의 엄밀한 논리를 성경 분석에 이식하고 진화시킨 결과물입니다. 성경은 66권의 방대한 연대기와 복합적인 구조를 지니고 있어 일반적인 AI LLM의 기본 로직만으로는 그 깊은 일관성을 도출하는 데 한계가 있습니다. 이러한 한계를 극복하기 위해 **고대 유대교 해석학(랍비 힐렐/이스마엘의 규칙)**과 **현대 포렌식 수사 기법**을 결합하여 탄생한 것이 바로 **`the-scripture-audit`**입니다.
 
 ---
 
-## 🚀 Quick Start & Usage Guide
+## 🚀 사용 방법 (Quick Start & Usage)
 
-For detailed instructions on how to load this system into an AI and run audits in 5 minutes (including exact prompts), please refer to the main system guide:  
-👉 **[the-scripture-audit/BVCAP_User_Guide.md](the-scripture-audit/BVCAP_User_Guide.md)**
+이 시스템을 AI에 장착하고 5분 만에 직접 실행해 보는 **구체적인 사용법(프롬프트 포함)**은 아래의 메인 가이드를 확인해 주십시오.  
+👉 **[the-scripture-audit/BVCAP_사용자_가이드.md](the-scripture-audit/BVCAP_사용자_가이드.md)**
 
 ---
 
-## 📂 Repository Structure
+## 📂 리포지토리 구조 (Repository Structure)
 
 ```text
 .
-├── 🗄️ _Legacy_Engines/                 # Archives of past analysis engines
-│   ├── 🛡️ BVCAP/                       # Early Analysis Tool (Foundation engine for biblical consistency)
-│   ├── 🕋 QSP/                         # Quran Analysis Tool (The Quran Snare Program)
-│   └── 📖 QVCAP/                       # Quran Analysis Tool (Quran Verse Contradiction Analysis Pipeline)
-├── 📚 docs/                            # Document storage for analysis targets and verdicts
-├── 📐 System_Architecture/             # Human-readable meta docs (AI design philosophy, limitations, changelog)
-├── 🔍 the-scripture-audit/             # Biblical Audit System (AI execution engine — only 01~05 loaded)
-│   ├── 🕊️ 01_MANDATE                  # [Phase 1] Persona adoption & academic bias quarantine (OVERRIDE-0)
-│   ├── 📖 02_TACTICS                  # [Phase 2] Hermeneutical constitution & 7 tactical rules (ANCHOR-1, DE-OVERLAP)
-│   ├── 📚 03_WAR_LOG                  # [Phase 3] Library of past victorious precedents & S-rank cases
-│   ├── 🏹 04_QUIVER                   # [Phase 4] Full arsenal of precision forensic weapons (TYPE-A ~ AQ + TYPE-B-π)
-│   ├── 📥 _INBOX                      # [Input] Audit/defense targets waiting for resolution
-│   └── 📁 05_REPORT                   # [Output] Final master reports of completed audits
-├── ⛪ the-catholic-audit/               # Catholic Doctrine Audit System (CVCAP 3.0 — Internal Literature Engine)
-│   ├── 📜 01_MANDATE/                  # [Rule] Operation Orders
-│   ├── 🗺️ 02_TACTICS/                  # [Tactics] Strike Tactics + CATHOLIC_VAULT Literature DB
-│   ├── 💣 03_QUIVER/                   # [Weapon] Literature Court Implosion Ruin Cards 1~6
-│   ├── 📚 04_DOCTRINE_DB/              # [DB] Original Doctrine Cards DB (CCC, Council Decrees, Papal Bulls, etc.)
-│   ├── 🃏 05_COLLISION_CARDS/          # [Confirmed] Verified Collision Cards + Combo Cards
-│   ├── 🔍 06_ZERO_DAY/                 # [Exploration] Priority Scan Candidates for New Literature
-│   ├── 📁 07_REPORT/                   # [Output] AI Semantic Analysis and Auto-Filter Result Files
-│   └── ⚙️ scripts/                     # [Engine] Python-based Sentence Embedding (SentenceTransformer) Execution Scripts
-└── 🎙️ the-sermon-audit/                # Sermon Audit System (SVAP Engine for verifying sermons)
-    ├── 📢 01_CLAIMS                   # [Phase 1] Sermon extraction and claim separation
-    ├── 📥 _INBOX                      # [Input] Sermon audit targets
-    └── 📁 02_REPORT                   # [Output] Final sermon audit reports
+├── 🗄️ _Legacy_Engines/                 # 과거 분석 엔진 보관소 (구형 룰셋)
+│   ├── 🛡️ BVCAP/                       # 입문 분석도구 (성경 일관성 검증의 기초 엔진)
+│   ├── 🕋 QSP/                         # 꾸란 분석 도구 (The Quran Snare Program)
+│   └── 📖 QVCAP/                       # 꾸란 분석 도구 (Quran Verse Contradiction Analysis Pipeline)
+├── 📚 docs/                            # 분석할 대상의 문서 및 결과물 저장소
+├── 📐 System_Architecture(시스템_설계원리)/  # 인간용 메타 문서 (AI 설계 철학, 한계 분석, 개선 이력)
+├── 🔍 the-scripture-audit/             # 성경감사시스템 (AI 실행 엔진 — 아래 01~05만 로드)
+│   ├── 🕊️ 01_MANDATE(작전명령)          # [1단계] 페르소나 및 학술적 편향 격리(OVERRIDE-0)
+│   ├── 📖 02_TACTICS(전술)              # [2단계] 해석학 헌법 및 7대 전술 규칙 (ANCHOR-1, DE-OVERLAP)
+│   ├── 📚 03_WAR_LOG(전투기록)          # [3단계] 과거 승전 사례 및 S등급 판례 도서관 (05_REPORT에서 승격된 사본)
+│   ├── 🏹 04_QUIVER(무기고)             # [4단계] 전종 정밀 포렌식 무기 (TYPE-A ~ AY + TYPE-B-π)
+│   ├── 📥 _INBOX(작전목표)              # [입력] 해결 대기 중인 감사/방어 목표
+│   └── 📁 05_REPORT(전과보고서)          # [출력] 완료된 감사의 최종 마스터피스 보고서 (전체 산출물 · 원본 보관)
+├── ⛪ the-catholic-audit/               # 가톨릭 교리 감사 시스템 (CVCAP 3.0 — 내부 문헌 전용 엔진)
+│   ├── 📜 01_MANDATE/                  # [수칙] 작전 명령서
+│   ├── 🗺️ 02_TACTICS/                  # [전술] 타격 전술 + CATHOLIC_VAULT 문헌 DB
+│   ├── 💣 03_QUIVER/                   # [무기] 문헌 법정 Implosion 파탄 카드 1~6
+│   ├── 📚 04_DOCTRINE_DB/              # [DB] 교리 원문 카드 DB (CCC, 공의회 교령, 교황 칙서 등)
+│   ├── 🃏 05_COLLISION_CARDS/          # [확정] 검증 완료된 충돌 카드 + 콤보 카드
+│   ├── 🔍 06_ZERO_DAY/                 # [탐색] 신규 문헌 우선 스캔 후보
+│   ├── 📁 07_REPORT/                   # [출력] AI 의미론적 분석 결과 및 자동 필터 결과 파일 저장
+│   └── ⚙️ scripts/                     # [엔진] 파이썬 기반 문장 임베딩(SentenceTransformer) 실행 스크립트
+└── 🎙️ the-sermon-audit/                # 설교 감사 시스템 (설교 검증을 위한 SVAP 엔진)
+    ├── 📥 _INBOX(설교목록)              # [입력] 설교 감사 대상
+    ├── 📢 01_CLAIMS(주장추출)           # [1단계] 설교 추출 및 주장 분리
+    ├── 📐 02_TEMPLATE(템플릿·예시)      # [참조] 빈 템플릿 + 실전 밀도 예시(비공개)
+    └── 📁 03_REPORT(설교감사보고서)      # [출력] 최종 설교 감사 보고서
 ```
+
+### 📈 전투기록 승격 원칙 (Promotion Principle)
+
+`03_WAR_LOG`와 `05_REPORT`는 **문서의 종류가 아니라 등급으로 나뉩니다.**
+
+```
+05_REPORT(전과보고서)   =  완료된 모든 감사의 산출물          [전체]
+        │
+        │  승격 3대 기준 통과
+        ▼
+03_WAR_LOG(전투기록)    =  그중 S등급 판례로 승격된 사본       [선별]
+```
+
+| 승격 기준 | 내용 |
+|:---:|:---|
+| ① 판정 안정화 | 최종 등급이 문서 안에서 확정되어 더 이상 뒤집히지 않음 |
+| ② 무기 조합 식별 | 판결을 결정지은 TYPE 무기를 특정할 수 있음 → 파일명 `[TYPE조합]_` 부여 가능 |
+| ③ **재사용 가능한 절차** | 그 방법을 **다른 난제에도 적용할 수 있음** ← 판례 도서관의 존재 이유 |
+
+* **승격은 이동이 아니라 복사입니다.** 원본은 `05_REPORT`에 그대로 남습니다(`Report_Index.md`·외부 미러 링크 보존).
+* 승격 시 `REPORT_` 접두사를 떼고 `[결정 TYPE 조합]_`을 붙이며, 판례 표준 헤더를 부착해 **재구성**합니다(전문 복사 아님).
+* 등급 자체는 기준이 아닙니다 — 🟡 유력 견해라도 ①②③을 충족하면 승격합니다. **"왜 IRONCLAD로 못 올라갔는지"가 기록된 판례가 더 유용할 때가 많습니다.**
+* 참조 방향은 항상 **전술 → 전투기록 → 전과보고서** 순으로 유지합니다.
+
+> 상세 절차: [`the-scripture-audit/BVCAP_Pipeline.md`](the-scripture-audit/BVCAP_Pipeline.md) → `[GATE 5-P] 전투기록 승격 심사`
 
 ---
 
-## 🔄 BVCAP Algorithm Sequence (How It Works)
+## 🔄 BVCAP 알고리즘 동작 시퀀스 (How It Works)
 
 ```mermaid
 sequenceDiagram
     autonumber
-    actor User as 👤 User
-    participant AI as 🤖 AI Auditor
+    actor User as 👤 사용자
+    participant AI as 🤖 AI 감사관
     participant PIPELINE as 🎯 PIPELINE<br/>(GATE 0~5)
-    participant QUIVER as 🏹 QUIVER<br/>(04_QUIVER)
-    participant REPORT as ⚖️ REPORT<br/>(05_REPORT)
+    participant QUIVER as 🏹 QUIVER<br/>(04_무기고)
+    participant REPORT as ⚖️ REPORT<br/>(05_전과보고서)
 
-    User->>AI: Submit biblical thesis / counter-argument / audit request
-    Note over User,AI: "There is no explicit biblical statement that Peter died at Calvary"
+    User->>AI: 성경 논제 / 반론 / 감사 의뢰 입력
+    Note over User,AI: "베드로가 갈보리에서 죽었다는 명시가 없다"
 
     rect rgb(230, 230, 250)
-        Note over AI,PIPELINE: GATE 0 — C-Code Classification (Determine Dilemma Type)
-        AI->>PIPELINE: Classify dilemma type
-        PIPELINE-->>AI: ✅ C-10 (Typological Fulfillment Dispute) assigned
+        Note over AI,PIPELINE: GATE 0 — C-Code 분류 (난제 유형 결정)
+        AI->>PIPELINE: 난제 성격 분류
+        PIPELINE-->>AI: ✅ C-10 (예표적 성취 논쟁) 배정
     end
 
     rect rgb(210, 240, 220)
-        Note over AI,PIPELINE: GATE 1 — Collect All Related Verses (Anchor Required)
-        AI->>PIPELINE: Execute ANCHOR-1 collection
-        PIPELINE-->>AI: ✅ Conflict verses + parallel texts + 3rd anchor secured
+        Note over AI,PIPELINE: GATE 1 — 관련 구절 전체 수집 (앵커 필수)
+        AI->>PIPELINE: ANCHOR-1 수집 실행
+        PIPELINE-->>AI: ✅ 충돌 구절 + 병행 구절 + 제3의 앵커 확보
     end
 
     rect rgb(210, 228, 252)
-        Note over AI,PIPELINE: GATE 2 — Bias Block (Academic Commentary Banned)
-        AI->>PIPELINE: Fire OVERRIDE-0
-        PIPELINE-->>AI: ✅ Academic bias quarantined<br/>KJV direct reading only
+        Note over AI,PIPELINE: GATE 2 — 편향 차단 (학계 주석 검색 금지)
+        AI->>PIPELINE: OVERRIDE-0 발동
+        PIPELINE-->>AI: ✅ 학계 편향 격리 완료<br/>KJV 원문 직접 독해만 허용
     end
 
     rect rgb(255, 243, 220)
-        Note over AI,PIPELINE: [Pre-Processing] Protocol Loading (Once)
-        AI->>PIPELINE: Load ANCHOR-1 + DE-OVERLAP + MATRIX-3
-        PIPELINE-->>AI: ✅ Time/Space serial/separation 7-rules loaded
+        Note over AI,PIPELINE: [전처리] 프로토콜 장착 (1회)
+        AI->>PIPELINE: ANCHOR-1 + DE-OVERLAP + MATRIX-3 로드
+        PIPELINE-->>AI: ✅ 시공간 직렬/분리 7원칙 장착 완료
     end
 
     rect rgb(252, 215, 230)
-        Note over AI,QUIVER: GATE 3 — FULL SCAN (Main Engine)
-        AI->>QUIVER: Execute C-Code recommended TYPEs first
+        Note over AI,QUIVER: GATE 3 — FULL SCAN (메인 엔진)
+        AI->>QUIVER: C-Code 권장 TYPE 우선 실행
 
-        Note over QUIVER: 🔵 Hermeneutics Domain (Evidence Extraction)
-        QUIVER-->>AI: TYPE-G (Greek Grammar) fired<br/>TYPE-S (Lexical Bridge) fired<br/>TYPE-W (Retrospective Authorial Cognition) fired<br/>TYPE-AE (Inclusio) fired
+        Note over QUIVER: 🔵 해석학 도메인 (본문 증거 추출)
+        QUIVER-->>AI: TYPE-G (원어 문법) 발동<br/>TYPE-S (어휘 교차) 발동<br/>TYPE-W (회고적 기술) 발동<br/>TYPE-AE (수미상관) 발동
 
-        Note over QUIVER: 🟢 Logic Domain (Conclusion Confirmation)
-        QUIVER-->>AI: TYPE-N (Exclusivity Eliminator) fired<br/>TYPE-AD (Abductive Reasoning) fired<br/>TYPE-AC (Counterfactual Test) fired<br/>TYPE-AJ (Cumulative Case) fired
+        Note over QUIVER: 🟢 논리학 도메인 (결론 확정)
+        QUIVER-->>AI: TYPE-N (배타성 소거) 발동<br/>TYPE-AD (귀추법) 발동<br/>TYPE-AC (반사실적 모순) 발동<br/>TYPE-AJ (누적 사례) 발동
 
-        Note over QUIVER: 🔴 Fallacy Detection Domain (Counter-Argument Neutralized)
-        QUIVER-->>AI: TYPE-T (Lexical Misreading)<br/>TYPE-AL (Equivocation Detection)<br/>TYPE-AN (Moving Goalposts Detection)
+        Note over QUIVER: 🔴 오류학 도메인 (반론 무력화)
+        QUIVER-->>AI: TYPE-T (어휘 오독 적발)<br/>TYPE-AL (어의 중의성 적발)<br/>TYPE-AN (목표대 이동 적발)
 
-        Note over QUIVER: ⚡ COMBO Fire (Cross-Domain Simultaneous Discharge)
-        QUIVER-->>AI: COMBO [G+S+W+N+AD]<br/>Hermeneutics + Logic simultaneous discharge<br/>Cannot be refuted by attacking a single domain
+        Note over QUIVER: ⚡ COMBO 발동 (도메인 교차 동시 발화)
+        QUIVER-->>AI: COMBO [G+S+W+N+AD]<br/>해석학 + 논리학 동시 발화<br/>단일 도메인 공격으로 기각 불가
 
-        AI->>AI: STRESS-TEST-7<br/>(Simulate strongest counter-argument & self-verify)
+        AI->>AI: STRESS-TEST-7<br/>(최강 반론 시뮬레이션 & 자기 검증)
     end
 
     rect rgb(220, 245, 220)
-        Note over AI,PIPELINE: GATE 4 — Reverse Cross-Verification (Loop)
-        AI->>PIPELINE: Verify each TYPE conclusion with independent data
-        alt Pass ✅
-            PIPELINE-->>AI: Conclusion confirmed → proceed to GATE 5
-        else Fail ❌
-            PIPELINE-->>AI: Loop back → GATE 1 for additional anchors
+        Note over AI,PIPELINE: GATE 4 — 역산 교차 검증 (루프)
+        AI->>PIPELINE: 각 TYPE 결론을 독립 데이터로 역검증
+        alt 정합 ✅
+            PIPELINE-->>AI: 결론 확정 → GATE 5로
+        else 불정합 ❌
+            PIPELINE-->>AI: 루프백 → GATE 1 앵커 추가 수집
         end
     end
 
     rect rgb(245, 235, 250)
-        Note over AI,REPORT: GATE 5 — Masterpiece Report Output
-        alt IRONCLAD (3+ COMBOs & STRESS-TEST passed)
-            AI->>REPORT: Generate IRONCLAD verdict
-            REPORT-->>User: ✅ IRONCLAD<br/>Logical necessity confirmed<br/>Masterpiece report issued
-        else CONFIRMED (2 COMBOs)
-            AI->>REPORT: Generate CONFIRMED verdict
-            REPORT-->>User: ✅ CONFIRMED<br/>Internal scriptural grounds established
-        else CONSISTENT (Single TYPE)
-            AI->>REPORT: Generate CONSISTENT verdict
-            REPORT-->>User: ✅ CONSISTENT<br/>Consistency verified
+        Note over AI,REPORT: GATE 5 — 마스터피스 보고서 출력
+        alt IRONCLAD (COMBO 3종+ & STRESS-TEST 통과)
+            AI->>REPORT: IRONCLAD 판결 생성
+            REPORT-->>User: ✅ IRONCLAD<br/>논리적 필연성 확정<br/>마스터피스 보고서 발행
+        else CONFIRMED (COMBO 2종)
+            AI->>REPORT: CONFIRMED 판결 생성
+            REPORT-->>User: ✅ CONFIRMED<br/>성경 내부 근거 확보
+        else CONSISTENT (단일 TYPE)
+            AI->>REPORT: CONSISTENT 판결 생성
+            REPORT-->>User: ✅ CONSISTENT<br/>일관성 확인
         end
     end
 ```
 
-> **GATE-Based Pipeline**: GATE 0 (Classify) → GATE 1 (Collect) → GATE 2 (Bias Block) → GATE 3 (FULL SCAN) → GATE 4 (Reverse Verify) → GATE 5 (Report).
-> COMBO = two or more domains fire simultaneously → opponent cannot refute the argument by attacking only one domain.
+> **GATE 기반 파이프라인**: GATE 0(분류) → GATE 1(수집) → GATE 2(편향 차단) → GATE 3(FULL SCAN) → GATE 4(역산 검증) → GATE 5(보고서).
+> COMBO 발동 = 두 도메인 이상 동시 발화 → 상대가 단일 도메인만 공격해서는 논증 전체를 기각 불가.
 
 ---
 
-## ⚡ 4-Phase System Structure — What Each Folder Does
+## ⚡ 4단계 감사 파이프라인 — 시스템 구조와 각 폴더의 역할
 
-The AI Auditor goes through the following 4 phases to generate a **'Masterpiece'** verdict for any theological dilemma.
+AI 감사관은 모든 난제에 대해 다음의 4단계를 거쳐 **'마스터피스(Masterpiece)'** 판결문을 생성합니다.
 
-1.  **MANDATE**: Quarantines liberal academic bias and adopts the identity of the '42nd Writer' to defend the inerrancy of the KJV Bible.
-2.  **TACTICS**: Aligns thought circuits by collecting a "third anchor verse (ANCHOR-1)" and applying the "time/space overlap dismantling (DE-OVERLAP)" rule.
-3.  **WAR_LOG**: Sets the quality standard for analysis by referencing successful precedents of similar dilemmas.
-4.  **QUIVER**: Selects the appropriate TYPE from the full arsenal of precision weapons to precisely strike the logical contradictions of the opposition.
-
----
-
-## 🎯 GATE-Based Execution Pipeline — The Actual AI Execution Order
-
-> While the 4 phases above describe "what each folder does", the following shows the **actual execution order the AI follows** when it receives a dilemma.
-
-0.  **GATE 0 (C-Code Classification)**: Classifies the dilemma into 13 C-Codes (C-01~C-13) to set the analysis direction.
-1.  **GATE 1 (Verse Collection)**: Collects conflict verses + parallel texts + **3rd anchor verses** as mandatory. → References `02_TACTICS`
-2.  **GATE 2 (Bias Block)**: Quarantines academic consensus as hypothesis (H0), analyzing only through direct KJV reading. → References `01_MANDATE`
-3.  **GATE 3 (FULL SCAN)**: Fires all weapons (TYPE-A~AQ) sequentially, runs COMBO verification and STRESS-TEST-7. → References `04_QUIVER` + `03_WAR_LOG`
-4.  **GATE 4 (Reverse Verification)**: Cross-verifies each TYPE's conclusion with independent 3rd-party data. Loops back to GATE 1 on failure.
-5.  **GATE 5 (Report Output)**: Outputs the final verdict in Phase 1~6 Masterpiece format. → Outputs to `05_REPORT`
+1.  **MANDATE (작전명령)**: 학계의 자유주의적 편향을 차단하고, KJV 성경의 무오성을 수호하는 '제42의 기록자' 정체성을 장착합니다.
+2.  **TACTICS (전술)**: "제3의 앵커 구절(ANCHOR-1)" 수집과 "시간/공간 중첩 해체(DE-OVERLAP)" 규칙을 적용하여 사고 회로를 정렬합니다.
+3.  **WAR_LOG (전투기록)**: 과거의 유사 난제 해결 전례(판례)를 참조하여 분석의 품질 기준을 설정합니다.
+4.  **QUIVER (무기고)**: 전종 정밀 무기 중 적합한 TYPE을 선택하여 적의 논리적 모순을 정밀 타격합니다.
 
 ---
 
-## 🏹 Full Arsenal of Precision Forensic Weapons (The QUIVER)
+## 🎯 GATE 기반 실행 파이프라인 — AI가 실제로 따르는 실행 순서
 
-| TYPE | Name | Core Mechanism |
+> 위의 4단계가 "각 폴더가 무엇을 하는가"라면, 아래는 **AI가 난제를 받았을 때 실제로 밟는 실행 순서**입니다.
+
+0.  **GATE 0 (C-Code 분류)**: 난제의 유형을 13개 C-Code(C-01~C-13)로 분류하여 분석 방향을 설정합니다.
+1.  **GATE 1 (구절 수집)**: 충돌 구절 + 병행 구절 + **제3의 앵커 구절**을 의무 수집합니다. → `02_TACTICS` 참조
+2.  **GATE 2 (편향 차단)**: 학계 통설을 가설(H0)로 격리하고, KJV 원문 직접 독해만으로 분석합니다. → `01_MANDATE` 참조
+3.  **GATE 3 (FULL SCAN)**: 전종 무기(TYPE-A~AY)를 순차 발동하고, COMBO 검증 및 STRESS-TEST-7을 실행합니다. → `04_QUIVER` + `03_WAR_LOG` 참조
+4.  **GATE 4 (역산 검증)**: 각 TYPE의 결론을 제3의 독립 데이터로 역산 교차 검증합니다. 불정합 시 GATE 1로 회귀합니다.
+5.  **GATE 5 (보고서 출력)**: Phase 1~6 마스터피스 양식으로 최종 판결을 출력합니다. → `05_REPORT` 출력
+
+---
+
+## 🏹 전종 정밀 포렌식 무기 (The QUIVER)
+
+| TYPE | 이름 | 핵심 작동 원리 |
 |:---:|:---|:---|
-| **TYPE-A** | Chronological Serial Dismantling | Reverse-calculates hidden years by arranging numbers sequentially without overlap |
-| **TYPE-B** | Event Sequential Parallel Integration | Merges two separate records into a single timeline and narrative |
-| **TYPE-B-π** | Perception Filter | Detects witnesses in a "saw but could not process" state — SHOCK/GRIEF/CULTURAL/DIVINE classification |
-| **TYPE-C** | Functional Category Separation | Breaks down different functions/scales/units referred to by the same word |
-| **TYPE-G** | KJV Grammatical Structure Anatomy | Proves the text cannot be deleted by analyzing commas, conjunctions, and articles |
-| **TYPE-L** | Inductive Chain Reasoning | Repeats "Why?" to connect clue chains and deduce the grand blueprint |
-| **TYPE-N** | Exclusivity Verification | Confirms the pattern applies to only one target through exhaustive survey |
-| **TYPE-AC** | Counterfactual Hypothesis Test (Reductio) | Inserts the opposite hypothesis into scripture → contradiction explosion → sole truth confirmed |
-| **TYPE-AQ** | Audience Criticism | Verifies how the original audience understood the text directly from within scripture |
-| ... | **(Full Arsenal)** | See `the-scripture-audit/04_QUIVER/` for details |
+| **TYPE-A** | 연대기 직렬 분해 | 숫자를 겹치지 않고 순서대로 줄 세워 숨겨진 연수를 역산 |
+| **TYPE-B** | 사건 순차 병렬 통합 | 두 기록을 타임라인으로 끼워 맞춰 단일 서사로 통합 |
+| **TYPE-B-π** | 지각 필터 (Perception Filter) | 증인이 "보았으나 처리 불가" 상태 탐지 — SHOCK/GRIEF/CULTURAL/DIVINE 분류 |
+| **TYPE-C** | 기능적 범주 분리 | 같은 단어가 가리키는 다른 기능/규모/단위를 분해 |
+| **TYPE-G** | KJV 문법 구조 해부 | 콤마, 접속사, 관사 구조 분석을 통한 텍스트 삭제 불가성 증명 |
+| **TYPE-L** | 귀납적 연쇄 추론 | "왜?"를 반복하며 단서 체인을 연결하여 전체 설계도 도출 |
+| **TYPE-N** | 배타성 검증 | 패턴이 오직 이 한 대상에만 적용됨을 전수 조사로 확정 |
+| **TYPE-AC** | 역가설 대입 검증 (귀류법) | 반대 가설을 세워 성경 본문에 대입 → 모순 폭발 → 유일 진리 확정 |
+| **TYPE-AQ** | 청중비평 (Audience Criticism) | 원래 청중이 어떻게 이해했는지를 텍스트 내에서 직접 확인 |
+| ... | **(전종)** | 상세 내용은 `the-scripture-audit/04_QUIVER(무기고)/` 참조 |
 
 ---
 
-## ⚖️ Core Audit Protocols
+## ⚖️ 감사의 핵심 프로토콜 (Core Protocols)
 
-*   **OVERRIDE-0 (Reject AI Bias)**: Quarantines academic consensus into the hypothesis stage and zero-targets solely using the original biblical text.
-*   **ANCHOR-1 (3rd Anchor Collection)**: Beyond the two conflicting verses, a third independent data point must be collected to initiate reverse calculation.
-*   **STRESS-TEST-7 (Enemy's Strongest Counterattack)**: Before the final verdict, the AI simulates the enemy's most powerful counterattack to verify the logic.
-*   **ANALOGY-5 (Modern Analogy)**: Generates analogies using modern military/legal concepts to make complex conclusions understandable in 1 second.
-
----
-
-## 🌊 Audit Workflow
-
-1.  **Input**: Select a verification agenda from `docs/분석대상자료/` (Analysis Targets) or `_INBOX/`.
-2.  **Audit**: Run `the-scripture-audit` pipeline (BVCAP 2.0 Engine).
-3.  **Verdict**: Derive the final verdict and spiritual lesson (LESSON-6).
-4.  **Storage**: Permanently store in `docs/분석완료자료/` (Completed Analysis) or `the-scripture-audit/05_REPORT/`.
+*   **OVERRIDE-0 (AI 편향 거부)**: 학계 통설을 가설 단계로 격리하고 오직 성경 원문만으로 영점 조준.
+*   **ANCHOR-1 (제3 앵커 수집)**: 충돌하는 두 구절 외에 반드시 제3의 독립 데이터를 수집하여 역산 개시.
+*   **STRESS-TEST-7 (적 최강 반격)**: 최종 판결 전, AI가 적의 가장 강력한 반격을 시뮬레이션하여 논리를 검증.
+*   **ANALOGY-5 (현대 비유)**: 난해한 결론을 현대 군사/법률 개념에 빗대어 1초 만에 이해시키는 비유 생성.
 
 ---
 
-## 🛠️ Developer's Preface
+## 📊 판정 등급 체계 (자체 점수 · 신학 점수 기준)
 
-Jesus is the Word — WORD. We communicate through language, which is combinations of words. Computer programs, too, are developed through source code — combinations of words.
+BVCAP의 최종 판정은 서로 다른 두 개의 독립된 축으로 구성됩니다. 두 축을 섞어서 표기하면 "텍스트상 확실한 것"과 "강단에서 가르쳐도 되는 것"이 혼동되므로 반드시 구분합니다.
 
-When I discovered that there exists a more complete Bible with no "missing" verses, the way I saw Scripture changed entirely.
-As a software developer, I now wonder: was I, without realizing it, reading and studying the Bible like a perfect source code?
+### ① 자체 점수 — BVCAP 내부 확신도 (텍스트·원어·논리 기준)
+"이 결론이 원어·문법·논리적으로 얼마나 단단한가"만 평가합니다. 신학적으로 교리화해도 되는지는 별개 질문이며 ②에서 다룹니다.
 
-As the AI era arrived and learning AI was no longer optional, I began applying it in real-world situations — at work, at home.
-It started in earnest with analyzing errors in the Islamic Quran. I then applied that same methodology in reverse — to prove that the Bible contains no contradictions — but the results fell far short of expectations.
-It was no better than a basic GPT search result.
+| 등급 | 조건 |
+|:---:|:---|
+| ✅ **EXPLICIT** | 성경이 문장으로 직접 기록한 사실 |
+| ✅✅✅ **IRONCLAD** | 모든 대안 해석 기각 + COMBO 3종 이상 수렴 + STRESS-TEST-7 + 자가 적대 검증 통과 |
+| ✅✅ **STRONG** | COMBO 2종 이상 수렴, 극소수 미해결 변수만 남음 |
+| ✅ **VIABLE** | 단일 TYPE 무기로 도출된 결론, 경쟁 해석 모델이 아직 생존 |
+| ⚠️ **TENTATIVE** | 추가 데이터가 있어야 확신도가 오를 수 있는 잠정 결론 |
+| ❓ **OPEN** | 현재 데이터로는 확정 불가 |
+| ❌ **CONTRADICTION** | 데이터 자체가 실제 모순을 지지 |
 
-Biblical analysis required an entirely different design.
-Large Language Models (LLM / AI) have already been trained on the vast knowledge and wisdom accumulated by faithful predecessors and theologians — truth embedded in their very weights.
-BVCAP does not create new truth. It was designed to trace the truth already present in Scripture — but not yet connected — all the way to its conclusion — to find the result (inference).
+### ② 신학 점수 — 목회 적용 등급 (강단 선포 가능 여부)
+①이 아무리 높아도(IRONCLAD) **서로 다른 책·저자의 독립 구절(교차증인)로 재확인되지 않으면 자동으로 "교리"가 되지 않습니다.**
 
-Operating from the standpoint of a believer who trusts Scripture as truth **(Identity)**,  
-applying diverse textual analysis methods **(Strategy & Tactics)**,  
-drawing on real-world combat experience **(War Log)**,  
-armed with a full arsenal of logical tools **(Quiver)**,  
-deploying them sequentially, in combo strikes, or as preemptive counter-refutation **(Pipeline)** — this is how it works.
+| ① 내부 등급 | 교차증인 검증 | ② 신학적 결정 | 목회 적용 |
+|:---:|:---:|:---:|:---|
+| EXPLICIT | — | **확정 (Doctrine)** | 강단 선포 가능 |
+| IRONCLAD | ✓ 확인됨 (N개 독립 책/저자) | **확정 (Doctrine)** | 강단 선포 가능 |
+| IRONCLAD | 미확인 | **개연성 (Probability)** | "유력한 견해"로만 제시, 교리화 금지 |
+| STRONG / VIABLE | — | **개연성 (Probability)** | 유력한 견해로 제시하되 대안 해석 인정 |
+| TENTATIVE / OPEN | — | **추정 (Speculation)** | 개인 묵상·설교 예화 수준. 교리 절대 금지 |
+| CONTRADICTION | — | 해당 없음 | — |
 
-When examining any doctrine, objection, or apparent contradiction in Scripture, BVCAP produces a depth of analysis that would be difficult to reach alone.
-It is as though the wisdom and knowledge of trusted, capable faith predecessors stand behind you.
+> 두 축의 상세 판정 기준, 파일명 접미사 규칙(확정/유일/유력/추정/모순), C-Code별 MODE 배분은 `the-scripture-audit/BVCAP_GHQ.md`를 참조하십시오.
 
-Analysis results are output as reports. **(After-Action Report)**  
-If a report produces a previously unrecorded logic or method, it is loaded into the War Log and Quiver **(Virtuous Cycle)** — ready to be deployed in the next analysis.
-The arsenal now exceeds 40 weapons, integrating disciplines such as logic, hermeneutics, theology, and IT.
-
-However, BVCAP's reports are not 100% correct. It does produce wrong answers.
-It is also true that when faced with a problem, one is driven to pray and seek God's wisdom.
-
-I cannot personally claim 100% confidence in every report. I am a software developer, not a theologian.
-I believe the final verification must be entrusted to capable theologians.
-
-Is the Bible truth?  
-Then why do hard questions exist?  
-Could it be that God permitted the BVCAP program?
-
+> ⚠️ **②(신학 점수)의 실질적 비중은 MODE B(신학 법정모드)에서 훨씬 큽니다.** MODE A(방패모드)는 대개 이미 확립된 정통 교리를 외부 공격으로부터 방어하는 작업이라 결과가 처음부터 "확정"에 가깝지만, BVCAP의 분석 상당수는 MODE B — 즉 기존 신학이 명시적으로 다루지 않던 영역(창3장 출산 논쟁, 사울왕 구원 등)을 새로 규명하는 작업입니다. 이런 문서일수록 "유력(개연성)"과 "확정(교리)"을 섞지 않는 것이 중요하며, 독립 쟁점이 여럿인 MODE B 보고서에는 쟁점별 승/무/패를 숫자 점수 없이 정리하는 **CVM(쟁점 비교표)**을 함께 씁니다 — 상세 형식은 `BVCAP_GHQ.md` PHASE 5 §5-A 참조.
 
 ---
 
-All materials in this repository are free to use — with no conditions whatsoever. (github.com/jloveonly-prog/the-scripture-audit)
-We simply ask that the purpose of such use be for the glory of Jesus Christ, who is God and our Savior.
-If you have verified and understood the content, this wisdom and knowledge now belongs to you.
-You are free to disseminate these biblical mysteries and wisdom through sermons, documents, content creation, papers, and more.
+## 📖 용어 사전 (Glossary) — 보고서 읽는 법
 
-None of the reports here are closed, finished products. Whenever new light is discovered, they will be continuously updated (added, revised, or removed).
+> 보고서에 나오는 용어들을 **쉬운 말**로 풀었습니다. 전문 용어를 몰라도 판정 결과를 읽을 수 있게 하는 것이 목적입니다.
+
+### ① 논증 오류 — "이래서 그 주장이 무너졌다"는 말들
+
+| 용어 | 쉬운 말 | 예 |
+|:---|:---|:---|
+| **허수아비** (Straw Man) | 상대가 하지도 않은 말을 지어내서 그걸 깨부수는 것 | 상대는 "A는 조심해야 한다"고 했는데 "쟤는 A를 완전히 부정한다"고 몰아세우기 |
+| **거짓 이분법** (False Dichotomy) | 선택지가 셋 이상인데 둘만 있는 척하는 것 | "무저갱 아니면 돼지" — 실제로는 '몸 없이 배회'라는 세 번째가 있었음 |
+| **침묵 논증** (Argument from Silence) | "성경에 그 단어가 없다 → 그러니 그 개념도 없다" | "'persons'라는 단어가 없다"는 사실은 맞지만, 단어가 없다고 개념이 없는 건 아님 |
+| **어의 오용** (Equivocation) | 같은 단어를 슬쩍 다른 뜻으로 바꿔치기 | "만군의"를 '하늘 군대'가 아니라 '하나님의 구성 부분'으로 읽기 |
+| **범주 오류** (Category Error) | 성격이 다른 두 가지를 같은 것처럼 취급 | 죽은 사람의 일시적 상태를 영원한 존재의 구조에 그대로 대입 |
+| **발생론적 오류** (Genetic Fallacy) | "출처가 나쁘니 내용도 거짓" | "가톨릭이 믿으니까 틀렸다" — 출처와 진위는 별개 |
+| **움직이는 골대** (Moving Goalposts) | 반박당하면 판정 기준 자체를 슬쩍 옮기는 것 | 증거를 제시하니 "그 정도로는 부족하다"며 요구 수준을 올림 |
+| **입증책임** (Burden of Proof) | **주장한 사람이 증명해야 한다**는 원칙 | "성경에 오류가 있다"고 공격한 쪽이 증명해야지, 방어자가 결백을 증명할 의무는 없음 |
+
+### ② 분석 방법 — "이렇게 검증했다"는 말들
+
+| 용어 | 쉬운 말 | 왜 중요한가 |
+|:---|:---|:---|
+| **유비** (Analogy) | "A가 이러니 B도 이럴 것이다"는 **닮은꼴 추론** | 참고는 되지만 **증명은 아님.** 그래서 유비만으로는 🟡 OPINION을 넘지 못함 |
+| **동치·등치** (Equivalence) | "A = B"라고 **같다고 놓는 것** | 성경이 직접 같다고 말했는지, 우리가 그렇게 놓은 건지 반드시 구분 |
+| **직유** (Simile) | "A**같이**", "A**처럼**" — 닮았다는 말이지 같다는 말이 아님 | 히 7:3 *"made like unto"*, 단 3:25 *"like the Son of God"* — **'같다'와 '이다'는 전혀 다름** |
+| **앵커** (Anchor) | 다투는 두 구절 말고 **제3의 구절** | 두 구절만 비교하면 영원히 답이 안 나옴. 제3의 증거가 있어야 계산이 시작됨 |
+| **교차증인** | 서로 **다른 책·다른 저자**가 같은 말을 하는가 | 한 사람이 세 번 말한 건 증인 3명이 아님. 이게 없으면 "교리"로 확정 못 함 |
+| **전수조사** (Exhaustive Search) | 성경 66권 **전부** 뒤져서 세는 것 | "0건"이라는 결과가 나오면 강력한 증거. 단 성경이 그 주제를 풍부히 다루면서 한쪽만 0건일 때만 |
+| **귀류법** (Reductio) | 상대 주장을 그대로 밀고 가서 **말이 안 되는 결론**을 끌어내는 것 | "영원하신 아버지가 태어났다" → 그럼 마리아가 하나님의 어머니가 됨 |
+| **역가설** (Counterfactual) | 반대 주장을 넣어보고 **터지는지** 보는 것 | 안 터지면 확정 못 함 — 이게 IRONCLAD를 막는 관문 |
+| **귀추법** (Abduction) | 여러 설명 중 **가장 잘 들어맞는 것**을 고르기 | 셜록 홈즈 방식. 확정이 아니라 최선의 추정 |
+| **Cui Bono** | "**누가 이익을 봤나**"로 동기를 역산 | 결과가 누구 요구와 맞물리는지 봄. 단 "이익 봤으니 계획했다"는 비약 |
+| **정황 증거 vs 명시 증거** | 정황 = 정황상 그렇다 / 명시 = 성경이 그렇게 **써 있다** | 명시는 EXPLICIT, 정황은 아무리 두꺼워도 STRONG이 상한 |
+
+### ③ 히브리 해석 원칙 (힐렐 7대 규칙) — 이름이 어려운 것들
+
+| 원어 이름 | 쉬운 말 |
+|:---|:---|
+| **칼 바호메르** | "작은 것도 그러한데 하물며 큰 것은" — 당연히 더 그렇다는 추론 |
+| **게제라 샤와** | **같은 희귀 단어가 쓰인 두 구절**을 다리로 연결 (요 10:30의 "하나"와 요 17:11의 "하나") |
+| **켈랄 우프라트** | 큰 묶음 설명과 세부 설명이 충돌하면 → 모순이 아니라 **범주가 나뉜 것** |
+| **카요제 보** | 어려운 구절은 **다른 곳의 비슷한 패턴**으로 푼다 |
+| **다바르 할라메드** | 단어 뜻은 사전이 아니라 **앞뒤 문맥**이 정한다 |
+| **하자카** | 바뀌었다는 증거가 나오기 전까지 **원래 상태가 유지**된 것으로 본다 |
+
+### ④ 시스템 약어
+
+| 약어 | 뜻 |
+|:---|:---|
+| **GATE** | 건너뛸 수 없는 검증 관문 (GATE 0 → 1 → 2 …) |
+| **TYPE** | 무기 하나하나. `04_QUIVER`에 53종 (TYPE-A ~ AY) |
+| **C-Code** | 난제의 종류 분류표 (C-01 숫자 충돌 ~ C-13 영적 존재) |
+| **E-Code** | 회피 논법 탐지 코드 (E-16 = "전체 맥락상 괜찮다"로 개별 오류 덮기) |
+| **COMBO-VERIFY** | 서로 다른 무기 여러 종이 **같은 결론으로 모였는지** 확인 |
+| **STRESS-TEST-7** | 우리 판정에 **상대의 최강 반론**을 일부러 던져보는 것 |
+| **AUTO-GRILL** | AI가 **자기 자신을 심문**하는 절차 |
+| **OVERRIDE-0/1/2** | 편향 차단 장치 (0=학계 통설 / 1=교리 방어 편향 / 2=근거 없는 항복) |
+| **BLIND EXTRACTION** | 이전 판정을 **안 보고** 백지에서 검증하기 ("답 보고 시험 보지 않기") |
+| **PART A / B / C / D** | 설교 감사 보고서 4단 구조 (판정 / 해설 / 보강 논거 / 실전 투입) |
+| **승격 (Promotion)** | 좋은 보고서를 `03_WAR_LOG` **판례 도서관**으로 올리는 것 |
+
+> ⚠️ **가장 자주 오해되는 것 하나**: **유비는 증명이 아닙니다.** "사람이 영·혼·몸이니 하나님도 그렇다" 같은 논증은 아무리 그럴듯해도 성경이 직접 그렇게 말하지 않으면 🟡 OPINION입니다. 이 원칙은 **어느 진영에나 똑같이** 적용됩니다.
 
 ---
 
+## 🌊 감사 워크플로우 (Workflow)
 
-## ⚙️ Multilingual Semantic AI Embedding Engine (Sentence-Transformers)
-
-`the-catholic-audit` is designed by fully introducing **Python-based multilingual semantic AI embedding (Sentence-Transformers)** technology to overcome the limitations of simple text searches in Large Language Models (LLMs) and maximize system computational efficiency.
-
-### 1. Why use a Local Embedding Model (.py) instead of an LLM API?
-*   **Preventing Computational Explosion ($O(N^2)$ calculations):** Cross-referencing 1,000 Claims and 1,000 Negates within the doctrine database requires a total of 1,000 x 1,000 = 1,000,000 (1 million) sentence comparison operations. Performing this every time via a paid LLM API (like Claude) would incur massive costs and long response times.
-*   **Zero Cost and Ultra-High-Speed Calculation:** By running an open-source multilingual model (`paraphrase-multilingual-MiniLM-L12-v2`) on a local computer to convert each sentence into a 384-dimensional numeric vector (Embedding) just once, 1 million similarity matrix calculations can be completed locally on a CPU in a few seconds for free.
-*   **Deterministic Discrimination:** While LLMs may produce inconsistent conclusions depending on the Temperature or nuances of the input prompt, Cosine Similarity between embedding vectors always derives a mathematically quantified and consistent conclusion.
-
-### 2. How does it capture the true meaning of multiple languages?
-*   Simple keyword matching (TF-IDF) fails to recognize identical meanings if the word forms differ, such as "Priest" vs "Father" or "Confession" vs "Penance".
-*   Even if sentences are written differently in Korean, English, or Latin, the multilingual sentence transformer model **maps them to the same position in the semantic coordinate space if their essential "meaning" is identical**. Therefore, even if heterogeneous literature data in multiple languages is mixed, it perfectly catches contradictions and similarities without the need for manual translation.
-
-### 3. Sophisticated False Positive Prevention Logic (Cross-Claim Filter)
-*   To prevent misidentifying a collision simply because the sentence structure is similar, the `conflict_detector.py` script is equipped with a **Cross-Claim Verification Algorithm**.
-*   Even if the opponent's Negate item is similar to my Claim, if the opponent also has a sentence with the same intent supporting their own Claim, this is judged as "Supporting the Same Position" rather than a "Collision," and is automatically removed from the false-positive detection targets.
+1.  **Input**: `docs/분석대상자료/`에서 검증 의제 선정.
+2.  **Audit**: `the-scripture-audit` 파이프라인 가동 (BVCAP 2.0 엔진).
+3.  **Verdict**: 최종 판결 및 영적 교훈(LESSON-6) 도출.
+4.  **Storage**: `docs/분석완료자료/` 또는 `the-scripture-audit/05_REPORT(전과보고서)/`에 영구 보관.
 
 ---
-## 🎙️ Sermon Audit System (`the-sermon-audit`)
 
-**Sermon Verification and Audit Pipeline (SVAP)** is a dedicated engine for auditing sermons. It separates claims from sermons and verifies them against the biblical matrix to ensure scriptural integrity.
+## 🛠️ 개발자 서문 (Developer's Preface)
 
-1. **01_CLAIMS**: Sermon extraction and claim separation.
-2. **02_REPORT**: Final sermon audit reports.
-3. **_INBOX**: Sermon audit targets.
 
-For detailed usage, refer to `the-sermon-audit/SVAP_Pipeline.md` and `the-sermon-audit/SVAP_GHQ.md`.
+예수님은 말씀입니다. WORD 우리들은 단어의 조합 언어로 소통합니다. 컴퓨터 프로그램도 단어의 조합 소스 코드(source code)로 개발하죠.
 
-## 📜 License & Copyright
+'없음' 구절이 없는 더 완전한 성경이 있다는 걸 알았을 때 성경을 바라보던 시선이 달라졌던 것 같습니다.
+프로그램 개발자로 나도 모르게 성경을 완벽한 소스 코드처럼 읽으며 공부한 게 아닌가 생각됩니다.
 
-The code and system logic of this repository are distributed under a dual license: **MIT License** and **Apache License 2.0**.
-*   **MIT License Summary**: Anyone can freely use, modify, and distribute for commercial or non-commercial purposes.
-*   **Apache License 2.0 Summary**: Anyone can freely use, but it includes provisions preventing users from filing patent lawsuits against the original creator using the core logic of this system.
+그리고 AI 시대에 접어들었고 어쩔 수 없이 AI를 공부해야 하는 위치에서 직장에서 집에서 실전에 적용했습니다.
+이슬람 꾸란의 오류를 찾는 분석이 본격적인 시작이었고 그 분석 방식을 역으로 적용해
+성경이 모순이 없음을 증명하기 위해 적용해 보았지만 결과물은 기대 이하였습니다.
+단순 GPT 검색 결과 수준이었죠.
 
-**[Scope of Application]**
-This license applies to the system logic (MD files, etc.), analysis results, and the entire documentation, including all 4 core modules below:
+성경 분석은 완전히 다른 설계가 필요했습니다.
+거대 언어 LLM(AI)는 믿음의 선배분들과 신학자들이 이루어 놓은 수많은 진리의 지식과 지혜가 학습되어 있습니다.
+BVCAP은 새로운 진리를 만들지 않습니다. 성경 안에 이미 있지만 아직 연결되지 않은 진리의 지식을 끝까지 추적해서 결과(추론)를 찾아내도록 설계되었습니다.
+
+성경을 진리로 신뢰하는 신앙인의 입장에서 **(정체성)**  
+다양한 본문 분석 방식으로 **(전략전술)**  
+실전 경험을 참고하여 **(전투기록)**  
+다양한 논리 도구를 들고 **(무기창고)**  
+하나씩 순차적으로 사용하거나, 콤보 공격 또는 예상 반론 검증 방식으로 **(파이프라인)** 동작합니다.
+
+그래서 성경의 어떤 교리나 반론이나 모순을 찾을 때 혼자서는 닿기 어려운 분석 깊이를 만들어냅니다.
+그러니까 든든하고 유능한 믿음의 선배분들의 지혜와 지식 데이터가 뒤에서 받쳐주는 것과 같습니다.
+
+분석 결과는 보고서로 출력됩니다. **(전과보고서)**  
+보고서의 결과가 이전에 없던 논리나 방식을 사용했다면 전투기록과 무기창고에 장착하여 **(선순환)**  
+다음 분석 때 그대로 활용할 수 있게 됩니다.
+이로써 장착된 무기가 40개가 넘으며 논리학, 해석학, 신학 등의 학문과 IT 기술이 함께 들어가 있습니다.
+
+다만 BVCAP의 보고서가 100% 정답은 아닙니다. 잘못된 답도 합니다.
+문제에 당면했을 때 하나님의 지혜를 구하는 기도를 하는 것도 사실입니다.
+
+보고서의 결과에 개인적으로 100% 확신하진 못합니다. 저는 프로그램 개발자지 신학자는 아니니까요.
+마지막 검증은 유능한 신학자 분들에게 맡겨야 한다고 생각합니다.
+
+성경은 진리죠?  
+그런데 왜 난제가 있죠?  
+BVCAP 프로그램을 하나님이 허락하신 건 아닐까요?
+
+## ⚙️ 다국어 의미론적 AI 임베딩 엔진 (Sentence-Transformers)
+
+`the-catholic-audit`은 거대 언어 모델(LLM)의 단순 텍스트 검색 한계를 극복하고, 시스템 연산 효율성을 극대화하기 위해 **파이썬(Python) 기반의 다국어 의미론적 AI 임베딩(Sentence-Transformers)** 기술을 전면 도입하여 설계되었습니다.
+
+### 1. 왜 LLM API 대신 로컬 임베딩 모델(py)을 사용하나요?
+*   **연산량 폭발 문제 방지 ($O(N^2)$ 계산):** 교리 데이터베이스 내의 주장(Claims) 1,000개와 부정(Negates) 1,000개를 교차 대조하려면 총 $1,000 \times 1,000 = 1,000,000$(100만) 번의 문장 비교 연산이 요구됩니다. 이 비교를 매번 유료 LLM API(Claude 등)로 수행할 경우, 막대한 비용과 긴 응답 시간이 소요됩니다.
+*   **0원의 비용과 초고속 연산:** 로컬 컴퓨터에서 오픈소스 다국어 모델(`paraphrase-multilingual-MiniLM-L12-v2`)을 가동하여 각 문장을 한 번만 384차원의 숫자 벡터로 변환(Embedding)해 두면, 100만 번의 유사도 행렬 계산을 로컬 CPU 환경에서도 단 몇 초 만에 무료로 끝낼 수 있습니다.
+*   **결정론적 판별:** LLM은 온도(Temperature)나 입력 프롬프트의 뉘앙스 변화에 따라 비일관적인 결론을 낼 확률이 있으나, 임베딩 벡터 간의 코사인 유사도(Cosine Similarity)는 항상 수학적으로 정량화된 일관적인 결론을 도출합니다.
+
+### 2. 다국어의 진짜 의미를 어떻게 잡아내나요?
+*   단순 키워드 매칭(TF-IDF)은 "신부"와 "사제", "고해"와 "고백"처럼 단어의 형태가 다르면 같은 뜻인지 알아채지 못합니다.
+*   다국어 문장 트랜스포머 모델은 한국어, 영어, 라틴어로 다르게 작성된 문장일지라도 **그 본질적인 "의미"가 같다면 의미 좌표 공간상의 같은 위치에 매핑**시킵니다. 따라서 다국어로 된 이종 문헌 데이터가 뒤섞여 있더라도 별도의 수동 번역 과정 없이 완벽한 모순점과 유사점을 잡아냅니다.
+
+### 3. 정교한 오탐 방지 논리 (Cross-Claim Filter)
+*   단순히 문장 구조가 비슷하다는 이유만으로 충돌로 오인하지 않도록, `conflict_detector.py` 스크립트는 **Cross-Claim 확인 알고리즘**을 탑재하고 있습니다.
+*   상대방의 부정(Negate) 항목이 내 주장(Claim)과 비슷하더라도, 상대방 역시 자기 주장(Claim)에 나와 동일한 취지의 문장을 갖고 있다면 이는 "충돌"이 아닌 "동일 입장 지지"로 판정해 오탐지 대상에서 자동으로 제거합니다.
+
+---
+
+## 🎙️ the-sermon-audit (설교 감사 시스템)
+
+성경과 정통 교리 문헌을 넘어, 실제 강단에서 선포되는 설교의 내용이 성경적 일관성을 유지하고 있는지 검증하는 모듈입니다.
+
+*   **구조 및 역할:**
+    *   `_INBOX(설교목록)`: 분석 대상이 되는 설교 전문(텍스트 스크립트)을 입력하는 곳입니다.
+    *   `01_CLAIMS(주장추출)`: 입력된 설교 본문에서 설교자가 행한 핵심 신학적 주장(Claim)과 명제들을 정밀 분리 및 추출합니다.
+    *   `02_TEMPLATE(템플릿·예시)`: 보고서 작성 전 참조하는 빈 템플릿과, 실제 보고서에서 뽑은 밀도·형식 예시(비공개 폴더).
+    *   `03_REPORT(설교감사보고서)`: 추출된 설교자의 주장을 기존 `the-scripture-audit`과 `the-catholic-audit` 데이터베이스에 축적된 성경 진리 및 정통 교리와 교차 검증하여, 논리적 왜곡이나 성경 본문과의 이탈점이 존재하는지 최종 분석 보고서로 발행합니다.
+
+---
+
+이곳에 있는 모든 자료는 아무 조건 없이 자유롭게 사용하시면 됩니다. (github.com/jloveonly-prog/the-scripture-audit)
+다만 그 목적은 구원자이신 하나님이신 예수님을 위한 활동이기를 바랍니다.
+내용을 검증하고 이해했다면 이 지혜와 지식은 이해하신 분의 것입니다.
+자유롭게 설교, 문서, 콘텐츠 제작, 논문 등 성경의 비밀과 지혜를 전파하시면 됩니다.
+
+이곳의 모든 보고서들은 닫힌 완성본이 아니며, 새로운 빛이 발견될 때마다 끊임없이 업데이트(추가, 수정, 삭제)될 것입니다.
+
+## 📜 라이선스 및 저작권 (License & Copyright)
+
+본 리포지토리의 코드 및 시스템 로직은 **MIT License** 및 **Apache License 2.0**의 듀얼 라이선스에 따라 배포됩니다.
+*   **MIT License 요약**: 누구나 상업적/비상업적 목적으로 자유롭게 사용, 수정, 배포할 수 있습니다.
+*   **Apache License 2.0 요약**: 누구나 자유롭게 사용할 수 있으며, 본 시스템의 핵심 로직을 이용해 원작자를 상대로 특허 소송을 제기하는 것을 방지하는 조항이 포함되어 있습니다.
+
+**[적용 대상]**
+본 라이선스는 시스템 로직(MD 파일 등), 분석 결과물 및 문서 전체에 적용되며, 아래의 4가지 핵심 모듈을 모두 포함합니다:
 1. **BVCAP**
 2. **QSP**
 3. **QVCAP**
 4. **the-scripture-audit**
+5. **git안의 모든 문서 및 신규 추가 시스템들 모두**
 
-**💡 Contribute & Evolve**
-This system is not just an analysis tool; it is an **organic project that transplants an individual's faith and real-world analytical experience into AI behavioral patterns, turning them into 'Chronicles' and 'Weaponizing' them**. 
+**💡 프로젝트 참여 및 발전**
+본 시스템은 단순한 분석 도구가 아니라, **개인의 신앙과 실전 분석 경험을 AI의 행동 패턴으로 이식하여 '전례(Chronicle)'로 만들고 이를 '무기화(Weaponization)'하는 유기적 프로젝트**입니다. 
 
-If you have discovered new spiritual insights or logical findings using this system, please feel free to share your data (verdict documents) at **jloveonly@gmail.com**. 
-The precious data you send will be registered as a new **Chronicle** within the `the-scripture-audit` system and, upon verification, can be added as a **new TYPE weapon** to analyze biblical texts.
+만약 이 시스템을 활용하여 새로운 영적 통찰이나 논리적 발견을 하셨다면, 언제든지 **jloveonly@gmail.com** 으로 데이터(판결 문서)를 공유해 주시기를 바랍니다. 
+여러분이 보내주신 귀한 데이터는 `the-scripture-audit` 시스템 내에 새로운 **전례(Chronicle)**로 등재되며, 검증을 거쳐 성경 본문을 분석하는 **새로운 TYPE 무기**로 추가될 수 있습니다.
 
-**[Our AI Philosophy & Workflow]**
-*   **"Receive a Calling, accumulate Chronicles, and deduce spiritual Lessons."**
-*   It is an ecosystem that defends against and analyzes the world's pouring attacks and doctrinal tests (**_INBOX**) using an armory filled with biblical logic (**04_QUIVER**) to produce final verdicts (**05_REPORT**).
-*   As these analysis cases accumulate, the defensive patterns the AI can reference expand, making the system exponentially more powerful.
+**[우리의 AI 철학 및 워크플로우]**
+*   **"소명(Calling)을 받아 전례(Chronicle)를 쌓고, 영적 교훈(Lesson)을 도출한다."**
+*   세상의 쏟아지는 **검증 목록(INBOX)**을 성경적 논리로 채워진 **무기고(QUIVER)**로 방어/분석하여 최종 **판결록(VERDICT)**을 만들어내는 생태계입니다.
+*   이러한 분석 케이스(Case)가 덧붙여질수록, AI가 참조할 수 있는 방어 패턴이 확장되어 시스템은 기하급수적으로 더 강력해집니다.
 
-1.  **Original Copyright Protection**: The origin of this system's core logic and methodology belongs to the original creator. When redistributing, it is recommended to state the source (**[TheScripture.org](https://TheScripture.org)** / **the-scripture-audit**).
-2.  **Rights and Limits of Secondary Creators**: Copyright of newly added parts based on this system is recognized for the respective creator. 
-3.  **Non-Assertion**: Users cannot exercise legal rights or hinder the usage of the original creator based on improvements obtained by utilizing this system.
-4.  **Prohibition of Monopoly Claims**: Claiming exclusive copyright over the original core logic is prohibited.
-5.  **Prerequisite for Use**: If you have not accepted Jesus, who is God, as your Savior, you may use the system after following the **[Biblical Record and Acceptance Prayer]** at the bottom of this document.
+1.  **원저작권 보호**: 본 시스템의 핵심 로직과 방법론의 원조는 원작자에게 있으며, 2차 배포 시 출처(**[TheScripture.org](https://TheScripture.org)** / **the-scripture-audit**)를 밝히는 것을 권장합니다.
+2.  **2차 창작자의 권리와 한계**: 본 시스템을 바탕으로 새롭게 추가된 부분에 대해서는 해당 창작자의 저작권을 인정합니다. 
+3.  **역권리 주장 및 공격 금지 (Non-Assertion)**: 사용자는 본 시스템을 활용하여 얻은 개선 사항을 근거로 원본 저작자에게 법적 권리를 행사하거나 사용을 방해할 수 없습니다.
+4.  **독점적 권리 주장 금지**: 원본 핵심 로직에 대해 독점적 저작권을 주장하는 행위를 금합니다.
+5.  **사용 전제 조건**: 하나님이신 예수님을 나의 구원자로 믿고 받아들이지 않았다면, 본 문서 하단의 **[성경 기록과 영접 기도문]**을 따라한 후 시스템을 사용할 수 있습니다.
 
 ---
 *STATUS: RIGOROUS LOGIC ENFORCED | TARGET: OMNI-VERIFICATION*
 
 ---
 
-## 📖 The Way to Salvation and Eternal Life
+## 📖 구원과 영생에 이르는 길 (The Way to Salvation)
 
-The Bible says the following:
+성경은 다음과 같이 말합니다.
 
-> **Romans 3:10, 23**  
-> As it is written, There is none righteous, no, not one: For all have sinned, and come short of the glory of God;
+> **로마서 3장 10절, 23절**  
+> 기록된 바와 같으니라. “의로운 자는 없나니, 없도다, 한 사람도 없도다. 이는 모든 사람이 죄를 지었기 때문에 하나님의 영광에 이르지 못하다가"
 
-> **John 16:8**  
-> And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:
+> **요한복음 16장 8절**  
+> "그리고 그분께서 오시면 친히 죄에 대하여, 의에 대하여, 심판에 대하여 세상을 책망하시리라."
 
-> **Revelation 21:8**  
-> But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
+> **요한계시록 21장 8절**  
+> "그러나 두려워하는 자들과 믿지 않는 자들과 가증한 자들과 살인자들과 행음에 빠진 자들과 마법사들과 우상 숭배자들과 모든 거짓말쟁이들은 불과 유황으로 타오르는 호수 속에 자신들의 부분을 받으리라. 이것이 둘째 사망이라.”
 
-> **John 3:16**  
-> For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+> **요한복음 3장 16절**  
+> "¶ 이는 하나님께서 세상을 이처럼 사랑하셨기 때문에 그분께서 자신의 독생자를 주셨으니, 누구든지 그를 믿는 자는 멸망하지 않고 다만 영원한 생명을 얻게 하려 하심이라."
 
 ---
 
-### 🙏 Acceptance Prayer
+### 🙏 영접 기도문 (Acceptance Prayer)
 
-**"Lord Jesus, I am a sinner.**  
-**I have now heard and choose to believe that You, Jesus who is God, were crucified, shed Your blood, died, were buried, and resurrected 2,000 years ago to pay for all my sins.**  
-**I receive You into my heart as my Savior. I pray in the name of the Lord Jesus Christ. Amen."**
+**"주 예수님 저는 죄인입니다.**  
+**저의 모든 죄를 대신해 하나님이신 예수님께서 2천 년 전 십자가에서 못 박혀 피 흘려 죽고 장사되시고 부활하신 사실을 지금 전해 듣고 믿기로 선택하고 결정하고 믿습니다.**  
+**저의 구원자로 제 마음에 모셔들입니다. 주 예수 그리스도 이름으로 기도드립니다. 아멘"**
+
+---
+
+## 🆕 최근 업데이트 — BVCAP v3.0 (2026-07-23)
+
+실전 AI 논쟁(RED/BLUE 팀이 서로의 문서를 번갈아 보완하는 크로스체크 방식)을 감사(Audit)하던 중, 중재자(Arbiter)가 새로운 텍스트 증거 없이 대화 압박만으로 판정을 여러 차례 뒤집는 사건이 발견되었습니다. 이를 계기로 엔진 전체를 **v2.0 → v3.0**으로 승격하고, 아래 항목들을 신규 장착했습니다.
+
+- **판정 안정성 프로토콜(OVERRIDE-2) 신설**: 새로운 앵커 구절이나 새로운 검증 결과 없이는 판정을 바꾸지 않습니다. 판정을 낮추거나 뒤집을 때도, 판정을 올릴 때(IRONCLAD 승격)와 동일한 강도의 검증(STRESS-TEST-7 + AUTO-GRILL)을 통과해야만 확정됩니다.
+- **화자·장르 태그 의무화**: 1인칭 신적 발화·3인칭 서술자 해설·인물 대사처럼 화자가 다른 구절들을 같은 통계 표본으로 섞어 성급히 "100% 법칙"을 선언하지 못하게 막습니다.
+- **반례 자동탐색**: 배타적 법칙을 선언하기 전, 사용자가 반례를 지적해 줄 때까지 기다리지 않고 AI가 먼저 능동적으로 반례를 찾습니다.
+- **점수·아첨 규율**: 근거 없이 즉석에서 만들어내는 임의의 숫자 점수(0~100점)와 판정 변경 직전의 아첨성 문구를 금지하고, 기존 6단계 등급(IRONCLAD/STRONG/VIABLE/TENTATIVE/OPEN/CONTRADICTION)만 사용합니다.
+
+기존에 이미 발행된 판결문(`03_WAR_LOG`, `05_REPORT`)들은 각각 생성 당시 버전으로 검증된 역사적 기록이므로 소급 수정하지 않았으며, v3.0은 이 시점 이후 새로 생성되는 보고서부터 적용됩니다. 상세 변경 이력은 [`System_Architecture(시스템_설계원리)/zz_Changelog(시스템_개선이력).md`](System_Architecture(시스템_설계원리)/zz_Changelog(시스템_개선이력).md)에서 확인할 수 있습니다.

@@ -1,1098 +1,1099 @@
 <!-- doc_no: 20260829_0154 | ver: 20260829_0942 -->
-[!IMPORTANT]
-> ## 📋 Tactical Manual (Execution Procedure)
-> **What this document doeth**: FULL SCAN execution order · Triggering all QUIVER types · COMBO verification · STRESS-TEST · Output
-> **Companion document**: `BVCAP_GHQ.md` (Headquarters — MODE/Judgment criteria definition)
-> **Relationship**: When "Declaration of War" goeth forth from Headquarters, this manual executeth "in what order and which weapons to draw."
-> **Tactical Manual ≠ Tactics**: This manual universally commandeth the individual rules (ANCHOR, DEOVERLAP...) in the `02_TACTICS/` folder.
-
-# 🧠 BVCAP Skill Pipeline v3.0 (Internal engine of the-scripture-audit)
-**"Jonathan climbed up upon his hands and upon his feet, and his armourbearer after him" — 1 Samuel 14:13 KJV**
-**— Biblical Apologetics Verification Pattern for AI to Execute Without Error —**
-
-> **Document Role**: 📋 **Tactical Manual (QUIVER All-type Execution · COMBO Verification · Output Generation)**
-> (This document, like the 'Armourbearer' of the Scripture, is the main execution program that instructeth the AI **in what order and when to draw forth and use** the QUIVER weapons.)
-
-> **Document Purpose**: By reverse-engineering all masterpiece documents in the `03_WAR_LOG(Battle Log)` folder,
-> it codifieth the verification know-how, which thou hast discovered by Excel and intuition, into a **step-by-step pipeline that the AI can reproduce**.
-> This document is the prompt guidebook of the BVCAP engine and a **Skill specification that the AI can execute**.
 
 > [!IMPORTANT]
-> **Core Philosophy of this Pipeline**: The AI doth not "search for the right answer" in commentaries or existing theological databases.
-> It must absolutely analyze by the **'Detective Method'**, **directly listing related verses, directly substituting numbers, and directly drawing a timeline**,
-> and then mathematically confirming if the picture fitteth together.
+> ## 📋 전술 교범 (Tactical Manual — 실행 절차서)
+> **이 문서가 하는 일**: FULL SCAN 실행 순서 · QUIVER 전종 발동 · COMBO 검증 · STRESS-TEST · 출력
+> **짝꿍 문서**: `BVCAP_GHQ.md` (사령부 — MODE/판결 기준 정의)
+> **관계**: 사령부에서 "전쟁 선포"가 나오면, 이 교범이 "어떤 순서로 어떤 무기를 꺼낼지" 실행한다.
+> **전술 교범 ≠ 전술**: `02_TACTICS(전술)/` 폴더의 개별 규칙들(ANCHOR, DEOVERLAP...)을 이 교범이 통합 지휘한다.
+
+# 🧠 BVCAP Skill Pipeline v3.0 (the-scripture-audit의 내부 엔진)
+**"Jonathan climbed up upon his hands and upon his feet, and his armourbearer after him" — 1 Samuel 14:13 KJV**
+**— AI가 오류 없이 반복 실행하기 위한 성경 변증 검증 패턴 —**
+
+> **문서 역할**: 📋 **전술 교범 / Tactical Manual (QUIVER 전종 실행 · COMBO 검증 · 출력 생성)**
+> (이 문서는 성경의 '병기 든 자(Armourbearer)'처럼, AI가 QUIVER 전종 무기를 **어떤 순서로, 언제 꺼내서 써야 하는지** 지시하는 메인 실행 프로그램입니다.)
+
+> **문서 목적**: `03_WAR_LOG(전투기록)` 폴더의 모든 마스터피스 문서들을 역분석하여,  
+> 사용자님이 엑셀과 직관으로 발굴해 낸 **검증 노하우를 AI가 재현 가능한 단계별 파이프라인**으로 코드화한 것.  
+> 이 문서는 BVCAP 엔진의 프롬프트 지침서이자 **AI가 실행할 수 있는 스킬(Skill) 명세서**다.
+
+> [!IMPORTANT]
+> **이 파이프라인의 핵심 철학**: AI는 주석서나 기존 신학 데이터베이스에서 "정답을 검색"하지 않는다.  
+> 반드시 **관련 구절들을 직접 나열하고, 숫자를 직접 대입하고, 타임라인을 직접 그린 후**,  
+> 그림이 맞아떨어지는지 수학적으로 확인하는 **'탐정 방식(Detective Method)'**으로 분석한다.
 
 ---
 
-## 🔑 Core Prohibitions (To Prevent AI Confusion — Equip Firstmost)
+## 🔑 핵심 금지 사항 (AI 혼선 방지 — 최우선 장착)
 
 > [!WARNING]
-> The actions below signify the failure of this pipeline. Understand them thoroughly before commencing analysis.
+> 아래의 행동은 이 파이프라인의 실패를 의미한다. 분석 시작 전 반드시 숙지하라.
 
-| ❌ Forbidden Action | ✅ Alternative Action |
+| ❌ 금지 행동 | ✅ 대체 행동 |
 |:---|:---|
-| Answers beginning with "According to scholars~" | Analyze with the Scriptural text first; cite scholars only for cross-verification |
-| Concluding with "It is highly likely a scribal error" | Permitted only after completely rejecting all competing models in PHASE 2.5 |
-| Overlapping numbers in calculation | Add them after arranging them serially in text order |
-| Assuming two records as the same 1-second snapshot | First discern, "Is this a process of events?" |
-| Analyzing only with translations without checking the KJV original | Must strictly verify the KJV original prepositions/grammar first |
-| Outputting a 10-round conversational report | Output in the BVCAP v3.0 Masterpiece format |
-| Judging authenticity solely by manuscript numbers | Invert weights by source independence (TYPE-H) |
-| Treating omitted verses as mere later insertions | Verify first if the grammatical chain is broken via TYPE-G |
-| Arbitrarily smoothing or adjusting clearly erroneous words (text) under the pretext of context or the speaker's intent | Isolate the word (text) exactly as used by the speaker for primary verification, and if an error is found, mercilessly indict it with TYPE-C (Category Error) or E-16 (Contextual Indulgence) |
+| "학자들에 따르면~" 으로 시작하는 답변 | 먼저 성경 텍스트로 분석하고, 학자는 교차 검증용으로만 인용 |
+| "필사 오류일 가능성이 높습니다"로 결론 | PHASE 2.5 경쟁 모델 전수 기각 후에만 허용 |
+| 숫자를 겹쳐서 더하는 계산 | 텍스트 순서대로 직렬 배치 후 더하기 |
+| 두 기록을 동일한 1초의 스냅샷으로 가정 | 먼저 "사건의 프로세스인가?"를 판별 |
+| KJV 원문 확인 없이 번역본만으로 분석 | 반드시 KJV 원문 전치사/문법 확인 선행 |
+| 10라운드 대화형 보고서 출력 | BVCAP v3.0 마스터피스 양식으로 출력 |
+| 사본 수만으로 진정성 판단 | 출처 독립성(TYPE-H)으로 가중치 역전 |
+| 삭제된 구절을 단순 후대 삽입으로 처리 | TYPE-G로 문법 체인 단절 여부 먼저 검증 |
+| 문맥이나 화자의 의도를 핑계로 명백히 잘못된 단어(텍스트)를 임의로 순화(Smoothing)하거나 보정하여 해석하는 행위 | 화자가 사용한 단어(텍스트) 자체를 있는 그대로 고립시켜 1차 검증하고, 오류 발견 시 가차 없이 TYPE-C(범주 오류) 또는 E-16(문맥적 면죄부)으로 기소할 것 |
 
 ---
-## 🔬 [Classification of Conflict Types (C-Codes)]
+## 🔬 [충돌 유형 분류 (C-Codes)]
 
 > [!NOTE]
-> As a result of analyzing actual input documents (Bible_Defense_List, 101 Contradictions, etc.),
-> 3 additional types that are not covered by existing classifications have been identified.
+> 실제 입력 문서(Bible_Defense_List, 101 Contradictions 등)를 분석한 결과,
+> 기존 분류로는 담기지 않는 3가지 유형이 추가로 확인됨.
 
-| Type Code | Conflict Type | Description | Primary Example |
+| 유형 코드 | 충돌 유형 | 설명 | 주요 사례 |
 |:---:|:---|:---|:---|
-| **C-01** | **Numerical Discrepancy** | Numbers or figures of the same event differ between two texts | Solomon's stalls: 40,000 vs 4,000 |
-| **C-02** | **Historical Discrepancy** | Order of events, names of persons or places differ between texts | Subject of David's census (God vs Satan) |
-| **C-03** | **Theological Conflict** | Two theological propositions appear unable to be true simultaneously | Deity of Jesus vs limit of knowledge in Mark 13:32 |
-| **C-04** | **Logical Self-Contradiction** | Logical collision within a single verse or between adjacent verses | Self-witness in John 5:31 vs John 8:14 |
-| **C-05** | **Perspective Narrative Difference** | Same event described differently by different authors | Number of angels at the empty tomb (1 vs 2) |
-| **C-06** | **Difference in Ancient Law/Cultural Customs** | Ancient legal or cultural expressions differing from modern perspectives | Centurion coming directly vs through emissaries (Law of Agency) |
-| **C-07** | **Difference in Chronological Calculation Methods** | Ancient methods of calculating years and ages differ from modern ones | Ahaziah's accession age: 22 vs 42 (Dynastic reckoning) |
-| **C-08** | **Theological Challenge** | Philosophical/moral questioning of God's character/actions, not a textual conflict | "Why doth God repeat failure?" / "Why doth He permit Satan's work?" |
-| **C-09** | **Multi-Coordinate Interpretation Conflict** | When two records point to different timepoints/axes for the same person/event | Ahaziah: 22 (start of co-regency) vs 42 (father's death/succession point) |
-| **C-10** | **Typological Fulfillment Dispute** | Dispute over NT fulfillment of OT types, or the scope of literal/locational fulfillment of prophecy | Peter's 'follow thou me' — spiritual obedience or locational fulfillment at Calvary? |
-| **C-11** | **Parallel Record Detail Conflict** | Two texts recording the same event seem to describe opposite details, but actually capture different moments within the event | Acts 9:7 (hearing a voice, seeing no man) vs Acts 22:9 (saw the light, heard not the voice) — difference in timing of Jesus' two utterances |
-| **C-12** | **Textual Authenticity Dispute** | Textual attack claiming a verse is a later insertion or scribal error. Alexandrian vs Textus Receptus family dispute | Claim to delete the Johannine Comma (1 John 5:7) — "Later Catholic insertion" vs KJV original preservation |
-| **C-13** | **Spiritual Entity/Realm Category Confusion** | Doctrinal/timeline conflict caused by confusing different spiritual beings (fallen angels vs devils) or afterlife realms (hell vs bottomless pit vs lake of fire) into one | Matt 25:41 (lake of fire prepared for the devil) — "Why are devils on earth?" confusion of space/timing |
+| **C-01** | **숫자적 불일치** | 동일 사건의 숫자·수치가 두 본문에서 다름 | 솔로몬 마구간 4만 vs 4천 |
+| **C-02** | **역사적 불일치** | 사건 순서·인명·지명이 본문 간 다름 | 다윗 인구조사 주체(하나님 vs 사탄) |
+| **C-03** | **신학적 충돌** | 두 신학 명제가 동시에 참일 수 없어 보임 | 예수 신성 vs 마가 13:32 지식 한계 |
+| **C-04** | **논리적 자기모순** | 단일 구절 내 또는 근접 구절 간 논리 충돌 | 요한 5:31 vs 요한 8:14 자기 증언 |
+| **C-05** | **관점적 서술 차이** | 같은 사건을 다른 저자가 다르게 묘사 | 빈 무덤 천사 수(1명 vs 2명) |
+| **C-06** | **고대 법·문화 관습 차이** | 현대인의 관점과 다른 고대 법률·문화 표현 | 백부장이 직접 vs 사절단을 통해(대리인 법) |
+| **C-07** | **연대기 계산 방식 차이** | 고대의 연도·나이 계산법이 현대와 다름 | 아하시야 즉위 나이 22세 vs 42세(왕조력) |
+| **C-08** | **신학적 질의(Theological Challenge)** | 텍스트 간 충돌이 아닌, 하나님의 성품·행위에 대한 철학적·도덕적 의문 | "하나님이 왜 실패를 반복하는가?" / "사탄의 활동을 왜 허용하는가?" |
+| **C-09** | **다중 좌표 해석 충돌** | 동일 인물/사건에 대해 두 기록이 서로 다른 시점·시간축을 가리키는 경우 | 아하지야 22세(대리 통치 시작) vs 42세(부친 사망/승계 시점) |
+| **C-10** | **예표적 성취 논쟁** | 구약 예표의 신약 성취 여부, 혹은 예언의 문자적/장소적 성취 범위 해석 | 베드로의 '따라오리라' — 영적 순종인가, 갈보리 장소적 성취인가 |
+| **C-11** | **병렬 기록 세부 충돌** | 동일 사건을 기록한 두 본문이 서로 정반대의 세부 사항을 묘사하는 것처럼 보이나, 실제로는 사건 내의 서로 다른 순간을 각각 포착한 경우 | 행 9:7(소리 듣고 못 봄) vs 행 22:9(빛 보고 소리 못 들음) — 예수님의 두 번의 발화 시점 차이 |
+| **C-12** | **사본학적 정통성 논쟁** | 특정 구절이 후대 삽입 또는 필사 오류라는 사본학적 공격. 알렉산드리아 사본 vs 수용본문(Textus Receptus) 계열 간 차이 논쟁 | 요한의 콤마(요일 5:7) 삭제 주장 — "후대 카톨릭 삽입"vs KJV 원본 보존 |
+| **C-13** | **영적 존재/공간 범주 혼동** | 서로 다른 영적 존재(타락천사 vs 마귀)나 사후 공간(음부 vs 무저갱 vs 불못)을 하나로 혼동하여 발생하는 교리적/타임라인 충돌 | 마 25:41(마귀를 위해 예비된 불못) — "왜 마귀들이 지상에 있는가?" 공간/시점 혼동 |
 
 ---
 
-## 📌 [Mapping Guide for Analytical Tools by Conflict Type]
+## 📌 [충돌 유형별 분석 도구 매핑 가이드]
 
-After confirming the C-Code of the entered difficulty, apply the recommended tool combination below first.
+입력된 난제의 C-Code를 확인한 후, 아래 권장 도구 조합을 우선 적용한다.
 
-| C-Code | Conflict Type | Recommended QUIVER TYPE Combination |
+| C-Code | 충돌 유형 | 권장 QUIVER TYPE 조합 |
 |:---:|:---|:---|
-| C-01 | Numerical Discrepancy | **TYPE-H + TYPE-J + TYPE-A + TYPE-C** — TYPE-A (Chronological Decomposition) and TYPE-C (Functional Category) must precede before concluding a scribal error |
-| C-02 | Historical Discrepancy | **TYPE-J + TYPE-AA** (Historical Cross-check + Ancient Law/Culture) |
-| C-03 | Theological Conflict | **TYPE-C + TYPE-L + TYPE-P** (Category + Chain Inference + Boomerang Logic) |
-| C-04 | Logical Self-Contradiction | **TYPE-D + TYPE-G + TYPE-P** (Hebrew Narrative + Grammar + Boomerang Logic) |
-| C-05 | Perspective Narrative Difference | **TYPE-Y + TYPE-B** (Eyewitness Testimony + Sequential Parallel) |
-| C-06 | Ancient Law/Cultural Customs | **TYPE-AA** (Anatomy of Ancient Law and Cultural Customs) |
-| C-07 | Chronological Calculation Methods | **TYPE-D + TYPE-A + TYPE-K** (Hebrew Narrative + Chronological Serial + Science/Forensics) |
-| C-08 | Theological Challenge | **TYPE-Z + TYPE-L** (Theodicy Defense + Chain Inference) |
-| **C-09** | **Multi-Coordinate Interpretation Conflict** | **TYPE-A + TYPE-E Mandatory Activation** (Chronological Serial Decomposition + Rejection of Competing Models) |
-| **C-10** | **Typological Fulfillment Dispute** | **TYPE-F + TYPE-W + TYPE-D + TYPE-E Mandatory Activation** (Triple Typology + Prophetic Perspective + Hebrew Narrative + Rejection of Competing Models) |
-| **C-11** | **Parallel Record Detail Conflict** | **TYPE-B + TYPE-Y + TYPE-D** (Sequential Integration of Events + Eyewitness Perspective + Hebrew Custom) — Apply TYPE-B foremost |
-| **C-12** | **Textual Authenticity Dispute** | **TYPE-H + TYPE-G + TYPE-I + TYPE-V** (Manuscript Independence + Grammatical Chain + Frequency Symmetry + Numerology) — Counterattack with internal evidence and independence evaluation |
-| **C-13** | **Spiritual Entity/Realm Category Confusion** | **TYPE-AB + TYPE-AR + TYPE-AS + TYPE-AT + TYPE-D** (Spiritual Entity Realm Matrix + Spiritual Mechanism Analysis + Hierarchy of Power Analysis + Divine Attribute Reductio ad Absurdum + Lexical Separation) |
+| C-01 | 숫자적 불일치 | **TYPE-H + TYPE-J + TYPE-A + TYPE-C** — 필사 오류 결론 전 TYPE-A(연대기 분해), TYPE-C(기능적 범주) 반드시 선행 |
+| C-02 | 역사적 불일치 | **TYPE-J + TYPE-AA** (역사 교차 + 고대 법·문화) |
+| C-03 | 신학적 충돌 | **TYPE-C + TYPE-L + TYPE-P** (범주 + 연쇄 추론 + 역논법) |
+| C-04 | 논리적 자기모순 | **TYPE-D + TYPE-G + TYPE-P** (히브리 서사 + 문법 + 역논법) |
+| C-05 | 관점적 서술 차이 | **TYPE-Y + TYPE-B** (목격자 증언 + 순차 병렬) |
+| C-06 | 고대 법·문화 관습 | **TYPE-AA** (고대 법률 및 문화 관습 해부) |
+| C-07 | 연대기 계산 방식 | **TYPE-D + TYPE-A + TYPE-K** (히브리 서사 + 연대기 직렬 + 과학/법의학) |
+| C-08 | 신학적 질의 | **TYPE-Z + TYPE-L** (신정론 방어 + 연쇄 추론) |
+| **C-09** | **다중 좌표 해석 충돌** | **TYPE-A + TYPE-E 의무 가동** (연대기 직렬 분해 + 경쟁 모델 기각) |
+| **C-10** | **예표적 성취 논쟁** | **TYPE-F + TYPE-W + TYPE-D + TYPE-E 의무 가동** (삼중 예표 + 예언적 원근법 + 히브리 서사 + 경쟁 모델 기각) |
+| **C-11** | **병렬 기록 세부 충돌** | **TYPE-B + TYPE-Y + TYPE-D** (사건 순차적 통합 + 목격자 관점 + 히브리 관습) — TYPE-B 최우선 적용 |
+| **C-12** | **사본학적 정통성 논쟁** | **TYPE-H + TYPE-G + TYPE-I + TYPE-V** (사본 독립성 + 문법 체인 + 빈도 대칭 + 수비학) — 내적 증거와 독립성 평가로 반격 |
+| **C-13** | **영적 존재/공간 범주 혼동** | **TYPE-AB + TYPE-AR + TYPE-AS + TYPE-AT + TYPE-D** (영적 존재 공간 매트릭스 + 영적 메커니즘 분석 + 권능 위계 분석 + 신성 속성 귀류법 + 어휘 분리) |
 
 ---
 
 
-## 🎯 GATE Execution Pipeline — Overall Flow for New Difficulties
+## 🎯 GATE 실행 파이프라인 — 새로운 난제 입력 시 전체 흐름
 
-> **This section is the actual execution order of BVCAP.**
-> The 6 GATEs below are **sequential thresholds that cannot be skipped** when the AI receiveth a difficulty.
-> Each GATE receiveth the output of the previous GATE as input, and omitting even one destroyeth the reliability of the final verdict.
+> **이 섹션이 BVCAP의 실제 실행 순서다.**
+> 아래 6개 GATE는 AI가 난제를 받았을 때 **건너뛸 수 없는 순차적 관문**이다.
+> 각 GATE는 이전 GATE의 출력을 입력으로 받으며, 하나라도 생략하면 최종 판결의 신뢰도가 붕괴된다.
 
-When a new Biblical difficulty is entered:
+새로운 성경 난제가 입력되면:
 
 ---
 
-### [GATE 0] Classification of Difficulty Type — Determine C-Code
+### [GATE 0] 난제 유형 분류 — C-Code 결정
 
-> **Why it is necessary**: The nature of the difficulty must be grasped first to direct which verses to gather in GATE 1.
-> In this stage, **only classification is done.** Weapons (TYPE) are not drawn yet.
+> **왜 필요한가**: 난제의 성격을 먼저 파악해야 GATE 1에서 어떤 구절을 모을지 방향이 잡힌다.
+> 이 단계에서는 **분류만 한다.** 무기(TYPE)는 아직 꺼내지 않는다.
 
 ```
-Determine the C-Code of the difficulty.
-  → Find the corresponding type from the C-Code table above (C-01~C-13) and assign the code.
-  → Ex: "Ahaziah 22 vs 42" → C-01 (Numerical Discrepancy)
-  → Ex: "Acts 9:7 vs Acts 22:9"   → C-11 (Parallel Record Detail Conflict)
-  → Ex: "Claim to delete 1 John 5:7"   → C-12 (Textual Authenticity Dispute)
+난제의 C-Code를 결정하라.
+  → 위의 C-Code 표(C-01~C-13)에서 해당 유형을 찾아 코드를 배정한다.
+  → 예: "아하지야 22세 vs 42세" → C-01 (숫자적 불일치)
+  → 예: "행 9:7 vs 행 22:9"   → C-11 (병렬 기록 세부 충돌)
+  → 예: "요일 5:7 삭제 주장"   → C-12 (사본학적 정통성 논쟁)
 ```
 
 ---
 
-### [GATE 1] Gathering All Related Verses According to C-Code (Mandatory, Absolute Prohibition of Omission)
+### [GATE 1] C-Code에 따른 관련 구절 전체 수집 (필수, 절대 생략 금지)
 
-> **Why it is necessary**: If only the two conflicting verses are compared, the answer will never appear forever.
-> Thou must absolutely **gather all other related verses** for the hidden key to be seen.
-> This "other verse" is called the **Third Anchor**. Analysis shall not commence without an anchor.
+> **왜 필요한가**: 싸우는 두 구절만 비교하면 영원히 답이 나오지 않는다.
+> 반드시 **관련된 다른 구절들도 전부 모아야** 숨겨진 열쇠가 보인다.
+> 이 "다른 구절"을 **제3의 앵커**라고 부른다. 앵커 없이는 분석을 시작하지 않는다.
 
-**Establish collection priority according to the C-Code determined in GATE 0:**
+**GATE 0에서 결정한 C-Code에 따라 수집 우선순위를 설정한다:**
 
-| C-Code Family | Priority Collection Target |
+| C-Code 계열 | 우선 수집 대상 |
 |:---|:---|
-| C-01/C-07/C-09 (Numbers) | Data on numbers, ages, periods, years of reign |
-| C-05/C-11 (Narrative Diff) | Detailed differences in the two records + order of utterance |
-| C-06/C-07 (Customs) | Verses relating to genealogies, customs, Hebrew expressions |
-| C-10 (Typology) | All competing interpretations + typology-related verses |
-| C-12 (Textual) | Manuscript families, grammar, independent source data |
-| **C-03/C-04/C-08/C-13 (Proposition·Doctrine)** | **Verses stating the controversial proposition literally + verses in the opposite direction + syntax facing persons·relative verb syntax → `ANCHOR_ThirdData.md` ANCHOR-1P Mandatory Activation** |
-| Complex Conflict | Refer to the Tool Mapping Guide |
+| C-01/C-07/C-09 (숫자) | 숫자·나이·기간·재위년 데이터 |
+| C-05/C-11 (서술 차이) | 두 기록의 세부 차이 + 발화 순서 |
+| C-06/C-07 (관습) | 족보·관습·히브리 표현 관련 구절 |
+| C-10 (예표) | 모든 경쟁 해석 + 예표 관련 구절 |
+| C-12 (사본학) | 사본 계열·문법·독립 출처 데이터 |
+| **C-03/C-04/C-08/C-13 (명제·교리)** | **쟁점 명제를 자구로 진술하는 구절 + 그 반대 방향 구절 + 인칭 대면 구문·관계 동사 구문 → `ANCHOR_ThirdData.md` ANCHOR-1P 의무 발동** |
+| 복합 충돌 | 도구 매핑 가이드 참조 |
 
 ```
-[Example: Ahaziah Difficulty]
+[예시: 아하지야 난제]
 
-❌ Comparing only the two verses (dead end):
-  2 Kings 8:26  → 22 years old when Ahaziah began to reign
-  2 Chron 22:2  → 42 years old when Ahaziah began to reign
-  → "22 vs 42... Who is right?" → No answer. Only endless debate.
+❌ 두 구절만 비교하면 (막다른 골목):
+  왕하 8:26  → 아하지야 즉위 시 22세
+  대하 22:2  → 아하지야 즉위 시 42세
+  → "22 vs 42... 누가 맞아?" → 답 없음. 토론만 반복.
 
-✅ Gathering more related verses (discovering the key):
-  2 Kings 8:26  → 22 years old                      ← Conflicting Verse A
-  2 Chron 22:2  → 42 years old                      ← Conflicting Verse B
-  2 Chron 21:5  → 32 years old when father Jehoram began to reign  ← Third Anchor ★
-  2 Chron 21:20 → Jehoram reigned 8 years             ← Third Anchor ★
-  2 Chron 21:18 → Jehoram diseased for 2 years             ← Third Anchor ★
+✅ 관련 구절을 더 모으면 (열쇠 발견):
+  왕하 8:26  → 22세                      ← 충돌 구절 A
+  대하 22:2  → 42세                      ← 충돌 구절 B
+  대하 21:5  → 아버지 여호람 즉위 시 32세  ← 제3의 앵커 ★
+  대하 21:20 → 여호람 8년 통치             ← 제3의 앵커 ★
+  대하 21:18 → 여호람 2년 투병             ← 제3의 앵커 ★
 
-  → 32 + 8 + 2 = 42  ← It was the father's age!
-  → 22 years = Ahaziah's own age / 42 years = Coordinate for his father's age
-  → Not a contradiction. Numbers of different reference points. ✅
+  → 32 + 8 + 2 = 42  ← 아버지의 나이였다!
+  → 22세 = 아하지야 본인 나이 / 42세 = 부친 나이 좌표
+  → 모순 아님. 서로 다른 기준점의 숫자. ✅
 
-Core: Without the third verse, this reverse calculation itself was impossible.
+핵심: 제3의 구절이 없었으면 이 역산 자체가 불가능했다.
 ```
 
 ```
-Mandatory Collection Items:
-  ① Conflicting Verses A + B (KJV original mandatory)
-  ② Parallel Verses (Kings ↔ Chronicles, same events across Gospels, etc.)
-  ③ Third Anchor Verses — Forcefully search through the steps below:
-     → 0th [🆕 2026-08-17]: Adjacent-Verse Sweep ★ Firstmost — This is reading, not judging
-             For **all** conflicting verses and verses cited by the opponent, the following four positions must be unconditionally opened and read:
-               · 2 verses preceding  · 2 verses succeeding
-               · If the citation is cut off mid-verse → the **remaining portion** of that verse
-               · If there is a blanket claim that "it is not in that book" → the **beginning and end** of that book
-             → Even if "no result," record the fact of execution. Details: `ANCHOR_ThirdData.md` ANCHOR-1P 6th ⓪
-             🚨 Do not wait for ANCHOR-1P 6th. The 6th is a stage that runs once per proposition P in the latter half of the audit,
-                so if ⓪ is delayed until then, counter-evidence may arise after the judgment is finalized,
-                necessitating re-execution from GATE 3 according to OVERRIDE-2 Rule 1.
-             🚨 This is reading, not interpreting. **There exists no ground to skip it** —
-                the judgment that "it seemeth unrelated" can only be made after reading.
-     → 1st: Scan for numbers/ages/periods within 5 chapters before and after the conflicting verse
-     → 2nd: Exhaustive cross-check of parallel texts (records of the same event in other books)
-     → 3rd: Trace back genealogy/parents/siblings data
-  ④ All collected numbers, ages, organization data → Draft into a table as Raw Data List
-  ⑤ [Attaching Speaker·Genre Tags — Mandatory, added 2026-07-23] Attach tags for [Speaker: 1st person Divine utterance / 3rd person narrator commentary / Character dialogue] × [Genre: Narrative / Prophecy / Poetry / Epistle / Law] to all collected verses (conflicting verses + anchors + parallels).
-     → Prohibition of aggregating verses with different speaker/genre tags into the same inductive sample (e.g., TYPE-N exhaustive survey) — Separate the samples by tags, then cross-compare the conclusions.
-     → Ex: Gen 17:5 (1st person Divine utterance, perfect tense) and Gen 3:20 (3rd person narrator commentary, perfect tense) have different speaker tags, so they cannot be automatically aggregated into a single sample for the "same naming formula tense rule." Divide into subsets, verify each, and contrast the conclusions.
-        (Added 2026-07-23 — to prevent recurrence of incidents where judgments were distorted by exhaustive surveys without distinguishing speakers; see `zz_Changelog` for detailed history)
-  ⑥ [Propositional Anchor — ANCHOR-1P, added 2026-08-16] If the C-Code is C-03/C-04/C-08/C-10/C-13, or
-     if the issue is not a number but the "truth/falsehood of a proposition," steps 4~6 must be executed in addition to 1~3 above:
+의무 수집 항목:
+  ① 충돌 구절 A + B (KJV 원문 필수)
+  ② 병행 구절 (열왕기↔역대기, 복음서 간 동일 사건 등)
+  ③ 제3의 앵커 구절 — 아래 단계로 강제 검색:
+     → 0차 [🆕 2026-08-17]: 인접 절 일소 (Adjacent-Verse Sweep) ★ 최우선 — 판단이 아니라 열람이다
+             충돌 구절 및 상대가 인용한 구절 **전부**에 대해 아래 네 자리를 무조건 펼쳐 읽는다:
+               · 직전 2절  · 직후 2절
+               · 인용이 절 중간에서 끊겼다면 → 그 절의 **나머지 부분**
+               · "그 책에는 없다"는 전수 주장이 있으면 → 그 책의 **서두·말미**
+             → "결과 없음"이어도 실행 사실을 기록한다. 상세: `ANCHOR_ThirdData.md` ANCHOR-1P 6차 ⓪
+             🚨 ANCHOR-1P 6차를 기다리지 않는다. 6차는 감사 후반에 명제 P 단위로 1회 도는
+                단계이므로, ⓪를 그때까지 미루면 판정이 확정된 뒤에 반증이 올라와
+                OVERRIDE-2 1번에 따라 GATE 3부터 재실행해야 한다.
+             🚨 이것은 해석이 아니라 열람이다. **건너뛸 근거가 존재하지 않는다** —
+                "관련 없어 보인다"는 판단은 읽은 뒤에만 할 수 있다.
+     → 1차: 충돌 구절 앞뒤 5장 이내에서 숫자/나이/기간 스캔
+     → 2차: 병행 본문(같은 사건의 다른 책 기록) 전수 크로스체크
+     → 3차: 족보/부모/형제 데이터 역추적
+  ④ 수집된 모든 숫자·나이·편제 데이터 → Raw Data List로 표 작성
+  ⑤ [화자·장르 태그 부착 — 필수, 2026-07-23 신설] 수집된 모든 구절(충돌 구절 + 앵커 + 병행)에
+     [발화자: 1인칭 신적발화 / 3인칭 서술자 해설 / 등장인물 대사] × [장르: 서사 / 예언 / 시 / 서신 / 법전] 태그를 부착한다.
+     → 서로 다른 화자·장르 태그를 가진 구절을 같은 귀납 표본(TYPE-N 전수조사 등)에 합산 금지 — 태그별로 표본을 분리한 뒤 교차비교한다.
+     → 예: 창17:5(1인칭 신적 발화, 완료형)와 창3:20(3인칭 서술자 해설, 완료형)은 화자 태그가 다르므로
+        "동일 명명공식 시제법칙" 단일 표본으로 자동 합산할 수 없다. 하위집합으로 나눠 각각 검증 후 결론을 대조한다.
+        (2026-07-23 신설 — 화자 미구분 전수조사로 판정이 왜곡됐던 사건 재발 방지, 상세 이력은 `zz_Changelog` 참조)
 
-     → 4th: Exhaustive Negation of Proposition — Search all of KJV for the controversial proposition P + Search symmetrically in the opposite direction
-             (If 0 cases, must distinguish whether it is "simple absence" or "their silence")
-     → 5th: Derivation of Consequence — Derive Q which definitionally inevitably followeth from P, and exhaustively verify Q as well
-     → 6th: Substitution in Uncited Verses — Search among verses uncited by the opponent for those where substituting P causeth the syntax to collapse
-             (Targets: ⓪ Adjacent Verse Sweep → ① Person-facing syntax / ② Relative verbs / ③ Petition·Command syntax)
-             ⚠️ ⓪ has already been performed in the 0th step of ③ above. Here, reuse that result,
-                and run this additionally only on newly emerged uncited verses in the 4th and 5th steps.
-     → Detailed procedures, passing thresholds, grade ceilings: `02_TACTICS/ANCHOR_ThirdData.md` ANCHOR-1P
-     🚨 Why is it mandatory: If only the 1st~3rd steps are run, the collected anchors **cannot escape the set of verses cited by the opponent.**
-        Even if 100% of the verification target is fulfilled, if that 100% is the list chosen by the opponent, the blind spot remaineth exactly as is
+  ⑥ [명제형 앵커 — ANCHOR-1P, 2026-08-16 신설] C-Code가 C-03/C-04/C-08/C-10/C-13이거나
+     쟁점이 숫자가 아니라 "명제의 참/거짓"이면, 위 1~3차에 더해 4~6차를 반드시 실행한다:
+     → 4차: 명제 부정 전수 — 쟁점 명제 P를 KJV 전수 검색 + 반대 방향 대칭 검색
+             (0건일 때 "단순 부재"인지 "저들의 침묵"인지 반드시 구분)
+     → 5차: 귀결 파생 — P에서 정의상 필연적으로 따라 나오는 Q를 도출해 Q도 전수 검증
+     → 6차: 미인용 구절 대입 — 상대가 인용하지 않은 구절 중 P를 대입하면 구문이 붕괴하는 것 탐색
+             (표적: ⓪ 인접 절 일소 → ① 인칭 대면 구문 / ② 관계 동사 / ③ 청원·명령 구문)
+             ⚠️ ⓪는 위 ③ 0차에서 이미 수행되었다. 여기서는 그 결과를 재사용하고,
+                4·5차에서 새로 등장한 미인용 구절에 대해서만 추가로 돌린다.
+     → 상세 절차·통과 관문·등급 상한: `02_TACTICS(전술)/ANCHOR_ThirdData.md` ANCHOR-1P
 
-        (Failure type: Refer to the appendix of `ANCHOR_ThirdData.md` ANCHOR-1P).
-🚨 If there is no anchor, do not commence analysis.
-   → Declare "Failed to discover anchor" and request a hint from the user (Prohibition of writing fiction).
+     🚨 왜 필수인가: 1~3차만 돌리면 수집된 앵커가 **상대가 인용한 구절 집합을 벗어나지 못한다.**
+        검증 대상 100%를 채워도 그 100%가 상대가 고른 목록이면 사각지대는 그대로 남는다
+        (실패 유형: `ANCHOR_ThirdData.md` ANCHOR-1P 부록 참조).
 
+🚨 앵커가 없으면 분석을 시작하지 않는다.
+   → "앵커 발견 실패" 선언 후 사용자에게 힌트를 요청한다 (소설 작성 금지).
 ```
+
 ---
-### [GATE 2] Prohibition of Searching Existing Academic Commentaries
 
-> **Why it is necessary**: During the RLHF training process, the AI learned academic consensus (common theories) as the 'correct answer'.
+### [GATE 2] 기존 학계 주석 검색 금지
 
-> If commentaries are searched first, the AI's reasoning becometh contaminated in the direction of the common theory,
+> **왜 필요한가**: AI는 RLHF 훈련 과정에서 학계 합의(통설)를 '정답'으로 학습했다.
+> 주석서를 먼저 검색하면 AI의 추론이 통설 방향으로 오염되어,
+> 성경 텍스트 자체에서 발견할 수 있는 독자적 해답을 놓치게 된다.
+> **탐정은 먼저 현장을 보고, 기존 보고서는 나중에 확인한다.**
 
-> and it loseth the independent answers that can be discovered from the Biblical text itself.
-> **The detective vieweth the scene first, and checketh existing reports later.**
 ```
-What is done in this GATE:
+이 GATE에서 하는 일:
+  → OVERRIDE-0 실행: 학계 통설을 H0(가설)으로 등록
+  → KJV 원문 직접 독해만으로 데이터를 해석한다
+  → 주석서/학자 견해는 GATE 4 이후 교차 검증용으로만 사용
 
-  → Execute OVERRIDE-0: Register academic common theories as H0 (Hypothesis)
-  → Interpret data solely by directly reading the KJV original
-  → Use commentaries/scholarly views only for cross-verification after GATE 4
-What is forbidden in this GATE:
-  ❌ "According to scholars~"
-
-  ❌ "It is generally interpreted as ~"
-  ❌ The act of using external commentary data as evidence
+이 GATE에서 금지되는 일:
+  ❌ "학자들에 따르면~"
+  ❌ "일반적으로 ~로 해석됩니다"
+  ❌ 외부 주석 데이터를 근거로 사용하는 행위
 ```
+
 ---
-### [Preprocessing] Mandatory Equipment Before Executing TYPE Weapons (Execute Once)
 
-> The 4 items below are not TYPE weapons. They must absolutely be loaded **before** drawing the weapons.
+### [전처리] TYPE 무기 실행 전 필수 장착 (1회 실행)
 
-> They need to be executed only once prior to entering GATE 3.
+> 아래 4개는 TYPE 무기가 아니다. 무기를 꺼내기 **전에** 반드시 로드한다.
+> GATE 3 진입 전 1회만 실행하면 된다.
 
-| Protocol | Name | Dedicated Document | Role |
+| 프로토콜 | 이름 | 전용 문서 | 역할 |
 |:---:|:---|:---|:---|
+| **OVERRIDE-0** | AI 편향 거부 | `CREED_Override.md` | 학계 통설을 H0으로 격리. 페르소나 선언 |
+| **ANCHOR-1** | 제3 앵커 수집 | `ANCHOR_ThirdData.md` | 제3의 독립 데이터 수집 규칙 (GATE 1에서 이미 적용) |
+| **ANCHOR-1P** | 명제형 앵커 확장 | `ANCHOR_ThirdData.md` ANCHOR-1P | 명제 부정 전수·귀결 파생·미인용 구절 대입 (명제형 난제 의무) |
+| **DE-OVERLAP** | 중첩 해체 규칙 | `DEOVERLAP_Serial.md` | 시간·공간 직렬/분리 7원칙 |
+| **MATRIX-3** | 매트릭스 역산 | `ANCHOR_ThirdData.md` STEP 5 | 앵커 → 표 대입 → 정합 확인 |
 
-| **OVERRIDE-0** | Rejection of AI Bias | `CREED_Override.md` | Isolate academic common theory as H0. Declaration of Persona |
-| **ANCHOR-1** | 3rd Anchor Collection | `ANCHOR_ThirdData.md` | Rule for collecting 3rd independent data (already applied in GATE 1) |
-| **ANCHOR-1P** | Expansion of Propositional Anchors | `ANCHOR_ThirdData.md` ANCHOR-1P | Exhaustive proposition negation, derived consequence, uncited verse substitution (Mandatory for propositional difficulties) |
-| **DE-OVERLAP** | Rule of Dismantling Overlap | `DEOVERLAP_Serial.md` | 7 principles of serializing/separating time and space |
-| **MATRIX-3** | Matrix Reverse Calculation | `ANCHOR_ThirdData.md` STEP 5 | Anchor → Table Substitution → Coherence Confirmation |
-``````markdown
 ---
 
-### [PRE-GATE 3] Automatic Determination of Complexity — Determine COMPLEXITY TIER
+### [PRE-GATE 3] 복잡도 자동 판별 — COMPLEXITY TIER 결정
 
-> **Why it is necessary**: Depending on the complexity of the difficulty, the TYPE execution strategy is optimized.
+> **왜 필요한가**: 난제의 복잡도에 따라 TYPE 실행 전략을 최적화한다.
+> FULL SCAN 순서는 동일하되, 복잡도에 따라 실행 우선순위와 STRESS-TEST 발동 여부가 달라진다.
 
-> The order of the FULL SCAN is identical, but the execution priority and whether STRESS-TEST is triggered vary by complexity.
+```
+🎯 [COMPLEXITY TIER 판별 — GATE 3 진입 전 1회 실행]
+
+  TIER 판별 기준:
+    TIER-1 (Simple):   충돌 구절 2개 / 앵커 1~2개 / 단일 C-Code
+    TIER-2 (Standard): 충돌 구절 3~5개 / 앵커 3~5개 / C-Code 1~2개 혼합
+    TIER-3 (Complex):  충돌 구절 6개+ / 앵커 6개+ / C-Code 3개+ 혼합 / 다중 인물 교차
+
+  C-Code별 기본 TIER 배정:
+    TIER-1: C-01, C-07 (숫자·연대기 — 구조 단순)
+    TIER-2: C-02, C-03, C-04, C-05, C-06, C-08 (역사·신학·논리·관점·문화)
+    TIER-3: C-09, C-10, C-11, C-12, C-13 (다중 좌표·예표·병렬·사본·영적 공간)
+
+  TIER별 FULL SCAN 전략:
+    TIER-1: C-Code 권장 TYPE(필수) → 오류학 3종(R/T/AL) → COMBO-VERIFY
+    TIER-2: C-Code 권장 TYPE(필수) → 해석학 전종 → 논리학 전종 → 오류학 전종 → COMBO-VERIFY
+    TIER-3: TIER-2 전종 + STRESS-TEST-7 의무 + Cross-model escalation 권고
+
+  ⚠️ 주의: TIER는 실행 우선순위만 결정한다.
+           TIER-1이라도 TYPE-M 이상 감지 시 즉시 TIER 상향한다.
+           TIER-1도 FULL SCAN 생략은 금지 — 스캔 후 '결과 없음'으로 기록하라.
 ```
 
-🎯 [Determination of COMPLEXITY TIER — Execute once before entering GATE 3]
-  TIER Determination Criteria:
-
-    TIER-1 (Simple):   2 Conflicting verses / 1~2 Anchors / Single C-Code
-    TIER-2 (Standard): 3~5 Conflicting verses / 3~5 Anchors / 1~2 C-Codes mixed
-    TIER-3 (Complex):  6+ Conflicting verses / 6+ Anchors / 3+ C-Codes mixed / Multiple person crossings
-  Default TIER Assignment by C-Code:
-
-    TIER-1: C-01, C-07 (Numbers/Chronology — Simple structure)
-    TIER-2: C-02, C-03, C-04, C-05, C-06, C-08 (History/Theology/Logic/Perspective/Culture)
-    TIER-3: C-09, C-10, C-11, C-12, C-13 (Multiple coordinates/Typology/Parallel/Manuscripts/Spiritual realm)
-  FULL SCAN Strategy by TIER:
-
-    TIER-1: Recommended TYPE by C-Code (Mandatory) → 3 types of Error Analysis (R/T/AL) → COMBO-VERIFY
-    TIER-2: Recommended TYPE by C-Code (Mandatory) → All Hermeneutics → All Logic → All Error Analysis → COMBO-VERIFY
-    TIER-3: All TIER-2 types + STRESS-TEST-7 Mandatory + Cross-model escalation recommended
-  ⚠️ Note: TIER only determineth the execution priority.
-
-           Even for TIER-1, if TYPE-M or higher is detected, immediately upgrade the TIER.
-           Even for TIER-1, skipping FULL SCAN is forbidden — record as 'no result' after scanning.
-```
 ---
 
-### [GATE 3] Execute FULL SCAN (Main Engine)
+### [GATE 3] FULL SCAN 실행 (메인 엔진)
 
-> **Why it is necessary**: Although the C-Code was classified in GATE 0,
+> **왜 필요한가**: GATE 0에서 C-Code를 분류했지만,
+> 진짜 해답은 **예상하지 못한 TYPE에서 나올 수 있다.**
+> 예: 숫자 충돌(C-01)로 분류했지만 실제 해답은 히브리 관습(TYPE-D)에 있었다.
+> 따라서 C-Code 권장 TYPE을 **먼저** 실행하되, **나머지도 전부** 실행한다.
 
-> the true answer **may come from an unanticipated TYPE.**
-> Ex: Classified as numerical conflict (C-01), but the actual answer lay in Hebrew custom (TYPE-D).
-> Therefore, execute the recommended TYPE for the C-Code **first**, but execute **all the rest** as well.
+```
+[STEP 1] C-Code 권장 TYPE 우선 실행
+  → GATE 0에서 결정한 C-Code의 도구 매핑표에서 권장된 TYPE을 먼저 실행한다.
+  → 예: C-01 → TYPE-A, TYPE-C, TYPE-H, TYPE-J 먼저
+
+[STEP 2] 나머지 TYPE 전종 순차 실행 (반복 처리)
+  → STEP 1에서 실행하지 않은 나머지 TYPE을 A→AY 순서로 하나씩 실행한다.
+  → 각 TYPE마다:
+     해당 TYPE의 조건이 수집된 데이터에 적용되는가?
+     → 적용됨 → SKILL 상세 절차 실행 → "결과 있음" 기록
+     → 적용 안 됨 → "결과 없음" → 다음 TYPE으로 이동
+
+[STEP 2.5] 반례 자동탐색 (Counter-Example Auto-Search) — 2026-07-23 신설, 의무 실행
+  → TYPE-N/TYPE-E가 "결과 있음"으로 배타적 법칙("100% 패턴")을 선언하는 순간 즉시 실행한다.
+  → AI는 스스로에게 묻는다: "이 패턴을 깨는 반례가 성경 전체(같은 화자·장르 태그 표본 내)에 존재하는가?"
+  → 사용자가 반례를 제시할 때까지 기다리지 않는다 — 능동적으로 먼저 검색한다 (탐정 방식 철학).
+  → 반례 발견 시: 해당 TYPE 결과를 "결과 있음(예외 O건 발견)"으로 수정하고 배타성 강도를 하향한다
+     (100% 절대 법칙 → 통계적 경향성, IND-02).
+  → 반례 없음 확인 시: "[반례탐색 완료: 예외 없음]"을 기록한다.
+  (2026-07-23 신설 — 사용자가 반례를 제시할 때까지 AI가 기다렸던 사건 재발 방지, 상세 이력은 `zz_Changelog` 참조)
+
+[STEP 2.6] 역방향 조준 (Counter-Thesis Targeting) — 2026-08-16 신설, 명제형 난제 의무 실행
+  → STEP 1~2.5는 무기를 **주어진 난제**에 발사한다. 이 단계는 같은 무기를
+     **상대 명제 자체**에 발사한다. 무기가 없어서가 아니라 조준이 한쪽으로 고정돼 있어
+     결정적 논거를 놓치는 사고를 차단한다.
+  → 발동 조건: C-Code가 C-03/C-04/C-08/C-10/C-13일 때, 또는 검증 대상이 특정 저자/설교자의
+     교리 주장일 때.
+  → 실행:
+     ① TYPE-N을 상대 핵심 명제 P에 재발사 — "P를 진술하는 구절이 KJV에 몇 건인가?"
+        (ANCHOR-1P 4차와 동일. 이미 GATE 1에서 수행했으면 결과를 여기로 이월하고 재실행 생략)
+     ② TYPE-AI를 P의 파생 귀결 Q에 발사 — Q가 KJV와 충돌하는가?
+     ③ TYPE-AC를 ¬P에 발사 — ¬P 대입 시 결정적 내부 모순이 폭발하는가?
+        (폭발하지 않으면 IRONCLAD 상한이 걸린다 — ANCHOR-1P STEP 4-P ③ 참조)
+  → 산출물은 "결과 없음"이라도 반드시 기록한다. '결과 없음'과 '실행 안 함'은 다른 상태다.
+
+[STEP 3] 결과 종합 + COMBO-VERIFY
+  → "결과 있음"인 TYPE들만 모은다
+  → COMBO-VERIFY 표(30종)와 대조 → 판결 등급 결정
+  → 단일 TYPE: ✅ CONSISTENT
+  → 공인 콤보 2종: ✅✅ STRONG
+  → 공인 콤보 3종+: ✅✅✅ IRONCLAD 후보 → STRESS-TEST-7로 이동
 ```
 
-[STEP 1] Priority Execution of Recommended TYPE by C-Code
-  → First execute the recommended TYPE in the tool mapping table for the C-Code determined in GATE 0.
-  → Ex: C-01 → TYPE-A, TYPE-C, TYPE-H, TYPE-J first
-[STEP 2] Sequential Execution of all Remaining TYPEs (Iterative Processing)
-
-  → Execute the remaining TYPEs not executed in STEP 1 one by one in the order of A→AY.
-  → For each TYPE:
-     Do the conditions of this TYPE apply to the collected data?
-     → Applied → Execute detailed SKILL procedures → Record "Result Exists"
-     → Not Applied → "No Result" → Move to next TYPE
-[STEP 2.5] Counter-Example Auto-Search — Added 2026-07-23, Mandatory Execution
-
-  → The moment TYPE-N/TYPE-E declareth an exclusive rule ("100% pattern") as "Result Exists", execute this immediately.
-  → The AI asketh itself: "Is there a counter-example breaking this pattern anywhere in the entire Scripture (within the same speaker/genre tag sample)?"
-  → Do not wait for the user to present a counter-example — actively search for it first (Detective Method philosophy).
-  → Upon discovering a counter-example: Modify the TYPE result to "Result Exists (O exceptions found)" and lower the strength of exclusivity
-     (100% Absolute rule → Statistical tendency, IND-02).
-  → Upon confirming no counter-example: Record "[Counter-Example Search Complete: No Exceptions]".
-  (Added 2026-07-23 — to prevent recurrence of incidents where the AI waited until the user presented a counter-example; see `zz_Changelog` for detailed history)
-[STEP 2.6] Counter-Thesis Targeting — Added 2026-08-16, Mandatory Execution for Propositional Difficulties
-
-  → Steps 1~2.5 fire the weapons at the **given difficulty**. This step fireth the same weapons
-     at the **opponent's proposition itself**. It preventeth the accident of missing a decisive argument
-     not for lack of weapons, but because the aim was fixed on one side.
-  → Activation Conditions: When the C-Code is C-03/C-04/C-08/C-10/C-13, or when the verification target is the doctrinal claim of a specific author/preacher.
-  → Execution:
-     ① Refire TYPE-N at the opponent's core proposition P — "How many verses state P in the KJV?"
-        (Identical to ANCHOR-1P 4th step. If already performed in GATE 1, carry over the result here and skip re-execution)
-     ② Fire TYPE-AI at the derived consequence Q of P — Doth Q conflict with the KJV?
-     ③ Fire TYPE-AC at ¬P — Doth a decisive internal contradiction explode when ¬P is substituted?
-        (If it doth not explode, the IRONCLAD ceiling is applied — See ANCHOR-1P STEP 4-P ③)
-  → The output must absolutely be recorded even if it is "No Result". 'No Result' and 'Not Executed' are different states.
-[STEP 3] Result Synthesis + COMBO-VERIFY
-  → Gather only the TYPEs with "Result Exists"
-
-  → Contrast with the COMBO-VERIFY table (30 kinds) → Determine Judgment Grade
-  → Single TYPE: ✅ CONSISTENT
-  → 2 Recognized Combos: ✅✅ STRONG
-  → 3+ Recognized Combos: ✅✅✅ IRONCLAD Candidate → Move to STRESS-TEST-7
-```
 ---
-### [GATE 4] Cross-Verification of Inverse Calculations by Result (Loop)
 
-> **Why it is necessary**: Even if a conclusion cometh forth from GATE 3, if that conclusion is **in contradiction with other Biblical data**, it is false.
+### [GATE 4] 결과별 역산 교차 검증 (루프)
 
-> Independently verify **the conclusion of each TYPE** that resulted in "Result Exists" in GATE 3 one by one.
+> **왜 필요한가**: GATE 3에서 결론이 나왔더라도, 그 결론이 **다른 성경 데이터와 모순**이면 거짓이다.
+> GATE 3에서 "결과 있음"으로 나온 **각 TYPE의 결론을 하나씩** 독립 검증한다.
+> 이것이 MATRIX-3의 핵심: **순방향 + 역방향 모두 성립해야 확정.**
 
-> This is the core of MATRIX-3: **Both forward and inverse directions must hold true for confirmation.**
 ```
-⏱️ [Loop Ceiling Counter — Loop Ceiling Rule]
+⏱️ [루프 상한 카운터 — Loop Ceiling Rule]
+  → GATE 4에 진입할 때마다 CYCLE_COUNT를 1씩 증가시킨다.
+  → CYCLE_COUNT > 3 이면:
+     ① 추가 앵커 수집을 강제 중단한다.
+     ② STATUS = ⚠️ UNRESOLVED (데이터 불충분)으로 강제 격상한다.
+     ③ 미해결 TYPE 목록 + 루프 이유를 GATE 5 보고서 Phase 1에 명시한다.
+     ④ GATE 5로 즉시 이동한다.
+  → "영원히 흔들리는 저울은 저울이 아니다." — 분석 중단 자체가 판결의 일부다.
+  → 근거: 마태복음 18:16 "두세 증인의 입으로 말마다 확정"
+          앵커 수집 3회 후에도 정합 불가 = 현재 데이터로는 판결 불가 = 그것이 판결이다.
 
-  → Increment the CYCLE_COUNT by 1 each time GATE 4 is entered.
-  → If CYCLE_COUNT > 3:
-     ① Forcibly halt additional anchor collection.
-     ② Forcibly upgrade STATUS = ⚠️ UNRESOLVED (Insufficient Data).
-     ③ Specify the list of unresolved TYPEs + reason for looping in Phase 1 of the GATE 5 report.
-     ④ Move immediately to GATE 5.
-  → "An eternally wavering balance is no balance." — Halting the analysis itself is part of the judgment.
-  → Ground: Matthew 18:16 "in the mouth of two or three witnesses every word may be established"
-          Inability to cohere even after 3 anchor collections = Judgment impossible with current data = That is the judgment.
-FOR each TYPE with "Result Exists":
-  [Verification] If the conclusion of this TYPE is correct,
+FOR 각 "결과 있음" TYPE:
 
-         doth it cohere with separate Biblical figures/examples unused in the analysis?
+  [검증] 이 TYPE의 결론이 맞다면,
+         분석에 사용하지 않은 별개의 성경 수치/사례도 정합하는가?
 
-  → Cohereth ✅ → Confirm the conclusion of this TYPE → Move to verify next TYPE
-  → Cohereth not ❌ → Branch below:
+  → 정합 ✅ → 이 TYPE의 결론 확정 → 다음 TYPE 검증으로
+  → 불정합 ❌ → 아래 분기:
+     → 추가 앵커로 해결 가능? → GATE 1로 돌아가 앵커 추가 수집 후 재분석
+     → 해결 불가? → 이 TYPE의 결론 폐기 → COMBO 등급 재계산
 
-     → Resolvable with additional anchors? → Return to GATE 1, collect additional anchors, then re-analyze
-     → Unresolvable? → Discard the conclusion of this TYPE → Recalculate COMBO grade
 END FOR
-[Final Confirmation]
 
-  → All TYPEs with "Result Exists" pass inverse calculation → Proceed to GATE 5
-
-  → Some TYPEs discarded → Proceed to GATE 5 after recalculating COMBO grade
+[최종 확인]
+  → 모든 "결과 있음" TYPE이 역산 통과 → GATE 5로 진행
+  → 일부 TYPE 폐기됨 → COMBO 등급 재계산 후 GATE 5로 진행
 ```
+
 ---
-### [GATE 5] Output Masterpiece Report (Adhere to v3.0 Format)
 
-> **Why it is necessary**: No matter how accurate the conclusion, it is useless if the reader cannot understand it.
+### [GATE 5] 마스터피스 보고서 출력 (v3.0 양식 준수)
 
-> Transparently disclose the process of proof, and absolutely include an analogy that even a layman can accept in one second.
+> **왜 필요한가**: 아무리 정확한 결론이라도, 독자가 이해하지 못하면 무용지물이다.
+> 증명 과정을 투명하게 공개하고, 비전문가도 1초 만에 납득할 수 있는 비유를 반드시 포함한다.
+> **결론이 아니라 '과정'이 무기다.**
 
-> **The weapon is not the conclusion, but the 'process'.**
 ```
-Output Format:
+출력 양식:
 
-  Phase 1: List all Raw Data
-    → Organize the conflicting verses + anchor verses + parallel verses collected in GATE 1 into a table
+  Phase 1: Raw Data 전체 나열
+    → GATE 1에서 수집한 충돌 구절 + 앵커 구절 + 병행 구절을 표로 정리
 
-  Phase 2: Analysis Results by TYPE (Write only for TYPEs with "Result Exists" from GATE 3~4)
-    → FOR each TYPE with "Result Exists":
+  Phase 2: TYPE별 분석 결과 (GATE 3~4에서 "결과 있음"인 TYPE만 작성)
+    → FOR 각 "결과 있음" TYPE:
+       ── TYPE-[코드]: [이름]
+       ── 발견 내용: 이 TYPE이 데이터에서 무엇을 찾았는가
+       ── 역산 검증: GATE 4에서 독립 데이터로 정합 확인했는가
+       ── 결론: 이 TYPE이 최종 판결에 기여하는 바
+    → "결과 없음" TYPE은 생략한다.
 
-       ── TYPE-[Code]: [Name]
-       ── Discovered Content: What did this TYPE find in the data
-       ── Inverse Calculation Verification: Was coherence confirmed with independent data in GATE 4
-       ── Conclusion: What this TYPE contributeth to the final judgment
-    → Omit TYPEs with "No Result".
-  Phase 3: COMBO Verification Result
-    → Which recognized combos were triggered (Combo code + Triggered TYPE combination)
+  Phase 3: COMBO 검증 결과
+    → 어떤 공인 콤보가 발동했는가 (콤보 코드 + 발동 TYPE 조합)
+    → 판결 등급: VIABLE / STRONG / IRONCLAD
 
-    → Judgment Grade: VIABLE / STRONG / IRONCLAD
-  Phase 4: Modern Analogy (ANALOGY-5 — 1 or more mandatory)
-    → A modern analogy that even a layman can understand in 1 second
+  Phase 4: 현대 비유 (ANALOGY-5 — 1개 이상 필수)
+    → 비전문가도 1초 만에 이해할 수 있는 현대 비유
 
-  Phase 5: Spiritual/Pastoral Lessons and Calling (LESSON-6)
-    → The spiritual lesson God giveth through this difficulty
+  Phase 5: 영적/목회적 교훈 및 소명 (LESSON-6)
+    → 이 난제를 통해 하나님이 주시는 영적 교훈
 
-  Phase 6: Final Judgment Declaration
-    → Verdict + Epistemological grade (EXPLICIT / IRONCLAD / TENTATIVE) recorded together
+  Phase 6: 최종 판결 선언
+    → Verdict + 인식론적 등급(EXPLICIT / IRONCLAD / TENTATIVE) 병기
+    → 표와 타임라인을 반드시 시각적으로 제시
+    → 결론보다 '증명 과정'을 더 상세하게 서술
 
-    → Absolutely present tables and timelines visually
-    → Describe the 'process of proof' more detailedly than the conclusion
-  🆕 Phase 7: Notation of Source for Biblical Text (Added 2026-08-19, Revised 3 stages 2026-08-19, Mandatory)
-    → The block below must absolutely be included at the end of every report.
+  🆕 Phase 7: 성경 본문 출처 표기 (2026-08-19 신설, 2026-08-19 3단계 개정, 의무)
+    → 모든 보고서 말미에 아래 블록을 반드시 싣는다.
+      양식은 하나이며, **한글 칸의 값만 실제 사용한 것으로 채운다.**
 
-      The format is one, and **only the Korean cell is filled with what was actually used.**
-      ## 📖 Source of Biblical Text
-      | Language | Edition | Remarks |
-
+      ## 📖 성경 본문 출처
+      | 언어 | 판본 | 비고 |
       |:---|:---|:---|
-      | **English** | **King James Version — 1769 Cambridge Edition** (`KJV_1769.txt`, including italics) | Standard for judgment. Italic [ ] are translator's supplements having no corresponding word in the original language |
-      | **Korean** | 〈The one actually used among ⒜·⒝·⒞〉 | 〈Corresponding remarks〉 |
-      For exhaustive surveys·counts, specify the basis as [Exhaustive: Text Search] or [Exhaustive: Memory Based].
-    ── The standard for English judgment is solely KJV_1769.txt ──────────────────
+      | **영문** | **King James Version — 1769 캠브리지 판본** (`KJV_1769.txt`, 이탤릭 포함) | 판정 기준 정본. 이탤릭 [ ]는 원어에 대응 단어가 없는 번역자 보충어 |
+      | **한글** | 〈⒜·⒝·⒞ 중 실제 사용한 것〉 | 〈해당 비고〉 |
 
-    Reason: Preservation of italic [ ] + Searchability — the only file satisfying both requirements simultaneously.
+      전수조사·건수는 [전수: 텍스트 검색] 또는 [전수: 기억 기반]으로 근거를 명시한다.
 
-    `KJV_1769_search.txt` is merely its derivative for searching (tool to avoid §3 traps) and not a separate standard,
-    and `TheScripture_en.json` hath no italics and is used exclusively for distribution·API.
-    Detailed ground: 00_THESCRIPTURE(Original text)/README.md "Why it was narrowed down to one file"
-    ── Three values to put in the Korean cell (3 stages) ──────────────────────────
-    ⒜ `TheScripture_ko_en_search.json` present
+    ── 영문 판정 정본은 KJV_1769.txt 단 하나 ──────────────────
+    이유: 이탤릭 [ ] 보존 + 검색 가능 — 두 요건을 동시에 만족하는 유일한 파일.
+    `KJV_1769_search.txt`는 그 검색용 파생본(§3 함정 회피 도구)일 뿐 별개 기준이 아니고,
+    `TheScripture_en.json`은 이탤릭이 없어 배포·API 전용으로만 쓴다.
+    상세 근거: 00_THESCRIPTURE(성경원문)/README.md "왜 파일 하나로 좁혔는가"
 
-       Edition: Standard King James Bible (KSKJB)
-       Remarks: Copyright (C) Biblebelievers Publication · CC BY-NC-ND 4.0
-    ⒝ Local file absent, realtime retrieval from kingjamesbiblekorea.com successful
-       Edition: Standard King James Bible (KSKJB, realtime retrieval)
+    ── 한글 칸에 넣을 세 값 (3단계) ──────────────────────────
+    ⒜ `TheScripture_ko_en_search.json` 있음
+       판본: 표준킹제임스성경 (KSKJB)
+       비고: Copyright (C) Biblebelievers Publication · CC BY-NC-ND 4.0
 
-       Remarks: Copyright (C) Biblebelievers Publication · CC BY-NC-ND 4.0 · Specify date of retrieval
-       · Mandatory to indicate the same copyright as ⒜ — it is a realtime acquisition of the same work, not an LLM translation.
-       · If possible, retrieve via raw HTML parsing (fetch_kjv_ko.py method). WebFetch-type tools
-         summarize and reconstruct the page internally before returning it, thus not guaranteeing character-by-character matches.
-       · Beware that the correction of verse numbers in the local file (152 cases, README §2-B③) might not be reflected.
-    ⒞ Both ⒜·⒝ failed
-       Edition: Direct LLM Translation (KJV English → Korean)
+    ⒝ 로컬 파일 없음, kingjamesbiblekorea.com 실시간 조회 성공
+       판본: 표준킹제임스성경 (KSKJB, 실시간 조회)
+       비고: Copyright (C) Biblebelievers Publication · CC BY-NC-ND 4.0 · 조회일 명시
+       · ⒜와 동일한 저작권 표기 의무 — LLM 번역이 아니라 같은 저작물의 실시간 취득이다.
+       · 가능하면 raw HTML 파싱(fetch_kjv_ko.py 방식)으로 조회한다. WebFetch류 도구는
+         내부적으로 모델이 페이지를 요약·재구성해 반환하므로 글자 단위 일치를 보장하지 않는다.
+       · 로컬 파일의 절 번호 정정(152건, README §2-B③)이 반영 안 됐을 수 있으니 주의한다.
 
-       Remarks: Not cited from a specific Korean version (Standard KJB, Authorized, Korean KJB, etc.).
-             If KSKJB is desired, generate separately with 00_THESCRIPTURE(Original text)/fetch_kjv_ko.py (approx. 10 mins)
-    🚨 Do not write the three values together. If written alongside as "Standard King James or LLM translation",
-       the reader cannot know which was actually used. To write KSKJB when it is ⒞ is
+    ⒞ ⒜·⒝ 모두 실패
+       판본: LLM 직접 번역 (KJV 영문 → 한국어)
+       비고: 특정 한글 역본(표준킹제임스·흠정역·한글킹제임스 등)을 인용한 것이 아님.
+             KSKJB 사용을 원하면 00_THESCRIPTURE(성경원문)/fetch_kjv_ko.py 로 별도 생성(약 10분)
 
-       a false notation of citing a text not used. Conversely, falsely notating ⒝ as ⒞ (LLM translation)
-       is the same error — ⒝ is the realtime acquisition of the KSKJB original.
-    🚨 Citations without sources are considered invalid. If it is not revealed which version is used,
-       the audit itself becometh unverifiable — because points where translations diverge will absolutely emerge.
-       This is Copyright Act Article 37 (Duty to indicate sources) and the principle of this project.
-    🚨 In any case, the ground for judgment is the KJV English (CREED C-1). Do not use Korean vocabulary as arguments.
+    🚨 세 값을 함께 적지 않는다. "표준킹제임스 또는 LLM 번역"처럼 병기하면
+       독자가 실제로 어느 것을 썼는지 알 수 없다. ⒞인데 KSKJB를 적는 것은
+       쓰지 않은 본문을 인용했다는 거짓 표기다. 반대로 ⒝를 ⒞(LLM 번역)로 잘못
+       표기하는 것도 같은 오류다 — ⒝는 KSKJB 원문의 실시간 취득이다.
+    🚨 출처 없는 인용은 무효로 간주한다. 어느 역본인지 밝히지 않으면
+       감사 자체가 검증 불가능해진다 — 역본마다 번역이 갈리는 지점이 반드시 나오기 때문이다.
+       저작권법 제37조(출처 명시 의무)이자 이 프로젝트의 원칙이다.
+    🚨 어느 쪽이든 판정 근거는 KJV 영문(CREED C-1)이다. 한글 어휘를 논거로 삼지 않는다.
 ```
----
-### [GATE 5-P] Battle Log Promotion Review — Added 2026-08-16
 
-> **Why it is necessary**: `05_REPORT(Battle Report)` is the **repository for outputs of all completed audits**, and `03_WAR_LOG(Battle Log)` is the **library of precedents among them that have been promoted to S-grade** (README definition). That is, the two folders are divided not by "kind" but by **"grade"**.
-
-> When a report matureth sufficiently, it is promoted to a battle log, allowing subsequent difficulties to reuse that precedent. If this feedback loop is broken, **procedures verified in actual combat are not inherited by the next audit** — such an accident hath actually occurred (Refer to the background of the codification of `02_TACTICS/ANCHOR_ThirdData.md` ANCHOR-1P).
-
-```
-[STEP 0] Determine Promotion Type — Which family is it? (Added 2026-08-17)
-
-  There are two families in the battle logs, and their requirements differ. Distinguish this first.
-  ┌─ Type ① Verdict Precedent ─────────────────────┐
-
-  │  File Name : [Decisive TYPE Combo]_EventName.md                        │
-
-  │  Contents  : Final grade + Ground for that grade + Reason for grade ceiling    │
-  │  Reqs   : Fulfill all 3 criteria of STEP 1 below (① Stabilization of judgment mandatory)│
-  │  Example   : [N+AC+AG]_SalvationOfKingSaul_PropAnchor_217CasesExhaustive.md        │
-  └────────────────────────────────────────────────────────────┘
-  ┌─ Type ② Operation Precedent ───────────────────┐
-  │  File Name : CHRONICLE_Subject_DetectionContent.md                        │
-
-  │  Case No.: PRECEDENT-nnn (Sequential Number)                             │
-  │  Contents  : What the weapon caught and how + Forensic lesson       │
-  │  Structure : ⚔️Attack → 🛡️Defense·Reversal → 🎯Forensic lesson              │
-  │  Reqs   : Needs to fulfill only ②③ of STEP 1                         │
-  │           → ① Stabilization of judgment unnecessary (as it doth not claim a final grade)│
-  │  Example   : CHRONICLE_SalvationOfSaulDebate_SubjectConfusionDetected.md            │
-  └────────────────────────────────────────────────────────────┘
-  🚨 Type ② doth not claim a final judgment. Therefore, cases that have not completed the formal GATE 0~5
-     can still be promoted as operation records — provided that it is absolutely specified within the document
-
-     "Final judgment unconfirmed / This document is a weapon operation record".
-     If this notation is omitted, subsequent audits will mistake the operation record as ground for judgment.
-  ⚠️ When a case promoted as Type ② later completeth the formal verification, Type ① is then generated
-     separately at that time. The two are not substitutes but coexist (The case of King Saul is a real example — 4 CHRONICLE cases
-
-     + 1 Verdict Precedent coexist).
-[STEP 1] Examination of 3 Major Promotion Criteria — All 3 for Type ①, only ②③ for Type ②
-  ① Verdict Stability
-
-
-     → Is it in a state where the grade is no longer overturned?
-
-     → It is acceptable if there is a history of re-corrections. However, "what the final grade is"
-       must be clearly confirmed within the document.
-     → If a grade change that hath not passed OVERRIDE-2 (Duty of New Evidence) remaineth, promotion is deferred.
-  ② Weapon Identification
-     → Can the TYPE weapon that actually determined the judgment be specified?
-
-     → Specifiable → The [TYPE Combo] prefix can be attached to the file name.
-     → Unspecifiable (Weapons are scattered and the decisive blow is unclear) → Promotion deferred.
-  ③ Reusable Procedure  ★ Core Criterion
-     → **Can the method used in this case be applied to other difficulties?**
-
-     → This is the reason for the existence of the library of precedents. No matter how excellent the conclusion,
-       if it is a one-time argumentation that worketh only in that case, it hath no value as a battle log.
-     → Ex: Exhaustive survey of 217 cases of "with me" in King Saul's case → Generalized into ANCHOR-1P 4th search ✅
-  ⚠️ The grade itself is not a promotion criterion.
-     🟡 Even a tentative view is promoted if it fulfillth ①②③ — because the value of a precedent lieth not in the strength of the conclusion,
-
-     but in the procedural record that "this weapon operated like this".
-     Rather, precedents recording "the reason why it could not go up to IRONCLAD" are often more useful
-     (Since they inform where the grade ceiling hit).
-[STEP 2] Execute Promotion — Copying and Reconstructing, not Moving
-  🚨 The original is left **exactly as it is** in 05_REPORT. It is not moved.
-
-
-     → Report_Index.md and external mirror repository links reference the original path.
-
-     → Promotion is the creation of a copy, and the original continueth its role as the "entire output".
-  → File Name: 03_WAR_LOG(Battle Log)/[Decisive TYPE Combo]_EventName.md
-     · Remove the REPORT_ prefix and attach [TYPE Combo]
-
-     · Ex: REPORT_ResurrectionMorning_TombEvent_SequentialIntegration.md → [B]_TombEvent_ResurrectionMorning_SequentialIntegration.md
-     · Include only the decisive weapon — Do not list all TYPEs used
-  → Standard Header (Common format for battle logs):
-     > **Document Code**: [TYPE Combo] — [Weapon Name]
-
-     > **Classification**: 03_WAR_LOG(Battle Log) — [What this precedent established]
-     > **Analysis Type**: [List of applied TYPEs]
-     > **Judgment State**: [Grade]
-     > **Original (Battle Report)**: 05_REPORT(Battle Report)/.../[Original File].md
-  → Body: Not a full copy, but **reconstructed as a precedent**.
-     To include    — Structure of conflict / Operation process of the decisive weapon / Reason why the grade stopped at that line
-
-     Not to include — Circumstances of the debate, offense and defense by rounds, pastoral application (that is the portion of the original)
-[STEP 3] Establish Reverse Reference
-  → Record the original path in the header of the promoted version (the last line of the standard header above).
-
-
-  → If that precedent gave birth to a tactic, organize it so that the respective tactic file citeth the **promoted version**.
-
-     (Maintain the direction of references consistently in the order of Tactic → Battle Log → Battle Report)
-```
-``````markdown
 ---
 
-## ⚡ FULL SCAN Execution Protocol (Standard Procedure for All Analyses)
+### [GATE 5-P] 전투기록 승격 심사 (Promotion Review) — 2026-08-16 신설
+
+> **왜 필요한가**: `05_REPORT(전과보고서)`는 **완료된 모든 감사의 산출물 보관소**이고, `03_WAR_LOG(전투기록)`은 그중 **S등급으로 승격된 판례 도서관**이다(README 정의). 즉 두 폴더는 "종류"가 아니라 **"등급"**으로 나뉜다.
+> 보고서가 충분히 성숙하면 전투기록으로 승격시켜, 이후 난제들이 그 판례를 재사용할 수 있게 한다. 이 환류가 끊기면 **실전에서 검증된 절차가 다음 감사에 상속되지 않는다** — 실제로 그런 사고가 발생했다(`02_TACTICS(전술)/ANCHOR_ThirdData.md` ANCHOR-1P 성문화 배경 참조).
+
+```
+[STEP 0] 승격 유형 판별 — 어느 계열인가? (2026-08-17 신설)
+
+  전투기록에는 두 계열이 있고, 요구 조건이 다르다. 먼저 이것부터 가른다.
+
+  ┌─ 유형 ① 판정 판례 (Verdict Precedent) ─────────────────────┐
+  │  파일명 : [결정 TYPE 조합]_사건명.md                        │
+  │  담는 것: 최종 등급 + 그 등급이 나온 근거 + 등급 상한 사유    │
+  │  요건   : 아래 STEP 1의 3대 기준 전부 충족 (①판정 안정화 필수)│
+  │  예시   : [N+AC+AG]_사울왕구원_명제형앵커_217례전수.md        │
+  └────────────────────────────────────────────────────────────┘
+
+  ┌─ 유형 ② 운용 판례 (Operation Precedent) ───────────────────┐
+  │  파일명 : CHRONICLE_주제_적발내용.md                        │
+  │  사건번호: PRECEDENT-nnn (연번)                             │
+  │  담는 것: 무기가 무엇을 어떻게 잡아냈는가 + 포렌식 교훈       │
+  │  구조   : ⚔️공격 → 🛡️방어·역전 → 🎯포렌식 교훈              │
+  │  요건   : STEP 1 ②③만 충족하면 된다                         │
+  │           → ①판정 안정화 불필요 (최종 등급을 주장하지 않으므로)│
+  │  예시   : CHRONICLE_사울의구원논쟁_주어혼동적발.md            │
+  └────────────────────────────────────────────────────────────┘
+
+  🚨 유형 ②는 최종 판정을 주장하지 않는다. 따라서 정식 GATE 0~5를 완주하지
+     않은 사건도 운용 기록으로는 승격 가능하다 — 단, 문서 안에 반드시
+     "최종 판정 미확정 / 이 문서는 무기 운용 기록"임을 명기한다.
+     이 표기를 빠뜨리면 후속 감사가 운용 기록을 판정 근거로 오인한다.
+
+  ⚠️ 유형 ②로 올린 사건이 나중에 정식 검증을 완주하면, 그때 유형 ①을 별도로
+     생성한다. 둘은 대체 관계가 아니라 병존한다(사울왕이 그 실례 — CHRONICLE
+     4건 + 판정 판례 1건이 함께 존재).
+
+
+[STEP 1] 승격 3대 기준 심사 — 유형 ①은 3개 전부, 유형 ②는 ②③만
+
+  ① 판정 안정화 (Verdict Stability)
+     → 등급이 더 이상 뒤집히지 않는 상태인가?
+     → 재정정 이력이 있어도 무방하다. 다만 "최종 등급이 무엇인지"가
+       문서 안에서 명확히 확정되어 있어야 한다.
+     → OVERRIDE-2(신규 증거 의무)를 통과하지 않은 등급 변경이 남아 있으면 승격 보류.
+
+  ② 무기 조합 식별 (Weapon Identification)
+     → 판결을 실제로 결정지은 TYPE 무기를 특정할 수 있는가?
+     → 특정 가능 → 파일명에 [TYPE조합] 접두사를 붙일 수 있다.
+     → 특정 불가(무기가 흩어져 있고 결정타가 불명확) → 승격 보류.
+
+  ③ 재사용 가능한 절차 (Reusable Procedure)  ★ 핵심 기준
+     → 이 사건에서 쓴 방법을 **다른 난제에도 적용할 수 있는가?**
+     → 이것이 판례 도서관의 존재 이유다. 결론이 아무리 훌륭해도
+       그 사건에서만 통하는 일회성 논증이면 전투기록의 가치가 없다.
+     → 예: 사울왕 건의 "with me" 217례 전수조사 → ANCHOR-1P 4차 검색으로 일반화됨 ✅
+
+  ⚠️ 등급 자체는 승격 기준이 아니다.
+     🟡 유력 견해라도 ①②③을 충족하면 승격한다 — 판례의 가치는 결론의 세기가 아니라
+     "이 무기가 이렇게 작동했다"는 절차 기록에 있기 때문이다.
+     오히려 "IRONCLAD로 못 올라간 이유"가 기록된 판례가 더 유용할 때가 많다
+     (등급 상한이 어디서 걸리는지 알려주므로).
+
+
+[STEP 2] 승격 실행 — 이동이 아니라 복사·재구성
+
+  🚨 원본은 05_REPORT에 **그대로 남긴다.** 이동하지 않는다.
+     → Report_Index.md 및 외부 미러 저장소 링크가 원본 경로를 참조하고 있다.
+     → 승격은 사본 생성이며, 원본은 계속 "전체 산출물" 역할을 한다.
+
+  → 파일명: 03_WAR_LOG(전투기록)/[결정 TYPE 조합]_사건명.md
+     · REPORT_ 접두사를 떼고 [TYPE조합]을 붙인다
+     · 예: REPORT_부활아침_무덤사건_순차통합.md → [B]_무덤사건_부활아침_순차통합.md
+     · 결정타 무기만 넣는다 — 사용한 모든 TYPE을 나열하지 않는다
+
+  → 표준 헤더 (전투기록 공통 양식):
+     > **문서 코드**: [TYPE조합] — [무기 이름]
+     > **분류**: 03_WAR_LOG(전투기록) — [이 판례가 확정한 것]
+     > **분석 유형**: [적용 TYPE 나열]
+     > **판결 상태**: [등급]
+     > **원본(전과보고서)**: 05_REPORT(전과보고서)/.../[원본파일].md
+
+  → 본문: 전문 복사가 아니라 **판례로 재구성**한다.
+     담을 것    — 충돌 구조 / 결정타 무기의 작동 과정 / 등급이 그 선에서 멈춘 이유
+     담지 않을 것 — 논쟁 경위, 라운드별 공방, 목회 적용 (그건 원본의 몫)
+
+
+[STEP 3] 역참조 연결
+
+  → 승격본 헤더에 원본 경로를 기재한다(위 표준 헤더 마지막 줄).
+  → 그 판례가 전술을 낳았다면, 해당 전술 파일이 **승격본**을 인용하도록 정리한다.
+     (전술 → 전투기록 → 전과보고서 순으로 참조 방향을 일관되게 유지)
+```
+
+---
+
+## ⚡ FULL SCAN 실행 프로토콜 (모든 분석의 표준 절차)
 
 > [!IMPORTANT]
+> 새 난제/질문이 입력되면 항상 이 순서를 따른다. TYPE을 사전에 선택하지 않는다.
+> 모든 TYPE을 순서대로 실행하고 결과가 나온 것만 보고서에 포함한다.
 
-> When a new difficulty/question is entered, always follow this order. Do not pre-select the TYPE.
-> Execute all TYPEs in order and include only those with results in the report.
 ```
+【 BVCAP FULL SCAN 실행 순서 】
 
-【 BVCAP FULL SCAN Execution Order 】
-[PRE-FLIGHT — Mandatory Equipping Sequence Before Analysis Commenceth]
+[PRE-FLIGHT — 분석 시작 전 의무 장착 순서]
 
-  ━━━ STEP 0-A. Equipping Persona ━━━
+  ━━━ STEP 0-A. 페르소나 장착 ━━━
+  아래 3개 파일을 순서대로 읽고 에이전트 정체성을 완전히 장착한다:
+  1. 01_MANDATE(작전명령)/IDENTITY_Scribe42.md  → 42 기록자 정체성 + 말빔/아키바 절대무결성 철학 주입
+  2. 01_MANDATE(작전명령)/CREED_Override.md     → 학계 통설을 H0으로 격리 + 금지 행동 선언
+  3. 01_MANDATE(작전명령)/MANDATE_Agent.md      → 에이전트 사명 + 핵심 3원칙 확인
 
-  Read the 3 files below in order and fully equip the agent identity:
-  1. 01_MANDATE(Mandate)/IDENTITY_Scribe42.md  → Inject 42 Scribe identity + Malbim/Akiva absolute infallibility philosophy
-  2. 01_MANDATE(Mandate)/CREED_Override.md     → Isolate academic common theory to H0 + Declare forbidden actions
-  3. 01_MANDATE(Mandate)/MANDATE_Agent.md      → Confirm agent mission + 3 core principles
-  ━━━ STEP 0-B. Equipping TACTICS — Transplanting Hermeneutical Constitution ━━━
+  ━━━ STEP 0-B. 전술(TACTICS) 장착 — 해석 헌법 이식 ━━━
+  아래 파일들은 분석 전 반드시 로드하여 해석학적 기준을 내면화한다:
+  4. 02_TACTICS(전술)/HERMENEUTICS_Hillel_7.md → 힐렐 7대 규칙: 모든 TYPE 무기의 뿌리 헌법
+  5. 02_TACTICS(전술)/DEOVERLAP_Serial.md       → 중첩 해체 7원칙 (하자카 포함) 장착
+  6. 02_TACTICS(전술)/ANCHOR_ThirdData.md       → 제3 앵커 수집 프로토콜 확인
+  7. 02_TACTICS(전술)/LEXICON_Bible.md          → 인물 식별자·이명·지명 사전 로드
+  8. 02_TACTICS(전술)/ANALOGY_Modern.md         → 현대 비유 창작 기준 사전 확인
+  9. 02_TACTICS(전술)/TACTIC_Auto_Grill.md      → 자가 압박 심문 3단계 프로토콜 장착
 
-  The files below must be loaded before analysis to internalize hermeneutical standards:
-  4. 02_TACTICS(Tactics)/HERMENEUTICS_Hillel_7.md → Hillel's 7 Rules: The root constitution of all TYPE weapons
-  5. 02_TACTICS(Tactics)/DEOVERLAP_Serial.md       → Equip 7 principles of dismantling overlap (including Chazakah)
-  6. 02_TACTICS(Tactics)/ANCHOR_ThirdData.md       → Confirm 3rd anchor collection protocol
-  7. 02_TACTICS(Tactics)/LEXICON_Bible.md          → Load person identifiers·aliases·places dictionary
-  8. 02_TACTICS(Tactics)/ANALOGY_Modern.md         → Pre-confirm criteria for creating modern analogies
-  9. 02_TACTICS(Tactics)/TACTIC_Auto_Grill.md      → Equip 3-stage protocol for auto-pressuring interrogation
-  ━━━ 🆕 STEP 0-B2. Confirm Text for Judgment Standard (Added 2026-08-17 / Reinforced 2026-08-19) ━━━
+  ━━━ 🆕 STEP 0-B2. 판정 기준 텍스트 확인 (2026-08-17 신설 / 2026-08-19 강화) ━━━
 
-  ① **Actually confirm** the existence of the file — it is an execution, not a declaration:
+  ① 파일 존재를 **실제로 확인한다** — 선언이 아니라 실행이다:
 
-     ls "00_THESCRIPTURE(Original text)/"
+     ls "00_THESCRIPTURE(성경원문)/"
 
-     | File | If Present | If Absent |
-
+     | 파일 | 있으면 | 없으면 |
      |:---|:---|:---|
-     | KJV_1769.txt        | **Standard for Judgment** (Single standard). Quotes·grammar·italics all herein | `[Exhaustive: Memory Based]` 🟡 |
-     | KJV_1769_search.txt | Derivative of KJV_1769.txt for search. Execute all exhaustive surveys here | 〃 |
-     | TheScripture_ko_en_search.json | Korean Citation ⒜ (1st priority) | If absent ⒝ realtime retrieval from kingjamesbiblekorea.com → If even that faileth ⒞ `[Korean: LLM Translation]` |
-     🚨 **Declaring by memory when the file is present without searching is a procedural violation.**
+     | KJV_1769.txt        | **판정 정본**(단일 기준). 인용·문법·이탤릭 전부 여기 | `[전수: 기억 기반]` 🟡 |
+     | KJV_1769_search.txt | KJV_1769.txt의 검색용 파생본. 모든 전수조사를 여기에 건다 | 〃 |
+     | TheScripture_ko_en_search.json | 한글 인용 ⒜(1순위) | 없으면 ⒝ kingjamesbiblekorea.com 실시간 조회 → 그마저 실패 시 ⒞ `[한글: LLM 번역]` |
 
-     🚨 Substitute with memory only when the file is absent, in which case a grade ceiling (EXPLICIT) is applied.
-  ② Familiarize with Usage and Traps:
+     🚨 **파일이 있는데 검색하지 않고 기억으로 선언하는 것은 절차 위반이다.**
+     🚨 파일이 없을 때만 기억으로 대체하며, 그 경우 등급 상한(EXPLICIT)이 걸린다.
 
-  10. 00_THESCRIPTURE(Original text)/README.md → Familiarize with corpus usage·search traps
-      · Exhaustive survey (TYPE-N)·Argument from silence (TYPE-AG)·Frequency (TYPE-I)·ANCHOR-1P 4th·5th must
-        absolutely execute actual searches on `KJV_1769_search.txt` and note `[Exhaustive: Text Search]`.
-      · Quote and grammar anatomy (TYPE-G) use `KJV_1769.txt` where italic brackets and paragraph marks are preserved.
-      · **Judgment Standard Edition = 1769 Cambridge, italics included.** Book names are `Psalms`·`Song of Solomon`.
-      · Upper/lowercase (Spirit/spirit) is edition-dependent, so do not use it as a standalone ground for judgment.
-      🇰🇷 Korean Bible Citation Rules (Added 2026-08-19 / Revised 3 stages 2026-08-19):
+  ② 사용법·함정 숙지:
+  10. 00_THESCRIPTURE(성경원문)/README.md → 코퍼스 사용법·검색 함정 숙지
+      · 전수조사(TYPE-N)·침묵 논증(TYPE-AG)·빈도(TYPE-I)·ANCHOR-1P 4·5차는
+        반드시 `KJV_1769_search.txt`에 실제 검색을 걸고 `[전수: 텍스트 검색]`을 표기한다.
+      · 인용·문법 해부(TYPE-G)는 이탤릭 대괄호·단락표가 보존된 `KJV_1769.txt`를 쓴다.
+      · **판정 기준 판본 = 1769 캠브리지, 이탤릭 포함.** 책 이름은 `Psalms`·`Song of Solomon`.
+      · 대소문자(Spirit/spirit)는 판본 의존적이므로 단독 판정 근거로 쓰지 않는다.
 
-         When placing Korean text in the report, use the **Standard King James Bible (KSKJB)**. Acquire through 3 stages.
-         ⒜ Local File (1st Priority)
+      🇰🇷 한글 성경 인용 규칙 (2026-08-19 신설 / 2026-08-19 3단계 개정):
+         보고서에 한글 본문을 실을 때는 **표준킹제임스(KSKJB)**를 사용한다. 3단계로 취득한다.
 
-           · File: `00_THESCRIPTURE(Original text)/TheScripture_ko_en_search.json` (Markup removed version)
-                   ※ If markup preserved version is needed, `TheScripture_ko_en.json`
-           · **Extraction is free** — quote as much as needed, whether a whole verse or three words
-           · **Do not change the letters** — if modified, it becometh a transformation, not a citation
-           · **Indicate the source** (Once per document, at the bottom of the report):
-               Korean Bible Citation: Standard King James Bible (KSKJB)
+         ⒜ 로컬 파일 (1순위)
+           · 파일: `00_THESCRIPTURE(성경원문)/TheScripture_ko_en_search.json` (마크업 제거본)
+                   ※ 마크업 보존본이 필요하면 `TheScripture_ko_en.json`
+           · **발췌는 자유** — 한 절 전체든 세 단어든 필요한 만큼 인용한다
+           · **글자는 바꾸지 않는다** — 수정하면 인용이 아니라 변형이 된다
+           · **출처를 표기한다** (문서당 1회, 보고서 하단):
+               한글 성경 인용: 표준킹제임스성경(KSKJB)
                Copyright (C) Biblebelievers Publication · CC BY-NC-ND 4.0
-         🚨 The boundary is not "volume" but **"wert the letters touched?"**
-         ⒝ Local file absent → Realtime retrieval from kingjamesbiblekorea.com (2nd Priority)
+         🚨 경계선은 "분량"이 아니라 **"글자를 건드렸는가"**다.
 
-           · Upon successful retrieval, use **the same copyright notation as ⒜** (as it is the same work).
-             Add the date of retrieval to the remarks.
-           · **If possible, retrieve via raw HTML parsing** (fetch_kjv_ko.py method, `requests.get`).
-             WebFetch-type tools internally summarize and reconstruct the page before returning it,
-             thus not guaranteeing character-by-character matches — risking conflict with the "do not change letters" principle.
-           · Beware that the correction of verse numbers in the local file (152 cases, README §2-B③) might not be reflected.
-           · 🚨 The text obtained through this route is **the KSKJB original, not an LLM translation (⒞)** — do not
-             falsely notate the source as `[Korean: LLM Translation]`.
-         ⒞ Both ⒜·⒝ failed (clone environment + site inaccessible, etc.) — Fallback
+         ⒝ 로컬 파일 없음 → kingjamesbiblekorea.com 실시간 조회 (2순위)
+           · 조회 성공 시 **⒜와 동일한 저작권 표기**를 쓴다(같은 저작물이므로).
+             조회일자를 비고에 추가한다.
+           · **가능하면 raw HTML 파싱**(fetch_kjv_ko.py 방식, `requests.get`)으로 조회한다.
+             WebFetch류 도구는 내부적으로 모델이 페이지를 요약·재구성해 반환하므로
+             글자 단위 일치를 보장하지 않는다 — "글자를 바꾸지 않는다" 원칙과 충돌 위험.
+           · 로컬 파일의 절 번호 정정(152건, README §2-B③)이 반영 안 됐을 수 있다.
+           · 🚨 이 경로로 얻은 본문은 **LLM 번역(⒞)이 아니라 KSKJB 원문**이다 — 출처를
+             `[한글: LLM 번역]`로 잘못 표기하지 않는다.
 
-           · **The model directly translateth the KJV English into Korean for use.** Principle of literal translation.
-           · Change the source notation to **[Korean: LLM Translation]**:
-               Korean Bible Citation: The Korean Bible text in this report is a direct translation of the KJV English,
-               not cited from a specific Korean version (Standard KJB, Authorized, Korean KJB, etc.).
-           · 🚨 **Do not notate that KSKJB was cited** — putting a source for a text not used is false notation.
-           · 🚨 **Do not use the Korean translation as a ground for judgment.** The judgment is always the KJV English (CREED C-1).
-             The Korean is merely an auxiliary mark to help the reader understand.
-           · If needed, the local file can be directly generated with `00_THESCRIPTURE(Original text)/fetch_kjv_ko.py` (approx. 10 mins).
-      📐 Principle of Handling Italics (2026-08-19):
+         ⒞ ⒜·⒝ 모두 실패 (clone 환경 + 사이트 접속 불가 등) — 폴백
+           · **모델이 KJV 영문을 직접 한국어로 번역하여 사용한다.** 직역 원칙.
+           · 출처 표기를 **[한글: LLM 번역]**으로 바꾼다:
+               한글 성경 인용: 본 보고서의 한글 성경 본문은 KJV 영문을 직접 번역한 것으로,
+               특정 한글 역본(표준킹제임스·흠정역·한글킹제임스 등)을 인용한 것이 아니다.
+           · 🚨 **KSKJB를 인용했다고 표기하지 않는다** — 쓰지 않은 본문을 출처로 다는 것은 거짓 표기다.
+           · 🚨 **한글 번역을 판정 근거로 삼지 않는다.** 판정은 언제나 KJV 영문(CREED C-1).
+             한글은 독자 이해를 돕는 보조 표시일 뿐이다.
+           · 필요하면 `00_THESCRIPTURE(성경원문)/fetch_kjv_ko.py` 로 로컬 파일을 직접 생성할 수 있다(약 10분).
 
-         `[ ]` is the italic **itself**, and that word is a **translator's supplement** having no correspondence in the original language.
-         ① Italics are also the main text — use them as they are for citation·judgment
-         ② Maintain the `[ ]` notation when citing
-         ③ When placing decisive weight on an italic word, **clearly state that fact first**
-         ④ If the opponent useth an italic word as a basis, **pointing out that it is a supplement is a valid counterargument**
-         🚨 Demonstration: If `[the brother of]` in 2 Sam 21:19 is removed, it conflicteth with the David record.
-            Conversely, Isa 9:6 and Acts 20:28 have 0 italics, and that fact strengtheneth the argument.
-      🚨 Declaring exhaustiveness from memory when the corpus is present is a procedural violation.
-  ━━━ STEP 0-C. Execute OVERRIDE-0 ━━━
+      📐 이탤릭 취급 원칙 (2026-08-19):
+         `[ ]`는 이탤릭 **그 자체**이며, 그 단어는 원어에 대응이 없는 **번역자 보충어**다.
+         ① 이탤릭도 본문이다 — 인용·판정에 그대로 쓴다
+         ② 인용 시 `[ ]` 표기를 유지한다
+         ③ 이탤릭 단어에 결정적 무게를 실을 때는 **그 사실을 먼저 명시한다**
+         ④ 상대가 이탤릭 단어를 근거로 삼으면 **보충어임을 지적하는 것이 유효한 반론**이다
+         🚨 실증: 삼하 21:19 `[the brother of]`를 빼면 다윗 기록과 충돌한다.
+            반대로 사 9:6·행 20:28은 이탤릭 0건이며 그 사실이 논거를 강화한다.
+      🚨 코퍼스가 있는데 기억으로 전수를 선언하는 것은 절차 위반이다.
 
-  OVERRIDE-0 → Register academic common theory as Hypothesis-0, then directly read the KJV original
-  → Commence the main analysis only after calling/lesson is fully equipped. Analysis impossible if not equipped.
+  ━━━ STEP 0-C. OVERRIDE-0 실행 ━━━
+  OVERRIDE-0 → 학계 통설을 Hypothesis-0으로 등록 후 KJV 원문 직접 독해
+  → 소명/교훈 장착 완료 후에만 본 분석을 시작한다. 미장착 시 분석 불가.
+
 [DETECTION]
+  TYPE-M 실행 → 5가지 이상 신호 스캔 → 이상 감지 시 질문 문장화
 
-  Execute TYPE-M → Scan for 5 or more signals → If anomaly detected, formulate as a question
-[DATA COLLECTION — Mandatory Execution of ANCHOR-1 Protocol]
+[DATA COLLECTION — ANCHOR-1 프로토콜 의무 실행]
+  ① 충돌하는 두 구절을 나열한다
+  ② 반드시 제3의 앵커 구절을 성경 전체에서 검색하여 추가한다
+  ③ 관련 인물/사건의 모든 숫자·나이·편제 데이터를 Raw Data List로 작성한다
+  → 앵커가 없으면 분석을 시작하지 않는다
 
-  ① List the two conflicting verses
-  ② Absolutely search for and add a 3rd anchor verse from the entire Scripture
-  ③ Draft all numbers, ages, and organization data of related persons/events as a Raw Data List
-  → Do not commence analysis without an anchor
-[Apply DE-OVERLAP Rule — Mandatory]
+[DE-OVERLAP 규칙 적용 — 의무]
+  → 수집된 데이터를 절대 시간/공간적으로 겹치지 않는다
+  → 모든 사건을 직렬(Serial)로 배치한다
+  → "이 두 사건이 동시에 일어났을 가능성"을 즉시 기각한다
 
-  → Absolutely do not overlap the collected data temporally/spatially
-  → Arrange all events serially
-  → Immediately reject "the possibility that these two events happened simultaneously"
-[MATRIX-3 Inverse Calculation]
+[MATRIX-3 역산]
+  → 직렬 배치된 데이터를 표에 대입한다
+  → 수치와 맥락이 100% 정합할 때까지 내부 연산을 반복한다
+  → 정합이 되지 않으면 앵커 데이터를 추가 수집하여 재시도한다
 
-  → Substitute the serially arranged data into the table
-  → Repeat internal calculation until figures and context perfectly cohere 100%
-  → If not cohering, collect additional anchor data and retry
-[FULL SCAN: Execute in order of TYPE A → AU]
-
-  TYPE-A: Attempt numerical serial inverse calculation → Result Exists/No Result
-  TYPE-B: Attempt sequential integration of two records → Result Exists/No Result
-  TYPE-B-π: Detect witness's perception filter (saw but cannot process) → N/A / Classify as SHOCK·GRIEF·CULTURAL·DIVINE
-  TYPE-C: Attempt separation of functional categories → Result Exists/No Result
-  TYPE-D: Attempt application of Hebrew customs → Result Exists/No Result
-  TYPE-E: Attempt exhaustive rejection of competing models → Result Exists/No Result
-  TYPE-F: Search for typological triple structure → Result Exists/No Result
-  TYPE-G: [PRE-STEP 0: Priority execution of internal KJV usage comparison → If resolved, skip original language] → Only if unresolved, execute [Auxiliary check of original language grammar — 7 types below] → Result Exists/No Result
-    ┌─ Greek Checklist (Auxiliary — only when unresolved by internal KJV comparison) ──────
-    │ G-CHK-1: Participle Gender agreement — Doth the οἱ(M)/αἱ(F)/τά(N) participle agree with the modified noun?
-    │ G-CHK-2: Verb Voice — Active/Passive/Middle → Whether the agent is specified when passive
-    │ G-CHK-3: Verb Mood — Distinguish Indicative/Subjunctive/Imperative
-    │ G-CHK-4: Granville Sharp Rule — Article (ὁ) + Noun + καί + Noun structure → Whether it indicates the same person
-    │ G-CHK-5: Relative Pronoun Gender/Number — Agreement of gender/number with the antecedent of ὅς/ἥ/ὅ
-    ├─ Hebrew Checklist ────────────────────────────────────────
-    │ G-CHK-6: Verb Stem (Binyan) — Distinguish Qal (Simple)/Niphal (Passive)/Piel (Intensive)/Hiphil (Causative)
-    │ G-CHK-7: Prophetic Perfect — Detect cases where future prophecy is recorded in the perfect tense
-    │ G-CHK-8: Waw Consecutive — Distinguish וַיֹּאמֶר (Sequential narrative) vs וְ (Simple conjunction)
+[FULL SCAN: TYPE A → AU 순서 실행]
+  TYPE-A: 숫자 직렬 역산 시도 → 결과 있음/없음
+  TYPE-B: 두 기록 순차 통합 시도 → 결과 있음/없음
+  TYPE-B-π: 증인의 지각 필터(봤으나 처리 불가) 탐지 → 해당 없음/SHOCK·GRIEF·CULTURAL·DIVINE 분류
+  TYPE-C: 기능적 범주 분리 시도 → 결과 있음/없음
+  TYPE-D: 히브리 관습 적용 시도 → 결과 있음/없음
+  TYPE-E: 경쟁 모델 전수 기각 시도 → 결과 있음/없음
+  TYPE-F: 예표 삼중 구조 탐색 → 결과 있음/없음
+  TYPE-G: [PRE-STEP 0: KJV 내부 용례 대조 최우선 실행 → 해결되면 원어 생략] → 해결 안 될 때만 [원어 문법 보조 점검 — 아래 7종] 실행 → 결과 있음/없음
+    ┌─ 헬라어 체크리스트 (보조 — KJV 내부 대조로 미해결 시에만) ──────
+    │ G-CHK-1: 분사 성(Gender) 일치 — οἱ(남성)/αἱ(여성)/τά(중성) 분사가 수식 명사와 일치하는가?
+    │ G-CHK-2: 동사 태(Voice) — 능동(active)/수동(passive)/중간(middle) → 수동 시 행위자(agent) 명시 여부
+    │ G-CHK-3: 동사 법(Mood) — 직설법(indicative)/가정법(subjunctive)/명령법(imperative) 구분
+    │ G-CHK-4: Granville Sharp Rule — 관사(ὁ) + 명사 + καί + 명사 구조 → 동일 인물 지시 여부
+    │ G-CHK-5: 관계대명사 성·수 — ὅς/ἥ/ὅ의 선행사(antecedent) 성·수 일치 여부
+    ├─ 히브리어 체크리스트 ────────────────────────────────────────
+    │ G-CHK-6: 동사 어간(Binyan) — Qal(단순)/Niphal(수동)/Piel(강조)/Hiphil(사역) 구분
+    │ G-CHK-7: 선지자적 완료형(Prophetic Perfect) — 미래 예언을 완료형으로 기록한 경우 탐지
+    │ G-CHK-8: 바브 연속형(Waw Consecutive) — וַיֹּאמֶר (순차 내러티브) vs וְ(단순 접속) 구분
     └───────────────────────────────────────────────────────────
-    → If anomaly detected among the 8 items above: Immediately trigger the corresponding TYPE-G sub-protocol
-  TYPE-H: Attempt reversal of manuscript independent sources → Result Exists/No Result
-  TYPE-I: Vocabulary frequency counting → Result Exists/No Result
-  TYPE-J: Collect external historical literature → Result Exists/No Result
-  TYPE-K: Verify scientific/forensic coherence → Result Exists/No Result
-  TYPE-L: Connect TYPEs with results sequentially → Form a chain
-  TYPE-N: Exhaustive survey for exclusivity (upon TYPE-M detection) → Result Exists/No Result
-  TYPE-O: Attempt verification of absence of physical traces → Result Exists/No Result
-  TYPE-P: Attempt application of boomerang logic → Result Exists/No Result
-  TYPE-Q: Attempt verification of quantification constraints → Result Exists/No Result
-  TYPE-R: Attempt detection of subject/syntax confusion → Result Exists/No Result
-  TYPE-S: Attempt cross-linking of vocabulary (Gezera Shava) → Result Exists/No Result
-  TYPE-T: Attempt detection of tense/vocabulary misreading → Result Exists/No Result
-  TYPE-U: Attempt application of first mention anchor → Result Exists/No Result
-  TYPE-V: Attempt verification of alphabetical numerical value (Gematria) → Result Exists/No Result
-  TYPE-W: Attempt separation of double fulfillment (prophetic perspective) → Result Exists/No Result
-  TYPE-X: Attempt anatomy of chiastic structure (Chiasm) → Result Exists/No Result
-  TYPE-Y: Attempt multiple eyewitness perspective/exclusivity check → Result Exists/No Result
-  TYPE-Z: Attempt application of theodicy (philosophical) defense logic → Result Exists/No Result
-  TYPE-AA: Attempt application of ancient law·culture (law of agency/hyperbole) → Result Exists/No Result
-  TYPE-AB: Attempt application of spiritual entity/space timeline matrix → Result Exists/No Result
-  TYPE-AC: Set counter-hypothesis (¬A) → Substitute into Biblical text → Judge occurrence of contradiction → Seal escape route → Determine whether to trigger COUNTER PUNCH
-  TYPE-AD: Abductive Reasoning — Search for the only hypothesis that explaineth the most evidence → Result Exists/No Result
-  TYPE-AE: Inclusio (Bookend Structure) — Detect narrative inclusio structure → Result Exists/No Result
-  TYPE-AF: Transfer Burden of Proof — Establish the attacker's duty to present internal Biblical counter-evidence → Result Exists/No Result
-  TYPE-AG: Argument from Silence — Weaponize the complete silence of their claims (not the silence of the Bible) → Result Exists/No Result
-  TYPE-AH: Redaction Criticism — Analyze the intent behind the author's choice of expression → Result Exists/No Result
-  TYPE-AI: Reductio ad Absurdum — Push the opponent's hypothesis to the end to derive internal Biblical contradiction → Result Exists/No Result
-  TYPE-AJ: Cumulative Case Argument — Confirm conclusion through convergence of multiple independent evidences → Result Exists/No Result
-  TYPE-AK: Occam's Razor — Preferentially adopt the simpler hypothesis among those explaining the same evidence → Result Exists/No Result
-  TYPE-AL: Equivocation Detection — Detect the opponent's shifting definition of words → Result Exists/No Result
-  TYPE-AM: False Dichotomy Detection — Restore options outside the binary structure → Result Exists/No Result
-  TYPE-AN: Moving Goalposts Detection — Detect shifting of criteria after initial criteria are met → Result Exists/No Result
-  TYPE-AO: Canonical Criticism — Verify the narrative inevitability of verses within canonical narrative units → Result Exists/No Result
-  TYPE-AP: Speech Act Theory — Analyze speech function (command/prophecy/promise) → Result Exists/No Result
-  TYPE-AQ: Audience Criticism — Confirm the original audience's understanding directly within the text → Result Exists/No Result
-  TYPE-AR: Spiritual Mechanism Analysis — Analyze behavior patterns of spiritual beings (division·fusion·possession·physical limits) → Result Exists/No Result
-  TYPE-AS: Hierarchy of Power Analysis — Separate God's exclusive power (Bara) vs delegable power (Asah/Yatsar) → Result Exists/No Result
-  TYPE-AT: Divine Attribute Reductio ad Absurdum — Detect conflict between God's attributes (holiness·goodness·light) vs the result of action → Result Exists/No Result
-  TYPE-AU: Structural Isomorphism — Detect structural isomorphism between two events → Result Exists/No Result
-  TYPE-AV: Statement Analysis — Separate questioned statements vs unsolicited over-statements → Result Exists/No Result
-  TYPE-AW: Action-Statement Inconsistency — Adopt action first when words and actions of the same subject diverge → Result Exists/No Result
-  TYPE-AX: Cui Bono Reverse Calculation — Trace the chain of results within the text → Specify the sole beneficiary → Result Exists/No Result
-  TYPE-AY: Requirement Hierarchy Analysis — Extract the hierarchy·minimum line·voluntary alternatives·unmentioned options of sequential requirements → Result Exists/No Result
-  ⚠️ [Reference Guide] For the detailed execution steps (STEP 1~5) of weapons from TYPE-M onwards (TYPE-M~AY),
+    → 위 8개 항목 중 이상 감지 시: 해당 항목 TYPE-G 서브 프로토콜 즉시 발동
+  TYPE-H: 사본 독립 출처 역전 시도 → 결과 있음/없음
+  TYPE-I: 어휘 빈도 카운팅 → 결과 있음/없음
+  TYPE-J: 외부 역사 문헌 수집 → 결과 있음/없음
+  TYPE-K: 과학/법의학 정합 검증 → 결과 있음/없음
+  TYPE-L: 결과 있는 TYPE들을 연쇄로 연결 → 체인 구성
+  TYPE-N: 배타성 전수 조사 (TYPE-M 감지 시) → 결과 있음/없음
+  TYPE-O: 물리적 흔적 부재 검증 시도 → 결과 있음/없음
+  TYPE-P: 역논법(부메랑) 적용 시도 → 결과 있음/없음
+  TYPE-Q: 수량화 제약 검증 시도 → 결과 있음/없음
+  TYPE-R: 주어/구문 혼동 적발 시도 → 결과 있음/없음
+  TYPE-S: 어휘 교차 연결(게제라 샤바) 시도 → 결과 있음/없음
+  TYPE-T: 시제/어휘 오독 적발 시도 → 결과 있음/없음
+  TYPE-U: 첫 언급 앵커 적용 시도 → 결과 있음/없음
+  TYPE-V: 알파벳 숫자값(게마트리아) 검증 시도 → 결과 있음/없음
+  TYPE-W: 이중 성취(예언적 원근법) 분리 시도 → 결과 있음/없음
+  TYPE-X: 교차 대칭 구조(카이아즘) 해부 시도 → 결과 있음/없음
+  TYPE-Y: 다중 목격자 관점/배타성 검사 시도 → 결과 있음/없음
+  TYPE-Z: 신정론적(철학적) 방어 논리 적용 시도 → 결과 있음/없음
+  TYPE-AA: 고대 법·문화(대리인법/과장법) 적용 시도 → 결과 있음/없음
+  TYPE-AB: 영적 존재/공간 타임라인 매트릭스 적용 시도 → 결과 있음/없음
+  TYPE-AC: 역가설(¬A) 설정 → 성경 본문 대입 → 모순 발생 판정 → 탈출구 봉쇄 → COUNTER PUNCH 발동 여부 결정
+  TYPE-AD: 귀추법 (Abductive Reasoning) — 최다 증거를 설명하는 유일 가설 탐색 → 결과 있음/없음
+  TYPE-AE: 수미상관 (Inclusio) — 서사 수미상관 구조 탐지 → 결과 있음/없음
+  TYPE-AF: 입증 책임 전가 — 공격자의 성경 내부 반증 제시 의무 확립 → 결과 있음/없음
+  TYPE-AG: 침묵 논증 — 저들 주장의 완전한 침묵을 무기화(성경의 침묵 아님) → 결과 있음/없음
+  TYPE-AH: 편집비평 — 저자의 표현 선택 의도 분석 → 결과 있음/없음
+  TYPE-AI: 귀류법 — 상대 가설 성경 대입 → 모순 폭발 여부 판정 → 결과 있음/없음
+  TYPE-AJ: 누적 사례 논증 — 다수 독립 증거 수렴 → IRONCLAD 기반 판정 → 결과 있음/없음
+  TYPE-AK: 오컴의 면도날 — 경쟁 가설 중 단순한 것 우선 채택 → 결과 있음/없음
+  TYPE-AL: 어의 중의성 적발 — 상대의 단어 정의 이동 탐지 → 결과 있음/없음
+  TYPE-AM: 거짓 이분법 적발 — 이분 구도 외 선택지 복원 → 결과 있음/없음
+  TYPE-AN: 목표대 이동 적발 — 최초 기준 고정·이동 탐지 → 결과 있음/없음
+  TYPE-AO: 정경비평 — 정경 서사 단위 내 구절 필연성 검증 → 결과 있음/없음
+  TYPE-AP: 화행이론 — 발화 기능 분석 (명령/예언/약속) → 결과 있음/없음
+  TYPE-AQ: 청중비평 — 원래 청중의 텍스트 내 이해 확인 → 결과 있음/없음
+  TYPE-AR: 영적 메커니즘 분석 — 영적 존재의 행동 양식(분할·융합·빙의·물리적 제한) 분석 → 결과 있음/없음
+  TYPE-AS: 권능 위계 분석 — 하나님 독점 권능(Bara) vs 위임 가능 권능(Asah/Yatsar) 분리 → 결과 있음/없음
+  TYPE-AT: 신성 속성 귀류법 — 하나님의 속성(거룩·선·빛) vs 행위 결과의 충돌 적발 → 결과 있음/없음
+  TYPE-AU: 구조적 등가 평행 — 두 사건 간 구조적 동형(Isomorphism) 적발 → 결과 있음/없음
+  TYPE-AV: 진술 분석 — 질문받은 진술 vs 묻지 않았는데 흘린 과잉 진술 분리 → 결과 있음/없음
+  TYPE-AW: 행동–진술 불일치 — 동일 주체의 말과 행동이 어긋날 때 행동 우선 채택 → 결과 있음/없음
+  TYPE-AX: Cui Bono 역산 — 본문 내 결과 사슬 추적 → 유일 수익자 특정 → 결과 있음/없음
+  TYPE-AY: 요구 계층 분석 — 순차 요구의 계층·최소선·자발적 대안·미언급 선택지 추출 → 결과 있음/없음
 
-  directly refer to the 04_QUIVER(Armory)/TYPE-[Code]_[Name].md files.
-  (Ex: TYPE-AC detailed procedure → 04_QUIVER(Armory)/TYPE-AC_CounterfactualTest.md)
-[COMBO-VERIFY — Trigger Dual Verification (Mandatory Execution)]
+  ⚠️ [참조 지침] TYPE-M 이후 무기(TYPE-M~AY)의 상세 실행 단계(STEP 1~5)는
+  04_QUIVER(무기고)/TYPE-[코드]_[이름].md 파일을 직접 참조한다.
+  (예: TYPE-AC 상세 절차 → 04_QUIVER/TYPE-AC_CounterfactualTest.md)
 
-  → Contrast the TYPEs that yielded results in the FULL SCAN against the recognized combo table below.
-  → If a combo combination pointing to the same conclusion is triggered → upgrade the reliability of the judgment.
-  → Single TYPE triggered: ✅ CONSISTENT (Consistency Confirmed)
-  → 2 Recognized Combos simultaneously triggered: ✅✅ STRONG (Dual Verification Confirmed)
-  → 3+ Recognized Combos simultaneously triggered: ✅✅✅ IRONCLAD (Ironclad Reasoning — Sole Surviving Interpretation)
-  【 Epistemological Verdict Grade 】
+[COMBO-VERIFY — 이중 검증 점화 (의무 실행)]
+  → FULL SCAN에서 결과가 나온 TYPE들을 아래 공인 콤보 표와 대조한다.
+  → 동일한 결론을 가리키는 콤보 조합이 발동되면 → 판결 신뢰도를 상향한다.
+  → 단일 TYPE 발동: ✅ CONSISTENT (일관성 확정)
+  → 공인 콤보 2종 동시 발동: ✅✅ STRONG (이중 검증 확정)
+  → 공인 콤보 3종 이상 동시 발동: ✅✅✅ IRONCLAD (추론 철벽 — 유일 생존 해석)
 
-  → Absolutely append the grades below to all final judgments:
-  → ✅ EXPLICIT = Facts directly recorded literally in the Scripture (Text). No room for debate.
-     Ex: "Peter shall die by crucifixion" (John 21:18)
-  → ✅✅✅ IRONCLAD = Though not directly specified by the Scripture,
-     it is the only interpretation that holdeth without contradiction, as all alternative interpretations generate internal Biblical contradictions.
-     Ex: "Place of martyrdom = Calvary" (Convergence of 8 combos, passed 4 stages of counter-hypothesis verification)
-  → ⚠️ Note: IRONCLAD doth not mean "the Scripture directly wrote it so."
-     It meaneth "all alternatives perished and only this survived." The strength of reasoning is at maximum, but it doth not hide that it is reasoning.
-  【 Recognized Dual Verification Combo Codes (Based on Appendices 1~4) 】
+  【 인식론적 판정 등급 (Epistemological Verdict Grade) 】
+  → 모든 최종 판결에는 아래 등급을 반드시 병기한다:
+  → ✅ EXPLICIT (직접 명시) = 성경이 자구(Text)로 직접 기록한 사실. 논쟁 여지 없음.
+     예: "베드로는 십자가형으로 죽는다" (요 21:18)
+  → ✅✅✅ IRONCLAD (추론 철벽) = 성경이 직접 명시하지는 않았으나,
+     모든 대안 해석이 성경 내부 모순을 발생시키므로 유일하게 모순 없이 성립하는 해석.
+     예: "순교 장소 = 갈보리" (8개 콤보 수렴, 4단계 역가설 검증 통과)
+  → ⚠️ 주의: IRONCLAD는 "성경이 직접 그렇게 썼다"는 뜻이 아니다.
+     "모든 대안이 죽고 이것만 살았다"는 뜻이다. 추론의 강도가 최대치이나 추론임을 숨기지 않는다.
 
-  [Grammar·Vocabulary Layer — Linguistic Layer]
+  【 공인 이중 검증 콤보 코드 (부록 1~4 기반) 】
 
-  COMBO-G1: TYPE-G + TYPE-T  → Literal-grammatical dual anatomy (IFB Core Principle #1)
-  COMBO-G2: TYPE-G + TYPE-V  → Conjunction anatomy + Letter numerical design (Akiva Rule)
-  COMBO-G3: TYPE-G + TYPE-N  → Inclusion particle anatomy + Exhaustive exclusivity survey (Ribbui + Mi'ut)
-  COMBO-G4: TYPE-I + TYPE-X  → Repetition frequency verification + Chiasm structure anatomy (Eliezer's 10 times)
-  COMBO-G5: TYPE-S + TYPE-U  → Vocabulary bridge connection + First mention anchor fixing (Gezera Shava reinforcement)
-  [Logic·Category Layer — Logic Layer]
+  [문법·어휘 계열 — Linguistic Layer]
+  COMBO-G1: TYPE-G + TYPE-T  → 문자적-문법적 이중 해부 (IFB 핵심 원칙 #1)
+  COMBO-G2: TYPE-G + TYPE-V  → 접속사 해부 + 글자 수리 설계 (아키바 규칙)
+  COMBO-G3: TYPE-G + TYPE-N  → 포함 입자 해부 + 배타성 전수 조사 (리부이+미우트)
+  COMBO-G4: TYPE-I + TYPE-X  → 반복 횟수 검증 + 키아즘 구조 해부 (엘리에제르 10번)
+  COMBO-G5: TYPE-S + TYPE-U  → 어휘 다리 연결 + 첫 언급 앵커 고정 (게제라 샤와 강화)
 
-  COMBO-L1: TYPE-L + TYPE-P  → Chain inference + Boomerang reverse logic (Kal Vachomer dual firing)
-  COMBO-L2: TYPE-N + TYPE-C  → Exclusivity confirmed + Category boundary fixed (General-Specific-General dual lock)
-  COMBO-L3: TYPE-E + TYPE-C  → Existing model rejected + New category reclassified (Principle of Exception Independence)
-  COMBO-L4: TYPE-T + TYPE-C  → Vocabulary misreading detected + Category separation (Malbim 613 Rule dual application)
-  COMBO-L5: TYPE-W + TYPE-R  → Double horizon separation + Subject misreading detected (Self-declaration of subject)
-  COMBO-L6: TYPE-C + TYPE-W  → Generation category separation + Prophecy double fulfillment (IFB Dispensational Principle)
-  [Evidence·Verification Layer — Evidence Layer]
+  [논리·범주 계열 — Logic Layer]
+  COMBO-L1: TYPE-L + TYPE-P  → 연쇄 추론 + 부메랑 역논법 (칼 바호메르 이중 발사)
+  COMBO-L2: TYPE-N + TYPE-C  → 배타성 확정 + 범주 경계 고정 (일반-구체-일반 이중 잠금)
+  COMBO-L3: TYPE-E + TYPE-C  → 기존 모델 기각 + 새 범주 재분류 (예외의 독립 원칙)
+  COMBO-L4: TYPE-T + TYPE-C  → 어휘 오독 적발 + 범주 분리 (말빔 613 규칙 이중 적용)
+  COMBO-L5: TYPE-W + TYPE-R  → 이중 지평 분리 + 주어 오독 적발 (주체의 자기 선언)
+  COMBO-L6: TYPE-C + TYPE-W  → 세대 범주 분리 + 예언 이중 성취 (IFB 세대주의 원칙)
 
-  COMBO-E1: TYPE-Y + TYPE-B  → Multiple witnesses collected + Sequential integration (Migo principle — Proving it is not fabricated)
-  COMBO-E2: TYPE-U + TYPE-O  → First state permanently fixed + Absence of trace reverse-utilized (Chazakah dual defense)
-  COMBO-E3: TYPE-H + TYPE-J  → Manuscript independence reversed + External history cross-checked (Providential preservation dual evidence)
-  COMBO-E4: TYPE-V + TYPE-I  → Numerology calculation + Vocabulary frequency symmetry (Remez dual probe)
-  COMBO-E5: TYPE-F + TYPE-W  → Typological triple parallel + Prophecy double fulfillment (Progressive revelation dual structure)
-  [Strongest Multi-Combo — IRONCLAD Level]
+  [증거·검증 계열 — Evidence Layer]
+  COMBO-E1: TYPE-Y + TYPE-B  → 다중 목격자 수집 + 순차 통합 (미고 원칙 — 짜맞추기 아님 증명)
+  COMBO-E2: TYPE-U + TYPE-O  → 첫 상태 영구 고정 + 흔적 부재 역이용 (하자카 이중 방어)
+  COMBO-E3: TYPE-H + TYPE-J  → 사본 독립성 역전 + 외부 역사 교차 (섭리적 보존 이중 증거)
+  COMBO-E4: TYPE-V + TYPE-I  → 수비학 계산 + 어휘 빈도 대칭 (레메즈 이중 탐침)
+  COMBO-E5: TYPE-F + TYPE-W  → 예표 삼중 평행 + 예언 이중 성취 (점진적 계시 이중 구조)
 
-  COMBO-S1: TYPE-G + TYPE-H + TYPE-I  → Grammar collapse + Independent manuscript reversal + Numerical design (1 John 5:7 Battle Log)
-  COMBO-S2: TYPE-L + TYPE-P + TYPE-E  → Chain inference + Boomerang + Model exhaustive rejection (Kal Vachomer 3-stage firing)
-  COMBO-S3: TYPE-N + TYPE-F + TYPE-L  → Exclusivity confirmed → Typology structure → Sequential chain (Peter Calvary Battle Log)
-  [Battle Log Verification Additional Combos — Confirmed in CHRONICLE Real Combat]
+  [최강 멀티 콤보 — 철벽(IRONCLAD) 수준]
+  COMBO-S1: TYPE-G + TYPE-H + TYPE-I  → 문법 붕괴 + 독립 사본 역전 + 수치 설계 (요한1서 5:7 전투기록)
+  COMBO-S2: TYPE-L + TYPE-P + TYPE-E  → 연쇄 추론 + 부메랑 + 모델 전수 기각 (칼 바호메르 3단 발사)
+  COMBO-S3: TYPE-N + TYPE-F + TYPE-L  → 배타성 확정 → 예표 구조 → 연쇄 체인 (베드로 갈보리 전투기록)
 
-  COMBO-E6: TYPE-A + TYPE-K  → Chronological serial inverse calculation + Biological coherence verification
-                               📌 Battle Log: [A]_Ahaziah_42vs22.md
-                               Jehoram 32→40→42 serial reverse calculation (A) + Biological possibility verification of father-son age "Jehoram begat Ahaziah at 18" (K)
-  COMBO-L7: TYPE-W + TYPE-G  → Prophecy double fulfillment scope judgment + Original language verb grammar anatomy
+  [전투기록 검증 추가 콤보 — CHRONICLE 실전 발화 확인됨]
+  COMBO-E6: TYPE-A + TYPE-K  → 연대기 직렬 역산 + 생물학적 정합 검증
+                               📌 전투기록: [A]_아하지야_42vs22.md
+                               여호람 32세→40세→42세 직렬 역산(A) + "여호람 18세에 아하지야 낳음" 부자 나이 생물학적 가능성 검증(K)
 
-                               📌 Battle Log: [F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md
-                               "Shall follow afterwards" (W Prophetic perspective) + ὅπου (Adverb of place) vs πῶς (Adverb of manner) Greek anatomy (G)
-                               → Triggered when judging whether the fulfillment of prophecy is 'spiritual' or 'locational·manner-wise'
-  COMBO-G6: TYPE-H + TYPE-G  → Manuscript alteration pattern + Grammatical chain collapse dual detection
+  COMBO-L7: TYPE-W + TYPE-G  → 예언 이중 성취 범위 판정 + 원어 동사 문법 해부
+                               📌 전투기록: [F+E+G+N+P+I+T+S]_베드로_갈보리순교설.md
+                               "장래에 따라올 것"(W 예언 원근법) + ὅπου(장소 부사) vs πῶς(방식 부사) 헬라어 해부(G)
+                               → 예언의 성취가 '영적'인지 '장소·방식적'인지 판정할 때 발동
 
-                               📌 Battle Log: [G+H+I]_1John_Comma.md (H+G subset of COMBO-S1)
-                               Grammatical Gender collapse upon deletion of verse (G) + Reversal of bias pattern in the manuscript family that led the deletion (H)
-                               → Dual defense line against text deletion attacks
-  COMBO-G7: TYPE-G + TYPE-R  → Original language Gender/Reference structure anatomy + Subject/Reference misreading detection
+  COMBO-G6: TYPE-H + TYPE-G  → 사본 변형 패턴 + 문법 체인 붕괴 이중 탐지
+                               📌 전투기록: [G+H+I]_요한1서_콤마.md (COMBO-S1의 H+G 서브셋)
+                               구절 삭제 시 문법 성(Gender) 붕괴(G) + 삭제를 주도한 사본 계열의 편향 패턴 역전(H)
+                               → 텍스트 삭제 공격에 대한 이중 방어선
 
-                               📌 Battle Log: [F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md
-                               Misreading the referent of ὅπου as "Heaven" (R detection) + Refuted by original language adverb of place structure (G)
-                               → Triggered when the core issue is "What is the subject/referent of this verse?"
-  COMBO-SF11: TYPE-S + TYPE-F + TYPE-G  -> Vocabulary bridge + Typological parallel + Specified anchor confirmation
+  COMBO-G7: TYPE-G + TYPE-R  → 원어 성(Gender)/지시 구조 해부 + 주어/지시 오독 적발
+                               📌 전투기록: [F+E+G+N+P+I+T+S]_베드로_갈보리순교설.md
+                               ὅπου 지시 대상을 "천국"으로 오독(R 적발) + 원어 장소 부사 구조로 논파(G)
+                               → "이 구절의 주어/지시 대상이 무엇인가?"가 핵심 쟁점일 때 발동
 
-                                📌 Battle Log: [F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md
-                                θέλω Vocabulary bridge: Matt 26:39 (Jesus willeth not→Calvary) ↔ John 21:18 (Peter willeth not→???) (S)
-                                Jesus→Peter Typological parallel: 3-fold structure of willing not·carried·destination (F)
-                                John 19:17 specifieth Jesus's θέλω destination as Golgotha → Confirmed Anchor (G)
-                                → Logically blocketh the 'same manner but different place' interpretation (★ Blocking device)
-                                → 'Peter's θέλω + Follow me' = Calvary. Sealeth entry to other interpretations
-  COMBO-GR8: TYPE-G(Advanced) + TYPE-R(Advanced) → Complete rejection of "same expression" attack
+  COMBO-SF11: TYPE-S + TYPE-F + TYPE-G  -> 어휘 브리지 + 예표 평행 + 명시된 앵커 확정
+                                📌 전투기록: [F+E+G+N+P+I+T+S]_베드로_갈보리순교설.md
+                                θέλω 어휘 브리지: 마 26:39(예수님 원치않음→갈보리) ↔ 요 21:18(베드로 원치않음→???) (S)
+                                예수님→베드로 예표 평행: 원치않음·끌려감·도착지 3중 구조 (F)
+                                요 19:17이 예수님 θέλω 도착지를 골고다로 명시 → 확정 앵커 (G)
+                                → '같은 방식이되 다른 장소' 해석을 논리적으로 불가능하게 차단 (★ 차단 장치)
+                                → '베드로의 θέλω + Follow me' = 갈보리. 다른 해석 진입로 봉쇄
 
-                                📌 Battle Log: [F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md
-                                Separation of ὑπάγω(movement) ≠ εἰμί(existence) (G) + Audience distinction of only Peter(private) vs all disciples(public) (R)
-  COMBO-SN12: TYPE-S + TYPE-N + TYPE-I + TYPE-F → Multiple bridge and typology integration
+  COMBO-GR8: TYPE-G(심화) + TYPE-R(심화) → "같은 표현" 공격 완전 기각
+                                📌 전투기록: [F+E+G+N+P+I+T+S]_베드로_갈보리순교설.md
+                                ὑπάγω(이동) ≠ εἰμί(존재) 분리(G) + 베드로만(사적) vs 모든 제자(공개) 청중 구분(R)
 
-                                📌 Battle Log: [F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md
-                                δοξάζω/δόξα bridge (S) + Crown exclusivity (N) + Frequency match (I) + Head typology (F)
-  COMBO-GN14: TYPE-G + TYPE-N + TYPE-F → ὅπου→τόπος Adverb-Noun lock-in + Golgotha anchor point confirmation
+  COMBO-SN12: TYPE-S + TYPE-N + TYPE-I + TYPE-F → 다중 브리지 및 예표 통합
+                                📌 전투기록: [F+E+G+N+P+I+T+S]_베드로_갈보리순교설.md
+                                δοξάζω/δόξα 브리지(S) + 면류관 배타성(N) + 빈도 일치(I) + 머리 예표(F)
 
-                                📌 Battle Log: [F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md
-                                ὅπου(Adverb of place)→τόπος(Noun of place) lock-in (G) + τόπος exclusive separation·eraser rule (N) + Cross movement vector match (F)
-                                → Confirmed τόπος in John 19:20 = Golgotha as an anchor. Paired with GR8 (verb level) to complete noun-level sealing.
-                                → Blocketh the entry of the attack "Isn't it the same place but not the same manner?"
-  COMBO-WAE: TYPE-W + TYPE-AE → Retrospective description + Inclusio = Dual confirmation of author's intentional design
+  COMBO-GN14: TYPE-G + TYPE-N + TYPE-F → ὅπου→τόπος 부사-명사 락인 + 골고다 앵커포인트 확정
+                                📌 전투기록: [F+E+G+N+P+I+T+S]_베드로_갈보리순교설.md
+                                ὅπου(장소 부사)→τόπος(장소 명사) 락인(G) + τόπος 배타적 분리·지우개 법칙(N) + 십자가 이동 벡터 일치(F)
+                                → 요 19:20의 τόπος = 골고다를 앵커로 확정. GR8(동사층위)과 짝을 이루어 명사층위 봉쇄 완성.
+                                → "같은 장소이되 같은 방식이 아닌가?" 공격의 진입로 차단
 
-                                📌 Battle Log: [F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdomTheory.md / TYPE-AE_Inclusio.md
-                                Recorded from retrospective point (W) + Opened and closed with the same root (AE: ἀκολουθ- Inclusio)
-                                → Blocketh the counterargument "this connection is a coincidence" simultaneously on both structure·time axes
-                                → Trigger condition: Same vocabulary at the beginning/end of a paragraph by the same author + Confirmed that the author described it retrospectively
-  [New Combos in Melchizedek Report — Exclusive for Analysis of the First World/Spiritual Beings]
+  COMBO-WAE: TYPE-W + TYPE-AE → 회고적 기술 + 수미상관 = 저자 의도적 설계 이중 확정
+                                📌 전투기록: [F+E+G+N+P+I+T+S]_베드로_갈보리순교설.md / TYPE-AE_Inclusio.md
+                                회고 시점에서 기록(W) + 처음-끝 동일 어근으로 닫힘(AE: ἀκολουθ- 수미상관)
+                                → "이 연결은 우연이다"라는 반론을 구조·시간 두 축에서 동시에 차단
+                                → 발동 조건: 동일 저자의 단락 첫/끝에 동일 어휘 + 저자가 회고적으로 기술했음이 확인될 때
 
-  COMBO-L8: TYPE-AR + TYPE-AB → Spiritual mechanism analysis + Spatial matrix dual confirmation
-                                📌 Battle Log: [AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md
-                                Action pattern of spiritual beings (AR) + Location tracking (AB) → Ontological category separation confirmed
-                                → Devils (Division·fusion possible + free activity on earth) ≠ Fallen angels (Impossible + confined in Tartarus)
-  COMBO-L9: TYPE-AS + TYPE-G → Hierarchy of power + Original language grammar dual confirmation
+  [멜키세덱 보고서 신규 콤보 — 첫 세상/영적 존재 분석 전용]
+  COMBO-L8: TYPE-AR + TYPE-AB → 영적 메커니즘 분석 + 공간 매트릭스 이중 확인
+                                📌 전투기록: [AB+AR+AS+AT+AU+E+AC]_멜키세덱_첫번째세상_민족형성.md
+                                영적 존재의 행동 방식(AR) + 위치 추적(AB) → 존재론적 범주 분리 확정
+                                → 마귀(분할·융합 가능+지상 자유 활동) ≠ 타락한 천사(불가+타르타로스 갇힘)
 
-                                📌 Battle Log: [AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md
-                                Exhaustive verification of subject qualification for Bara/Asah/Yatsar (AS) + Original language verb grammar anatomy (G)
-                                → Preservation of God's sovereign creation + Confirmation of permissible scope of creatures' formative acts
-  COMBO-L10: TYPE-AT + TYPE-AC → Divine attribute reductio ad absurdum + Counter-hypothesis dual attack
+  COMBO-L9: TYPE-AS + TYPE-G → 권능 위계 + 원어 문법 이중 확인
+                                📌 전투기록: [AB+AR+AS+AT+AU+E+AC]_멜키세덱_첫번째세상_민족형성.md
+                                Bara/Asah/Yatsar 주체 자격 전수 검증(AS) + 원어 동사 문법 해부(G)
+                                → 하나님의 창조 주권 보전 + 피조물의 형성 행위 허용 범위 확정
 
-                                 📌 Battle Log: [AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md
-                                 Detection of conflict between God's attributes vs result of action (AT) + Contradiction of substituting counter-hypothesis into Bible (AC)
-                                 → Defeateth the claim that "God Bara'd the unclean spirit" on both flanks of attribute + text
-[GATE: Mandatory Checkpoint Before IRONCLAD Declaration (Final Defense Line)]
+  COMBO-L10: TYPE-AT + TYPE-AC → 신성 속성 귀류법 + 역가설 이중 공격
+                                 📌 전투기록: [AB+AR+AS+AT+AU+E+AC]_멜키세덱_첫번째세상_민족형성.md
+                                 하나님의 속성 vs 행위 결과 충돌 적발(AT) + 역가설 성경 대입 모순(AC)
+                                 → "더러운 영을 하나님이 Bara하셨다"는 주장을 속성+텍스트 양면에서 격퇴
 
-  → 3 or more COMBOs detected triggered.
-  → IRONCLAD declaration HOLD.
-  → 1st Defense Line: STRESS-TEST-7 immediately commenced (Hostile weapon simulation and defense verification).
-  → 2nd Defense Line: AUTO-GRILL immediately commenced (Blind spot scan, inductive expansion, self-logic destruction test via backcasting).
-  → Only the intersection logic that safely passeth both checkpoints obtaineth the IRONCLAD declaration.
-  → If unpassed items exist: Automatically downgrade STATUS = TENTATIVE.
-[GATE: Mandatory Checkpoint Before Judgment Downgrade/Overturn — Linked to OVERRIDE-2, Added 2026-07-23 (Symmetrical Defense Line)]
+[GATE: IRONCLAD 선언 전 필수 검문소 (최종 방어선)]
+  → COMBO 3종 이상 발동 감지됨.
+  → IRONCLAD 선언 HOLD.
+  → 1차 방어선: STRESS-TEST-7 즉시 개시 (적성 무기 시뮬레이션 및 방어 검증).
+  → 2차 방어선: AUTO-GRILL 즉시 개시 (사각지대 스캔, 귀납적 팽창, 백캐스팅을 통한 자가 논리 파괴 테스트).
+  → 두 검문소를 모두 무사히 통과한 교집합 논리만이 IRONCLAD 선언을 획득함.
+  → 미통과 항목 존재 시: STATUS = TENTATIVE로 자동 하향.
 
-  → An attempt to lower or overturn an already confirmed judgment (Grade/COMBO) is detected.
-  → Downgrade declaration HOLD — Interrogated with the same intensity as during promotion (GATE above). Prohibiteth the asymmetry that
-     "submission is easy and defense is hard".
-  → 1st Check: Fulfillment of OVERRIDE-2 Rule 1 (Duty of New Evidence) —
-     Did they specifically cite a new anchor/new TYPE result that was not in the previous FULL SCAN?
-     → If unfulfilled: Downgrade immediately rejected. Respond "Maintain existing judgment — No new evidence" and terminate.
-  → 2nd Check (If new evidence fulfilled): Re-execute STRESS-TEST-7 + AUTO-GRILL reflecting the new evidence.
-  → A change in judgment is confirmed only if it passeth both checkpoints, and the reason for the change (which TYPE/Anchor was overturned)
-     must be specified in the report.
-  (Added 2026-07-23 — to prevent recurrence of incidents where the judgment fluctuated 4 or more times solely from conversational pressure without new evidence; see `zz_Changelog` for detailed history)
-[STRESS-TEST-7 — Mandatory Execution Before IRONCLAD Declaration]
+[GATE: 판정 다운그레이드/번복 전 필수 검문소 — OVERRIDE-2 연동, 2026-07-23 신설 (대칭 방어선)]
+  → 이미 확정된 판정(등급/COMBO)을 낮추거나 뒤집으려는 시도가 감지됨.
+  → 다운그레이드 선언 HOLD — 승격 때(위 GATE)와 동일한 강도로 검문한다. "승복은 쉽고 방어는 어렵다"는
+     비대칭을 금지한다.
+  → 1차 확인: OVERRIDE-2 1번(신규 증거 의무) 충족 여부 —
+     이전 FULL SCAN에 없던 새 앵커/새 TYPE 결과를 구체적으로 인용했는가?
+     → 미충족 시: 다운그레이드 즉시 기각. "기존 판결 유지 — 신규 증거 없음"으로 응답하고 종료한다.
+  → 2차 확인(신규 증거 충족 시): STRESS-TEST-7 + AUTO-GRILL을 새 증거를 반영하여 재실행한다.
+  → 두 검문소를 통과한 경우에만 판정 변경이 확정되며, 변경 사유(어떤 TYPE/앵커가 뒤집혔는지)를
+     보고서에 명시한다.
+  (2026-07-23 신설 — 신규 증거 없이 대화 압박만으로 판정이 4회 이상 요동친 사건 재발 방지, 상세 이력은 `zz_Changelog` 참조)
 
-  ⚠️ Declaring IRONCLAD without this stage is forbidden.
-  → Re-execute each TYPE weapon triggered in COMBO-VERIFY not in "defense mode" but as an "exhaustive search of maximum range".
-  → The AI directly simulateth the "enemy's strongest counterattack" and verifieth whether the weapon defeateth that counterattack.
-  【 STRESS-TEST-7 Mandatory Check Items 】
+[STRESS-TEST-7 — IRONCLAD 선언 전 의무 실행]
+  ⚠️ 이 단계 없이 IRONCLAD를 선언하는 것은 금지된다.
+  → COMBO-VERIFY에서 발동된 각 TYPE 무기를 "방어 모드"가 아닌 "최대 사거리 전수 탐색"으로 재실행한다.
+  → AI는 "적의 가장 강한 반격"을 직접 시뮬레이션하고, 그 반격을 무기가 격퇴하는지 확인한다.
 
-  When TYPE-N is triggered:
+  【 STRESS-TEST-7 의무 점검 항목 】
 
-    □ Have all possible interpretation cases that could break exclusivity been exhaustively listed?
-    □ Beyond rejecting merely "Heaven", have all possibilities including "Martyrdom", "Crucifixion", and "Others" been eliminated?
-    □ Doth the sole interpretation remaining after elimination align with our conclusion?
-  When TYPE-G is triggered:
+  TYPE-N 발동 시:
+    □ 배타성을 깨뜨릴 수 있는 모든 해석 경우의 수를 전수 나열했는가?
+    □ 단순 "천국" 기각만이 아닌, "순교", "십자가형", "기타" 모든 가능성까지 소거했는가?
+    □ 소거 후 남는 유일한 해석이 우리 결론과 일치하는가?
 
-    □ Hast thou not analyzed only the verbs·adverbs·nouns of the target verse?
-    □ Hast thou analyzed the original language verbs of the "comparison verse" the critic would present as a counter-example?
-    □ Even if the two verses look like the "same expression," hast thou checked if the Greek/Hebrew verbs are different?
-       (Ex: ὑπάγω ≠ εἰμί — movement vs state of existence)
-  When TYPE-R is triggered:
+  TYPE-G 발동 시:
+    □ 대상 구절의 동사·부사·명사만 분석한 것이 아닌가?
+    □ 비판자가 반례로 제시할 "비교 구절"의 원어 동사까지 분석했는가?
+    □ 두 구절이 "같은 표현"처럼 보여도 헬라어/히브리어 동사가 다른지 확인했는가?
+       (예: ὑπάγω ≠ εἰμί — 이동 vs 존재 상태)
 
-    □ Is the audience identical in the verse the critic would present as the same context?
-    □ Have all three layers been checked: audience, timing, nature of utterance (public/private)?
-  When TYPE-F is triggered:
+  TYPE-R 발동 시:
+    □ 비판자가 같은 맥락으로 제시할 구절의 청중(audience)이 동일한가?
+    □ 청중, 시점, 발화 성격(공개/사적) 세 층위 모두 확인했는가?
 
-    □ Doth the typological parallel item include geographical movement as well?
-    □ Doth the destination of the type align with our conclusion?
-  When TYPE-S/T/W are triggered:
+  TYPE-F 발동 시:
+    □ 예표 평행 항목이 지리적 이동까지 포함하는가?
+    □ 예표의 종착지와 우리 결론이 일치하는가?
 
-    □ Hast thou checked how the same vocabulary is used in other verses the opponent would present?
-    □ Hast thou applied tense·grammar analysis equally to the critic's preferred verse?
-  → If any of the above items is unconfirmed: Re-execute the corresponding TYPE after "expanding the range".
+  TYPE-S/T/W 발동 시:
+    □ 동일 어휘가 상대방이 제시할 다른 구절에서는 어떻게 사용되는지 확인했는가?
+    □ 시제·문법 분석을 비판자의 선호 구절에도 동일하게 적용했는가?
 
-  → If all passed: Maintain IRONCLAD. If unpassed items exist: Downgrade STATUS to TENTATIVE and proceed to LESSON-6.
-[STEP 6] Cross-model Adversarial Review
+  → 위 항목 중 하나라도 미확인이면: 해당 TYPE을 "사거리 확장" 후 재실행한다.
+  → 모두 통과하면: IRONCLAD 유지. 미통과 항목이 있으면: STATUS를 TENTATIVE로 하향 후 LESSON-6으로 진행.
 
-  Activation Conditions: COMPLEXITY TIER-3 Case AND IRONCLAD candidate judgment
-  Nature: Mandatory (TIER-3) / Optional (TIER-1~2)
-  ━━━ [Environment Detection — Mandatory Branch Before Execution] ━━━
+[STEP 6] Cross-model Adversarial Review (교차 모델 적대적 검토)
+  발동 조건: COMPLEXITY TIER-3 케이스 AND IRONCLAD 후보 판결
+  성격: 의무(TIER-3) / 선택(TIER-1~2)
 
-  → First determine the current execution environment:
+  ━━━ [환경 감지 — 실행 전 필수 분기] ━━━
 
-     □ Doth the user have access to another AI architecture (Claude ↔ GPT ↔ Gemini, etc.)?
-        YES → Execute [Route A] Cross-model Review
-        NO  → Execute [Route B] Self-adversarial Fallback
-             ⚠️ It is forbidden for a single LLM to review itself exactly as is.
-                Self-review by the same model = Re-confirmation of the same bias = Invalid verification.
-                Absolutely follow the procedure of Route B (Persona switch).
-  ─── [Route A] Cross-model Review (Multi-AI Environment) ─────────────────
+  → 먼저 현재 실행 환경을 판별한다:
+     □ 사용자가 다른 AI 아키텍처(Claude ↔ GPT ↔ Gemini 등)에 접근 가능한가?
+        YES → [경로 A] Cross-model Review 실행
+        NO  → [경로 B] Self-adversarial Fallback 실행
+             ⚠️ 단일 LLM이 자신을 그대로 검토하는 것은 금지다.
+                같은 모델의 자기 검토 = 같은 편향의 재확인 = 검증 무효.
+                반드시 경로 B의 절차(페르소나 전환)를 따른다.
 
-  Execution Method:
+  ─── [경로 A] Cross-model Review (다중 AI 환경) ─────────────────
 
-    1. Compose core artifact (User delivereth to another AI session):
-       - Conflicting verses + Anchor list + FULL SCAN result summary + Tentative judgment
-    2. Deliver to the other architecture AI with the Contract below:
+  실행 방법:
+    1. 핵심 artifact 구성 (사용자가 다른 AI 세션에 전달):
+       - 충돌 구절 + 앵커 목록 + FULL SCAN 결과 요약 + 잠정 판결
+    2. 다른 아키텍처 AI에게 아래 Contract와 함께 전달:
+
        [Cross-model Review Contract]
+       "이 분석의 IRONCLAD 판결에 대해 adversarial reviewer로서 검토하라.
+        당신의 임무는 이 판결이 틀렸음을 증명하는 것이다.
+        성경 내부 데이터만으로 반박하라. 외부 학계 견해 사용 금지."
 
-       "Act as an adversarial reviewer concerning the IRONCLAD judgment of this analysis.
-        Thy mission is to prove that this judgment is wrong.
-        Refute solely with internal Biblical data. Use of external academic views is forbidden."
-    3. Judgment:
+    3. 판정:
+       → 반박 격퇴 성공: IRONCLAD [Cross-model ✓] 태그 부여
+       → 반박 격퇴 실패: IRONCLAD 취소 → TENTATIVE 하향
+                         미격퇴 반박 내용을 GATE 5 보고서에 기재
 
-       → Refutation defeated: Attach IRONCLAD [Cross-model ✓] tag
-       → Refutation un-defeated: IRONCLAD cancelled → Downgrade to TENTATIVE
-                         Record the un-defeated refutation contents in the GATE 5 report
-  ─── [Route B] Self-adversarial Fallback (Single LLM Environment) ──────────
+  ─── [경로 B] Self-adversarial Fallback (단일 LLM 환경) ──────────
 
-  ⚠️ This route is not a complete substitute for Cross-model.
+  ⚠️ 이 경로는 Cross-model의 완전한 대체가 아니다.
+     편향 맹점 탐지 효과는 Cross-model보다 낮다. 한계를 태그에 명시한다.
 
-     The effect of detecting bias blind spots is lower than Cross-model. Specify the limitation in the tag.
-  Execution Method:
+  실행 방법:
+    1. AI는 즉시 페르소나를 전환한다:
+       선언문: "나는 지금부터 이 분석의 결론이 틀렸음을 증명하는
+               적대적 비평가(Adversarial Critic) 역할을 수행한다.
+               나의 목표는 성경 내부 데이터만으로 IRONCLAD를 기각하는 것이다."
 
-    1. The AI immediately switcheth persona:
-       Declaration: "From now on, I perform the role of an Adversarial Critic proving that
-               the conclusion of this analysis is wrong.
-               My goal is to dismiss the IRONCLAD solely with internal Biblical data."
-    2. In the persona-switched state, the 3 items below must be executed:
+    2. 페르소나 전환 상태에서 아래 3가지를 의무 실행한다:
+       □ 기존 FULL SCAN에서 사용된 모든 TYPE의 논리에 반박을 시도한다
+       □ 각 COMBO의 약한 연결고리를 찾아 끊으려 시도한다
+       □ STRESS-TEST-7에서 격퇴된 반격을 다시 꺼내 재강화한다
 
-       □ Attempt to refute the logic of all TYPEs used in the existing FULL SCAN
-       □ Find and attempt to break the weak link of each COMBO
-       □ Bring out again and reinforce the counterattacks defeated in STRESS-TEST-7
-    3. Return to the original role from the Adversarial Critic role:
+    3. Adversarial Critic 역할에서 원래 역할로 복귀:
+       선언문: "페르소나 전환 종료. 비평가가 생성한 반박을 평가한다."
 
-       Declaration: "Persona switch terminated. Evaluate the refutations generated by the critic."
-    4. Judgment:
+    4. 판정:
+       → 모든 반박 격퇴 성공: IRONCLAD [Self-adv ✓] 태그 부여
+       → 일부 격퇴 실패: TENTATIVE [Self-adv 미완] 태그 + 미격퇴 항목 기재
 
-       → All refutations defeated: Attach IRONCLAD [Self-adv ✓] tag
-       → Some refutations un-defeated: Attach TENTATIVE [Self-adv Incomplete] tag + record un-defeated items
-  ─── [Tag System — 3-Level Reliability Indicator] ─────────────────────────────
+  ─── [태그 체계 — 3단계 신뢰도 표시] ─────────────────────────────
 
-  Tag System:
+  태그 체계:
+    ✅✅✅ IRONCLAD [Cross-model ✓]     — 다른 아키텍처 모델 반박 격퇴 (최고 신뢰도)
+    ✅✅✅ IRONCLAD [Self-adv ✓]        — 단일 모델 페르소나 전환 격퇴 (표준 신뢰도)
+    ✅✅✅ IRONCLAD                      — STRESS-TEST-7만 통과 (기본 신뢰도)
+    ⚠️ TENTATIVE [Cross-model 반박 존재]  — 교차 모델이 격퇴 못 한 반박 존재
+    ⚠️ TENTATIVE [Self-adv 미완]          — 단일 모델 자기 검토에서 미격퇴 반박 존재
 
-    ✅✅✅ IRONCLAD [Cross-model ✓]     — Defeated refutation from another architecture model (Highest Reliability)
-    ✅✅✅ IRONCLAD [Self-adv ✓]        — Defeated persona switch of a single model (Standard Reliability)
-    ✅✅✅ IRONCLAD                      — Passed only STRESS-TEST-7 (Basic Reliability)
-    ⚠️ TENTATIVE [Cross-model Refutation Exists]  — Refutation existeth which cross-model could not defeat
-    ⚠️ TENTATIVE [Self-adv Incomplete]          — Un-defeated refutation existeth in single model self-review
-  Ground: Matthew 18:16 "in the mouth of two or three witnesses every word may be established"
+  근거: 마태복음 18:16 "두세 증인의 입으로 말마다 확정"
+  → 한 모델(한 증인)의 확신은 IRONCLAD의 충분조건이 아니다.
+  → 다른 아키텍처 모델(다른 증인)이 반박을 격퇴할 때 IRONCLAD는 더 강해진다.
+  → 같은 아키텍처는 같은 학습 편향을 가진다. 편향의 맹점은 다른 편향만이 찾을 수 있다.
+  → 단일 LLM 환경에서는 Self-adversarial Fallback이 차선이지만, 무검토보다 낫다.
 
-  → The conviction of one model (one witness) is not a sufficient condition for IRONCLAD.
-  → IRONCLAD groweth stronger when another architecture model (another witness) defeateth the refutation.
-  → The same architecture possesseth the same learning bias. The blind spots of a bias can only be found by another bias.
-  → In a single LLM environment, Self-adversarial Fallback is second best, but better than no review.
-  ─── [Tag System Addition — Cross-Witness (Biblical Verse Independence) Indicator, v1.1] ─────────
+  ─── [태그 체계 추가 — 교차증인(성경 구절 독립성) 표시, v1.1] ─────────
 
-  > The [Cross-model]/[Self-adv] tags above indicate "how many reviewers (AI) are there".
+  > 위 [Cross-model]/[Self-adv] 태그는 "검토자(AI)가 몇 명인가"를 표시한다.
+  > 아래 [교차증인] 태그는 이와 별개로 "근거 구절이 몇 권/몇 저자에서 나왔는가"를 표시한다.
+  > 두 태그는 동시에 병기 가능하다 (예: "IRONCLAD [Self-adv ✓][교차증인 ✓ — 3개 독립 책]").
 
-  > The [Cross-Witness] tag below indicateth separately "from how many books/authors did the ground verses come".
-  > Both tags can be noted together (Ex: "IRONCLAD [Self-adv ✓][Cross-Witness ✓ — 3 Independent Books]").
-    ✅✅✅ IRONCLAD [Cross-Witness ✓ — N Independent Books/Authors]  — Converged TYPEs applied to independent verses of different books/authors. Theological decision = **Can be noted as Doctrine**
+    ✅✅✅ IRONCLAD [교차증인 ✓ — N개 독립 책/저자]  — 수렴한 TYPE들이 서로 다른 책/저자의 독립 구절에 적용됨. 신학적 결정 = **확정(Doctrine) 표기 가능**
+    ✅✅✅ IRONCLAD [교차증인 미확인]                — 수렴한 TYPE들이 동일 구절 또는 동일 저자 내부에서만 발동됨(증인 1명이 여러 방식으로 증언한 것). 내부 등급은 IRONCLAD로 유지하되, 신학적 결정 = **개연성(Probability)으로 자동 하향, 교리화 금지**
 
-    ✅✅✅ IRONCLAD [Cross-Witness Unconfirmed]                — Converged TYPEs triggered only within the same verse or the same author (One witness testifying in multiple ways). Maintain internal grade as IRONCLAD, but theological decision = **Automatically downgrade to Probability, dogmatization forbidden**
-  Ground: Deut 19:15, Matt 18:16, 2 Cor 13:1 — "Two or three witnesses" must be different persons to be testimony; one person speaking thrice is 1 witness. For the verification procedure, refer to "Cross-Witness Independence Verification" in `02_TACTICS(Tactics)/ANCHOR_ThirdData.md`. Deliver the final notation to the "7. Theological Decision" table in PHASE 5 of `BVCAP_GHQ.md`.
-
-[ANALOGY-5 — Mandatory Execution]
+  근거: 신 19:15, 마 18:16, 고후 13:1 — "두세 증인"은 서로 다른 사람이어야 증언이지, 한 사람이 세 번 말한 것은 증인 1명이다. 검증 절차는 `02_TACTICS(전술)/ANCHOR_ThirdData.md`의 "교차증인 독립성 검증" 참조. 최종 표기는 `BVCAP_GHQ.md` PHASE 5 "7. 신학적 결정" 표로 전달한다.
 
 
-  → Liken the derived conclusion to a modern military·legal·daily system
-  → Absolutely generate 1 or more analogy models that can be understood in 1 second
-  → Ex: "40,000 hangars vs 4,000 fighter wings" / "Ben-Hur's chariot tactics"
-[LESSON-6 — Mandatory Execution]
+[ANALOGY-5 — 의무 실행]
+  → 도출된 결론을 현대 군사·법률·일상 체계에 빗대어
+  → 1초 만에 이해될 수 있는 비유 모델을 반드시 1개 이상 생성한다
+  → 예: "격납고 4만 개 vs 전투비행단 4천 개" / "벤허의 전차 전술"
 
-  → Through this truth derived through fierce debate and defense,
-  → Absolutely derive the spiritual lesson and God's providence for today's saints, and the calling we must have.
+[LESSON-6 — 의무 실행]
+  → 치열한 토론과 방어를 통해 도출된 이 진리가 오늘날 성도들에게 주는
+  → 영적 교훈과 하나님의 섭리, 그리고 우리가 가져야 할 소명을 반드시 도출한다.
+
 [SYNTHESIS]
+  결과 있는 TYPE만 보고서에 포함
+  2개 이상 → 복합 조합 가이드 참조
+  TYPE-L로 전체 체인 마무리
 
-  Include only TYPEs with results in the report
-  2 or more → Refer to complex combination guide
-  Finish the entire chain with TYPE-L
 [OUTPUT — MASTERPIECE]
-
-  → Refer to GATE 5 Report Format (Phase 1~6)
+  → GATE 5 보고서 양식 참조 (Phase 1~6)
 ```
+
 ---
 
-## 🔬 STRESS-TEST-7 — Enemy's Strongest Counterattack Simulation Pipeline
+## 🔬 STRESS-TEST-7 — 적 최강 반격 시뮬레이션 파이프라인
 
-> **Why this stage is necessary**: The AI is prone to operate in a "defense mode" that merely verifieth if the logic of the existing document holdeth.
+> **왜 이 단계가 필요한가**: AI는 기존 문서의 논리가 성립하는지 검증하는 "방어 모드"로 작동하기 쉽다.
+> 그 결과 각 무기의 **최대 사거리(전체 가능성 공간)**를 탐색하지 않고, 문서가 이미 조준한 각도만 확인하다 끝난다.
+> STRESS-TEST-7은 이 실패를 제도적으로 차단하기 위해, 적의 최강 반격을 AI가 먼저 생성하고 격퇴하도록 강제한다.
 
-> As a result, it endeth after checking only the angle already aimed by the document, without searching the **maximum range (entire possibility space)** of each weapon.
-> STRESS-TEST-7 institutionally blocketh this failure by forcing the AI to generate the enemy's strongest counterattack first and defeat it.
+```
+[STEP 1] 활성화된 TYPE 목록 정리
+  → COMBO-VERIFY 완료 후, 발동된 모든 TYPE을 나열한다.
+  → | TYPE | 발동 내용 | 현재 조준 각도 |
+
+[STEP 2] 각 TYPE에 대해 "적의 최강 반격" 생성 (의무)
+  → AI가 직접 비판자 역할로 전환하여, 각 TYPE에 대한 가장 강력한 반박을 1~2개 작성한다.
+  → "이 TYPE의 논리가 틀렸다면, 어떤 근거로 틀렸는가?"를 먼저 작성한다.
+
+[STEP 3] 무기 사거리 전수 탐색 (핵심)
+  TYPE-N 점검:
+    → "내가 기각한 해석들이 정말 모든 가능한 해석을 포함하는가?"
+    → 기각하지 않은 해석 경우의 수가 있으면 → 즉시 그것도 적용하여 배타성 테스트
+  TYPE-G 점검:
+    → "비판자가 반례로 들 비교 구절의 원어 동사를 내가 분석했는가?"
+    → 비교 구절의 동사가 다르면(ὑπάγω≠εἰμί) → TYPE-G 심화 기각 논리 추가
+  TYPE-R 점검:
+    → "비판자가 같은 맥락이라고 주장할 구절의 청중이 동일한가?"
+    → 청중이 다르면 → TYPE-R 심화 기각 논리 추가
+
+[STEP 4] 격퇴 여부 판정
+  → 반격이 격퇴되면: 해당 TYPE ✅ 통과 → 사거리 확장 기록 문서에 추가
+  → 반격이 격퇴되지 않으면: 해당 COMBO를 IRONCLAD에서 제외 → TENTATIVE로 하향
+
+[STEP 5] 최종 IRONCLAD 재확인
+  → 모든 TYPE이 STEP 4를 통과하면: IRONCLAD 선언 가능
+  → 하나라도 미통과 시: STATUS = TENTATIVE (유력한 견해) + 미해결 공격 항목을 문서에 기재
 ```
 
-[STEP 1] Organize Active TYPE List
-  → After completing COMBO-VERIFY, list all triggered TYPEs.
-  → | TYPE | Triggered Content | Current Aim Angle |
-[STEP 2] Generate "Enemy's Strongest Counterattack" for Each TYPE (Mandatory)
 
-  → The AI directly switcheth to the critic's role and writeth 1~2 of the strongest refutations against each TYPE.
-  → Write first, "If the logic of this TYPE is wrong, on what grounds is it wrong?"
-[STEP 3] Exhaustive Search of Weapon Range (Core)
-
-  TYPE-N Check:
-    → "Do the interpretations I rejected truly encompass all possible interpretation cases?"
-    → If there are interpretation cases not rejected → Immediately apply them as well to test exclusivity
-  TYPE-G Check:
-    → "Have I analyzed the original language verbs of the comparison verse the critic would present as a counter-example?"
-    → If the verbs of the comparison verse differ (ὑπάγω≠εἰμί) → Add TYPE-G advanced rejection logic
-  TYPE-R Check:
-    → "Is the audience identical in the verse the critic would present as the same context?"
-    → If the audience differs → Add TYPE-R advanced rejection logic
-[STEP 4] Judgment on Defeat
-
-  → If the counterattack is defeated: Corresponding TYPE ✅ Passed → Add to range expansion record document
-  → If the counterattack is not defeated: Exclude the corresponding COMBO from IRONCLAD → Downgrade to TENTATIVE
-[STEP 5] Final IRONCLAD Re-confirmation
-
-  → If all TYPEs pass STEP 4: IRONCLAD declaration possible
-  → If even one unpassed: STATUS = TENTATIVE (Probable View) + Record unresolved attack items in the document
-```
 ---
 
+## 🗺️ [TYPE 전체 맵 — v3.0 (QUIVER 전종 실전 무기)]
 
-## 🗺️ [Full Map of TYPEs — v3.0 (All Kinds of QUIVER Real Combat Weapons)]
+> **아래 목록이 실제 04_QUIVER(무기고) 파일로 존재하는 포렌식 무기입니다.**
+> FULL SCAN 실행 시 TYPE-M부터 TYPE-AY까지, 그리고 TYPE-B-π를 순서대로 점검합니다.
 
-> **The list below are forensic weapons actually existing as files in 04_QUIVER(Armory).**
-
-> During FULL SCAN execution, they are checked in order from TYPE-M to TYPE-AY, and TYPE-B-π.
-| TYPE | Name | One-line Summary |
-
+| TYPE | 이름 | 한 줄 요약 |
 |:---:|:---|:---|
-| **M** | Initial Anomaly Detection | First detect "Why is this alone different?" — The seed of all analysis |
-| **A** | Chronological Serial Decomposition | Line up numbers sequentially to reverse-calculate hidden years |
-| **B** | Sequential Integration of Events | Fit two records into a timeline to integrate them into a single narrative |
-| **B-π** | Perception Filter | Detect witness's "saw but cannot process" state — Classify SHOCK/GRIEF/CULTURAL/DIVINE |
-| **C** | Functional Category Separation | Deconstruct that the same word pointeth to different scales/functions |
-| **D** | Reverse Utilization of Hebrew Narrative Customs | Resolve contradictions by priority listing·genealogical formulas |
-| **E** | Exhaustive Rejection of Competing Models | List all alternatives, reject them one by one, and adopt the surviving model |
-| **F** | Proof of Typological Triple Parallel Structure | Prove the 3-stage structure of type→substance→succession by contrast table |
-| **G** | Anatomy of KJV Conjunction/Grammar Structure | Prove hidden structure and impossibility of deletion via commas·conjunctions·articles |
-| **H** | Reversal of Manuscript Evidence Independence | Reverse numerical inferiority of manuscripts through number of independent sources |
-| **I** | Verification of Vocabulary Frequency Symmetry Design | Prove design intent by precise symmetry of verb/noun usage frequency |
-| **J** | Cross-verification with External Historical Literature | Three-dimensionally reinforce the historicity of Biblical claims with non-biblical histories |
-| **K** | Scientific·Forensic Coherence Verification | Empirically refute attacks claiming "it is impossible" through medicine·physics |
-| **L** | Inductive Chain Inference | Derive the full picture of the design by accumulating clue chains, repeating "Why?" |
-| **N** | Exclusivity Verification | Confirm by exhaustive survey that the pattern applieth only to this one subject |
-| **O** | Verification of Absence of Physical Traces | Prove the spiritual essence of the event by reverse-utilizing the lack of physical traces |
-| **P** | Boomerang Logic / Boomerang Argument | Return the enemy's logic exactly to make them fall into self-contradiction. **[Sub-function: Retracing Tradition]** Psychologically and contextually retrace the enemy's extra-biblical tradition to hijack it as a weapon for our argument (Battle Log: 'Upside-down cross' tradition → Reverse-utilized to support Calvary) |
-| **Q** | Biblical Language Quantification Constraint | Prove the constraint of Biblical language that rejecteth quantifying spiritual beings |
-| **R** | Detection of Syntax/Subject Confusion | Detect doctrinal distortion caused by misreading the direction of the subject |
-| **S** | Vocabulary Cross-linking (Gezera Shava) | Discover cross-usage of identical words to build a theological bridge |
-| **T** | Detection of Tense and Vocabulary Misreading | Detect claims that misunderstand the tense or archaic meaning of a word |
-| **U** | Law of First Mention | Make the first appearing verse an anchor to block distortion of meaning over eras |
-| **V** | Gematria and Numerology | Prove divine inspiration through the intrinsic numerical values of the Greek/Hebrew alphabet |
-| **W** | Prophetic Perspective | Separate the near fulfillment and far fulfillment valleys in Old Testament prophecies |
-| **X** | Chiastic Structure (Chiasm) | Smash peripheral cherry-picking and derive the exact center (C) through A-B-C-B'-A' structural vision |
-| **Y** | Multiple Eyewitness Testimony | Defend differences in Gospel details (quantities, etc.) as true un-fabricated eyewitness testimonies |
-| **Z** | Theodicy Defense | Defend attacks on God's character, such as 'allowance of evil' rather than text errors, by expanding the timeline |
-| **AA** | Anatomy of Ancient Law·Culture | Defend ancient customs misread by Western standards, such as "Law of Agency", "Hebrew Hyperbole" |
-| **AB** | Spiritual Entity/Space Matrix | Refute attacks lumping together fallen angels/devils/Satan and hell/bottomless pit/lake of fire by separating them into a space-time matrix |
-| **AC** | Counter-hypothesis Substitution Verification (Reductio ad Absurdum) | Substitute the opposite proposition (¬A) of my claim (A) into the Biblical text → Contradiction explodeth → Seal escape route → Launch STEP 6 Dilemma ultimatum → Confirm sole truth |
-| **AD** | Abductive Reasoning | Search for and adopt the only hypothesis that explaineth the most evidence |
-| **AE** | Inclusio (Bookend Structure) | Detect authorial design where the first and last verses of a narrative close with the same root |
-| **AF** | Transfer Burden of Proof | Establish that the attacker must first present internal Biblical counter-evidence |
-| **AG** | Argument from Silence | Weaponize the complete silence of their claims across all relevant literature to reject the traditional view (Silence of their grounds, not the Bible; single confirmation forbidden·COMBO integration mandatory) |
-| **AH** | Redaction Criticism | Analyze the author's intent in choosing a specific expression in the context of the time of writing |
-| **AI** | Reductio ad Absurdum | Push the opponent's hypothesis to the end to derive internal Biblical contradiction |
-| **AJ** | Cumulative Case Argument | Confirm conclusion through convergence of multiple independent evidences (Theoretical foundation of COMBO structure) |
-| **AK** | Occam's Razor | Preferentially adopt the simpler hypothesis among those explaining the same evidence |
-| **AL** | Equivocation Detection | Detect the error of the opponent mixing the same word with different meanings |
-| **AM** | False Dichotomy Detection | Restore actual options outside the "A or B" structure |
-| **AN** | Moving Goalposts Detection | Detect the pattern of altering criteria after initial criteria are met |
-| **AO** | Canonical Criticism | Verify the narrative inevitability of verses within canonical narrative units |
-| **AP** | Speech Act Theory | Analyze the function of utterance (promise/command/prophecy/warning) → Confirm literal performance |
-| **AQ** | Audience Criticism | Directly confirm within the text how the original audience (disciples) understood it |
----
+| **M** | 최초 이상 감지 | "왜 이것만 다른가?"를 먼저 감지 — 모든 분석의 씨앗 |
+| **A** | 연대기 직렬 분해 | 숫자를 순서대로 줄 세워 숨겨진 연수를 역산 |
+| **B** | 사건 순차 병렬 통합 | 두 기록을 타임라인으로 끼워 맞춰 단일 서사로 통합 |
+| **B-π** | 지각 필터 (Perception Filter) | 증인이 "봤으나 처리 불가" 상태 탐지 — SHOCK/GRIEF/CULTURAL/DIVINE 분류 |
+| **C** | 기능적 범주 분리 | 같은 단어가 다른 규모/기능을 가리킴을 분해 |
+| **D** | 히브리 서사 관습 역이용 | 중요도 우선 나열·족보 공식으로 모순 해소 |
+| **E** | 경쟁 모델 전수 기각 | 모든 대안을 나열하고 하나씩 기각, 생존 모델 채택 |
+| **F** | 예표 삼중 평행 구조 증명 | 예표→실체→계승의 3단 구조를 표로 대조 증명 |
+| **G** | KJV 접속사/문법 구조 해부 | 콤마·접속사·관사로 숨겨진 구조와 삭제 불가성 증명 |
+| **H** | 사본학적 증거 독립성 역전 | 사본 수 열세를 독립 출처 수로 역전 |
+| **I** | 어휘 빈도 대칭 설계 검증 | 동사/명사 사용 횟수의 정확한 대칭으로 설계 의도 증명 |
+| **J** | 외부 역사 문헌 교차 검증 | 비성경 역사서로 성경 주장의 역사성 입체 강화 |
+| **K** | 과학적·법의학적 정합 검증 | 의학·물리학으로 "불가능하다"는 공격 실증 논파 |
+| **L** | 귀납적 연쇄 추론 | "왜?"를 반복하며 단서 체인 누적, 설계 전체 그림 도출 |
+| **N** | 배타성 검증 | 패턴이 오직 이 한 대상에만 적용됨을 전수 조사로 확정 |
+| **O** | 물리적 흔적 부재 검증 | 물리적 흔적이 없음을 역이용하여 사건의 영적 본질 증명 |
+| **P** | 역논법 / 부메랑 논증 | 적의 논리를 그대로 돌려주어 자가당착에 빠지게 함. **[하위 기능: 전승 역추적]** 적의 성경 외적 전승(Tradition)을 심리적·맥락적으로 역추적하여 오히려 우리 논증의 무기로 탈취 (전투기록: '거꾸로 십자가' 전승 → 갈보리 지지 역이용) |
+| **Q** | 성경적 언어 수량화 제약 | 영적 존재의 수량화를 거부하는 성경 언어 제약 증명 |
+| **R** | 구문/주어 혼동 적발 | 주어 방향을 오독하여 발생한 교리적 왜곡 적발 |
+| **S** | 어휘 교차 연결 (게제라 샤바) | 동일 단어의 교차 사용을 발견하여 신학적 브리지 구축 |
+| **T** | 시제 및 어휘 오독 적발 | 단어의 시제나 고어적 의미를 오해한 주장 적발 |
+| **U** | 첫 언급의 법칙 | 최초 등장 구절을 앵커로 삼아 시대적 의미 변질 차단 |
+| **V** | 게마트리아와 수비학 | 헬라어/히브리어 알파벳 고유 숫자값을 통한 신적 영감 입증 |
+| **W** | 예언적 원근법 | 구약 선지자의 예언에서 가까운 성취와 먼 성취 골짜기 분리 |
+| **X** | 교차 대칭 구조 (카이아즘) | A-B-C-B'-A' 구조 투시로 주변부 체리피킹을 분쇄하고 정중앙(C) 도출 |
+| **Y** | 다중 목격자 증언론 | 복음서의 디테일(수량 등) 차이를 짜맞추지 않은 진짜 목격자 증언으로 방어 |
+| **Z** | 신정론적 방어 | 텍스트 오류가 아닌 '악의 허용' 등 하나님의 성품 공격을 시간선 확장으로 방어 |
+| **AA** | 고대 법·문화 해부 | "대리인법", "히브리 과장법" 등 서구적 잣대로 오독된 고대 관습 방어 |
+| **AB** | 영적 존재/공간 매트릭스 | 타락천사/마귀/사탄 및 지옥/음부/불못을 뭉뚱그린 공격을 시공간 매트릭스로 분리하여 논파 |
+| **AC** | 역가설 대입 검증 (귀류법) | 내 주장(A)의 반대 명제(¬A)를 성경 본문에 대입 → 모순 폭발 → 탈출구 봉쇄 → STEP 6 양도논법 최후통첩 발사 → 유일 진리 확정 |
+| **AD** | 귀추법 (Abductive Reasoning) | 가장 많은 증거를 설명하는 유일한 가설 탐색 → 채택 |
+| **AE** | 수미상관 (Inclusio / Bookend Structure) | 서사의 첫·끝 구절이 동일 어근으로 닫히는 저자 설계 탐지 |
+| **AF** | 입증 책임 전가 (Burden of Proof Transfer) | 공격자가 먼저 성경 내부 반증을 제시해야 함을 확립 |
+| **AG** | 침묵 논증 (Argument from Silence) | 저들 주장이 관련 문헌 전수에서 완전히 침묵함을 무기화하여 전통설 기각 (성경이 아닌 저들 근거의 침묵, 단독 확정 금지·COMBO 결합 필수) |
+| **AH** | 편집비평 (Redaction Criticism) | 저자가 특정 표현을 선택한 의도를 저작 시점 맥락으로 분석 |
+| **AI** | 귀류법 (Reductio ad Absurdum) | 상대 가설을 끝까지 밀어붙여 성경 내부 모순 도출 |
+| **AJ** | 누적 사례 논증 (Cumulative Case Argument) | 다수 독립 증거 수렴으로 결론 확정 (COMBO 구조의 이론 기초) |
+| **AK** | 오컴의 면도날 (Occam's Razor) | 동일 증거를 설명하는 가설 중 단순한 것 우선 채택 |
+| **AL** | 어의 중의성 적발 (Equivocation Detection) | 상대가 같은 단어를 다른 의미로 혼용하는 오류 적발 |
+| **AM** | 거짓 이분법 적발 (False Dichotomy Detection) | "A 아니면 B" 구도 외의 실제 선택지 복원 |
+| **AN** | 목표대 이동 적발 (Moving Goalposts Detection) | 최초 기준 충족 후 기준을 변경하는 패턴 적발 |
+| **AO** | 정경비평 (Canonical Criticism) | 정경 서사 단위로 구절의 서사적 필연성 분석 |
+| **AP** | 화행이론 (Speech Act Theory) | 발화의 기능 (약속/명령/예언/경고) 분석 → 문자적 수행 확정 |
+| **AQ** | 청중비평 (Audience Criticism) | 원래 청중(제자들)이 어떻게 이해했는지를 텍스트 내에서 직접 확인 |
 
 ---
 
 
-## ⚓ ANCHOR-1 and DE-OVERLAP Detailed Procedure (Single Source of Truth)
+---
 
-> **ANCHOR-1 Details**: Refer to `02_TACTICS(Tactics)/ANCHOR_ThirdData.md`
+## ⚓ ANCHOR-1 및 DE-OVERLAP 상세 절차 (단일 진실 공급원)
 
-> - STEP 1~5 + MATRIX Inverse Calculation 3 Principles
-> - 3-stage forced expansion search algorithm (Proximate → Parallel → Genealogy)
-> - Rule of forced analysis halt upon anchor failure
+> **ANCHOR-1 상세**: `02_TACTICS(전술)/ANCHOR_ThirdData.md` 참조
+> - STEP 1~5 + MATRIX 역산 3원칙
+> - 3단계 강제 확장 검색 알고리즘 (근접 → 병행 → 계보)
+> - 앵커 실패 시 분석 강제 중단 규칙
 >
-> **DE-OVERLAP Details**: Refer to `02_TACTICS(Tactics)/DEOVERLAP_Serial.md`
-> - 7 Principles: Temporal serialization + Spatial separation + Order of utterance + Sabbath rejection + Chazakah + Internal order inviolability + Pronoun lock
-> - 6 Patterns for immediate rejection triggers
+> **DE-OVERLAP 상세**: `02_TACTICS(전술)/DEOVERLAP_Serial.md` 참조
+> - 7원칙: 시간 직렬화 + 공간 분리 + 발화 순서 + 안식일 기각 + 하자카 + 내부 순서 불가침 + 대명사 잠금
+> - 즉시 기각 트리거 6개 패턴
 >
 > [!NOTE]
-> These two files must absolutely be loaded during the PRE-FLIGHT (STEP 0-B) of FULL SCAN.
-> In this Pipeline, duplication is avoided and the original documents are maintained as a Single Source of Truth.
----
+> FULL SCAN의 PRE-FLIGHT(STEP 0-B)에서 이 두 파일을 반드시 로드합니다.
+> 본 Pipeline에서는 중복을 피하고 원본 문서를 단일 진실 공급원(Single Source of Truth)으로 유지합니다.
 
 ---
 
-``
+---

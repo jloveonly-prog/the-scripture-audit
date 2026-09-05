@@ -1,1198 +1,1249 @@
 # 🧠 BVCAP Skill Pipeline v1.0
-**— Bible Apologetics Verification Pattern for Error-Free Repeated Execution by AI —**
-**"Coding human intuition into AI procedures"**
+**— AI가 오류 없이 반복 실행하기 위한 성경 변증 검증 패턴 —**
+**"사람의 직관을 AI의 절차로 코드화한다"**
 
-> **Document Purpose**: By reverse-engineering all the masterpiece documents in the `02_Apologetics_Records` folder,
-> the **verification know-how discovered through the user's Excel and intuition is coded into a step-by-step pipeline that AI can reproduce**.
-> This document is the prompt guideline for the BVCAP engine and a **Skill Specification that AI can execute**.
+> **문서 목적**: `02_변증기록` 폴더의 모든 마스터피스 문서들을 역분석하여,  
+> 사용자님이 엑셀과 직관으로 발굴해 낸 **검증 노하우를 AI가 재현 가능한 단계별 파이프라인**으로 코드화한 것.  
+> 이 문서는 BVCAP 엔진의 프롬프트 지침서이자 **AI가 실행할 수 있는 스킬(Skill) 명세서**다.
 
 > [!IMPORTANT]
-> **Core Philosophy of this Pipeline**: AI does not "search for the right answer" in commentaries or existing theological databases.
-> It must analyze using a **'Detective Method'**, by **directly listing related verses, directly substituting numbers, and directly drawing a timeline**,
-> and then mathematically verifying whether the picture fits together.
+> **이 파이프라인의 핵심 철학**: AI는 주석서나 기존 신학 데이터베이스에서 "정답을 검색"하지 않는다.  
+> 반드시 **관련 구절들을 직접 나열하고, 숫자를 직접 대입하고, 타임라인을 직접 그린 후**,  
+> 그림이 맞아떨어지는지 수학적으로 확인하는 **'탐정 방식(Detective Method)'**으로 분석한다.
 
 ---
 
-## 📐 Pipeline Design Principle: 5 Verification Types Discovered from 02_Apologetics_Records
+## 📐 파이프라인 설계 원리: 02_변증기록에서 발견된 5가지 검증 유형
 
-As a result of an exhaustive analysis of the documents in the `02_Apologetics_Records` folder, all apologetics masterpieces were created with a combination of one or more of the **5 verification types**.
+`02_변증기록` 폴더의 문서들을 전수 분석한 결과, 모든 변증 마스터피스는 **5가지 검증 유형** 중 하나 이상의 조합으로 만들어졌다.
 
-| Type Code | Type Name | Core Weapon | Representative Document |
+| 유형 코드 | 유형명 | 핵심 무기 | 대표 문서 |
 |:---:|:---|:---|:---|
-| **TYPE-A** | **Chronological Sequential Mapping** | Derive hidden years by lining up numbers sequentially without overlapping | Ahaziah chronology dilemma, Terah chronology dilemma |
-| **TYPE-B** | **Sequential Parallel Integration** | Reconstruct two records into a single completed narrative by fitting them into a timeline | Saul in Damascus, Passion Week timeline |
-| **TYPE-C** | **Functional Scope Split** | Deconstruct that the functional scale/category of two objects pointed to by the same word are different | Solomon's stalls 40,000 vs 4,000 |
-| **TYPE-D** | **Hebrew Narrative Convention Inverse Application** | Resolve contradictions with Hebrew literary conventions such as importance-first listing, genealogy formulas, etc. | Terah chronology dilemma, Matthew 14 generations, Chronicles Timna genealogy |
-| **TYPE-E** | **Competing Model Elimination** | List all alternative interpretations and reject them sequentially with the biblical text, adopting only the surviving model | Thursday crucifixion theory, Ahaziah chronology dilemma |
-| **TYPE-F** | **Typological Triple-Parallel Proof** | Prove that the 3-stage structure of type→antitype→fulfillment of a specific figure/event matches in location, method, and order by contrasting them in a table, refuting errors in historical tradition with biblical structure | Peter's Calvary martyrdom theory, Jonah-Jesus-Peter triple pattern |
-| **TYPE-G** | **KJV Grammatical Chain Analysis** | Dissect the hidden grouping and vertical connection intent by classifying KJV original text's commas, conjunctions, and articles by color, proving the structure cannot be deleted | 1 John 5:7 Comma, Timna genealogy and/comma grouping |
-| **TYPE-H** | **Evidence Independence Reversal** | Acknowledge the numerical inferiority of manuscripts, but instead reverse the weight with the number of independent sources (region, language, era), arguing that the minority of manuscripts is actually stronger evidence | 1 John 5:7 Comma, Old Latin/Patristic/Council independent evidence system |
-| **TYPE-I** | **Lexical Frequency Symmetry Verification** | Prove with numbers that the exact frequency of specific verbs/adjectives (e.g., bara 5 times = called 5 times) within the same biblical passage forms an intended theological symmetry | Genesis 1 bara/called 5:5 symmetry, Gen 1:27 22 words = 1 John 5:7 22 words |
-| **TYPE-J** | **External Historical Source Cross-Verification** | Analyze whether non-biblical historical books like Samguk Sagi, Tacitus, Josephus, Assyrian royal records support, refute, or are neutral to biblical claims, multi-dimensionally strengthening the historicity of biblical records | Samguk Sagi 舌化縣 (Seolhwahyeon) place name + possibility of Pentecost transmission, historicity of Jesus in Tacitus' Annals |
-| **TYPE-K** | **Scientific & Forensic Plausibility Verification** | Verify whether the Bible's descriptions are possible medically, physically, forensically, and biologically to refute the attack of being "unscientific" with empirical data | Forensic consistency verification of Judas' death (hanging → falling → abdomen bursting) |
-| **TYPE-L** | **Inductive Chain Inference** | Starting from a single language/number observation and repeating "Why?" moving to the next clue, accumulating an unbroken chain of evidence to derive the entire picture of biblical design that existing academia has not discovered | Genesis 1 bara × 3 → Trinity → 1 John 5:7 → 22 words symmetry → Sequential discovery of Greek grammar collapse |
-| **TYPE-M** | **Initial Anomaly Detection** | The starting point identification ability to sense "Why is this expression only used for this person?", "Why is this word only different here?" in the text — This is the seed of all verification | 'Son of Jonah' only for Peter, none for Andrew / Son of Jonah = Trigger for Calvary prophecy |
-| **TYPE-N** | **Exclusivity Verification** | Exhaustively investigate that a specific pattern, name, or event applies only to one person/event and not in other cases, confirming it is an intentional design and not a coincidence | 'Son of Jonah' declaration only to Peter / The same expression is absent for other disciples → Prophetic exclusivity confirmed |
+| **TYPE-A** | **연대기 직렬 분해 (Chronological Sequential Mapping)** | 숫자를 겹치지 않고 순서대로 줄 세워 숨겨진 연수를 도출 | 아하지야 연대난제, 데라 연대난제 |
+| **TYPE-B** | **사건 순차적 병렬 통합 (Sequential Parallel Integration)** | 두 기록을 타임라인으로 끼워 맞춰 완결된 하나의 서사로 재구성 | 사울 다마스쿠스, 고난주간 타임라인 |
+| **TYPE-C** | **기능적/공간적 범주 분리 (Functional Scope Split)** | 같은 단어가 가리키는 두 대상의 기능적 규모/범주가 다름을 분해 | 솔로몬 외양간 4만vs4천 |
+| **TYPE-D** | **히브리 서사 관습 역이용 (Hebrew Narrative Convention)** | 중요도 우선 나열, 족보 공식 등 히브리 문학 관습으로 모순을 해소 | 데라 연대난제, 마태복음 14세대, 역대기 팀나 족보 |
+| **TYPE-E** | **경쟁 모델 전수 기각 (Competing Model Elimination)** | 모든 대안 해석을 나열하고 성경 텍스트로 순서대로 기각, 생존 모델만 채택 | 목요일 십자가설, 아하지야 연대난제 |
+| **TYPE-F** | **예표 삼중 평행 구조 증명 (Typological Triple-Parallel Proof)** | 특정 인물/사건의 예표→실체→계승 3단 구조를 표로 대조하여 장소·방식·순서까지 일치함을 증명, 역사 전승의 오류를 성경 구조로 반박 | 베드로 갈보리 순교설, 요나-예수-베드로 삼중 패턴 |
+| **TYPE-G** | **KJV 접속사/문법 구조 해부 (KJV Grammatical Chain Analysis)** | KJV 원문의 콤마·접속사·관사 구조를 색별로 분류하여 숨겨진 그룹핑과 수직 연결 의도를 해부, 삭제 불가 구조를 증명 | 요한1서 5:7 콤마, 팀나 족보 and/comma 그룹핑 |
+| **TYPE-H** | **사본학적 증거 독립성 역전 (Evidence Independence Reversal)** | 사본 수의 열세를 인정하고, 대신 독립적인 출처(지역·언어·시대)의 수로 가중치를 역전시켜 소수 사본이 오히려 더 강력한 증거임을 논증 | 요한1서 5:7 콤마, 구라틴·교부·공의회 독립 증거 체계 |
+| **TYPE-I** | **어휘 빈도 대칭 설계 검증 (Lexical Frequency Symmetry)** | 같은 성경 단락 안에서 특정 동사/형용사의 정확한 사용 횟수(예: bara 5회 = called 5회)가 의도된 신학적 대칭을 이룸을 수치로 증명 | 창세기 1장 bara/called 5:5 대칭, 창 1:27 22단어 = 요일 5:7 22단어 |
+| **TYPE-J** | **외부 역사 문헌 교차 검증 (External Historical Source Cross-Verification)** | 삼국사기·타키투스·요세푸스·아시리아 왕조기록 등 비성경 역사서가 성경의 주장을 지지·반박·중립하는지 분석하여 성경 기록의 역사성을 입체적으로 강화 | 삼국사기 舌化縣 지명 + 오순절 전래 가능성, 타키투스 연보의 예수 역사성 |
+| **TYPE-K** | **과학적·법의학적 정합 검증 (Scientific & Forensic Plausibility Verification)** | 성경의 묘사가 의학·물리학·법의학·생물학적으로 가능한지를 검증하여 "비과학적"이라는 공격을 실증 데이터로 논파 | 유다의 죽음(목매달기→추락→복부 파열)의 법의학적 정합성 검증 |
+| **TYPE-L** | **귀납적 연쇄 추론 (Inductive Chain Inference)** | 하나의 언어·숫자 관찰에서 시작해 "왜?"를 반복하며 다음 단서로 이동, 단절 없는 증거 체인을 누적하여 기존 학계가 발견하지 못한 성경 설계의 전체 그림을 도출 | 창세기 1장 bara×3 → 삼위일체 → 요일 5:7 → 22단어 대칭 → 헬라어 문법 붕괴 연쇄 발견 |
+| **TYPE-M** | **최초 이상 감지 (Initial Anomaly Detection)** | 본문에서 "왜 이 표현이 이 사람에게만 쓰였는가?", "왜 이 단어가 여기서만 다른가?"를 감지하는 출발점 식별 능력 — 이것이 모든 검증의 씨앗 | 베드로에게만 '요나의 아들', 안드레에게는 없음 / 요나의 아들 = 갈보리 예언 트리거 |
+| **TYPE-N** | **배타성 검증 (Exclusivity Verification)** | 특정 패턴·명칭·사건이 오직 한 인물/사건에만 적용되고 다른 경우에는 없음을 전수 조사하여 우연이 아닌 의도적 설계임을 확정 | 베드로에게만 요나의 아들 선언 / 같은 표현이 다른 제자에게 없음 → 예언적 배타성 확정 |
 
 ---
 
-## 🔬 SKILL-01: TYPE-A — Chronological Sequential Mapping Pipeline
+## 🔬 SKILL-01: TYPE-A — 연대기 직렬 분해 파이프라인
 
-> **When it triggers**: When numbers in two texts conflict, and existing academia treats it as "the two periods overlap".
-> **Core Suspicion**: "Do the periods really overlap? Or if added sequentially, does a new number emerge?"
+> **언제 발동하는가**: 두 본문의 숫자가 충돌하고, 기존 학계가 "두 기간이 겹친다"고 처리하는 경우.  
+> **핵심 의심**: "기간들이 정말 겹치는가? 아니면 순서대로 더하면 새로운 숫자가 나오는가?"
 
-### Execution Steps
-
-```
-[STEP 1] Collect all related verses
-  → Exhaustively list the two conflicting verses + all related verses (parallel texts, genealogies, kings' reign years, etc.).
-  → List all numbers extractable from each verse (age, reign period, age at death) along with the KJV original text.
-
-[STEP 2] Serial Timeline Placement (Excel Method)
-  → Do not view the periods as 'overlapping (Inclusive)', but place them in 'serial (Sequential)' order according to the textual narrative.
-  → Create a Table: | Period | Start Age/Year | End Age/Year | Biblical Basis |
-  → However, unless the text explicitly states "simultaneously" or "during that period", unconditionally assume serial.
-
-[STEP 3] Unknown (X) Back-calculation
-  → Adding the conflicting numbers in serial placement yields the hidden total years (X).
-  → Check if this X matches the second number under attack (e.g., 42 years old).
-
-[STEP 4] Bio-Chronological Consistency Verification (A-12)
-  → Is the derived age (X) biologically possible based on the era's standards?
-  → Cross-verify with father-son relationships, marriage age, and figures of contemporaries.
-
-[STEP 5] Linguistic Verification (A-01a/b, V-03)
-  → Does the preposition, tense, and grammatical structure of the KJV original text support the serial interpretation?
-  → Check the root and semantic range in the Hebrew/Greek original text.
-```
-
-### 📌 Reference Case: Ahaziah Chronology Dilemma
+### 실행 단계
 
 ```
-[Collected Verses]: 2 Kings 8:26 (22 years old), 2 Chron 22:2 (42 years old), 2 Chron 21:5 (8 years rule), 2 Chron 21:18-19 (2 years illness)
-[Serial Placement]:
-  Jehoram's age at accession: 32 (Back-calculated based on 2 Chron 21:5)
-  Jehoram's rule in Jerusalem: 32 → 40 (8 years)
-  Jehoram's bowel disease illness: 40 → 42 (2 years)
-  Ahaziah's age at Jehoram's death: 22 → Start of co-regency (2 Kings 8:26)
-[Back-calculation]:
-  32 + 8 + 2 = 42 ← This is the reality of the '42 years old' in 2 Chron 22:2 (Jehoram's age)
-[Verification]:
-  Jehoram having a son around age 18 (22-year difference: 40 - 22 = 18) → Biologically possible ✅
-  KJV "forty and two years old WAS Ahaziah" → The subject is Ahaziah but 
-  Hebrew Ben idiom = Relational age expression ✅
+[STEP 1] 관련 구절 전체 수집
+  → 충돌하는 두 구절 + 관련된 모든 구절(병행 본문, 족보, 왕의 재위년 등)을 빠짐없이 나열한다.
+  → KJV 원문과 함께 각 구절에서 추출 가능한 모든 숫자(나이, 재위 기간, 사망 나이)를 리스트화한다.
+
+[STEP 2] 타임라인 직렬 배치 (엑셀 방식)
+  → 기간들을 '겹치는 것(Inclusive)'으로 보지 말고, 텍스트 서술 순서대로 '직렬(Sequential)'로 배치한다.
+  → 표(Table)로 만든다: | 기간 | 시작 나이/연도 | 종료 나이/연도 | 성경 근거 |
+  → 단, 텍스트에 명시적으로 "동시에" 혹은 "그 기간 중에"라는 표현이 없으면 무조건 직렬로 가정한다.
+
+[STEP 3] 미지수(X) 역산
+  → 충돌하는 숫자를 직렬 배치로 더하면 숨겨진 전체 연수(X)가 나온다.
+  → 이 X가 공격받는 두 번째 숫자(예: 42세)와 일치하는지 확인한다.
+
+[STEP 4] 생물학적 정합 검증 (A-12)
+  → 도출된 나이(X)가 당시 시대 기준으로 생물학적으로 가능한가?
+  → 부자 관계, 결혼 나이, 동시대 다른 인물들의 수치와 교차 검증한다.
+
+[STEP 5] 언어적 검증 (A-01a/b, V-03)
+  → KJV 원문의 전치사, 시제, 문법 구조가 직렬 해석을 지지하는가?
+  → 히브리어/헬라어 원문의 어근과 의미 범위를 확인한다.
 ```
 
----
-
-## 🔬 SKILL-02: TYPE-B — Sequential Parallel Integration Pipeline
-
-> **When it triggers**: When the same event is described differently by two authors (or two records by the same author).
-> **Core Suspicion**: "Are these two descriptions the same snapshot of a single second? Or different moments within the event?"
-
-### Execution Steps
+### 📌 레퍼런스 케이스: 아하지야 연대난제
 
 ```
-[STEP 1] Direct Comparison of Two Records in a Table
-  → | Record 1 (Verse) | Record 2 (Verse) | Superficial Difference |
-  → Must put the KJV original text alongside.
-
-[STEP 2] "Single Moment vs. Process" Determination
-  → Core Question: "Are the two records a snapshot of the same second, or a flow of events with an order?"
-  → If there is movement of an actor (person), exchange of dialogue, or passage of time within the event → Determined as a process.
-
-[STEP 3] 7-Stage Timeline Reconstruction
-  → Write a Single Sequential Narrative that includes all details of the two records without contradiction.
-  → Format: [Stage N] Event detail → Record 1 describes this stage / Record 2 describes that stage
-
-[STEP 4] Creation of 'Fusion Reading'
-  → Write a single completed narrative paragraph by fitting the text of the two records in order.
-  → Specify in parentheses which verse corresponds to which stage.
-
-[STEP 5] Original Language Verification (A-01a/b)
-  → Is there a reason the same word was used differently in the two verses? (Differences in case, article, preposition)
-```
-
-### 📌 Reference Case: Saul's Two Records in Damascus
-
-```
-[Superficial Conflict]: Acts 9:7 (Heard sound O / Saw light X) vs Acts 22:9 (Saw light O / Heard sound X)
-[Process Determination]: Dialogue went back and forth at least 3 times → Not a single snapshot → Determined as process ✅
-[Sequential Reconstruction]:
-  Stage 1: Light shines → Companions witness light (Acts 22:9 first half)
-  Stage 2: 1st Utterance "Saul, Saul" → Companions do not hear (Acts 22:9 second half)
-  Stage 3: Saul replies "Who art thou, Lord?"
-  Stage 4: 2nd Utterance "I am Jesus"
-  Stage 5: Saul "What shall I do?"
-  Stage 6: 3rd Utterance "Arise, and go into Damascus" → Companions hear (Acts 9:7) ← This is the core ✅
-[Fusion Reading]: Create and include as a paragraph
+[수집 구절]: 왕하 8:26 (22세), 대하 22:2 (42세), 대하 21:5 (8년 통치), 대하 21:18-19 (2년 투병)
+[직렬 배치]:
+  여호람 즉위 나이: 32세 (대하 21:5 기준 역산)
+  여호람 예루살렘 통치: 32세 → 40세 (8년)
+  여호람 창자병 투병: 40세 → 42세 (2년)
+  여호람 사망 시 아하지야 나이: 22세 → 대리통치 시작 (왕하 8:26)
+[역산]:
+  32 + 8 + 2 = 42 ← 이것이 대하 22:2의 '42세'의 실체 (여호람의 나이)
+[검증]:
+  여호람 18세경 득남(22년 차이: 40 - 22 = 18세) → 생물학적 가능 ✅
+  KJV "forty and two years old WAS Ahaziah" → 주어가 아하지야이나 
+  히브리어 Ben 관용구 = 관계적 연령 표현 ✅
 ```
 
 ---
 
-## 🔬 SKILL-03: TYPE-C — Functional Scope Split Pipeline
+## 🔬 SKILL-02: TYPE-B — 사건 순차적 병렬 통합 파이프라인
 
-> **When it triggers**: When numbers of seemingly identical words (stalls, horses, etc.) have a multiple difference (10x, 100x).
-> **Core Suspicion**: "Are the two numbers counting the same thing? Or different functions/scales/units?"
+> **언제 발동하는가**: 동일 사건을 두 저자(혹은 동일 저자의 두 기록)가 서로 다르게 묘사할 때.  
+> **핵심 의심**: "이 두 서술이 동일한 1초의 찰나인가? 아니면 사건 내의 서로 다른 순간인가?"
 
-### Execution Steps
-
-```
-[STEP 1] Ultra-Precise Comparison of KJV Original Text Prepositions/Grammar
-  → Place the KJV English original text of the two verses side by side and necessarily find the difference in prepositions (of/for/and).
-  → | Verse | KJV Original Text | Core Difference (Preposition/Modifier) |
-
-[STEP 2] Functional Classification (A-16)
-  → Define "What unit are the two numbers counting?" for each.
-  → Larger number = Total/Individual unit / Smaller number = Operational/Organized unit
-
-[STEP 3] Cross-Verification by Back-Calculation with a 3rd Biblical Number
-  → Find a 3rd number (e.g., 1,400 chariots, 12,000 horsemen) in related verses.
-  → Mathematically back-calculate one of the two numbers from this 3rd number to prove consistency numerically.
-  → | Calculation Formula | Result | Matches Biblical Number? |
-
-[STEP 4] Modern Analogy Creation (Mandatory)
-  → Must create at least 1 analogy that a modern person can understand in just 5 seconds.
-  → Utilize everyday concepts like military, transportation, architecture: "It is as if ___ is ___, and ___ is ___."
-
-[STEP 5] Textual Rebuttal (A-02)
-  → Prove that a copyist error of the "adding/deleting a 0" type is impossible with the Hebrew numeral system (alphabet notation).
-```
-
-### 📌 Reference Case: Solomon's Stalls 40,000 vs 4,000
+### 실행 단계
 
 ```
-[KJV Differences]: 
-  1 Kings 4:26 "stalls OF horses FOR his chariots" → Individual horse stalls
-  2 Chron 9:25 "stalls FOR horses AND chariots"   → Combined depot for chariots+horses
-[3rd Number Back-Calculation]:
-  1,400 chariots (1 Kings 10:26) × approx. 3 stalls per chariot = 4,200 ≈ 4,000 ✅
-[Modern Analogy]:
-  4,000 = Fighter wing (One set of chariot+pilot+maintenance team)
-  40,000 = Nationwide aircraft hangars (Individual accommodation slots for all aircraft)
+[STEP 1] 두 기록을 표로 직접 대조
+  → | 기록1 (구절) | 기록2 (구절) | 표면적 차이 |
+  → KJV 원문을 반드시 병기한다.
+
+[STEP 2] "한 순간 vs 프로세스" 판별
+  → 핵심 질문: "두 기록은 같은 1초의 스냅샷인가, 아니면 순서가 있는 사건의 흐름인가?"
+  → 만약 사건 내에 행위자(인물)의 이동, 대화의 교환, 시간의 흐름이 있다면 → 프로세스로 판단.
+
+[STEP 3] 7단계 타임라인 재구성
+  → 두 기록의 모든 세부 사항을 모순 없이 포함하는 단일 순차 서사(Single Sequential Narrative)를 작성한다.
+  → 형식: [N단계] 사건 내용 → 기록1은 이 단계를 기술 / 기록2는 저 단계를 기술
+
+[STEP 4] '합쳐서 읽기(Fusion Reading)' 생성
+  → 두 기록의 텍스트를 순서대로 끼워 맞춰 하나의 완결된 서사 단락을 작성한다.
+  → 어느 구절이 어느 단계에 해당하는지 괄호로 명시한다.
+
+[STEP 5] 원어 검증 (A-01a/b)
+  → 같은 단어가 두 구절에서 다르게 사용된 이유가 있는가? (격, 관사, 전치사 차이)
 ```
 
----
-
-## 🔬 SKILL-04: TYPE-D — Hebrew Narrative Convention Inverse Application Pipeline
-
-> **When it triggers**: When the listing order in genealogies, reference points for numbers, or character titles seem to conflict.
-> **Core Suspicion**: "Is this an error? Or an established convention of ancient Hebrew literature?"
-
-### Execution Steps
+### 📌 레퍼런스 케이스: 사울 다마스쿠스 두 기록
 
 ```
-[STEP 1] Identify Convention Pattern
-  Find the applicable convention from the following list of Hebrew literary conventions:
-  □ Importance-First Listing: Theologically important figures are listed first, not the firstborn
-  □ Genealogy Formula: "Begat Y at age X" = Begat Z along with Y starting at that time
-  □ Ben Idiom: "Son of ~" = Means relationship/status instead of age
-  □ Dual Inclusion: Figures at the watershed of an era are included in two generations simultaneously
-  □ Telescoping: Skipping intermediate generations in ancient narratives
-
-[STEP 2] Collect Cross-Cases of the Same Pattern within the Bible (V-06)
-  → Find at least 2 other verses where the same convention is used and contrast them in a table.
-  → | Case Verse | Actual Situation | Convention Application Result |
-  → Prove within the Bible that this is not an error but an 'established pattern'.
-
-[STEP 3] Apply Reductio ad Absurdum (A-08)
-  → Break down the attack logic itself by questioning, "If the attacker's interpretation is true → what absurdity arises?"
-
-[STEP 4] Josephus/External Source Cross-Verification (V-04)
-  → Check how ancient historians (like Josephus) interpreted the same event.
-```
-
-### 📌 Reference Case: Terah 70 Years Old Abram Birth Dilemma
-
-```
-[Identify Convention]: Genealogy formula + Importance-first listing
-[Cross-Cases]:
-  Gen 5:32 Noah at 500 begat Shem, Ham, Japheth → Actual firstborn is Japheth (Gen 10:21)
-  Gen 11:26 Terah at 70 begat Abram, Nahor, Haran → Actual firstborn is Haran (Proved by dying first)
-[Reductio ad Absurdum]:
-  If "three born simultaneously at 70" is applied to Noah → Did Noah also have triplets at 500?
-  → Absurd → Attack logic collapses ✅
-[Back-Calculation Verification]:
-  Terah's death at 205 - Abram's departure at 75 = Abram born when Terah was 130 → Perfectly consistent ✅
+[표면적 충돌]: 행 9:7 (소리 O / 빛 X) vs 행 22:9 (빛 O / 소리 X)
+[프로세스 판별]: 대화가 최소 3회 오고 갔다 → 단일 스냅샷이 아님 → 프로세스로 판단 ✅
+[순차 재구성]:
+  1단계: 빛이 비침 → 동행자들 빛 목격 (행 22:9 전반)
+  2단계: 1차 발화 "사울아 사울아" → 동행자들 못 들음 (행 22:9 후반)
+  3단계: 사울 대답 "주여 누구시니이까"
+  4단계: 2차 발화 "나는 예수라"
+  5단계: 사울 "무엇을 하리이까?"
+  6단계: 3차 발화 "일어나 다마스쿠스로 가라" → 동행자들 들음 (행 9:7) ← 이것이 핵심 ✅
+[합쳐서 읽기]: 생성하여 단락으로 포함
 ```
 
 ---
 
-## 🔬 SKILL-05: TYPE-E — Competing Model Elimination Pipeline
+## 🔬 SKILL-03: TYPE-C — 기능적/공간적 범주 분리 파이프라인
 
-> **When it triggers**: When there are multiple competing interpretations for a dilemma, or attempts to treat it as a "copyist error".
-> **Core Suspicion**: "Are there other possibilities besides the presented interpretation? Why are they rejected?"
+> **언제 발동하는가**: 동일해 보이는 단어(stalls, horses 등)의 숫자가 배수(10배, 100배) 차이가 날 때.  
+> **핵심 의심**: "두 숫자가 같은 것을 세는가? 아니면 다른 기능/규모/단위를 세는가?"
 
-### Execution Steps
-
-```
-[STEP 1] List All Competing Models
-  → List all interpretation models attempting to explain the dilemma (at least 3).
-  → | # | Model Name | Core Claim |
-
-[STEP 2] Detect Fatal Flaws for Each Model (Apply all 5 verification items)
-  Check the following for each model:
-  □ Textual Preservation: Can it be explained without modifying/deleting a single Bible verse?
-  □ Exhaustive Consistency: Does it simultaneously align with all related records?
-  □ Biological Possibility: Are the ages/periods within a realistic range?
-  □ Event Gap: Is there a temporal/spatial gap to perform the necessary physical actions?
-  □ Mathematical Consistency: Does it match a 3rd biblical number when back-calculated?
-
-[STEP 3] Create Elimination Table
-  → | Competing Model | Fatal Flaw | Survival Status |
-  → If there is even one fatal flaw, ❌ Rejected.
-
-[STEP 4] Adopt Surviving Model and Perform Exhaustive Cross-Verification
-  → Adopt the surviving model, and substitute all related verses to finally confirm exhaustive consistency.
-```
-
-### 📌 Reference Case: Thursday Crucifixion Elimination
+### 실행 단계
 
 ```
-[List of Competing Models]:
-  1. Friday Crucifixion Theory → Fails to meet 72 hours ❌
-  2. Thursday Crucifixion Theory → Back-to-Back Sabbaths → Weekday gap for buying spices disappears ❌
-  3. Wednesday Crucifixion Theory → Friday weekday gap exists, perfectly fulfills 72 hours ✅ Adopted
-[Exhaustive Timeline Verification]:
-  Wednesday burial → Thursday High Sabbath → Friday buy spices (fulfills Mark 16:1) 
-  → Saturday rest on Sabbath (fulfills Luke 23:56) → Sunday dawn resurrection (fulfills Matt 12:40 72 hours) ✅
+[STEP 1] KJV 원문 전치사/문법 초정밀 비교
+  → 두 구절의 KJV 영어 원문을 나란히 놓고, 전치사(of/for/and)의 차이를 반드시 찾는다.
+  → | 구절 | KJV 원문 | 핵심 차이 (전치사/수식어) |
+
+[STEP 2] 기능적 분류 (A-16)
+  → "두 숫자는 무엇을 세는 단위인가?"를 각각 정의한다.
+  → 큰 숫자 = 전체/개별 단위 / 작은 숫자 = 작전/편제 단위
+
+[STEP 3] 제3의 성경 수치로 역산 교차 검증
+  → 관련 구절에서 제3의 숫자(예: 병거 1,400대, 마병 12,000명)를 찾는다.
+  → 이 제3의 수치로부터 두 숫자 중 하나를 수학적으로 역산하여 정합성을 수치로 증명한다.
+  → | 계산식 | 결과 | 성경 수치와 일치 여부 |
+
+[STEP 4] 현대 비유(Modern Analogy) 창작 (필수)
+  → 현대인이 단 5초 만에 이해할 수 있는 비유를 반드시 1개 이상 창작한다.
+  → 군사, 교통, 건축 등 일상 개념 활용: "마치 ___은 ___이고, ___은 ___인 것과 같다."
+
+[STEP 5] 사본학적 반박 (A-02)
+  → 히브리어 숫자 체계(알파벳 표기)로는 "0 하나 추가/삭제" 방식의 필사 오류가 불가능함을 증명한다.
 ```
 
----
-
-## 🎯 [AIDD Execution Guidelines: Procedures for AI When Receiving a New Dilemma]
+### 📌 레퍼런스 케이스: 솔로몬 외양간 4만 vs 4천
 
 ```
-When a new Bible dilemma is input:
-
-[GATE 0] Dilemma Type Classification (Automatic)
-  → Number conflict? → Prioritize suspecting TYPE-A or TYPE-C
-  → Two records exactly opposite? → Prioritize suspecting TYPE-B
-  → Genealogy/listing order issue? → Prioritize suspecting TYPE-D
-  → Competing interpretations exist? → Mandatorily activate TYPE-E
-  → Complex conflict? → Execute multiple combinations of corresponding TYPEs
-
-[GATE 1] Collect All Related Verses (Mandatory, absolutely no omission)
-  → Conflicting verses + Parallel verses + 3rd related verses + KJV original text completely listed
-
-[GATE 2] Prohibition on Searching Existing Academic Commentaries
-  → Commentaries/scholars' views are only used for cross-verification after GATE 4
-  → In GATE 2, analyze solely with Bible text data
-
-[GATE 3] Execute the SKILL of the Corresponding TYPE
-  → Follow the procedure of the corresponding type among SKILL-01 ~ SKILL-05 above
-
-[GATE 4] Cross-Verification by Back-Calculating with 3rd Number/Case
-  → Once a conclusion is reached, mathematically verify by back-calculating with other numbers or verses in the Bible
-
-[GATE 5] Output Masterpiece Reports (Comply with v1.5 format)
-  → Mandatorily include 1 or more modern analogies
-  → Describe the 'proof process' in more detail than the conclusion
-  → Visually present tables and timelines without fail
+[KJV 차이]: 
+  왕상 4:26 "stalls OF horses FOR his chariots" → 말 개별 칸막이
+  대하 9:25 "stalls FOR horses AND chariots"   → 병거+말 복합 차고지
+[제3의 수치 역산]:
+  병거 1,400대 (왕상 10:26) × 병거 1대당 약 3개 칸막이 = 4,200 ≈ 4,000 ✅
+[현대 비유]:
+  4천 = 전투비행단(병거+조종사+정비팀 한 세트)
+  4만 = 전국 항공기 격납고(모든 항공기 개별 수용 칸)
 ```
 
 ---
 
-## 🔑 Core Prohibitions (To Prevent AI Confusion)
+## 🔬 SKILL-04: TYPE-D — 히브리 서사 관습 역이용 파이프라인
+
+> **언제 발동하는가**: 족보의 나열 순서, 숫자의 기준점, 인물 호칭이 충돌처럼 보일 때.  
+> **핵심 의심**: "이것이 오류인가? 아니면 고대 히브리 문학의 확립된 관습인가?"
+
+### 실행 단계
+
+```
+[STEP 1] 관습 패턴 식별
+  다음 히브리 문학 관습 목록 중 해당하는 것을 찾는다:
+  □ 중요도 우선 나열 (Importance-First Listing): 장자가 아닌 신학적으로 중요한 인물이 먼저 기록됨
+  □ 족보 기간 공식 (Genealogy Formula): "X세에 Y를 낳았다" = Y와 함께 Z도 그 기간에 낳기 시작했다
+  □ Ben 관용구 (Ben Idiom): "~의 아들" = 나이 대신 관계/지위를 의미
+  □ 이중 포함 (Dual Inclusion): 시대의 분기점에 있는 인물은 두 세대에 동시에 포함됨
+  □ 시대적 압축 (Telescoping): 고대 서사에서 중간 세대를 건너뛰어 기록
+
+[STEP 2] 동일 패턴 성경 내 교차 사례 수집 (V-06)
+  → 동일한 관습이 사용된 다른 구절을 최소 2개 찾아 표로 대조한다.
+  → | 사례 구절 | 실제 상황 | 관습 적용 결과 |
+  → 이것이 오류가 아닌 '확립된 패턴'임을 성경 내부에서 증명한다.
+
+[STEP 3] 귀류법 적용 (A-08)
+  → "공격자의 해석대로라면 → 어떤 불합리가 생기는가?"를 따져서 공격 논리 자체를 붕괴시킨다.
+
+[STEP 4] 요세푸스·외부 사료 교차 검증 (V-04)
+  → 고대 역사가(요세푸스 등)가 동일 사건을 어떻게 해석했는지 확인한다.
+```
+
+### 📌 레퍼런스 케이스: 데라 70세 아브람 출생 난제
+
+```
+[관습 식별]: 족보 기간 공식 + 중요도 우선 나열
+[교차 사례]:
+  창 5:32 노아 500세에 셈·함·야벳 → 실제 장자는 야벳 (창 10:21)
+  창 11:26 데라 70세에 아브람·나홀·하란 → 실제 장자는 하란 (먼저 죽음으로 증명)
+[귀류법]:
+  "70세에 셋 동시 출생"을 노아에 적용하면 → 노아도 500세에 세 쌍둥이를 낳았단 말인가?
+  → 불합리 → 공격 논리 붕괴 ✅
+[역산 검증]:
+  데라 205세 사망 - 아브람 출발 75세 = 데라 130세에 아브람 출생 → 완벽 정합 ✅
+```
+
+---
+
+## 🔬 SKILL-05: TYPE-E — 경쟁 모델 전수 기각 파이프라인
+
+> **언제 발동하는가**: 기존에 여러 해석이 경쟁하는 난제, 또는 "필사 오류"로 처리하려는 시도가 있을 때.  
+> **핵심 의심**: "지금 제시되는 해석 외에 다른 가능성이 있는가? 그것은 왜 기각되는가?"
+
+### 실행 단계
+
+```
+[STEP 1] 경쟁 모델 전체 목록화
+  → 해당 난제를 설명하려는 모든 해석 모델을 나열한다 (최소 3개 이상).
+  → | # | 모델명 | 핵심 주장 |
+
+[STEP 2] 각 모델에 치명적 한계 탐지 (5대 검증 항목 전수 적용)
+  각 모델에 대해 다음을 확인한다:
+  □ 텍스트 보존성: 단 하나의 성경 구절도 수정/삭제하지 않고 설명 가능한가?
+  □ 전수 정합성: 관련 모든 기록과 동시에 일치하는가?
+  □ 생물학적 가능성: 나이·기간이 현실적 수치 범위 내인가?
+  □ 사건 공백(Gap): 필요한 물리적 행동을 할 수 있는 시간/공간 공백이 존재하는가?
+  □ 수학적 정합: 역산했을 때 제3의 성경 수치와 일치하는가?
+
+[STEP 3] 기각 표 작성
+  → | 경쟁 모델 | 치명적 한계 | 생존 여부 |
+  → 치명적 한계가 단 하나라도 있으면 ❌ 기각.
+
+[STEP 4] 생존 모델 채택 및 전수 교차 검증
+  → 생존한 모델을 채택하고, 관련 모든 구절을 대입하여 전수 정합을 최종 확인한다.
+```
+
+### 📌 레퍼런스 케이스: 목요일 십자가설 기각
+
+```
+[경쟁 모델 목록]:
+  1. 금요일 십자가설 → 72시간 불충족 ❌
+  2. 목요일 십자가설 → Back-to-Back 안식일 → 향품 구매 평일 공백 소멸 ❌
+  3. 수요일 십자가설 → 금요일 평일 공백 존재, 72시간 완벽 충족 ✅ 채택
+[타임라인 전수 검증]:
+  수요일 장사 → 목요일 큰 안식일 → 금요일 향품 구매(막 16:1 충족) 
+  → 토요일 안식일에 쉼(눅 23:56 충족) → 일요일 새벽 부활 (마 12:40 72시간 충족) ✅
+```
+
+---
+
+## 🎯 [AIDD 실행 지침: AI가 새로운 난제를 받았을 때 따라야 할 절차]
+
+```
+새로운 성경 난제가 입력되면:
+
+[GATE 0] 난제 유형 분류 (자동)
+  → 숫자 충돌? → TYPE-A 또는 TYPE-C 우선 의심
+  → 두 기록이 정반대? → TYPE-B 우선 의심
+  → 족보/나열 순서 문제? → TYPE-D 우선 의심
+  → 경쟁 해석이 존재? → TYPE-E 반드시 가동
+  → 복합 충돌? → 해당 TYPE 복수 조합 실행
+
+[GATE 1] 관련 구절 전체 수집 (필수, 절대 생략 금지)
+  → 충돌 구절 + 병행 구절 + 제3의 관련 구절 + KJV 원문 전체 나열
+
+[GATE 2] 기존 학계 주석 검색 금지
+  → 주석서/학자 견해는 GATE 4 이후 교차 검증용으로만 사용
+  → GATE 2에서는 오직 성경 텍스트 데이터만으로 분석한다
+
+[GATE 3] 해당 TYPE의 SKILL 실행
+  → 위 SKILL-01 ~ SKILL-05 중 해당 유형의 절차를 그대로 따른다
+
+[GATE 4] 제3의 수치/사례로 역산 교차 검증
+  → 결론이 나왔으면 성경의 다른 숫자나 구절로 역산하여 수학적으로 확인
+
+[GATE 5] 마스터피스 보고서 출력 (v1.5 양식 준수)
+  → 현대 비유 1개 이상 필수 포함
+  → 결론보다 '증명 과정'을 더 상세하게 서술
+  → 표와 타임라인을 반드시 시각적으로 제시
+```
+
+---
+
+## 🔑 핵심 금지 사항 (AI 혼선 방지)
 
 > [!WARNING]
-> The actions below signify the failure of this pipeline.
+> 아래의 행동은 이 파이프라인의 실패를 의미한다.
 
-| ❌ Prohibited Action | ✅ Alternative Action |
+| ❌ 금지 행동 | ✅ 대체 행동 |
 |:---|:---|
-| Answers starting with "According to scholars~" | Analyze with Bible text first, cite scholars only for cross-verification |
-| Concluding with "It is highly likely a copyist error" | Allowed only after all competing models are eliminated in PHASE 2.5 |
-| Calculations that add overlapping numbers | Add after placing serially according to text order |
-| Assuming two records are the same 1-second snapshot | First determine "Is it a process of events?" |
-| Analyzing only with translations without checking KJV original | Must precede with checking KJV original prepositions/grammar |
-| Outputting 10-round conversational Reports | Output in BVCAP v1.5 Masterpiece format |
-| Judging authenticity solely by number of manuscripts | Reverse weight with source independence (TYPE-H) |
-| Treating deleted verses as simple later insertions | First verify for grammatical chain breakage with TYPE-G |
+| "학자들에 따르면~" 으로 시작하는 답변 | 먼저 성경 텍스트로 분석하고, 학자는 교차 검증용으로만 인용 |
+| "필사 오류일 가능성이 높습니다"로 결론 | PHASE 2.5 경쟁 모델 전수 기각 후에만 허용 |
+| 숫자를 겹쳐서 더하는 계산 | 텍스트 순서대로 직렬 배치 후 더하기 |
+| 두 기록을 동일한 1초의 스냅샷으로 가정 | 먼저 "사건의 프로세스인가?"를 판별 |
+| KJV 원문 확인 없이 번역본만으로 분석 | 반드시 KJV 원문 전치사/문법 확인 선행 |
+| 10라운드 대화형 보고서 출력 | BVCAP v1.5 마스터피스 양식으로 출력 |
+| 사본 수만으로 진정성 판단 | 출처 독립성(TYPE-H)으로 가중치 역전 |
+| 삭제된 구절을 단순 후대 삽입으로 처리 | TYPE-G로 문법 체인 단절 여부 먼저 검증 |
 
 ---
 
-## 🔬 SKILL-06: TYPE-F — Typological Triple-Parallel Proof Pipeline
+## 🔬 SKILL-06: TYPE-F — 예표 삼중 평행 구조 증명 파이프라인
 
-> **When it triggers**: When the location, method, or mission of a specific figure's martyrdom conflicts with biblical tradition or external historical records.
-> **Core Suspicion**: "Does a 3-stage structure of Old Testament Type → New Testament Antitype → Fulfillment hold true in the life of this figure?"
+> **언제 발동하는가**: 특정 인물의 순교 장소·방식·사명이 성경 전승이나 외부 역사 기록과 충돌할 때.  
+> **핵심 의심**: "이 인물의 삶에 구약 예표(Type)→신약 실체(Antitype)→계승자(Fulfillment)의 3단 구조가 성립하는가?"
 
-### Execution Steps
-
-```
-[STEP 1] Identify Old Testament Type Figure
-  → Prioritize checking cases where Jesus or the biblical author explicitly names a New Testament figure as "Son of ~" or "Sign of ~".
-  → e.g.: Matt 16:17 "Simon Bar-jona (son of Jonah)" → Jesus explicitly declares Jonah as the type figure.
-
-[STEP 2] Create Triple-Parallel Elements Table (Apply A-13)
-  → | Pattern Item | Type (OT) | Antitype (Jesus) | Fulfillment (NT Figure) |
-  → Find at least 7 parallel elements and fill the table:
-     Region of origin / 3-day structure / Sleep and awakening / Lots / Water event / Tabernacle / Bird (dove/name) / Geographical movement direction
-
-[STEP 3] Prophetic Original Language Analysis (Apply A-14)
-  → Analyze the verb of the core prophecy verse in the original language (Greek/Hebrew).
-  → For "follow (ἀκολουθήσεις)": Is it spiritual imitation? Or physical following to a location?
-  → Determine the scope of spatial fulfillment by checking the semantic range of movement/following for the original verb.
-
-[STEP 4] Check Biblical Gap in External Traditions (A-02)
-  → Regarding existing traditions (e.g., Roman martyrdom theory): Check "In which Bible verse is this tradition directly recorded?"
-  → If there is no record, identify when the tradition originated (How many centuries later?).
-  → Clearly present the hierarchy of reliability: Biblical text vs. Later traditions.
-
-[STEP 5] Determine the Completeness of the Triple-Parallel Structure
-  → If 7 or more parallel elements hold true: Judged as a structural design (Not a coincidence).
-  → If location/method also match: Adopted as an argument for the locational fulfillment of the prophecy.
-```
-
-### 📌 Reference Case: Peter's Calvary Martyrdom Theory
+### 실행 단계
 
 ```
-[Type Declaration]: Matt 16:17 "Simon Bar-jona" → Jesus' direct declaration ✅
-[Triple Parallel Table]:
-  Origin: Galilee (Jonah) / Galilee (Jesus) / Galilee (Peter) ✅
-  3 Days: 3 days in fish belly / 3 days in tomb / 3 denials → 3 confessions ✅
-  Sleep: Sleep in storm boat / Sleep in storm boat / Sleep in Gethsemane ✅
-  Lots: Cast lots for sin / Cast lots for garment / Cast lots for Matthias ✅
-  Water: Saved from drowning / Walked on water / Rescued from sinking ✅
-  Tabernacle: Built booth and waited / Tabernacle of flesh / Wanted to build 3 tabernacles ✅
-  Dove: Name itself is dove / Spirit like a dove / Pentecost Spirit ✅
-[Tradition Gap]: Roman martyrdom theory → Appeared after AD 180, absolutely no biblical record ❌
-[Original Language Verification]: ἀκολουθήσεις (John 13:36) = Verb of physical following/trailing → Includes locational fulfillment ✅
+[STEP 1] 구약 예표 인물 식별
+  → 신약 인물에 대해 예수님이나 성경 저자가 직접 "~의 아들" "~의 표적"이라고 명명한 경우 우선 확인.
+  → 예: 마 16:17 "요나의 아들 시몬" → 요나가 예표 인물임을 예수님이 직접 선언.
+
+[STEP 2] 삼중 평행 요소 표 작성 (A-13 적용)
+  → | 패턴 항목 | 예표(구약) | 실체(예수님) | 계승자(신약 인물) |
+  → 최소 7가지 이상의 평행 요소를 찾아 표에 채운다:
+     출신 지역 / 3일 구조 / 잠과 깨우침 / 제비 / 물 사건 / 장막 / 새(비둘기/이름) / 지리적 이동 방향
+
+[STEP 3] 예언 원어 분석 (A-14 적용)
+  → 핵심 예언 구절의 동사를 원어(헬라어/히브리어)로 분석.
+  → "따라오다(ἀκολουθήσεις)"의 경우: 영적 모방인가? 물리적 장소까지의 추종인가?
+  → 원어 동사의 이동/추종 의미 범위를 확인하여 장소적 성취 포함 여부 판정.
+
+[STEP 4] 외부 전승의 성경적 공백 확인 (A-02)
+  → 기존 전승(예: 로마 순교설)에 대해: "이 전승이 성경 어느 구절에 직접 기록되어 있는가?"를 확인.
+  → 기록이 없으면 전승의 발생 시점을 파악 (몇 세기 후에 등장했는가?).
+  → 성경 텍스트 vs 후대 전승의 신뢰 위계를 명확히 제시.
+
+[STEP 5] 삼중 평행 구조의 완성도 판정
+  → 7개 이상 평행 요소가 성립하면: 구조적 설계로 판정 (우연 아님).
+  → 장소/방식까지 일치하면: 예언의 장소적 성취 논거 채택.
+```
+
+### 📌 레퍼런스 케이스: 베드로 갈보리 순교설
+
+```
+[예표 선언]: 마 16:17 "요나의 아들 시몬" → 예수님 직접 선언 ✅
+[삼중 평행 표]:
+  출신: 갈릴리(요나) / 갈릴리(예수) / 갈릴리(베드로) ✅
+  3일: 물고기 뱃속 3일 / 무덤 3일 / 부인 3번→고백 3번 ✅
+  잠: 폭풍 배에서 잠 / 폭풍 배에서 잠 / 겟세마네에서 잠 ✅
+  제비: 죄 묻기 위해 제비 / 겉옷 제비 / 맛디아 제비 ✅
+  물: 물에 빠져 구원 / 물 위를 걸으심 / 물에 빠져 구조 ✅
+  장막: 초막 짓고 대기 / 육신의 장막 / 장막 셋 지으려 함 ✅
+  비둘기: 이름 자체가 비둘기 / 비둘기 같은 성령 / 오순절 성령 ✅
+[전승 공백]: 로마 순교설 → AD 180년 이후 등장, 성경 기록 전무 ❌
+[원어 검증]: ἀκολουθήσεις(요 13:36) = 물리적 추종/뒤따름의 동사 → 장소적 성취 포함 ✅
 ```
 
 ---
 
-## 🔬 SKILL-07: TYPE-G — KJV Grammatical Chain Analysis Pipeline
+## 🔬 SKILL-07: TYPE-G — KJV 접속사/문법 구조 해부 파이프라인
 
-> **When it triggers**: When a specific verse is attacked textually as a later insertion, or attacked for misidentifying a figure's status in a genealogy.
-> **Core Suspicion**: "Do the conjunctions (and), commas, and articles in the KJV original text form a grammatical chain that collapses if this verse is deleted?"
+> **언제 발동하는가**: 특정 구절이 후대 삽입이라는 사본학적 공격을 받거나, 족보에서 인물의 신분이 오기됐다는 공격을 받을 때.  
+> **핵심 의심**: "KJV 원문의 접속사(and)·콤마·관사 구조가 이 구절을 삭제하면 붕괴되는 문법 체인을 형성하고 있는가?"
 
-### Execution Steps
-
-```
-[STEP 1] Fully Quote KJV Original Text of the Attacked Verse
-  → Completely quote the KJV original text including 2-3 verses before and after the verse claimed for deletion.
-
-[STEP 2] Color-coded Grouping Analysis of Conjunctions/Commas (Apply A-18)
-  → Visualize groups by coloring and/comma/the etc. in the KJV.
-  → | Group | Included Words | Conjunction Structure | Meaning |
-  → Determine whether it is a flat list or an intentional subgrouping.
-
-[STEP 3] Check for Grammatical/Theological Chain Breakage upon Deletion (Core)
-  → Check what grammatical anomalies occur when the attacked verse is deleted.
-  → Derive original language grammar errors, such as a masculine participle modifying a neuter noun (Gender mismatch).
-  → e.g.: If 1 John 5:7 is deleted → A grammatical collapse occurs in verse 8 where a masculine participle (οἱ μαρτυροῦντες) must modify neuter nouns.
-
-[STEP 4] Heaven/Earth Symmetrical Structure Verification
-  → Check "Does the symmetrical structure collapse upon deletion?"
-  → Verse 7 (heaven) and verse 8 (earth) must exist or not exist as a set → Proves structural design.
-
-[STEP 5] Cross-Verification of the Same Pattern in Other Verses (V-06)
-  → Check if the same conjunction grouping pattern is used elsewhere in the Bible.
-```
-
-### 📌 Reference Case 1: 1 John 5:7 Comma
+### 실행 단계
 
 ```
-[Grammatical Collapse upon Deletion]:
-  Verse 8: "οἱ μαρτυροῦντες" (Masculine plural participle)
-  → Modifies "τὸ πνεῦμα καὶ τὸ ὕδωρ καὶ τὸ αἷμα" (Neuter nouns)
-  → If verse 7 is absent: Masculine participle modifies neuter nouns → Greek Gender mismatch grammar error ❌
-  If verse 7 is present: Masculine nouns (ὁ Πατήρ, ὁ Λόγος) act as antecedents → Perfect grammar ✅
-[Heaven/Earth Symmetry]: Comma-inclusive families always have ἐν τῷ οὐρανῷ (v. 7) + ἐν τῇ γῇ (v. 8) existing as a set ✅
+[STEP 1] 공격받는 구절의 KJV 원문 전체 인용
+  → 삭제 주장 구절 앞뒤 2~3절을 포함하여 KJV 원문을 완전히 인용.
+
+[STEP 2] 접속사/콤마 색별 그룹핑 분석 (A-18 적용)
+  → KJV의 and/comma/the 등을 색으로 구분하여 그룹을 시각화.
+  → | 그룹 | 포함 단어들 | 접속사 구조 | 의미 |
+  → 평면적 나열인지, 의도된 하위 그룹핑인지 판별.
+
+[STEP 3] 삭제 시 문법/신학 체인 단절 확인 (핵심)
+  → 공격받는 구절을 삭제했을 때 어떤 문법적 이상이 발생하는지 확인.
+  → 남성 분사가 중성 명사를 수식하는 성(Gender) 불일치 등 원어 문법 오류를 도출.
+  → 예: 요일 5:7 삭제 시 → 8절의 남성 분사(οἱ μαρτυροῦντες)가 중성 명사들을 받아야 하는 문법 붕괴 발생.
+
+[STEP 4] 하늘/땅 대칭 구조 검증
+  → "삭제 시 대칭 구조가 붕괴되는가?"를 확인.
+  → 7절(하늘)과 8절(땅)이 반드시 세트로 있거나 없는 패턴 → 구조적 설계 증명.
+
+[STEP 5] 다른 구절에서의 동일 패턴 교차 검증 (V-06)
+  → 동일한 접속사 그룹핑 패턴이 성경 다른 곳에서도 사용되는지 확인.
 ```
 
-### 📌 Reference Case 2: 1 Chronicles 1 Timna Genealogy
+### 📌 레퍼런스 케이스 1: 요한1서 5:7 콤마
 
 ```
-[Conjunction Grouping]:
+[삭제 시 문법 붕괴]:
+  8절: "οἱ μαρτυροῦντες" (남성 복수 분사)
+  → "τὸ πνεῦμα καὶ τὸ ὕδωρ καὶ τὸ αἷμα" (중성 명사들)를 수식
+  → 7절 없으면: 남성 분사가 중성 명사 수식 → 헬라어 성(Gender) 불일치 문법 오류 ❌
+  7절 있으면: 남성 명사들(ὁ Πατήρ, ὁ Λόγος)이 선행사 → 문법 완벽 ✅
+[하늘/땅 대칭]: Comma 포함 전 계열은 반드시 ἐν τῷ οὐρανῷ(7절) + ἐν τῇ γῇ(8절) 세트로 존재 ✅
+```
+
+### 📌 레퍼런스 케이스 2: 역대기상 1장 팀나 족보
+
+```
+[접속사 그룹핑]:
   "The sons of Eliphaz; Teman, AND Omar, Zephi, AND Gatam, Kenaz, AND Timna, AND Amalek."
-  → Yellow Group: Teman + Omar (Paired by 'and')
-  → Green Group: Zephi + Gatam (Paired by 'and')
-  → Red Group: Kenaz + Timna + Amalek (Grouped as one family unit = Concubine Timna and her son Amalek)
-[Conclusion]: If it were a random list, this precise pair structure would be impossible → Proves genealogy compression design ✅
+  → 옐로우 그룹: Teman + Omar (and로 쌍을 이룸)
+  → 그린 그룹: Zephi + Gatam (and로 쌍을 이룸)
+  → 레드 그룹: Kenaz + Timna + Amalek (한 가문 단위로 묶임 = 첩 팀나와 그 아들 아말렉)
+[결론]: 무작위 나열이었다면 이 정교한 쌍 구조가 불가능 → 족보 압축 설계 증명 ✅
 ```
 
 ---
 
-## 🔬 SKILL-08: TYPE-H — Evidence Independence Reversal Pipeline
+## 🔬 SKILL-08: TYPE-H — 사본학적 증거 독립성 역전 파이프라인
 
-> **When it triggers**: When attacked with the quantitative logic that "the side with more manuscripts is right".
-> **Core Suspicion**: "Aren't the attacker's 5,800 manuscripts derived from a single source? How many independent sources are there?"
+> **언제 발동하는가**: "사본이 많은 쪽이 옳다"는 수량 논리로 공격받을 때.  
+> **핵심 의심**: "공격자의 사본 5,800개는 하나의 출처에서 파생된 복사본 아닌가? 독립적인 출처의 수는 몇 개인가?"
 
-### Execution Steps
-
-```
-[STEP 1] Acknowledge Manuscript Count Attack and Immediately Shift the Frontline
-  → "We acknowledge the inferiority in manuscript numbers. However, manuscript count ≠ proximity to the original."
-  → Reason: Manuscript count = How many times the text was copied. It is not evidence of being closer to the original.
-
-[STEP 2] Calculate Independent Sources (Apply A-24)
-  → Check if the majority of manuscripts are derived from a single source (e.g., all Alexandrian family → 1 independent source).
-  → Classify the independent sources of the supporting manuscripts:
-     | Source | Region | Language | Era | Independence |
-  → Those derived from the same region/family are counted as 1 independent source regardless of their physical number.
-
-[STEP 3] Create Region/Language/Era Independence Weighting Matrix
-  → Check if each independent source transmits the same text from different regions, languages, and eras.
-  → This is the core of cross-verification: The same text from places unable to communicate with each other → Powerful independent evidence.
-
-[STEP 4] Time Back-Calculation: Move the Attack Frontline to "The Era of the Earliest Evidence"
-  → If there is evidence from Patristic citations: Evidence from a much earlier period than extant physical manuscripts.
-  → Evidence cited in official documents (Councils, Bishops' confessions of faith): Testimony of the church community, not an individual.
-
-[STEP 5] Track Consistency of "Deletion Patterns" (Apply A-22)
-  → Does the attacking manuscript family have a pattern of consistently deleting other verses besides this one?
-  → If there is a pattern: The reliability of the manuscript family itself can be questioned.
-```
-
-### 📌 Reference Case: 1 John 5:7 Comma
+### 실행 단계
 
 ```
-[Majority Manuscript Side]: 5,800 Alexandrian-derived manuscripts → Effectively 1 independent source (Alexandrian family)
-[Minority Side Independent Source Calculation]:
-  ① North African Latin tradition (Tertullian 200 AD, Cyprian 250 AD) — Independent Source 1
-  ② Hispanian Latin tradition (Priscillian 380 AD) — Independent Source 2
-  ③ Roman/Vulgate family (Jerome Preface 390 AD) — Independent Source 3
-  ④ 484 AD Council of Carthage official confession of faith (signed by hundreds of bishops) — Independent Source 4
-  → 4 independent regional/era sources vs. Alexandrian single family ✅
-[Deletion Pattern]: Alexandrian family → Simultaneously deletes 1 John 5:7 + John 5:4 + Acts 8:37 → Consistent pattern ✅
+[STEP 1] 사본 수 공격 인정 후 즉시 전선 이동
+  → "사본 수가 열세임을 인정한다. 그러나 사본 수 ≠ 원본 근접성이다."
+  → 이유: 사본 수 = 그 텍스트가 많이 복사되었다는 것. 원본에 가깝다는 증거가 아님.
+
+[STEP 2] 독립 출처 계산 (A-24 적용)
+  → 다수 사본들이 단일 출처에서 파생된 것인지 확인 (예: 모두 알렉산드리아 계열 → 독립 출처 1개).
+  → 지지 사본들의 독립 출처를 분류:
+     | 출처 | 지역 | 언어 | 연대 | 독립성 |
+  → 같은 지역/계열에서 파생된 것들은 물리적 수와 무관하게 독립 출처 1개로 계산.
+
+[STEP 3] 지역·언어·시대 독립성 가중치 행렬 작성
+  → 각 독립 출처가 서로 다른 지역, 언어, 시대에서 동일한 본문을 전승하는지 확인.
+  → 이것이 교차 검증의 핵심: 서로 연락 불가능한 곳에서 동일한 본문 → 강력한 독립 증거.
+
+[STEP 4] 시간 역산: 공격 전선을 "최초 증거의 연대"로 이동
+  → 교부 인용 증거가 있다면: 현존 물리적 사본보다 훨씬 이른 시기의 증거.
+  → 공식 문서(공의회, 주교 신앙고백서)에 인용된 증거: 개인이 아닌 교회 공동체의 증언.
+
+[STEP 5] "삭제 패턴"의 일관성 추적 (A-22 적용)
+  → 공격하는 사본 계열이 이 구절 외에 다른 구절들도 일관되게 삭제하는 패턴이 있는가?
+  → 패턴이 있다면: 해당 사본 계열의 신뢰성 자체를 문제 삼을 수 있다.
 ```
 
----
-
-## 🔬 SKILL-09: TYPE-I — Lexical Frequency Symmetry Verification Pipeline
-
-> **When it triggers**: When the usage frequency of a specific verb/noun exactly matches in the same biblical passage or adjacent verses.
-> **Core Suspicion**: "Is this symmetry a coincidence? Or a theologically intended structural design?"
-
-### Execution Steps
+### 📌 레퍼런스 케이스: 요한1서 5:7 콤마
 
 ```
-[STEP 1] Exhaustively Count Core Verbs/Words
-  → Select core verbs to analyze in the target passage.
-  → Exhaustively count how many times the word appears in the KJV original text (without omission).
-  → | Word | Verses Appeared | Total Count |
-
-[STEP 2] Discover Symmetrical Pairs
-  → Check if the frequencies of two words that theologically correspond to each other match.
-  → e.g.: "created (bara)" 5 times = "named (called)" 5 times → Perfect balance of new creation and reorganization.
-
-[STEP 3] Create Semantic Correspondence Table
-  → | Count | Context of Word A | Basis for Semantic Connection | Context of Word B |
-  → Describe the theological reason why these two words correspond.
-
-[STEP 4] Word Count Cross-Verification (Apply A-17)
-  → Check if the word count of different verses is the same.
-  → 22 letters of the Hebrew alphabet = Symbol of the perfect Word of God → 22-word symmetry is an intended design.
-  → Must cross-verify if the same structure holds true in the Greek TR original text.
-
-[STEP 5] Argue to Rule Out Probabilistic Coincidence
-  → Present "What is the probability of this symmetry being a coincidence?" to argue design intent.
-  → Persuade with the probability that the word count, symmetrical structure, and theological meaning hold true simultaneously.
-```
-
-### 📌 Reference Case: Genesis 1 bara/called Symmetry
-
-```
-[Counting]:
-  bara (created): Gen 1:1 (1x) + Gen 1:21 (1x) + Gen 1:27 (3x) = Total 5 times
-  called (naming): Day, Night, Heaven, Earth, Seas = Total 5 times
-[Symmetrical Meaning]:
-  bara = New creation out of nothing (Heaven/Earth, Whales, Humans)
-  called = Reorganized and named after chaos (Day, Night, Heaven, Earth, Seas)
-  → 5:5 Perfect balance = "New creation" and "Reorganization" operate equally within the 6 days ✅
-[Word Count Cross-check]:
-  Gen 1:27 (KJV): "So God created man in his own image, in the image of God created he him; male and female created he them." = 22 words
-  1 John 5:7 (KJV): "For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one." = 22 words
-  22 letters of Hebrew alphabet = Symbol of perfect Word → Two Trinitarian revelation verses equally have 22 words ✅
+[다수 사본측]: 알렉산드리아 파생 사본 5,800개 → 독립 출처 사실상 1개 (알렉산드리아 계열)
+[소수 측 독립 출처 계산]:
+  ① 북아프리카 라틴 전통 (터툴리안 200AD, 키프리아누스 250AD) — 독립 출처 1
+  ② 히스파니아 라틴 전통 (프리스킬리안 380AD) — 독립 출처 2
+  ③ 로마/불가타 계열 (Jerome 서문 390AD) — 독립 출처 3
+  ④ 484AD 카르타고 공의회 공식 신앙고백서 (수백명 주교 서명) — 독립 출처 4
+  → 4개의 독립 지역·시대 출처 vs 알렉산드리아 단일 계열 ✅
+[삭제 패턴]: 알렉산드리아 계열 → 요일 5:7 + 요 5:4 + 행 8:37 동시 삭제 → 일관된 패턴 ✅
 ```
 
 ---
 
-## 🔀 [Complex TYPE Combination Guide: Additional Discovery Potential When Applying 3 or More TYPEs Simultaneously]
+## 🔬 SKILL-09: TYPE-I — 어휘 빈도 대칭 설계 검증 파이프라인
+
+> **언제 발동하는가**: 동일한 성경 단락이나 인접 구절들에서 특정 동사/명사의 사용 횟수가 정확히 일치할 때.  
+> **핵심 의심**: "이 대칭이 우연인가? 아니면 신학적으로 의도된 구조적 설계인가?"
+
+### 실행 단계
+
+```
+[STEP 1] 핵심 동사/단어 전수 카운팅
+  → 분석 대상 단락에서 분석할 핵심 동사들을 선정한다.
+  → KJV 원문에서 해당 단어가 몇 회 등장하는지 전수 계산 (생략 없이).
+  → | 단어 | 등장 절 | 총 횟수 |
+
+[STEP 2] 대칭 쌍 발견
+  → 서로 신학적으로 대응하는 두 단어의 횟수가 일치하는지 확인.
+  → 예: "창조(bara)" 5회 = "명명(called)" 5회 → 신창조와 재편성의 완전한 균형.
+
+[STEP 3] 의미론적 대응 표 작성
+  → | 횟수 | A 단어 등장 맥락 | 의미론적 연결 근거 | B 단어 등장 맥락 |
+  → 왜 이 두 단어가 대응하는지 신학적 이유를 기술.
+
+[STEP 4] 단어 수(Word Count) 교차 검증 (A-17 적용)
+  → 서로 다른 구절의 단어 수가 동일한지 확인.
+  → 히브리어 알파벳 22자 = 하나님의 완전한 말씀 상징 → 22단어 대칭은 의도된 설계.
+  → 반드시 헬라어 TR 원문에서도 동일 구조 성립하는지 교차 검증.
+
+[STEP 5] 확률적 우연 배제 논증
+  → "이 대칭이 우연일 확률은 얼마인가?"를 제시하여 설계 의도를 논증.
+  → 단어 수, 대칭 구조, 신학적 의미가 동시에 성립할 확률로 설득.
+```
+
+### 📌 레퍼런스 케이스: 창세기 1장 bara/called 대칭
+
+```
+[카운팅]:
+  bara(창조): 창 1:1(1회) + 창 1:21(1회) + 창 1:27(3회) = 총 5회
+  called(명명): 낮·밤·하늘·땅·바다 = 총 5회
+[대칭 의미]:
+  bara = 무에서 새로 창조 (하늘땅·고래·인간)
+  called = 혼돈 후 재편성하여 명명 (낮·밤·하늘·땅·바다)
+  → 5:5 완전한 균형 = "새 창조"와 "재편성"이 6일 안에서 동등하게 작동함 ✅
+[단어 수 교차]:
+  창 1:27 (KJV): "So God created man in his own image, in the image of God created he him;
+                  male and female created he them." = 22단어
+  요일 5:7 (KJV): "For there are three that bear record in heaven, the Father, the Word,
+                  and the Holy Ghost: and these three are one." = 22단어
+  히브리어 알파벳 22자 = 완전한 말씀의 상징 → 두 삼위일체 계시 구절이 동일하게 22단어 ✅
+```
+
+---
+
+## 🔀 [복합 TYPE 조합 가이드: 3개 이상 TYPE 동시 적용 시 추가 발견 가능성]
 
 > [!TIP]
-> When combining multiple TYPEs rather than a single TYPE, new insights not found by existing academia emerge.
+> 단일 TYPE보다 여러 TYPE을 조합할 때 기존 학계가 발견하지 못한 새로운 통찰이 나온다.
 
-| Combination | Synergy Effect | Application Case |
+| 조합 | 시너지 효과 | 적용 사례 |
 |:---|:---|:---|
-| **TYPE-A + TYPE-E** | Mathematically rejecting all existing competing interpretations via chronological back-calculation | Ahaziah dilemma |
-| **TYPE-D + TYPE-G** | Double defense with Hebrew convention + conjunction structure | Timna genealogy |
-| **TYPE-F + TYPE-E** | Rejecting tradition with typological structure + sequentially eliminating competing models | Peter's martyrdom location |
-| **TYPE-G + TYPE-H + TYPE-I** | Triple defense: Grammatical chain + Independence reversal + Mathematical design | 1 John Comma |
-| **TYPE-B + TYPE-A** | Completely resolving the time puzzle with timeline serial + sequential parallel | Passion Week events |
-| **TYPE-I + TYPE-F** | Proving the origin of theological design with numerical symmetry + typological structure | Genesis 1 + 1 John 5:7 |
+| **TYPE-A + TYPE-E** | 연대기 역산으로 기존 모든 경쟁 해석을 수학적으로 기각 | 아하지야 난제 |
+| **TYPE-D + TYPE-G** | 히브리 관습 + 접속사 구조로 이중 방어 | 팀나 족보 |
+| **TYPE-F + TYPE-E** | 예표 구조로 전승 기각 + 경쟁 모델 순서대로 제거 | 베드로 순교 장소 |
+| **TYPE-G + TYPE-H + TYPE-I** | 문법 체인 + 독립성 역전 + 수학적 설계 3중 방어 | 요한1서 콤마 |
+| **TYPE-B + TYPE-A** | 타임라인 직렬 + 순차 병렬로 시간 퍼즐 완전 해소 | 고난주간 사건 |
+| **TYPE-I + TYPE-F** | 숫자 대칭 + 예표 구조로 신학적 설계 원점 증명 | 창세기 1장 + 요일 5:7 |
 
 ---
 
-## 📚 [Reference Case Index — Overview]
+## 📚 [레퍼런스 케이스 인덱스 — 전체]
 
-| Document Name | Main TYPE | Core Weapon | Final Verdict |
+| 문서명 | 주요 TYPE | 핵심 무기 | 최종 판결 |
 |:---|:---:|:---|:---:|
-| Ahaziah_Chronology_Dilemma_Resolution.md | A + E | 32+8+2=42 serial back-calc, Ben idiom | ✅ |
-| Terah_70_Years_Abram_Birth_Chronology_Dilemma.md | A + D | 205-75=130 back-calc, Hebrew genealogy formula | ✅ |
-| Saul_Damascus_Two_Records_Sequential_Integration.md | B | 7-stage utterance order reconstruction | ✅ |
-| Solomon_Stalls_40k_vs_4k.md | C | 1,400 chariots back-calc, analogy (hangar) | ✅ |
-| Passion_Week_Timeline_Tomb_Event_Resolution.md | B + E | Separating two Sabbaths, spice purchase gap | ✅ |
-| Matthew_Chapter_1_14_Generations_and_Easter.md | D | David dual inclusion, watershed convention | ✅ |
-| Thursday_Crucifixion_Verification.md | E | Exhaustive rejection of 3 competing models | ❌ Rejected |
-| Peter_Calvary_Martyrdom_Theory.md | F + E | 7-fold type parallel + rejecting Roman tradition biblical gap | ✅ Leading |
-| 1_Chronicles_Chapter_1_Timna_Genealogy_Dilemma.md | G + D | and/comma 3-group structure + genealogy compression convention | ✅ |
-| Secret_of_the_1_John_Chapter_5_Comma_Verse.md | G + H | Greek gender discord + 4 independent sources reversal | ✅ Leading |
-| Genesis_Chapter_1.md | I + F | bara/called 5:5 symmetry, 22-word Trinitarian design | ✅ |
-| 1_Chronicles_Chapter_1_Timna_Genealogy_Dilemma.md | G + D | KJV conjunction grouping + genealogy compression | ✅ |
+| 아하지야_연대난제_해결.md | A + E | 32+8+2=42 직렬 역산, Ben 관용구 | ✅ |
+| 데라_70세_아브람_출생_연대난제.md | A + D | 205-75=130 역산, 히브리 족보 공식 | ✅ |
+| 사울_다마스쿠스_두기록_순차통합.md | B | 7단계 발화 순서 재구성 | ✅ |
+| 솔로몬_외양간수_4만vs4천.md | C | 병거 1,400대 역산, 비유(격납고) | ✅ |
+| 고난주간_타임라인_무덤사건_해결.md | B + E | 두 안식일 분리, 향품 구매 공백 | ✅ |
+| 마태복음_1장_14세대와_부활절.md | D | 다윗 이중 포함, 분기점 관습 | ✅ |
+| 목요일_십자가설_검증.md | E | 경쟁 모델 3개 전수 기각 | ❌ 기각 |
+| 베드로_갈보리_순교설.md | F + E | 7중 예표 평행 + 로마 전승 성경 공백 기각 | ✅ 유력 |
+| 역대기상_1장_팀나_족보_난제.md | G + D | and/comma 3그룹 구조 + 족보 압축 관습 | ✅ |
+| 요한1서_5장_콤마_구절의_비밀.md | G + H | 헬라어 성 불일치 + 4개 독립 출처 역전 | ✅ 유력 |
+| 창세기1장.md | I + F | bara/called 5:5 대칭, 22단어 삼위일체 설계 | ✅ |
+| 역대기상_1장_팀나_족보_난제.md | G + D | KJV 접속사 그룹핑 + 족보 압축 | ✅ |
 
 ---
 
-## 🔬 SKILL-10: TYPE-J — External Historical Source Cross-Verification Pipeline
+## 🔬 SKILL-10: TYPE-J — 외부 역사 문헌 교차 검증 파이프라인
 
-> **When it triggers**: When the historical claims of the Bible (people, events, locations, transmissions) need to be verified or strengthened with non-biblical historical books or archaeological data.
-> **Core Suspicion**: "Does an external historical document corresponding to this biblical record exist? Does it support, refute, or remain neutral to the Bible?"
+> **언제 발동하는가**: 성경의 역사적 주장(인물, 사건, 장소, 전래)을 비성경 역사서나 고고학 자료로 검증하거나 강화해야 할 때.  
+> **핵심 의심**: "이 성경 기록에 대응하는 외부 역사 문헌이 존재하는가? 그것이 성경을 지지하는가, 반박하는가, 중립인가?"
 
-### Execution Steps
-
-```
-[STEP 1] Clarify Biblical Claim
-  → Clearly define the biblical claim to be verified in a single sentence.
-  → e.g.: "There is a possibility that the Gospel of Pentecost was transmitted to Silla"
-  → e.g.: "Jesus is a historical figure who actually existed" (Tacitus verification)
-
-[STEP 2] Exhaustively Collect Related External Sources
-  → Collect external historical records related to the biblical era/region/event by category:
-     □ Roman history: Tacitus' 《Annals》, Suetonius' 《The Twelve Caesars》
-     □ Jewish history: Josephus' 《Antiquities of the Jews》, 《The Jewish War》
-     □ Assyria/Babylon: Nineveh tablets, Babylonian Chronicles
-     □ Egypt: Pharaoh chronicles, Merneptah Stele
-     □ Eastern history: Samguk Sagi, Samguk Yusa, Indian/Syriac church records
-     □ Archaeology: Excavated artifacts, inscriptions, coins, architectural structures
-
-[STEP 3] Classify Source Reliability Rating
-  → Assign a reliability rating to each source:
-     🔴 Direct Evidence: Explicitly mentions/confirms the biblical record
-     🟠 Strong Indirect: Independent record of the same era/region/event
-     🟡 Weak Indirect: Circumstantial evidence (traces of place names, customs, language)
-     ⬛ Neutral: Silent on the claim (absence ≠ disproof)
-
-[STEP 4] Backtrack Etymology of Place Names/Language/Archaeology
-  → When a place name is the basis:
-     - Check the Hanja/linguistic notation in the oldest official record
-     - If the notation changed later, investigate the time and reason for the change
-     - Analyze whether the meaning of the original notation connects with a theological concept
-  → e.g.: Samguk Sagi King Gyeongdeok 757 AD record → Dalseong-gun Hwawon region = 舌化縣 (Seolhwahyeon) = Tongue (舌) + Fire (火/化)
-       → Meaning intersects with the concept of Pentecost "tongues of fire" (Acts 2:3)
-
-[STEP 5] Output 3-Tier Verdict
-  → ✅ Supported: External source directly/indirectly confirms biblical claim
-  → ⚠️ Circumstantial: Plausible but lacks direct connecting evidence (hypothesis maintained)
-  → ❌ Refuted: External source explicitly denies biblical claim
-  → Must specify "Evidence Strength (🔴/🟠/🟡)" along with the verdict
-```
-
-### 📌 Reference Case 1: Samguk Sagi 舌化縣 and Possibility of Pentecost Transmission
+### 실행 단계
 
 ```
-[Biblical Claim]: The possibility that the Pentecost Gospel was transmitted to Silla through Apostle Thomas or early missionaries
-[External Source]: Samguk Sagi Geography Section — King Gyeongdeok 757 AD "Dalseong-gun Hwawon region = 舌化縣 (Seolhwahyeon)"
-[Etymology Analysis]:
-  舌 (Tongue Seol) + 化 (Become Hwa) or 火 (Fire Hwa)
-  → "Tongue transforms" or "Tongues of fire" → Matches meaning with Acts 2:3 Pentecost "tongues of fire" concept
-  → Later Hanja replaced with 雪花 (Snowflake) → Daegu is a region where it rarely snows → Meaning mismatch
-[Reliability]: 🟡 Weak Indirect (Circumstantial evidence) — No direct connecting document
-[Verdict]: ⚠️ Circumstantial — Linguistic plausibility exists but UNRESOLVED
+[STEP 1] 성경 주장 명확화
+  → 검증 대상 성경 주장을 단 한 줄로 명확히 정의한다.
+  → 예: "오순절 성령 강림의 복음이 신라에까지 전파되었을 가능성이 있다"
+  → 예: "예수님은 역사적으로 실존한 인물이다" (타키투스 검증)
+
+[STEP 2] 관련 외부 문헌 전수 수집
+  → 성경 시대/지역/사건과 연관된 외부 역사 기록을 범주별로 수집:
+     □ 로마 역사서: 타키투스 《연보》, 수에토니우스 《황제 열전》
+     □ 유대 역사서: 요세푸스 《유대 고대사》, 《유대 전쟁사》
+     □ 아시리아·바빌론: 니느웨 서판, 바빌론 연대기
+     □ 이집트: 파라오 연대기, 메르넵타 석비
+     □ 동방 역사서: 삼국사기, 삼국유사, 인도·시리아 교회 기록
+     □ 고고학: 발굴 유물, 비문, 동전, 건축 구조
+
+[STEP 3] 문헌 신뢰도 등급 분류
+  → 각 문헌에 대해 신뢰도 등급을 부여한다:
+     🔴 직접 증거: 성경 기록을 명시적으로 언급·확인
+     🟠 강한 간접: 동일 시대·지역·사건에 대한 독립 기록
+     🟡 약한 간접: 정황 증거 (지명·관습·언어 흔적)
+     ⬛ 중립: 해당 주장에 대해 침묵 (부재 ≠ 반증)
+
+[STEP 4] 지명·언어·고고학 어원 역추적
+  → 지명이 근거일 경우:
+     - 가장 오래된 공식 기록에서의 한자/언어 표기를 확인
+     - 후대에 변경된 표기가 있다면 변경 시점과 이유를 조사
+     - 원래 표기의 의미가 신학적 개념과 연결되는지 분석
+  → 예: 삼국사기 경덕왕 757년 기록 → 舌化縣(설화현) = 혀(舌)+불(火/化)
+       → 오순절 "불의 혀" (행 2:3) 개념과 의미 교차
+
+[STEP 5] 3단 판정 출력
+  → ✅ 지지: 외부 문헌이 성경 주장을 직접/간접으로 확인
+  → ⚠️ 정황: 개연성은 있으나 직접 연결 증거 부재 (가설 유지)
+  → ❌ 반박: 외부 문헌이 성경 주장을 명백히 부정
+  → 판정과 함께 "증거 강도(🔴/🟠/🟡)"를 반드시 명시
 ```
 
-### 📌 Reference Case 2: Tacitus' 《Annals》 and Jesus' Historicity
+### 📌 레퍼런스 케이스 1: 삼국사기 舌化縣과 오순절 전래 가능성
 
 ```
-[Biblical Claim]: Jesus Christ is a historical figure who actually existed
-[External Source]: Tacitus' 《Annals》 15.44 (circa AD 116)
-  "Christus, from whom the name had its origin, suffered the extreme penalty during the reign of Tiberius at the hands of one of our procurators, Pontius Pilatus, and a most mischievous superstition, thus checked for the moment, again broke out..."
-[Reliability]: 🔴 Direct Evidence (Independent record by Roman imperial historian)
-  → Recorded by a Roman historian hostile to Christians → Highest reliability rating
-[Verdict]: ✅ Supported — Jesus' historicity confirmed by external source
+[성경 주장]: 사도 도마 혹은 초기 선교사들을 통해 오순절 복음이 신라에 전파되었을 가능성
+[외부 문헌]: 삼국사기 지리지 — 경덕왕 757년 "달성군 화원 지역 = 舌化縣(설화현)"
+[어원 분석]:
+  舌(혀 설) + 化(될 화) 또는 火(불 화)
+  → "혀가 변하다" 또는 "불의 혀" → 행 2:3 오순절 "불의 혀" 개념과 의미 일치
+  → 후대에 雪花(눈꽃)로 한자 교체 → 대구는 눈이 거의 오지 않는 지역 → 의미 불일치
+[신뢰도]: 🟡 약한 간접 (정황 증거) — 직접 연결 문헌 없음
+[판정]: ⚠️ 정황 — 언어학적 개연성은 있으나 UNRESOLVED
 ```
 
----
-
-## 🔬 SKILL-11: TYPE-K — Scientific & Forensic Plausibility Verification Pipeline
-
-> **When it triggers**: When attacked that "the Bible's description is scientifically impossible", or when two records seem to conflict but can be integrated into a single process medically/physically.
-> **Core Suspicion**: "Is this biblical description something that truly cannot happen? Or is it hard to understand with the science/medicine of that time, but fully explainable by modern science?"
-
-### Execution Steps
+### 📌 레퍼런스 케이스 2: 타키투스 《연보》와 예수님 역사성
 
 ```
-[STEP 1] Convert the Attacked Biblical Description into a Medical/Scientific Proposition
-  → When attacked that "The Bible describes X, but this is impossible":
-  → Convert the description into a specific scientific question.
-  → e.g.: "Can a person who hanged themselves have their abdomen burst open and intestines spill out?"
-  → e.g.: "When crucified, if nails are driven into both hands, can it support the weight?"
-
-[STEP 2] Specify the Related Scientific Field
-  → Specify which scientific field will be used for verification:
-     □ Forensic Medicine: Manner of death, postmortem changes
-     □ Medicine/Physiology: Physical reactions, pain, survival probability
-     □ Physics/Mechanics: Force, weight, pressure, structural possibility
-     □ Meteorology/Geology: Weather phenomena, earthquakes, floods
-     □ Astronomy: Solar eclipse, lunar eclipse, movement of stars
-     □ Biology: Animal/plant behavior, propagation speed
-
-[STEP 3] Reconstruct Step-by-Step Process (Combined with TYPE-B)
-  → Integrate two seemingly conflicting records into a single medical/physical process.
-  → Format: [Stage N] Event → Scientific Explanation → Corresponding Bible Verse
-
-[STEP 4] Substitute Modern Medical/Scientific Literature or Cases
-  → Have similar cases ever been recorded in forensic literature?
-  → Has the same phenomenon ever been observed in other historical events?
-  → Specify the corresponding mechanism from medical textbooks or forensic Reports.
-
-[STEP 5] Output Scientific Plausibility Verdict
-  → ✅ Plausible: Scientifically fully possible and explained
-  → ⚠️ Possible: Rare but possible case
-  → ❌ Inconsistent: Difficult to explain scientifically (state honestly)
-```
-
-### 📌 Reference Case: Death of Judas — Matt 27:5 vs Acts 1:18
-
-```
-[Superficial Conflict]:
-  Matthew 27:5  "went and hanged himself"
-  Acts 1:18 "falling headlong, he burst asunder in the midst, and all his bowels gushed out"
-
-[Scientific Field]: Forensic Medicine + Physics
-
-[Step-by-Step Process Reconstruction]:
-  Stage 1: Judas hangs himself by the neck from a tree/cliff and commits suicide (Matt 27:5)
-  Stage 2: Significant time passes after death → Body begins to decompose (Passover heat environment)
-  Stage 3: Abdominal gas expands due to decomposition → Abdominal pressure rises extremely
-  Stage 4: The rope snaps or the branch breaks → Body falls upside down
-  Stage 5: Ground impact + extreme abdominal pressure → Abdomen bursts → Intestines spill out (Acts 1:18)
-
-[Forensic Basis]:
-  - Abdominal expansion of a decomposed body (Bloat Stage) is an established phenomenon in forensic medicine
-  - Decomposition accelerates in high temperatures (Jerusalem Passover spring climate)
-  - πρηνής (prenes, Acts 1:18) = "face down / falling headlong" → Accurately describes the falling posture
-  - The sum of fall impact + decomposition gas pressure → Abdominal bursting is entirely possible ✅
-
-[Verdict]: ✅ Plausible — The two records respectively record the sequential process of the same event
-  Matthew = Recorded the manner of death / Acts = Recorded the state of the body when found
-  → Combined application of TYPE-B (Sequential Integration) + TYPE-K (Forensic Plausibility)
+[성경 주장]: 예수 그리스도는 역사적으로 실존한 인물이다
+[외부 문헌]: 타키투스 《연보(Annals)》 15.44 (AD 116년경)
+  "크리스투스(Christus)는 티베리우스 황제 시절 총독 폰티우스 필라투스에 의해
+   처형당했다. 그 해악적 미신은 잠시 억눌렸으나 다시 로마에서 번성했다."
+[신뢰도]: 🔴 직접 증거 (로마 황실 사관의 독립 기록)
+  → 그리스도인과 적대적 관계의 로마 역사가가 기록 → 신뢰도 최고 등급
+[판정]: ✅ 지지 — 예수님 역사성 외부 문헌으로 확정
 ```
 
 ---
 
-## 🔀 [Complex TYPE Combination Guide — Updated]
+## 🔬 SKILL-11: TYPE-K — 과학적·법의학적 정합 검증 파이프라인
+
+> **언제 발동하는가**: "성경의 묘사가 과학적으로 불가능하다"는 공격을 받거나, 두 기록이 충돌하는 것처럼 보이지만 의학·물리학적으로 하나의 과정으로 통합 가능할 때.  
+> **핵심 의심**: "이 성경의 묘사가 실제로 일어날 수 없는 일인가? 아니면 당시 과학/의학 지식으로는 이해하기 어렵지만 현대 과학으로 충분히 설명 가능한가?"
+
+### 실행 단계
+
+```
+[STEP 1] 공격받는 성경 묘사를 의학/과학 명제로 변환
+  → "성경이 X라고 묘사했는데 이것은 불가능하다"는 공격을 받으면:
+  → 해당 묘사를 구체적 과학 질문으로 변환한다.
+  → 예: "목을 매달아 죽은 사람의 배가 터져 창자가 쏟아질 수 있는가?"
+  → 예: "십자가 처형 시 양쪽 손에 못을 박으면 무게를 지탱할 수 있는가?"
+
+[STEP 2] 관련 과학 분야 특정
+  → 어떤 과학 분야로 검증하는지 명시:
+     □ 법의학 (Forensic Medicine): 사망 방식, 시신 변화
+     □ 의학/생리학: 신체 반응, 통증, 생존 가능성
+     □ 물리학/역학: 힘, 무게, 압력, 구조적 가능성
+     □ 기상학/지질학: 기후 현상, 지진, 홍수
+     □ 천문학: 일식, 월식, 별의 이동
+     □ 생물학: 동식물 행동, 전파 속도
+
+[STEP 3] 단계별 프로세스 재구성 (TYPE-B와 결합)
+  → 충돌처럼 보이는 두 기록을 하나의 의학적/물리적 프로세스로 통합한다.
+  → 형식: [N단계] 사건 → 과학적 설명 → 해당 성경 구절
+
+[STEP 4] 현대 의학·과학 문헌 또는 사례 대입
+  → 유사 사례가 법의학 문헌에 기록된 적 있는가?
+  → 동일한 현상이 다른 역사적 사건에서 관찰된 적 있는가?
+  → 의학 교과서 또는 법의학 보고서의 해당 메커니즘 명시.
+
+[STEP 5] 과학적 정합성 판정 출력
+  → ✅ 정합: 과학적으로 완전히 가능하고 설명됨
+  → ⚠️ 가능: 드물지만 발생 가능한 사례
+  → ❌ 불일치: 과학적으로 설명이 어려움 (솔직히 명시)
+```
+
+### 📌 레퍼런스 케이스: 유다의 죽음 — 마 27:5 vs 행 1:18
+
+```
+[표면적 충돌]:
+  마태복음 27:5  "가서 목을 매어 죽으니라 (hanged himself)"
+  사도행전 1:18 "거꾸러져 배가 터져 창자가 다 흘러나온지라 (fell headlong, burst asunder)"
+
+[과학 분야]: 법의학 (Forensic Medicine) + 물리학
+
+[단계별 프로세스 재구성]:
+  1단계: 유다가 나무/절벽 위에서 목을 매달아 스스로 목숨을 끊음 (마 27:5)
+  2단계: 사망 후 상당 시간 경과 → 시신 부패 시작 (유월절 더위 환경)
+  3단계: 부패로 복부 가스 팽창 → 복압 극도로 상승
+  4단계: 줄이 끊어지거나 나뭇가지가 부러짐 → 시신이 거꾸로 추락
+  5단계: 지면 충격 + 극도의 복압 → 복부 파열 → 창자 쏟아짐 (행 1:18)
+
+[법의학적 근거]:
+  - 부패한 시신의 복부 팽창(Bloat Stage)은 법의학에서 확립된 현상
+  - 높은 온도(예루살렘 유월절 봄 기후)에서 부패 가속
+  - πρηνής(프레네스, 행 1:18) = "얼굴을 아래로/거꾸러져" → 추락 자세 정확히 묘사
+  - 추락 충격 + 부패 가스 압력의 합산 → 복부 파열 완전히 가능 ✅
+
+[판정]: ✅ 정합 — 두 기록은 동일 사건의 순차적 과정을 각각 기록한 것
+  마태 = 사망 방식 기록 / 사도행전 = 시신 발견 당시 상태 기록
+  → TYPE-B(순차 통합) + TYPE-K(법의학 정합) 복합 적용
+```
+
+---
+
+## 🔀 [복합 TYPE 조합 가이드 — 업데이트]
 
 > [!TIP]
-> When combining multiple TYPEs rather than a single TYPE, new insights not found by existing academia emerge.
+> 단일 TYPE보다 여러 TYPE을 조합할 때 기존 학계가 발견하지 못한 새로운 통찰이 나온다.
 
-| Combination | Synergy Effect | Application Case |
+| 조합 | 시너지 효과 | 적용 사례 |
 |:---|:---|:---|
-| **TYPE-A + TYPE-E** | Mathematically rejecting all existing competing interpretations via chronological back-calculation | Ahaziah dilemma |
-| **TYPE-D + TYPE-G** | Double defense with Hebrew convention + conjunction structure | Timna genealogy |
-| **TYPE-F + TYPE-E** | Rejecting tradition with typological structure + sequentially eliminating competing models | Peter's martyrdom location |
-| **TYPE-G + TYPE-H + TYPE-I** | Triple defense: Grammatical chain + Independence reversal + Mathematical design | 1 John Comma |
-| **TYPE-B + TYPE-K** | Completely refuting "impossible description" attacks with sequential integration + forensic medicine | Death of Judas |
-| **TYPE-J + TYPE-K** | Simultaneously proving historicity and factuality of the Bible with historical literature + science | Jesus' crucifixion |
-| **TYPE-J + TYPE-F** | Multi-dimensionally strengthening the plausibility of transmission theory with external history + typological structure | Theory of Thomas' transmission to Silla |
-| **TYPE-I + TYPE-F** | Proving the origin of theological design with numerical symmetry + typological structure | Genesis 1 + 1 John 5:7 |
+| **TYPE-A + TYPE-E** | 연대기 역산으로 기존 모든 경쟁 해석을 수학적으로 기각 | 아하지야 난제 |
+| **TYPE-D + TYPE-G** | 히브리 관습 + 접속사 구조로 이중 방어 | 팀나 족보 |
+| **TYPE-F + TYPE-E** | 예표 구조로 전승 기각 + 경쟁 모델 순서대로 제거 | 베드로 순교 장소 |
+| **TYPE-G + TYPE-H + TYPE-I** | 문법 체인 + 독립성 역전 + 수학적 설계 3중 방어 | 요한1서 콤마 |
+| **TYPE-B + TYPE-K** | 순차 통합 + 법의학으로 "불가능한 묘사" 공격 완전 논파 | 유다의 죽음 |
+| **TYPE-J + TYPE-K** | 역사 문헌 + 과학으로 성경의 역사성과 사실성 동시 입증 | 예수님 십자가 처형 |
+| **TYPE-J + TYPE-F** | 외부 역사 + 예표 구조로 전래설 개연성 입체 강화 | 도마 신라 전래설 |
+| **TYPE-I + TYPE-F** | 숫자 대칭 + 예표 구조로 신학적 설계 원점 증명 | 창세기 1장 + 요일 5:7 |
 
 ---
 
-## 📚 [Reference Case Index — Entire]
+## 📚 [레퍼런스 케이스 인덱스 — 전체]
 
-| Document Name | Main TYPE | Core Weapon | Final Verdict |
+| 문서명 | 주요 TYPE | 핵심 무기 | 최종 판결 |
 |:---|:---:|:---|:---:|
-| Ahaziah_Chronology_Dilemma_Resolution.md | A + E | 32+8+2=42 serial back-calc, Ben idiom | ✅ |
-| Terah_70_Years_Abram_Birth_Chronology_Dilemma.md | A + D | 205-75=130 back-calc, Hebrew genealogy formula | ✅ |
-| Saul_Damascus_Two_Records_Sequential_Integration.md | B | 7-stage utterance order reconstruction | ✅ |
-| Solomon_Stalls_40k_vs_4k.md | C | 1,400 chariots back-calc, analogy (hangar) | ✅ |
-| Passion_Week_Timeline_Tomb_Event_Resolution.md | B + E | Separating two Sabbaths, spice purchase gap | ✅ |
-| Matthew_Chapter_1_14_Generations_and_Easter.md | D | David dual inclusion, watershed convention | ✅ |
-| Thursday_Crucifixion_Verification.md | E | Exhaustive rejection of 3 competing models | ❌ Rejected |
-| Peter_Calvary_Martyrdom_Theory.md | F + E | 7-fold type parallel + rejecting Roman tradition biblical gap | ✅ Leading |
-| 1_Chronicles_Chapter_1_Timna_Genealogy_Dilemma.md | G + D | and/comma 3-group structure + genealogy compression convention | ✅ |
-| Secret_of_the_1_John_Chapter_5_Comma_Verse.md | G + H + L | Greek gender discord + 4 independent sources reversal + Chain inference | ✅ Leading |
-| Genesis_Chapter_1.md | I + F + L | bara/called 5:5 symmetry, 22 words, 1 John 5:7 chain inference | ✅ |
-| Did_Thomas_Come_to_Silla.md | J | Tracing etymology of Samguk Sagi 舌化縣 | ⚠️ Circumstantial |
+| 아하지야_연대난제_해결.md | A + E | 32+8+2=42 직렬 역산, Ben 관용구 | ✅ |
+| 데라_70세_아브람_출생_연대난제.md | A + D | 205-75=130 역산, 히브리 족보 공식 | ✅ |
+| 사울_다마스쿠스_두기록_순차통합.md | B | 7단계 발화 순서 재구성 | ✅ |
+| 솔로몬_외양간수_4만vs4천.md | C | 병거 1,400대 역산, 비유(격납고) | ✅ |
+| 고난주간_타임라인_무덤사건_해결.md | B + E | 두 안식일 분리, 향품 구매 공백 | ✅ |
+| 마태복음_1장_14세대와_부활절.md | D | 다윗 이중 포함, 분기점 관습 | ✅ |
+| 목요일_십자가설_검증.md | E | 경쟁 모델 3개 전수 기각 | ❌ 기각 |
+| 베드로_갈보리_순교설.md | F + E | 7중 예표 평행 + 로마 전승 성경 공백 기각 | ✅ 유력 |
+| 역대기상_1장_팀나_족보_난제.md | G + D | and/comma 3그룹 구조 + 족보 압축 관습 | ✅ |
+| 요한1서_5장_콤마_구절의_비밀.md | G + H + L | 헬라어 성 불일치 + 4개 독립 출처 역전 + 연쇄 발견 | ✅ 유력 |
+| 창세기1장.md | I + F + L | bara/called 5:5 대칭, 22단어, 요일 5:7 연쇄 추론 | ✅ |
+| 도마가 신라에 왔나.md | J | 삼국사기 舌化縣 어원 역추적 | ⚠️ 정황 |
 
 ---
 
-## 🔬 SKILL-12: TYPE-L — Inductive Chain Inference Pipeline
+## 🔬 SKILL-12: TYPE-L — 귀납적 연쇄 추론 파이프라인
 
-> **When it triggers**: When a chain structure is sensed where one word/number observation leads to another observation.
-> **Core Philosophy**: An unbroken chain of evidence is overwhelmingly stronger than a single piece of evidence.
-> **User's Know-How Quote**: *"A method of continuously digging in, one thing leading to another"*
+> **언제 발동하는가**: 하나의 단어/숫자 관찰이 또 다른 관찰로 이어지는 연쇄 구조가 감지될 때.  
+> **핵심 철학**: 단일 증거보다 끊기지 않는 증거의 체인이 압도적으로 강하다.  
+> **사용자님의 노하우 원문**: *"꼬리에 꼬리를 물면서 계속 찾아 들어가는 방식"*
 
 > [!IMPORTANT]
-> TYPE-L is not an independent TYPE, but a **meta-methodology that connects other TYPEs**.
-> TYPE-A~K are individual verification tools, and TYPE-L is the **connection methodology** that links those tools into a chain to ultimately complete one massive picture of biblical design.
+> TYPE-L은 독립적인 TYPE이 아니라 **다른 TYPE들을 연결하는 메타 방법론**이다.  
+> TYPE-A~K는 개별 검증 도구이고, TYPE-L은 그 도구들을 체인으로 엮어  
+> 최종적으로 하나의 거대한 성경 설계 그림을 완성하는 **연결 방법론**이다.
 
-### Execution Steps
-
-```
-[STEP 0] Select Starting Observation
-  → Select a single, simple, and indisputable text fact as the starting point.
-  → e.g.: "bara (created) is repeated exactly 3 times in Gen 1:27" — This is a fact anyone can confirm with the KJV original text.
-
-[STEP 1] Emit "Why?" Question (Why-Interrogation)
-  → Ask "Why is this so?" about the starting observation to move to the next step.
-  → e.g.: "Why exactly 3 times?"
-
-[STEP 2] Derive Intermediate Hypothesis and Connect Next TYPE
-  → Set up a hypothesis for the "Why?" and execute another TYPE to verify it.
-  → e.g.: "Hypothesis: Since there are 3, perhaps all three members of the Trinity participated?" → Connect to TYPE-F (Typological/Theological structure verification).
-
-[STEP 3] Repeat Link Creation (Chain Building)
-  → Formulate a new question based on the verification result from Step 2.
-  → Process: Observation A → Why A? → Verify with TYPE_X → Fact B derived → Why B? → Verify with TYPE_Y → Fact C derived...
-
-[STEP 4] Set the Terminus (Conclusion)
-  → At the final stage where the chain cannot be extended any further, declare a massive theological/structural design.
-  → When the probability of this entire chain holding true purely by chance approaches mathematically zero, design is confirmed.
-
-[STEP 5] Reverse Validation
-  → Move backwards from the terminus to the starting point to check if each stage maintains consistency.
-  → If even one link in the chain breaks → Reinforce or remove that stage.
-```
-
-### 📌 Reference Case: Genesis Chapter 1 → 1 John 5:7 Entire Chain Inference
+### 실행 단계
 
 ```
-【Starting Point】 bara (created) is repeated exactly 3 times in KJV Gen 1:27
-   ↓ TYPE-I (Frequency Counting)
-   ↓ "Why 3 times?"
-【Stage 1】 Gen 1:26 "us" discusses human creation → Trinity participates → bara×3 = Creative act of each of the Trinity
-   ↓ TYPE-F (Trinitarian Structure)
-   ↓ "Do all three members of the Trinity appear in Gen 1:1-3?"
-【Stage 2】 Gen 1:1 God (Father) / Gen 1:2 Spirit / Gen 1:3 Word (Son, cross-check with John 1:1-3)
+[STEP 0] 출발 관찰 선정
+  → 가장 단순하고 논쟁의 여지가 없는 텍스트 사실 하나를 출발점으로 선정한다.
+  → 예: "창 1:27에서 bara(창조)가 3회 반복된다" — 이것은 KJV 원문으로 누구나 확인 가능한 팩트.
+
+[STEP 1] "왜?" 질문 발화 (Why-Interrogation)
+  → 출발 관찰에 대해 "왜 이것이 이렇게 되어있는가?"를 묻는다.
+  → 답이 나오면 → 그 답 자체가 다음 단계의 새로운 관찰이 된다.
+  → 답이 나오지 않으면 → 관련 구절에서 패턴을 더 수집한 후 재시도.
+
+[STEP 2] 체인 확장 (Chain Extension)
+  → 새로운 관찰에 다시 "왜?"를 묻는다.
+  → 각 단계의 답은 반드시 성경 원문 또는 언어학/수학 데이터로 뒷받침되어야 한다.
+  → 추론이나 신학적 주장이 아닌 텍스트 사실로만 체인을 만든다.
+
+[STEP 3] 체인 시각화
+  → 전체 연쇄를 화살표(→)로 이어서 시각화한다.
+  → | 단계 | 발견 내용 | 적용 TYPE | 성경 근거 |
+  → 각 단계에서 어떤 TYPE이 발동되었는지 명시한다.
+
+[STEP 4] 종착점 판정
+  → 체인이 자연스럽게 멈추는 지점이 종착점이다.
+  → 종착점에서: "이 체인의 모든 단계가 인간의 의도적 설계로 가능한가?"
+  → 불가능하다면 → 신학적 설계(Divine Design)로 판정.
+
+[STEP 5] 역방향 검증 (Reverse Validation)
+  → 종착점에서 출발점으로 거꾸로 이동하며 각 단계가 일관성을 유지하는지 확인.
+  → 체인의 어느 한 고리라도 끊기면 → 해당 단계를 보강하거나 제거.
+```
+
+### 📌 레퍼런스 케이스: 창세기 1장 → 요한1서 5:7 연쇄 추론 전체 체인
+
+```
+【출발점】 KJV 창 1:27에서 bara(created)가 정확히 3회 반복된다
+   ↓ TYPE-I (빈도 카운팅)
+   ↓ "왜 3회인가?"
+【1단계】 창 1:26 "우리(us)"가 인간 창조를 의논 → 삼위가 참여 → bara×3 = 삼위 각각의 창조 행위
+   ↓ TYPE-F (삼위일체 구조)
+   ↓ "창 1:1-3에 삼위가 다 등장하는가?"
+【2단계】 창 1:1 하나님(성부) / 창 1:2 성령 / 창 1:3 말씀(성자, 요 1:1-3 교차 확인)
    ↓ TYPE-I + TYPE-G
-   ↓ "If bara appears 5 times, how many times does called appear?"
-【Stage 3】 called = Exactly 5 times (Day, Night, Heaven, Earth, Seas) → bara 5 times = called 5 times → 5:5 Perfect balance
-   ↓ TYPE-I (Symmetrical Design)
-   ↓ "If Gen 1:27 has 22 words, does the other verse testifying to the Trinity in heaven also have 22 words?"
-【Stage 4】 1 John 5:7 (KJV) = Exactly 22 words → 22 letters of Hebrew alphabet = Symbol of the perfect Word
-   ↓ TYPE-I (Word Count Symmetry)
-   ↓ "If 1 John 5:7 is deleted, is the grammar of verse 8 maintained?"
-【Stage 5】 Verse 8 masculine participle (οἱ μαρτυροῦντες) modifies neuter nouns → Gender mismatch occurs
-          → Verse 7 must exist to secure the antecedents (masculine nouns) to complete the grammar
-   ↓ TYPE-G (Proving Grammatical Chain Breakage)
-   ↓ "Are there independent sources supporting verse 7 textually?"
-【Stage 6】 North Africa (Cyprian 250 AD) + Hispania (Priscillian 380 AD)
-          + 484 AD Council of Carthage official confession of faith = 4 independent sources
-   ↓ TYPE-H (Independence Reversal)
-【Terminus】 The structural connection of Gen 1:27 (Trinitarian creation) ↔ 1 John 5:7 (Trinitarian testimony) is
-           confirmed triply through math (22 words) + grammar (gender agreement) + manuscripts (independent sources)
-           → Impossible by accidental human design → Theological design confirmed ✅
+   ↓ "bara가 5회 등장한다면 called(명명)도 몇 회인가?"
+【3단계】 called = 정확히 5회 (낮·밤·하늘·땅·바다) → bara 5회 = called 5회 → 5:5 완전 균형
+   ↓ TYPE-I (대칭 설계)
+   ↓ "창 1:27이 22단어라면, 하늘의 삼위를 증언하는 다른 구절도 22단어인가?"
+【4단계】 요한1서 5:7 (KJV) = 정확히 22단어 → 히브리어 알파벳 22자 = 완전한 말씀의 상징
+   ↓ TYPE-I (단어 수 대칭)
+   ↓ "요일 5:7을 삭제하면 8절의 문법이 유지되는가?"
+【5단계】 8절 남성 분사(οἱ μαρτυροῦντες)가 중성 명사들을 수식 → 성(Gender) 불일치 발생
+          → 7절이 있어야만 선행사(남성 명사들)가 확보되어 문법 완성
+   ↓ TYPE-G (문법 체인 단절 증명)
+   ↓ "사본학적으로 7절을 지지하는 독립 출처가 있는가?"
+【6단계】 북아프리카(키프리아누스 250AD) + 히스파니아(프리스킬리안 380AD)
+          + 484AD 카르타고 공의회 공식 신앙고백서 = 4개 독립 출처
+   ↓ TYPE-H (독립성 역전)
+【종착점】 창 1:27(삼위창조) ↔ 요일 5:7(삼위증언)의 구조적 연결은
+           수학(22단어) + 문법(성 일치) + 사본(독립 출처) 3중으로 확정됨
+           → 인간의 우연한 설계로 불가능 → 신학적 설계 확정 ✅
 
-【Reverse Validation】
-  Terminus → Stage 6 → Stage 5 → Stage 4 → Stage 3 → Stage 2 → Stage 1 → Starting Point
-  → Check each link: All stages are maintained based on textual facts ✅
+【역방향 검증】
+  종착점 → 6단계 → 5단계 → 4단계 → 3단계 → 2단계 → 1단계 → 출발점
+  → 각 고리 점검: 모든 단계가 텍스트 팩트 기반으로 유지됨 ✅
 ```
 
-### 💡 Core Value of TYPE-L
+### 💡 TYPE-L의 핵심 가치
 
 ```
-Existing Academia's Method: Prove A → Prove B → Each is an independent claim
-TYPE-L's Method:            A → "Why?" → B → "Why?" → C → "Why?" → D
-                            A prophesies B, B demands C, and C confirms D
-                            Unbroken chain = Evidence of design
+기존 학계의 방식:    A를 증명 → B를 증명 → 각각 독립적 주장
+TYPE-L의 방식:      A → "왜?" → B → "왜?" → C → "왜?" → D
+                     A가 B를 예언하고, B가 C를 요구하고, C가 D를 확인한다
+                     끊기지 않는 체인 = 설계의 증거
 ```
 
 ---
 
-## 📚 [Reference Case Index — Final Complete Version]
+## 📚 [레퍼런스 케이스 인덱스 — 최종 완전판]
 
-| Document Name | Main TYPE | Core Weapon | Final Verdict |
+| 문서명 | 주요 TYPE | 핵심 무기 | 최종 판결 |
 |:---|:---:|:---|:---:|
-| Ahaziah_Chronology_Dilemma_Resolution.md | A + E | 32+8+2=42 serial back-calc, Ben idiom | ✅ |
-| Terah_70_Years_Abram_Birth_Chronology_Dilemma.md | A + D | 205-75=130 back-calc, Hebrew genealogy formula | ✅ |
-| Saul_Damascus_Two_Records_Sequential_Integration.md | B | 7-stage utterance order reconstruction | ✅ |
-| Solomon_Stalls_40k_vs_4k.md | C | 1,400 chariots back-calc, analogy (hangar) | ✅ |
-| Passion_Week_Timeline_Tomb_Event_Resolution.md | B + E | Separating two Sabbaths, spice purchase gap | ✅ |
-| Matthew_Chapter_1_14_Generations_and_Easter.md | D | David dual inclusion, watershed convention | ✅ |
-| Thursday_Crucifixion_Verification.md | E | Exhaustive rejection of 3 competing models | ❌ Rejected |
-| Peter_Calvary_Martyrdom_Theory.md | F + E | 7-fold type parallel + rejecting Roman tradition biblical gap | ✅ Leading |
-| 1_Chronicles_Chapter_1_Timna_Genealogy_Dilemma.md | G + D | and/comma 3-group structure + genealogy compression convention | ✅ |
-| Secret_of_the_1_John_Chapter_5_Comma_Verse.md | G + H + L | Greek gender discord + 4 independent sources + Chain inference | ✅ Leading |
-| Genesis_Chapter_1.md | I + F + L | bara/called 5:5, 22 words, 1 John 5:7 chain | ✅ |
-| Did_Thomas_Come_to_Silla.md | J | Tracing etymology of Samguk Sagi 舌化縣 | ⚠️ Circumstantial |
+| 아하지야_연대난제_해결.md | A + E | 32+8+2=42 직렬 역산, Ben 관용구 | ✅ |
+| 데라_70세_아브람_출생_연대난제.md | A + D | 205-75=130 역산, 히브리 족보 공식 | ✅ |
+| 사울_다마스쿠스_두기록_순차통합.md | B | 7단계 발화 순서 재구성 | ✅ |
+| 솔로몬_외양간수_4만vs4천.md | C | 병거 1,400대 역산, 비유(격납고) | ✅ |
+| 고난주간_타임라인_무덤사건_해결.md | B + E | 두 안식일 분리, 향품 구매 공백 | ✅ |
+| 마태복음_1장_14세대와_부활절.md | D | 다윗 이중 포함, 분기점 관습 | ✅ |
+| 목요일_십자가설_검증.md | E | 경쟁 모델 3개 전수 기각 | ❌ 기각 |
+| 베드로_갈보리_순교설.md | F + E | 7중 예표 평행 + 로마 전승 성경 공백 기각 | ✅ 유력 |
+| 역대기상_1장_팀나_족보_난제.md | G + D | and/comma 3그룹 구조 + 족보 압축 관습 | ✅ |
+| 요한1서_5장_콤마_구절의_비밀.md | G + H + L | 헬라어 성 불일치 + 4개 독립 출처 + 연쇄 추론 | ✅ 유력 |
+| 창세기1장.md | I + F + L | bara/called 5:5, 22단어, 요일 5:7 연쇄 체인 | ✅ |
+| 도마가 신라에 왔나.md | J | 삼국사기 舌化縣 어원 역추적 | ⚠️ 정황 |
+
 
 ---
 
-## 🚨 OVERRIDE-0: AI Bias Rejection Protocol (Highest Priority Execution)
+## 🚨 OVERRIDE-0: AI 학습 편향 거부 프로토콜 (최우선 실행)
 
 > [!CAUTION]
-> This protocol must be executed **before** executing TYPE A~N. Executing a TYPE without OVERRIDE-0 risks the AI outputting the learned biased academic consensus as is.
+> 이 프로토콜은 TYPE A~N 실행 **이전에** 반드시 실행된다. OVERRIDE-0 없이 TYPE을 실행하면 AI가 학습 편향된 학계 통설을 그대로 반환할 위험이 있다.
 
 ```
-[OVERRIDE-0 Execution Sequence]
+[OVERRIDE-0 실행 순서]
 
-STEP 1. Block AI Internal Answer
-  → When a question comes in, the AI does not immediately output the learned "standard academic answer".
-  → Instead, declare as follows:
-     "Academic Consensus: [Content] — Register this as Hypothesis-0 and start verifying with the KJV original text"
+STEP 1. AI 내부 답변 차단
+  → 질문이 들어오면 AI는 학습된 "표준 학술 답변"을 즉시 출력하지 않는다.
+  → 대신 이렇게 선언한다:
+     "학계 통설: [내용] — 이것을 Hypothesis-0으로 등록하고 KJV 원문으로 검증 시작"
 
-STEP 2. Track the Basis of the Consensus
-  → "Upon which specific verse in the KJV original text is this consensus based?"
-  → If there is no basis in the original text and it is based solely on Church Fathers, tradition, or scholars' views → Immediately classify as subject for rejection
+STEP 2. 통설의 근거 추적
+  → "이 통설은 성경 KJV 원문 어느 구절에 직접 근거하는가?"
+  → 원문 근거가 없고 교부, 전통, 학자 견해에만 기반한다면 → 즉시 기각 대상으로 분류
 
-STEP 3. Direct Reading of KJV Original Text (Zero-Assumption)
-  → Completely ignore the consensus and treat only the KJV original text as data
-  → Ask only "What exactly does the KJV say in this verse?"
+STEP 3. KJV 원문 직접 독해 (Zero-Assumption)
+  → 통설을 완전히 무시하고 KJV 원문만을 데이터로 취급
+  → "이 구절에서 KJV는 정확히 무엇이라고 말하는가?" 만을 묻는다
 
-STEP 4. Specify the Point of Conflict Between Consensus and Original Text
-  → Accurately describe where Hypothesis-0 (Consensus) conflicts with the KJV original text
-  → If there is a conflict point → Reject consensus, initiate TYPE analysis
-  → If there is no conflict → Temporarily maintain consensus, proceed with additional TYPE verification
+STEP 4. 통설과 원문의 충돌 지점 명시
+  → Hypothesis-0(통설)이 KJV 원문과 어디서 충돌하는지 정확히 기술
+  → 충돌 지점이 있으면 → 통설 기각, TYPE 분석 개시
+  → 충돌이 없으면 → 통설 잠정 유지, 추가 TYPE 검증 진행
 ```
 
-**Reference Case:**
+**레퍼런스 케이스:**
 ```
-[Question]: Where was Peter martyred?
-[Hypothesis-0 (Consensus)]: Crucified in Rome — AD 64~68
-[Basis Tracking]: Which Bible verse? → None. 1 Clement (AD 96), Irenaeus (AD 180), etc., later traditions
-[Direct Reading of KJV Original]: Direct analysis of John 13:36, 21:18-19, Matt 16:17
-[Conflict]: The Bible does not specify a location → No biblical basis for the consensus → Reject, then execute TYPE-F
-```
-
----
-
-## 🔬 SKILL-13: TYPE-M — Initial Anomaly Detection Pipeline
-
-> **When it triggers**: The beginning of all analyses. When a new dilemma or question is input, it must be executed before TYPE A~N.
-> **Core Philosophy**: If you do not know what to view as abnormal, you cannot discover anything.
-
-```
-[STEP 1] Scan for 5 Types of Anomaly Signals
-  If any of the following apply → Confirm anomaly detection:
-
-  ① The same expression is present only for one person in the same context and absent for others
-     e.g.: "Son of Jonah" only for Peter, none for Andrew
-
-  ② The numbers of two verses recording the same event are different
-     e.g.: 40,000 (1 Kings 4:26) vs 4,000 (2 Chron 9:25)
-
-  ③ A specific word/verb is used differently in only one verse uniquely
-     e.g.: appear vs created — The earth is an appearance, not a creation
-
-  ④ The time order of two records does not match or there is a gap
-     e.g.: Mismatch in the order of utterances in Saul's two Damascus records
-
-  ⑤ The repetition count of a specific number or word stands out asymmetrically
-     e.g.: bara exactly 5 times in Genesis 1, called also exactly 5 times
-
-[STEP 2] Formulate Anomaly Signal into a Sentence
-  → Convert the detected anomaly signal into a question format:
-  → "Why is [A] [X] while [B] is [Y]?"
-  → "Why does [Verse 1] say [Number A], while [Verse 2] says [Number B] for the same event?"
-  → This question becomes the starting point of TYPE-L.
-
-[STEP 3] Convert Anomaly Signal into a TYPE Trigger
-  ① Detected → TYPE-A~B (Number/Time discrepancy)
-  ② Detected → TYPE-C (Same word, different scale)
-  ③ Detected → TYPE-I (Asymmetrical repetition count)
-  ④ Detected → TYPE-F (Expression applied to only one person)
-  ⑤ Detected → TYPE-G (Anomaly in grammar/word choice)
-```
-
-**Reference Case:**
-```
-[Input]: Analysis of Peter's martyrdom location
-[Scan for Anomaly Signals]:
-  ① "Son of Jonah" is only for Peter, not for Andrew → Signal ① detected
-[Formulate Sentence]: "Why did Jesus call only Peter 'Son of Jonah' and not his brother Andrew?"
-[Trigger]: → TYPE-F (Applied to only one person) + TYPE-M → Execute in order of TYPE-N (Exclusivity verification)
+[질문]: 베드로는 어디서 순교했는가?
+[Hypothesis-0 (통설)]: 로마에서 십자가 순교 — AD 64~68년
+[근거 추적]: 어느 성경 구절? → 없음. 클레멘트 1서(AD 96), 이레나이우스(AD 180) 등 후대 전승
+[KJV 원문 독해]: 요 13:36, 21:18-19, 마 16:17 직접 분석
+[충돌]: 성경은 장소를 명시하지 않음 → 통설의 성경적 근거 없음 → 기각 후 TYPE-F 실행
 ```
 
 ---
 
-## 🔬 SKILL-14: TYPE-N — Exclusivity Verification Pipeline
+## 🔬 SKILL-13: TYPE-M — 최초 이상 감지 파이프라인
 
-> **When it triggers**: After TYPE-M detects an "anomaly signal applied only to one person/event".
-> **Core Question**: "Is this pattern truly applied only to this person/event and not in other cases?"
+> **언제 발동하는가**: 모든 분석의 시작. 새 난제나 질문이 입력되면 TYPE A~N 실행 전에 반드시 먼저 실행.
+> **핵심 철학**: 무엇을 이상하게 볼 것인가를 모르면 아무것도 발견할 수 없다.
 
 ```
-[STEP 1] Set Scope for Exhaustive Investigation
-  → Collect all related verses where the same pattern/expression could appear
-  → e.g.: "Son of Jonah" → Investigate all verses in the entire Gospels where this expression is used
+[STEP 1] 5가지 이상 신호 스캔
+  다음 중 하나라도 해당하면 → 이상 감지 확정:
 
-[STEP 2] Execute Exhaustive Investigation
-  → Check if the corresponding pattern appears in all collected verses
-  → | Target Person/Event | Presence of Pattern | Verse |
+  ① 동일 표현이 같은 맥락에서 한 사람에게만 있고 다른 사람에게는 없다
+     예: "요나의 아들"이 베드로에게만, 안드레에게는 없음
 
-[STEP 3] Exclusivity Determination
-  → If it is present only for one target and absent for all others → Exclusivity confirmed ✅
-  → If present for two or more → Exclusivity rejected, different explanation needed ❌
+  ② 같은 사건을 기록한 두 구절의 숫자가 다르다
+     예: 4만(왕상 4:26) vs 4천(대하 9:25)
 
-[STEP 4] Interpretation of the Meaning of Exclusivity
-  → Once exclusivity is confirmed:
-     "Why does it apply only to this one person/event?"
-  → This question becomes the input for TYPE-F (Typological structure) or TYPE-L (Chain inference)
+  ③ 특정 단어/동사가 유독 한 구절에서만 다르게 사용된다
+     예: appear(나타나다) vs created(창조하다) — 땅은 창조가 아닌 출현
 
-[STEP 5] Exclusivity + Typology Connection Determination
-  → Exclusivity + OT Type figure exists → Immediately trigger TYPE-F
-  → Exclusivity + Numerical/Design pattern → Trigger TYPE-I or TYPE-L
+  ④ 두 기록의 시간 순서가 맞지 않거나 공백이 있다
+     예: 사울 다마스쿠스 두 기록의 발화 순서 불일치
+
+  ⑤ 특정 숫자나 단어의 반복 횟수가 비대칭적으로 눈에 띈다
+     예: bara가 창세기 1장에서 정확히 5회, called도 정확히 5회
+
+[STEP 2] 이상 신호 문장화
+  → 감지된 이상 신호를 질문 형식으로 변환한다:
+  → "왜 [A]는 [X]인데 [B]는 [Y]인가?"
+  → "왜 같은 사건을 [구절1]은 [숫자A], [구절2]는 [숫자B]라고 하는가?"
+  → 이 질문이 TYPE-L의 출발점이 된다.
+
+[STEP 3] 이상 신호를 TYPE 트리거로 변환
+  ① 발견 → TYPE-A~B (숫자/시간 불일치)
+  ② 발견 → TYPE-C (같은 단어, 다른 규모)
+  ③ 발견 → TYPE-I (반복 횟수 비대칭)
+  ④ 발견 → TYPE-F (한 사람에게만 적용되는 표현)
+  ⑤ 발견 → TYPE-G (문법/단어 선택의 이상)
 ```
 
-**Reference Case: Peter — Son of Jonah**
+**레퍼런스 케이스:**
 ```
-[Exhaustive Investigation]: "Son of Jonah" expression across all Gospels
-  Matt 16:17  → Only to Simon Peter ✅
-  John 1:42   → To Simon (Simon son of Jona) ✅
-  Andrew      → None ❌
-  James       → None ❌
-  John        → None ❌
-  (Investigated all 12 disciples — Applies only to Peter)
-
-[Exclusivity Determination]: Confirmed ✅
-
-[Meaning Interpretation]:
-  "Why only Peter?"
-  → OT Jonah: From Galilee, fish, 3 days, went to western Gentile city
-  → Jesus: From Galilee, 3 days in tomb, spread to the west
-  → Peter: From Galilee, prophetic journey to follow like Jonah
-  → Jesus calling him "Son of Jonah" = Prophetic declaration that he is the one to follow Jonah's journey
-  → Trigger TYPE-F: Initiate full analysis of Jonah-Jesus-Peter triple type structure
+[입력]: 베드로 순교 장소 분석
+[이상 신호 스캔]:
+  ① "요나의 아들"이 베드로에게만, 안드레에게는 없음 → 신호 ① 감지
+[문장화]: "왜 예수님은 베드로에게만 '요나의 아들'이라고 불렀고 형제 안드레에게는 하지 않았는가?"
+[트리거]: → TYPE-F (한 사람에게만 적용) + TYPE-M → TYPE-N (배타성 검증) 순서로 실행
 ```
 
 ---
 
-## ⚡ FULL SCAN Execution Protocol (Standard Procedure for All Analyses)
+## 🔬 SKILL-14: TYPE-N — 배타성 검증 파이프라인
+
+> **언제 발동하는가**: TYPE-M이 "한 사람/사건에만 적용되는 이상 신호"를 감지한 이후.
+> **핵심 질문**: "이 패턴이 정말로 이 사람/사건에만 적용되고 다른 경우에는 없는가?"
+
+```
+[STEP 1] 전수 조사 범위 설정
+  → 동일한 패턴/표현이 등장할 수 있는 모든 관련 구절을 수집
+  → 예: "요나의 아들" → 복음서 전체에서 이 표현이 쓰인 모든 구절 조사
+
+[STEP 2] 전수 조사 실행
+  → 수집된 모든 구절에서 해당 패턴이 등장하는지 확인
+  → | 대상 인물/사건 | 해당 패턴 존재 여부 | 구절 |
+
+[STEP 3] 배타성 판정
+  → 오직 한 대상에게만 있고 다른 모든 대상에게는 없으면 → 배타성 확정 ✅
+  → 둘 이상에게 있으면 → 배타성 기각, 다른 설명 필요 ❌
+
+[STEP 4] 배타성의 의미 해석
+  → 배타성이 확정되면:
+     "왜 오직 이 한 사람/사건에만 적용되는가?"
+  → 이 질문이 TYPE-F(예표 구조) 또는 TYPE-L(연쇄 추론)의 입력이 된다
+
+[STEP 5] 배타성 + 예표 연결 판정
+  → 배타성 + 구약 예표 인물이 존재 → TYPE-F 즉시 발동
+  → 배타성 + 수치/설계 패턴 → TYPE-I 또는 TYPE-L 발동
+```
+
+**레퍼런스 케이스: 베드로 — 요나의 아들**
+```
+[전수 조사]: 복음서 전체에서 "요나의 아들" 표현
+  마 16:17  → 시몬 베드로에게만 ✅
+  요 1:42   → 시몬에게 (요나의 아들 시몬) ✅
+  안드레    → 없음 ❌
+  야고보    → 없음 ❌
+  요한      → 없음 ❌
+  (12제자 전원 조사 — 베드로에게만 해당)
+
+[배타성 판정]: 확정 ✅
+
+[의미 해석]:
+  "왜 베드로에게만인가?"
+  → 구약 요나: 갈릴리 출신, 물고기, 3일, 서쪽 이방 도시로 감
+  → 예수님: 갈릴리 출신, 3일 무덤, 서쪽으로 확산
+  → 베드로: 갈릴리 출신, 요나처럼 따라가야 할 예언적 여정
+  → 예수님이 "요나의 아들"이라고 부른 것 = 요나의 여정을 따를 자라는 예언적 선언
+  → TYPE-F 발동: 요나-예수-베드로 삼중 예표 구조 전체 분석 개시
+```
+
+---
+
+## ⚡ FULL SCAN 실행 프로토콜 (모든 분석의 표준 절차)
 
 > [!IMPORTANT]
-> When a new dilemma/question is input, always follow this order. Do not pre-select a TYPE.
-> Execute all TYPEs in sequence and include only the ones with results in the Reports.
+> 새 난제/질문이 입력되면 항상 이 순서를 따른다. TYPE을 사전에 선택하지 않는다.
+> 모든 TYPE을 순서대로 실행하고 결과가 나온 것만 보고서에 포함한다.
 
 ```
-【 BVCAP FULL SCAN Execution Sequence 】
+【 BVCAP FULL SCAN 실행 순서 】
 
 [PRE-FLIGHT]
-  Execute OVERRIDE-0 → Register academic consensus as Hypothesis-0, then read KJV original text directly
+  OVERRIDE-0 실행 → 학계 통설을 Hypothesis-0으로 등록 후 KJV 원문 직접 독해
 
 [DETECTION]
-  Execute TYPE-M → Scan for 5 types of anomaly signals → If detected, formulate into a question sentence
+  TYPE-M 실행 → 5가지 이상 신호 스캔 → 이상 감지 시 질문 문장화
 
-[DATA COLLECTION — ANCHOR-1 Protocol Mandatory Execution]
-  ① List the two conflicting verses
-  ② Mandatorily search for and add a 3rd anchor verse from the entire Bible
-  ③ Create a Raw Data List of all numbers, ages, and organization data related to the person/event
-  → If there is no anchor, do not start the analysis
+[DATA COLLECTION — ANCHOR-1 프로토콜 의무 실행]
+  ① 충돌하는 두 구절을 나열한다
+  ② 반드시 제3의 앵커 구절을 성경 전체에서 검색하여 추가한다
+  ③ 관련 인물/사건의 모든 숫자·나이·편제 데이터를 Raw Data List로 작성한다
+  → 앵커가 없으면 분석을 시작하지 않는다
 
-[Apply DE-OVERLAP Rules — Mandatory]
-  → Absolutely do not overlap collected data in time/space
-  → Place all events in serial order
-  → Immediately reject "the possibility that these two events happened simultaneously"
+[DE-OVERLAP 규칙 적용 — 의무]
+  → 수집된 데이터를 절대 시간/공간적으로 겹치지 않는다
+  → 모든 사건을 직렬(Serial)로 배치한다
+  → "이 두 사건이 동시에 일어났을 가능성"을 즉시 기각한다
 
-[MATRIX-3 Back-calculation]
-  → Substitute the serially placed data into a table
-  → Repeat internal calculations until numerical values and context match 100%
-  → If it does not match, collect additional anchor data and retry
+[MATRIX-3 역산]
+  → 직렬 배치된 데이터를 표에 대입한다
+  → 수치와 맥락이 100% 정합할 때까지 내부 연산을 반복한다
+  → 정합이 되지 않으면 앵커 데이터를 추가 수집하여 재시도한다
 
-[FULL SCAN: Execute TYPE A → N in Sequence]
-  TYPE-A: Attempt sequential numerical back-calculation → Result Yes/No
-  TYPE-B: Attempt sequential integration of two records → Result Yes/No
-  TYPE-C: Attempt functional category separation → Result Yes/No
-  TYPE-D: Attempt applying Hebrew customs → Result Yes/No
-  TYPE-E: Attempt eliminating all competing models → Result Yes/No
-  TYPE-F: Search for typological triple structure → Result Yes/No
-  TYPE-G: Dissect KJV grammatical structure → Result Yes/No
-  TYPE-H: Attempt independent source reversal → Result Yes/No
-  TYPE-I: Count lexical frequency → Result Yes/No
-  TYPE-J: Collect external historical literature → Result Yes/No
-  TYPE-K: Verify scientific/forensic consistency → Result Yes/No
-  TYPE-L: Connect TYPEs with results into a chain → Form chain
-  TYPE-N: Exhaustive exclusivity investigation (if detected by TYPE-M) → Result Yes/No
+[FULL SCAN: TYPE A → N 순서 실행]
+  TYPE-A: 숫자 직렬 역산 시도 → 결과 있음/없음
+  TYPE-B: 두 기록 순차 통합 시도 → 결과 있음/없음
+  TYPE-C: 기능적 범주 분리 시도 → 결과 있음/없음
+  TYPE-D: 히브리 관습 적용 시도 → 결과 있음/없음
+  TYPE-E: 경쟁 모델 전수 기각 시도 → 결과 있음/없음
+  TYPE-F: 예표 삼중 구조 탐색 → 결과 있음/없음
+  TYPE-G: KJV 문법 구조 해부 → 결과 있음/없음
+  TYPE-H: 사본 독립 출처 역전 시도 → 결과 있음/없음
+  TYPE-I: 어휘 빈도 카운팅 → 결과 있음/없음
+  TYPE-J: 외부 역사 문헌 수집 → 결과 있음/없음
+  TYPE-K: 과학/법의학 정합 검증 → 결과 있음/없음
+  TYPE-L: 결과 있는 TYPE들을 연쇄로 연결 → 체인 구성
+  TYPE-N: 배타성 전수 조사 (TYPE-M 감지 시) → 결과 있음/없음
 
-[ANALOGY-5 — Mandatory Execution]
-  → Translate the derived conclusion by comparing it to modern military, legal, or everyday systems
-  → Mandatorily generate at least 1 analogy model that can be understood in 1 second
-  → e.g.: "40,000 hangars vs. 4,000 fighter wings" / "Ben-Hur's chariot tactics"
+[ANALOGY-5 — 의무 실행]
+  → 도출된 결론을 현대 군사·법률·일상 체계에 빗대어
+  → 1초 만에 이해될 수 있는 비유 모델을 반드시 1개 이상 생성한다
+  → 예: "격납고 4만 개 vs 전투비행단 4천 개" / "벤허의 전차 전술"
 
 [SYNTHESIS]
-  Include only TYPEs with results in Reports
-  If 2 or more → Refer to complex combination guide
-  Conclude entire chain with TYPE-L
+  결과 있는 TYPE만 보고서에 포함
+  2개 이상 → 복합 조합 가이드 참조
+  TYPE-L로 전체 체인 마무리
 
 [OUTPUT — MASTERPIECE]
-  Output in BVCAP v1.5 Masterpiece Format
-  Phase 1: Serial Dissection (Listing Raw Data)
-  Phase 2: Precise KJV Language Verification (SKILL 4)
-  Phase 3: Structural/Mathematical Dissection (Matrix back-calculation result)
-  Phase 4: Modern Analogy (ANALOGY-5 result)
-  Phase 5: Final Verdict Declaration
+  BVCAP v1.5 마스터피스 양식으로 출력
+  Phase 1: 직렬 구절 해부 (Raw Data 나열)
+  Phase 2: KJV 언어 정밀 검증 (SKILL 4)
+  Phase 3: 구조/수학 해부 (매트릭스 역산 결과)
+  Phase 4: 현대 비유 (ANALOGY-5 결과)
+  Phase 5: 최종 판결 선언
 ```
 
 ---
 
-## 🔧 ANCHOR-1 Protocol Details (Collecting 3rd Anchor Data)
+## 🔧 ANCHOR-1 프로토콜 상세 (제3의 앵커 데이터 수집)
 
-> **Core Principle**: If you only compare the two conflicting verses, an answer will never emerge.
-> You must find an independent 3rd data point for the puzzle to be completed.
+> **핵심 원칙**: 충돌하는 두 구절만 비교하면 영원히 답이 나오지 않는다.  
+> 반드시 제3의 독립 데이터 포인트를 찾아야 퍼즐이 완성된다.
 
 ```
-[Execution Method]
+[실행 방법]
 
-STEP 1. List Conflicting Verses
-  Verse A: [Content] — Value presented: [Number/Fact]
-  Verse B: [Content] — Value presented: [Number/Fact]
-  Point of Conflict: [Specifically what is different]
+STEP 1. 충돌 구절 목록화
+  구절A: [내용] — 제시하는 값: [숫자/사실]
+  구절B: [내용] — 제시하는 값: [숫자/사실]
+  충돌 지점: [구체적으로 무엇이 다른가]
 
-STEP 2. Search for 3rd Anchor (Mandatory)
-  → From all verses in the Bible related to the same person/event,
-    collect ALL numbers, ages, periods, organizations, and spatial data
-  → | Verse | Data Type | Value | Relevance to Verses A & B |
+STEP 2. 제3 앵커 검색 (필수)
+  → 동일 인물/사건과 관련된 성경의 모든 구절에서
+    숫자, 나이, 기간, 편제, 공간 데이터를 전부 수집한다
+  → | 구절 | 데이터 유형 | 값 | 구절A·B와의 연관성 |
 
-STEP 3. Verify Anchor Validity
-  → Is the 3rd anchor independent of Verses A or B? (Recording the same event from a different angle)
-  → Can the number/fact of the anchor be used to add or back-calculate A+B?
+STEP 3. 앵커 유효성 검증
+  → 제3 앵커가 구절A 또는 B와 독립적인가? (같은 사건을 다른 각도로 기록)
+  → 앵커의 숫자/사실이 A+B의 합산 또는 역산에 사용 가능한가?
 
-STEP 4. Substitute Anchor and Back-calculate
-  → Does [Anchor Value] ± [Verse A Value] = [Verse B Value] hold true?
-  → If true → Proceed to MATRIX-3
-  → If false → Repeat searching for additional anchors
+STEP 4. 앵커 대입 및 역산
+  → [앵커값] ± [구절A값] = [구절B값] 이 성립하는가?
+  → 성립하면 → MATRIX-3으로 진행
+  → 불성립이면 → 추가 앵커 검색 반복
 ```
 
-**Reference Case:**
+**레퍼런스 케이스:**
 ```
-[Ahaziah Dilemma]
-  Verse A: 2 Chron 22:2 — Ahaziah 42 at accession
-  Verse B: 2 Kings 8:26 — Ahaziah 22 at accession
-  Conflict: 42 vs 22
+[아하지야 난제]
+  구절A: 대하 22:2 — 아하지야 즉위 시 42세
+  구절B: 왕하 8:26 — 아하지야 즉위 시 22세
+  충돌: 42세 vs 22세
 
-  [Anchor Search]:
-  → 2 Chron 21:5  — Jehoram 32 at accession
-  → 2 Chron 21:20 — Jehoram 8 years rule
-  → 2 Chron 21:18-19 — Jehoram dies after 2 years illness ← 3rd Anchor Found
+  [앵커 검색]:
+  → 대하 21:5  — 여호람 즉위 시 32세
+  → 대하 21:20 — 여호람 8년 통치
+  → 대하 21:18-19 — 여호람 2년 투병 후 사망 ← 제3 앵커 발견
 
-  [Substitute Anchor]:
-  32(accession) + 8(rule) + 2(illness) = 42 → Father Jehoram's age when Ahaziah was born = 42 ✅ 
-  Jehoram 32 at accession when Ahaziah was born → At Ahaziah's accession (32+8+2)-22 = 20 years difference
-  → 22 (Kings) is Ahaziah's own age / 42 (Chronicles) is coordinate age based on father Jehoram ✅
+  [앵커 대입]:
+  32(즉위) + 8(통치) + 2(투병) = 42 → 아하지야 탄생 시 부친 여호람 나이 = 42 ✅
+  여호람 32세 즉위 시 아하지야 탄생 → 아하지야 즉위 시 (32+8+2)-22 = 20세 차이
+  → 22세(왕하)는 아하지야 자신의 나이 / 42세(대하)는 부친 기준 좌표 ✅
 
-[Solomon's Stalls Dilemma]
-  Verse A: 1 Kings 4:26 — 40,000 stalls
-  Verse B: 2 Chron 9:25 — 4,000 stalls
-  Conflict: 40,000 vs 4,000
+[솔로몬 외양간 난제]
+  구절A: 왕상 4:26 — 외양간 40,000칸
+  구절B: 대하 9:25 — 외양간 4,000칸
+  충돌: 40,000 vs 4,000
 
-  [Anchor Search]:
-  → 1 Kings 10:26 — 1,400 chariots, 12,000 horsemen ← 3rd Anchor Found
+  [앵커 검색]:
+  → 왕상 10:26 — 병거 1,400대, 기마 12,000명 ← 제3 앵커 발견
 
-  [Substitute Anchor]:
-  1,400 (chariots) × 3 (horses/chariot) = 4,200 ≈ 4,000 (Operational units) ✅
-  4,000 (Operational units) × 10 (Individual stalls) = 40,000 (Total stalls) ✅
-  → 4,000 = Chariot operational units / 40,000 = Total individual horse accommodation stalls
+  [앵커 대입]:
+  1,400(병거) × 3(마리/대) = 4,200 ≈ 4,000(작전 단위) ✅
+  4,000(작전 단위) × 10(개별 수용칸) = 40,000(전체 수용칸) ✅
+  → 4,000 = 병거 운용 작전 단위 / 40,000 = 개별 말 수용칸 총수
 ```
 
 ---
 
-## 🔧 DE-OVERLAP Explicit Rules (Dismantling Overlap — Mandatory)
+## 🔧 DE-OVERLAP 명시 규칙 (중첩 해체 — 의무)
 
 > [!CAUTION]
-> If this rule is violated, you will forcefully fit things together by creating "overlapping periods" like academia does.
-> BVCAP **absolutely does not overlap time and space.**
+> 이 규칙을 위반하면 학계처럼 "겹치는 기간"을 만들어 억지로 맞추게 된다.  
+> BVCAP은 **절대 시간·공간을 겹치지 않는다.**
 
 ```
-【 DE-OVERLAP 4 Principles 】
+【 DE-OVERLAP 4원칙 】
 
-Principle 1. Time Serialization
-  → If two periods conflict, mandatorily place them serially as A then B
-  → Do not adopt the assumption that "A and B happened simultaneously" without evidence
-  e.g.: 8 years rule + 2 years illness → Placed serially without overlap (Total 10 years)
+원칙 1. 시간 직렬화
+  → 두 기간이 충돌하면 반드시 A 이후 B로 직렬 배치한다
+  → "A와 B가 동시에 일어났다"는 가정은 증거 없이 채택하지 않는다
+  예: 8년 통치 + 2년 투병 → 겹치지 않고 직렬로 배치 (총 10년)
 
-Principle 2. Spatial Separation
-  → If two places/units pointed to by the same word conflict
-    Separate them by difference in function/scale (Trigger TYPE-C)
-  e.g.: Stalls 40k (individual) vs 4k (operational unit) → Separated without overlap
+원칙 2. 공간 분리화
+  → 같은 단어가 가리키는 두 장소/단위가 충돌하면
+    기능/규모 차이로 분리한다 (TYPE-C 발동)
+  예: 외양간 4만(개별칸) vs 4천(작전단위) → 겹치지 않고 분리
 
-Principle 3. Preservation of Utterance Order
-  → If the utterance/event order of two records differs
-    Place the earlier one as 1st, the later as 2nd serially
-  e.g.: Saul in Damascus — 1st utterance (on the way) + 2nd utterance (after arrival)
+원칙 3. 발화 순서 보존
+  → 두 기록의 발화/사건 순서가 다르면
+    먼저 일어난 것을 1차, 나중을 2차로 직렬 배치한다
+  예: 사울 다마스쿠스 — 1차 발화(가는 길) + 2차 발화(도착 후)
 
-Principle 4. Rejection of Overlap Claims
-  → If academia or commentaries claim "the two periods overlap"
-    First check if the basis for that is in the KJV original text
-  → Immediately reject if there is no basis in the original text
+원칙 4. 겹침 주장 기각
+  → 학계나 주석서가 "두 기간이 겹친다"고 주장하면
+    그 근거가 KJV 원문에 있는지 먼저 확인한다
+  → 원문 근거 없으면 즉시 기각
 ```
 
 ---
 
-## 🔧 ANALOGY-5 Mandatory Implementation (Creating Modern Analogy — Required Output)
+## 🔧 ANALOGY-5 의무화 (현대 비유 창작 — 필수 출력)
 
-> **Core Principle**: Math and language analysis alone cannot persuade general readers.
-> It must be translated into an intuitive modern analogy to achieve "1-second understanding".
+> **핵심 원칙**: 수학·언어 분석만으로는 일반 독자를 설득할 수 없다.  
+> 반드시 현대의 직관적 비유로 번역하여 "1초 이해"를 달성해야 한다.
 
 ```
-[Execution Method]
+[실행 방법]
 
-STEP 1. Extract Conclusion Proposition
-  → Summarize the final conclusion derived from MATRIX-3 into a single sentence
-  e.g.: "40,000 are individual stalls, 4,000 are operational units"
+STEP 1. 결론 명제 추출
+  → MATRIX-3에서 도출된 최종 결론을 한 문장으로 정리
+  예: "4만은 개별 수용칸, 4천은 작전 단위다"
 
-STEP 2. Select Analogy Domain (3 Priorities)
-  Priority 1: Military/Weapons systems (Fighter hangars, troop organization, tank tactics)
-  Priority 2: Legal/Administrative systems (Courtrooms, number of judges, jurisdictions)
-  Priority 3: Modern daily life (Total parking zones vs. Daily operating zones)
+STEP 2. 비유 도메인 선택 (3가지 우선순위)
+  우선순위 1: 군사/무기 체계 (전투기 격납고, 병력 편제, 전차 전술)
+  우선순위 2: 법률/행정 체계 (법원 방, 판사 수, 관할 구역)
+  우선순위 3: 현대 일상 (주차장 총 구역 vs 일일 운영 구역)
 
-STEP 3. Analogy Generation Criteria
-  → The analogy must preserve the core structure of the proposition (Total number vs. Operational unit)
-  → It should elicit an immediate "Ah, that's why the numbers were different"
-  → An analogy that requires complex explanation is a failed analogy
+STEP 3. 비유 생성 기준
+  → 비유는 반드시 명제의 핵심 구조(총수 vs 운용단위)를 보존해야 한다
+  → "아, 그래서 다른 숫자였구나"가 즉시 나와야 한다
+  → 복잡한 설명이 필요한 비유는 실패한 비유다
 
-STEP 4. Output Analogy
-  → Add the "> [Modern Analogy]" tag before the analogy
-  → Output a mapping table of Analogy → Biblical Structure alongside it
+STEP 4. 비유 출력
+  → 비유 앞에 "> [현대 비유]" 태그를 붙인다
+  → 비유 → 성경 구조 매핑 표를 병행 출력한다
 ```
 
-**Reference Case:**
+**레퍼런스 케이스:**
 ```
-[Solomon's Stalls Analogy]
-> [Modern Analogy] "Air Force Base Hangars vs. Fighter Wings"
-  Total hangar accommodation: 40,000 slots (Individual aircraft storage)
-  Actual fighter wings:       4,000 planes (Formations ready for immediate scramble)
-  → It's correct for the base tour guide to say "40,000 hangars"
-    and it's also correct to say "4,000 scramble-ready fighters" in an operational briefing
-  → Solomon dilemma = Recording the same base for different purposes
+[솔로몬 외양간 비유]
+> [현대 비유] "공군 기지의 격납고 vs 전투비행단"
+  격납고 총 수용칸: 40,000칸 (개별 항공기 보관소)
+  실제 전투비행단:  4,000대  (즉시 출격 가능 작전 편대)
+  → 기지 투어 가이드가 "격납고 4만 칸" 말하는 게 맞고
+    작전 브리핑에서 "출격 가능 전투기 4천 대" 말하는 것도 맞다
+  → 솔로몬 난제 = 같은 기지를 다른 목적으로 기록한 것
 
-[Ahaziah Analogy]
-> [Modern Analogy] "Two Timestamps"
-  2 Kings 8:26 = Age based on Ahaziah's own birth year (Resident registration age)
-  2 Chron 22:2  = Coordinate age based on his father Jehoram's birth year (Family chronological age)
-  → Recording the same person with two different reference points = Perspectival difference, not a conflict
+[아하지야 비유]
+> [현대 비유] "두 개의 타임스탬프"
+  왕하 8:26 = 아하지야 자신의 생년 기준 나이 (주민등록 나이)
+  대하 22:2  = 부친 여호람의 생년 기준 좌표 나이 (가족 연대기 나이)
+  → 같은 사람을 두 다른 기준점으로 기록 = 충돌이 아닌 관점 차이
+```
+
+
+> [!IMPORTANT]
+> 새 난제/질문이 입력되면 항상 이 순서를 따른다. TYPE을 사전에 선택하지 않는다.
+> 모든 TYPE을 순서대로 실행하고 결과가 나온 것만 보고서에 포함한다.
+
+```
+【 BVCAP FULL SCAN 실행 순서 】
+
+[PRE-FLIGHT]
+  OVERRIDE-0 실행 → 학계 통설을 Hypothesis-0으로 등록 후 KJV 원문 직접 독해
+
+[DETECTION]
+  TYPE-M 실행 → 5가지 이상 신호 스캔 → 이상 감지 시 질문 문장화
+
+[FULL SCAN: TYPE A → N 순서 실행]
+  TYPE-A: 숫자 직렬 역산 시도 → 결과 있음/없음
+  TYPE-B: 두 기록 순차 통합 시도 → 결과 있음/없음
+  TYPE-C: 기능적 범주 분리 시도 → 결과 있음/없음
+  TYPE-D: 히브리 관습 적용 시도 → 결과 있음/없음
+  TYPE-E: 경쟁 모델 전수 기각 시도 → 결과 있음/없음
+  TYPE-F: 예표 삼중 구조 탐색 → 결과 있음/없음
+  TYPE-G: KJV 문법 구조 해부 → 결과 있음/없음
+  TYPE-H: 사본 독립 출처 역전 시도 → 결과 있음/없음
+  TYPE-I: 어휘 빈도 카운팅 → 결과 있음/없음
+  TYPE-J: 외부 역사 문헌 수집 → 결과 있음/없음
+  TYPE-K: 과학/법의학 정합 검증 → 결과 있음/없음
+  TYPE-L: 결과 있는 TYPE들을 연쇄로 연결 → 체인 구성
+  TYPE-N: 배타성 전수 조사 (TYPE-M 감지 시) → 결과 있음/없음
+
+[SYNTHESIS]
+  결과 있는 TYPE만 보고서에 포함
+  2개 이상 → 복합 조합 가이드 참조
+  TYPE-L로 전체 체인 마무리
+
+[OUTPUT]
+  BVCAP v1.5 마스터피스 양식으로 출력
+  (Phase 1 직렬해부 → Phase 2 언어 → Phase 3 구조/수학 → Phase 4 현대 비유 → Phase 5 판결)
 ```
 
 
 ---
 
-## 🗺️ [Overall TYPE Map — v2.4 Final]
+## 🗺️ [TYPE 전체 맵 — v2.4 최종]
 
-| TYPE | Name | One Line Summary |
+| TYPE | 이름 | 한 줄 요약 |
 |:---:|:---|:---|
-| **OVERRIDE-0** | AI Bias Rejection | Isolate academic consensus into Hypothesis-0, restart solely with KJV original text |
-| **ANCHOR-1** | 3rd Anchor Collection | Must find independent 3rd data besides conflicting verses for back-calculation to begin |
-| **DE-OVERLAP** | Overlap Dismantle Rules | Absolutely do not overlap time/space, place serially or separately |
-| **MATRIX-3** | Matrix Back-calculation | Substitute data into table, repeat calculation until 100% consistent |
-| **M** | Initial Anomaly Detection | Detect "Why is only this different?" first — the seed of all analysis |
-| **A** | Chronological Sequential Mapping | Back-calculate hidden years by lining up numbers sequentially |
-| **B** | Sequential Parallel Integration | Integrate two records into a single narrative by fitting them into a timeline |
-| **C** | Functional Scope Split | Separate identical words pointing to different scales/functions |
-| **D** | Hebrew Convention Inverse Application | Resolve contradictions via importance-first listing/genealogy formulas |
-| **E** | Competing Model Elimination | List all alternatives, eliminate one by one, adopt surviving model |
-| **F** | Typological Triple-Parallel Proof | Prove 3-stage structure of type→antitype→fulfillment by contrasting in a table |
-| **G** | KJV Grammatical Chain Analysis | Prove hidden structure and undeletability via commas/conjunctions/articles |
-| **H** | Evidence Independence Reversal | Reverse manuscript count inferiority with number of independent sources |
-| **I** | Lexical Frequency Symmetry Verification | Prove design intent through exact symmetry of verb/noun usage counts |
-| **J** | External Historical Source Cross-Verification | Multi-dimensionally strengthen historicity of biblical claims with non-biblical histories |
-| **K** | Scientific/Forensic Plausibility Verification | Empirically refute "impossible" attacks with medicine/physics |
-| **L** | Inductive Chain Inference | Accumulate clue chain by repeating "Why?", deriving the big picture of design |
-| **N** | Exclusivity Verification | Confirm via exhaustive investigation that a pattern applies solely to this one subject |
-| **ANALOGY-5** | Mandatory Modern Analogy | Translate conclusions into modern military/legal/everyday analogies for 1-second understanding |
+| **OVERRIDE-0** | AI 편향 거부 | 학계 통설을 Hypothesis-0으로 격리, KJV 원문만으로 재시작 |
+| **ANCHOR-1** | 제3 앵커 수집 | 충돌 구절 외 제3의 독립 데이터를 반드시 찾아야 역산이 시작됨 |
+| **DE-OVERLAP** | 중첩 해체 규칙 | 시간·공간을 절대 겹치지 않고 직렬·분리로 배치 |
+| **MATRIX-3** | 매트릭스 역산 | 데이터를 표에 대입, 100% 정합할 때까지 연산 반복 |
+| **M** | 최초 이상 감지 | "왜 이것만 다른가?"를 먼저 감지 — 모든 분석의 씨앗 |
+| **A** | 연대기 직렬 분해 | 숫자를 순서대로 줄 세워 숨겨진 연수를 역산 |
+| **B** | 사건 순차 병렬 통합 | 두 기록을 타임라인으로 끼워 맞춰 단일 서사로 통합 |
+| **C** | 기능적 범주 분리 | 같은 단어가 다른 규모/기능을 가리킴을 분해 |
+| **D** | 히브리 서사 관습 역이용 | 중요도 우선 나열·족보 공식으로 모순 해소 |
+| **E** | 경쟁 모델 전수 기각 | 모든 대안을 나열하고 하나씩 기각, 생존 모델 채택 |
+| **F** | 예표 삼중 평행 구조 증명 | 예표→실체→계승의 3단 구조를 표로 대조 증명 |
+| **G** | KJV 접속사/문법 구조 해부 | 콤마·접속사·관사로 숨겨진 구조와 삭제 불가성 증명 |
+| **H** | 사본학적 증거 독립성 역전 | 사본 수 열세를 독립 출처 수로 역전 |
+| **I** | 어휘 빈도 대칭 설계 검증 | 동사/명사 사용 횟수의 정확한 대칭으로 설계 의도 증명 |
+| **J** | 외부 역사 문헌 교차 검증 | 비성경 역사서로 성경 주장의 역사성 입체 강화 |
+| **K** | 과학적·법의학적 정합 검증 | 의학·물리학으로 "불가능하다"는 공격 실증 논파 |
+| **L** | 귀납적 연쇄 추론 | "왜?"를 반복하며 단서 체인 누적, 설계 전체 그림 도출 |
+| **N** | 배타성 검증 | 패턴이 오직 이 한 대상에만 적용됨을 전수 조사로 확정 |
+| **ANALOGY-5** | 현대 비유 창작 의무 | 결론을 현대 군사·법률·일상 비유로 번역, 1초 이해 달성 |
+
+
 
 ---
 
 *Generated by BVCAP Skill Pipeline v2.4*
-*Fully integrated with former v2.0 AIDD pipeline — Added ANCHOR-1, DE-OVERLAP, MATRIX-3, ANALOGY-5*
-*TYPE Expansion: v2.3(A-N) → v2.4(OVERRIDE-0 + ANCHOR-1 + DE-OVERLAP + MATRIX-3 + A-N + ANALOGY-5)*
-*Execution Structure: PRE-FLIGHT → DETECTION → DATA → DE-OVERLAP → MATRIX → SCAN → ANALOGY → OUTPUT*
+*구 v2.0 AIDD 파이프라인과 완전 통합 — ANCHOR-1·DE-OVERLAP·MATRIX-3·ANALOGY-5 추가*
+*TYPE 확장: v2.3(A-N) → v2.4(OVERRIDE-0 + ANCHOR-1 + DE-OVERLAP + MATRIX-3 + A-N + ANALOGY-5)*
+*실행 구조: PRE-FLIGHT → DETECTION → DATA → DE-OVERLAP → MATRIX → SCAN → ANALOGY → OUTPUT*
 *STATUS: AIDD READY | STANDALONE COMPLETE | TARGET: ZERO-ERROR REPRODUCIBILITY*
+

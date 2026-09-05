@@ -1,45 +1,34 @@
----
-id: "catholic-doctrine_db-056"
-title_ko: "FIDUCIA-SUPPLICANS — 동성 커플 축복 허용"
-title_en: "FIDUCIA-SUPPLICANS — Permitting the Blessing of Same-Sex Couples"
-file_ko: "FIDUCIA_SUPPLICANS.md"
-file_en: "FIDUCIA_SUPPLICANS.md"
-category: "doctrine_db"
-status: "translated"
-source: "KO"
-updated: "2026-08-27"
----
-# FIDUCIA-SUPPLICANS — Permitting the Blessing of Same-Sex Couples
+# FIDUCIA-SUPPLICANS — 동성 커플 축복 허용
 
-| Field | Content |
+| 항목 | 내용 |
 |:---|:---|
 | **ID** | FIDUCIA-SUPPLICANS |
-| **Source** | Dicastery for the Doctrine of the Faith, Declaration Fiducia Supplicans (ratified by Pope Francis) |
-| **Paragraph** | Full text (especially Part III: Non-Liturgical Blessings) |
-| **Doctrinal Rank** | Pastoral |
-| **Anathema** | ❌ No |
-| **Year** | 2023 |
+| **출처** | 교황청 교리부, 선언 Fiducia Supplicans (교황 프란치스코 인준) |
+| **조항** | 전문 (특히 III부: 비전례적 축복) |
+| **교의 등급** | Pastoral |
+| **파문(Anathema)** | ❌ 아니오 |
+| **연도** | 2023 |
 
-## Original Text (Summary)
-> Opens the possibility of a pastoral blessing for couples in irregular situations, including same-sex couples. This blessing is not a liturgical blessing and must not be confused with the sacrament of marriage. As a descending blessing of grace (bendición descendente) given "without conditions, to everyone," it is not an approval (validatio) of a moral state but an act of imploring God's mercy.
+## 원문 (요약)
+> 비정규적(irregular) 상황에 있는 커플, 동성 커플에 대한 사목적(pastoral) 축복의 가능성을 열어줌. 이 축복은 전례적 축복이 아니며, 혼인 성사와 혼동되어서는 안 된다. "성별 없이, 모든 사람들에게" 내려주는 은총의 하강적 축복(bendición descendente)으로서, 도덕적 상태에 대한 승인(validatio)이 아니라 하느님의 자비를 간구하는 행위이다.
 
-## Tags
-`sacramental_theology`, `marriage`, `ecclesiology`, `pastoral`, `permitted`
+## 태그
+`성사론`, `혼인`, `교회론`, `pastoral`, `사목적`, `허용`
 
-## Claims
-1. A pastoral blessing may be given to couples in irregular situations, including same-sex couples
-2. This blessing is not a liturgical blessing (benedictio liturgica) but a non-liturgical, spontaneous (spontanea) one
-3. This blessing must not be confused with the sacrament of marriage and does not approve of an irregular union
-4. God's mercy and grace can be sought even without the precondition of moral perfection
-5. The doctrine that marriage is the indissoluble union of a man and a woman remains unchanged
+## 주장 (Claims)
+1. 비정규적 상황에 있는 커플(동성 커플 포함)에게 사목적 축복을 줄 수 있다
+2. 이 축복은 전례적 축복(benedictio liturgica)이 아닌 비전례적·자발적(spontanea) 축복이다
+3. 이 축복은 혼인 성사와 혼동되어서는 안 되며, 비정규적 결합을 승인하는 것이 아니다
+4. 하느님의 자비와 은총은 도덕적 완전함의 전제 조건 없이도 간구될 수 있다
+5. 혼인은 남녀 간의 불가해소적 결합이라는 교리는 변하지 않는다
 
-## Negates
-1. The proposition that no form of blessing whatsoever can be given to a person in an irregular union
-2. The proposition that every form of blessing for same-sex couples is prohibited
-3. The proposition that a pastoral blessing signifies approval of a moral state
+## 부정 (Negates)
+1. 비정규적 결합에 있는 사람에 대해 어떤 형태의 축복도 줄 수 없다는 명제
+2. 동성 커플에 대한 모든 형태의 축복이 금지된다는 명제
+3. 사목적 축복이 도덕적 상태의 승인을 의미한다는 명제
 
-## Related Collisions
-- → CCC-2357 (Homosexual acts are intrinsically disordered)
-- → TRENT-S24-MARRIAGE (The indissolubility of marriage)
-- → the Dicastery's 2021 Responsum (No blessing possible for same-sex unions — a mere two years earlier)
-- → CCC-2358 (Respect and pastoral care for those with a homosexual orientation)
+## 관련 충돌
+- → CCC-2357 (동성애 행위는 본질적으로 무질서하다)
+- → TRENT-S24-MARRIAGE (혼인의 불가해소성)
+- → 교리부 2021 Responsum (동성 결합의 축복 불가 — 불과 2년 전)
+- → CCC-2358 (동성 지향을 지닌 이들에 대한 존중과 사목적 돌봄)

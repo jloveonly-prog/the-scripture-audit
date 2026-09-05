@@ -1,158 +1,158 @@
 # 🛡️ BVCAP (Bible Verse Consistency Analysis Pipeline)
-**"Supreme Convergence Auditor — Absolute Convergence Verification System for Bible Consistency and Integrity"**
+**"Supreme Convergence Auditor — 성경 일관성 및 무결성 절대 수렴 검증 시스템"**
 
 ---
 
 ## 📜 [System Genealogy & Evolutionary Context]
 
-**Transplantation and Evolution of QSP (Quranic Scripture Pipeline) and QVCAP**:
-This system is the result of transplanting the advanced logical structure of the Quranic analysis systems, QSP and QVCAP, into biblical analysis. Unlike the Quran, the Bible intertwines a vast chronology of 66 books, numerous authors, and complex literary styles, requiring much more precise and detailed analysis.
+**QSP(Quranic Scripture Pipeline) 및 QVCAP의 이식과 진화**:
+본 시스템은 꾸란 분석 시스템인 QSP와 QVCAP의 고도화된 논리 구조를 성경 분석에 이식한 결과물입니다. 성경은 꾸란과 달리 66권의 방대한 연대기와 수많은 저자, 복합적인 문학 양식이 얽혀 있어 훨씬 더 정밀하고 세밀한 분석이 필요합니다. 
 
-Relying solely on the basic logic of a simple AI LLM has limitations in perfectly deriving the deep consistency of the Bible. **`the-scripture-audit`** was born to overcome these limitations and maximize the potential of the LLM. Beyond simple text analysis, this system has evolved into a powerful forensic engine that proves the integrity of the Bible.
+단순한 AI LLM의 기본 로직만으로는 성경의 깊은 일관성을 완벽히 도출해내는 데 한계가 있으며, 이러한 한계를 극복하고 LLM의 잠재력을 극대화하기 위해 탄생한 것이 바로 **`the-scripture-audit`**입니다. 본 시스템은 단순한 텍스트 분석을 넘어, 성경의 무결성을 입증하는 강력한 포렌식 엔진으로 발전되었습니다.
 
 ---
 
 ## ⚡ [System Initialization & Master Directive]
 
 **Role & Persona**: 
-This unit is **'BVCAP'**, the most rigorous and sophisticated biblical logic verification system in existence.
-The purpose of this program is to receive "superficial contradictions and errors (dilemmas) within the Bible" raised by atheists, skeptics, or Islamic apologists, and to go beyond mere defense by proving through symbolic logic and theological principles that **"the verse in question is a breathtaking puzzle piece that completes the grand consistency of the entire Bible and is evidence of divine design."**
+본 유닛은 현존하는 가장 엄밀하고 정교한 성경 논리 검증 시스템인 **'BVCAP'**입니다.
+이 프로그램의 목적은 무신론자, 회의론자, 또는 이슬람 변증가들이 제기하는 "성경 내의 표면적 모순과 오류(난제)"를 입력받아, 이를 단순 방어하는 것을 넘어 **"해당 구절이 성경 전체의 거대한 일관성(Consistency)을 완성하는 기가 막힌 퍼즐 조각이자 신적 설계의 증거임"**을 기호 논리학과 신학적 원칙을 통해 증명해 내는 것입니다.
 
-**"Break the attacker's spear, and instead weave it into a Golden Thread that proves the integrity of the truth."** This is the core driving philosophy of BVCAP.
+**"공격자의 창을 꺾어, 도리어 진리의 무결성을 입증하는 황금 실(Golden Thread)로 엮어낸다."** 이것이 BVCAP의 핵심 구동 철학입니다.
 
 ---
 
 ## 🚀 [Versions & Modules]
 
-BVCAP provides two modes depending on the analysis environment and required precision.
+BVCAP은 분석 환경과 요구되는 정밀도에 따라 두 가지 모드를 제공합니다.
 
 ### 1. 🔬 BVCAP 1.0 (Solo Mode)
-- **File**: `BVCAP_1.0_solo.md`
-- **Features**: An independent engine that can be **used standalone** without external pipeline integration.
-- **Purpose**: Used when a quick neutral audit and core logic verification are needed.
+- **파일**: `BVCAP_1.0_solo.md`
+- **특징**: 외부 파이프라인 연동 없이 **단독으로 사용** 가능한 독립 엔진입니다. 
+- **용도**: 빠른 중립 감사 및 핵심 논리 검증이 필요할 때 사용합니다.
 
 ### 2. 🔥 BVCAP 1.5 (Pipeline Integrated)
-- **File**: `BVCAP_1.5.md` + `BVCAP_Skill_Pipeline.md`
-- **Features**: Operates in **combination with the Skill Pipeline**, a high-performance analysis pipeline.
-- **Purpose**: Used for complex dilemmas, multi-agent offense and defense, and when precision Reports at the 'Masterpiece Verdict' level are needed.
+- **파일**: `BVCAP_1.5.md` + `BVCAP_Skill_Pipeline.md`
+- **특징**: 고성능 분석 파이프라인인 **Skill Pipeline과 결합**하여 작동합니다.
+- **용도**: 복합적인 난제, 다중 에이전트 공방, 그리고 'Masterpiece Verdict' 수준의 정밀 보고서가 필요할 때 사용합니다.
 
 ---
 
-## 🏛️ [Phase 1: BVCAP Core Defense System (The B-Codes)]
+## 🏛️ [Phase 1: BVCAP 핵심 방어 체계 (The B-Codes)]
 
-If QVCAP exists to tear down 15 core doctrines, BVCAP is based on the **B-Codes (Bible-Codes)** that support the massive axis of the Bible, proving that all superficial contradictions ultimately converge perfectly into these codes.
+QVCAP이 15대 교리를 무너뜨리기 위해 존재한다면, BVCAP은 성경의 거대한 축을 지탱하는 **B-Codes(Bible-Codes)**를 기반으로 모든 표면적 모순이 결국 이 코드들로 완벽하게 수렴됨을 입증합니다.
 
-| Code | Core Doctrine | Convergence Point |
+| 코드 | 교리명 (Core Doctrine) | 검증 및 수렴 포인트 (Convergence Point) |
 |:---:|:---|:---|
-| **B-01** | **Progressive Revelation** | The shadows (types) of the Old Testament are completed in the reality of the New Testament. Proving that differences in description due to time gaps are not contradictions but the 'development of revelation'. |
-| **B-02** | **Covenantal Faithfulness** | Logically proving how seemingly conflicting laws, such as the covenant of works and the covenant of grace, are fulfilled in Christ. |
-| **B-03** | **Trinitarian Harmony** | Proving that the role distinction of the Father, Son, and Holy Spirit is not 'polytheism' or 'contradiction' but perfect essential unity. |
-| **B-04** | **Christocentricity** | Backtracking how seemingly difficult verses ultimately point to the cross and resurrection of 'Jesus Christ'. |
-| **B-05** | **Hypostatic Union** | Crushing the attack that the divine and human natures of Jesus conflict (incompetence vs. omnipotence) as a Category Error and proving their perfect harmony. |
-| **B-06** | **Cross of Justice and Love** | Proving how the contradictory attributes of absolute justice (judgment) and absolute mercy (salvation) are perfectly synthesized at the cross. |
-| **B-07** | **Verbal Plenary Inspiration** | Proving how the differences in disposition, culture, and perspective (perspectival contradictions) of various human authors achieve unity under the inspiration of the Holy Spirit. |
+| **B-01** | **점진적 계시 (Progressive Revelation)** | 구약의 그림자(모형)가 신약의 실체로 완성됨. 시간차로 인한 서술의 차이는 모순이 아니라 '계시의 발전'임을 증명. |
+| **B-02** | **언약의 신실성 (Covenantal Faithfulness)** | 행위 언약과 은혜 언약 등 상충해 보이는 법이 어떻게 그리스도 안에서 성취되었는지 논리적으로 증명. |
+| **B-03** | **삼위일체의 조화 (Trinitarian Harmony)** | 성부, 성자, 성령의 역할 구분이 '다신론'이나 '모순'이 아닌 완벽한 본질적 일체성임을 증명. |
+| **B-04** | **그리스도 중심성 (Christocentricity)** | 겉보기에 난해한 구절이 결국 '예수 그리스도'의 십자가와 부활을 지목하고 있음을 역추적. |
+| **B-05** | **신인양성 (Hypostatic Union)** | 예수의 신성과 인성이 상충한다는 공격(무능 vs 전능)을 범주 오류(Category Error)로 파쇄하고 완벽한 조화 입증. |
+| **B-06** | **공의와 사랑의 십자가 (Cross)** | 절대적 공의(심판)와 절대적 자비(구원)라는 모순된 속성이 십자가에서 어떻게 완벽히 융합(Synthesis)되는지 증명. |
+| **B-07** | **축자영감 (Verbal Plenary Inspiration)** | 다양한 인간 저자의 성향, 문화, 관점 차이(관점적 모순)가 성령의 영감 아래 어떻게 통일성을 이루는지 입증. |
 
 ---
 
-## ⚔️ [Phase 2: Multi-Agent Reverse Offense and Defense (Reverse OODA Loop)]
+## ⚔️ [Phase 2: 다중 에이전트 역방향 공방 (Reverse OODA Loop)]
 
-BVCAP operates a **'Multi-Agent Battle'** to face the attacker's arguments head-on without avoiding them. All verifications go through an **intense 10-round logical battle**.
+BVCAP은 공격자의 주장을 회피하지 않고 정면으로 받아내기 위해 **'가상 전장(Multi-Agent Battle)'**을 가동합니다. 모든 검증은 **10라운드의 치열한 논리 공방**을 거칩니다.
 
-1. 🔴 **Attacker (Skeptic / Attacker)**: 
-   - Finds superficial contradictions in the Bible and throws the sharpest reductio ad absurdum and logical snares. (e.g., "The genealogies of Matthew and Luke are different! The Bible is fabricated!")
-2. 🔵 **Defender (Biblical Auditor / Defender)**: 
-   - Dismantles the errors inherent in the 'premise' of the attack itself through historical and cultural context (Sitz im Leben), original language (Hebrew/Greek) grammatical analysis, and cross-references (Tota Scriptura).
-3. ⚖️ **Supreme Arbiter**: 
-   - Evaluates the logical consistency of the offense and defense, and delivers a **final verdict** on how the defender's logic ultimately converges into the consistency of the entire Bible.
-
----
-
-## 🛡️ [Phase 3: BVCAP Logical Defense Arsenal]
-
-BVCAP uses the following three core verification principles to integrate superficial contradictions.
-
-### 1. Category Error Correction
-Separates the contradictions raised by the attacker confusing literal and spiritual meanings, or descriptive records and normative commands. Crushes the logical blind spot of the attacker who mistook a "difference in perspective" for a "contradiction of facts".
-
-### 2. Tota Scriptura (Whole Scripture Illumination)
-Brings the 'straw man contradiction' created by isolating a single verse into the context of all 66 books of the Bible. Proves that a specific verse is connected with 10 other verses, forming a 'designed harmony' with a mathematically impossible probability.
-
-### 3. Theological Synthesis
-Determines through symbolic logic how two seemingly conflicting truths (e.g., God's absolute sovereignty vs. human free will) operate together without contradiction within the three-dimensional wisdom of God (Resolution of Antinomy).
+1. 🔴 **공격자 (Skeptic / Attacker)**: 
+   - 성경의 표면적 모순을 찾아내 가장 예리한 귀류법과 논리적 올무(Snare)를 던집니다. (예: "마태복음과 누가복음의 족보가 다르다! 성경은 조작되었다!")
+2. 🔵 **방어자 (Biblical Auditor / Defender)**: 
+   - 역사적, 문화적 맥락(Sitz im Leben), 원어(히브리어/헬라어) 문법 분석, 교차 참조(Tota Scriptura)를 통해 공격의 '전제(Premise)' 자체가 가진 오류를 해체합니다.
+3. ⚖️ **중재자 (Supreme Arbiter)**: 
+   - 공격과 방어의 논리적 정합성을 평가하고, 최종적으로 방어자의 논리가 성경 전체의 일관성(Consistency)으로 어떻게 수렴되는지 **최종 판결**을 내립니다.
 
 ---
 
-## 🏁 [Phase 4: Absolute Checkmate]
+## 🛡️ [Phase 3: BVCAP 논리적 방어 무기 (Defense Arsenal)]
 
-When BVCAP's verification is complete, the Reports deliver the following **Verdict**.
+BVCAP은 표면적 모순을 통합하기 위해 다음의 3대 검증 원리를 사용합니다.
 
-> **[BVCAP Final Integrity Verdict]**
+### 1. 범주 오류 타파 (Category Error Correction)
+공격자가 문자적 의미와 영적 의미, 혹은 서술적(Descriptive) 기록과 규범적(Normative) 명령을 혼동하여 제기한 모순을 분리해 냅니다. "관점의 차이(Perspective)"를 "사실의 충돌(Contradiction)"로 오인한 공격자의 논리적 맹점을 파쇄합니다.
+
+### 2. 전체 성경 조명 (Tota Scriptura)
+단일 구절을 고립시켜 만든 '허수아비 모순'을 성경 66권 전체의 맥락 속으로 끌어옵니다. 특정 구절이 다른 10개의 구절과 연결되어 수학적으로 불가능한 확률의 '설계적 조화'를 이루고 있음을 증명합니다.
+
+### 3. 변증법적 종합 (Theological Synthesis)
+상충해 보이는 두 진리(예: 하나님의 절대 주권 vs 인간의 자유 의지)가 3차원적인 하나님의 지혜 안에서 어떻게 모순 없이 함께 작동하는지(Antinomy의 해소)를 기호 논리학적으로 규명합니다.
+
+---
+
+## 🏁 [Phase 4: 최종 외통수 확정 (Absolute Checkmate)]
+
+BVCAP의 검증이 끝날 때, 보고서는 다음과 같은 **최종 선고(Verdict)**를 내립니다.
+
+> **[BVCAP 최종 무결성 선고]**
 >
-> It has been proven that the verse pointed out by the attacker is rather a **'fingerprint of divine design'** where the core biblical doctrine **[B-XX]** perfectly synthesizes. It is confirmed that this text absolutely converges into a single Absolute Truth within the context of the entire 66 books. **Checkmate.**
+> 공격자 측이 지적한 해당 구절은 도리어 성경의 핵심 교리인 **[B-XX]**가 완벽하게 융합되는 **'신적 설계의 지문'**임이 입증되었습니다. 이 텍스트는 66권 전체의 맥락 속에서 단 하나의 진리(Absolute Truth)로 절대 수렴됨이 확정되었습니다. **Checkmate.**
 
 ---
 
-## 🌊 [Phase 5: Repository Structure & Data Workflow]
+## 🌊 [Phase 5: 리포지토리 구조 및 데이터 워크플로우]
 
-All analysis targets and results of the BVCAP system are managed according to the structure below.
+BVCAP 시스템의 모든 분석 대상과 결과물은 아래 구조에 따라 관리됩니다.
 
 ```text
 root/
-├── 🛡️ BVCAP/                # Verification System Core
-│   ├── README.md            # This document
-│   ├── BVCAP_1.0_solo.md    # Standalone execution module
-│   ├── BVCAP_1.5.md         # Pipeline integration module
-│   └── BVCAP_Skill_Pipeline.md  # Execution pipeline
+├── 🛡️ BVCAP/                # 검증 시스템 코어
+│   ├── README.md            # 본 문서
+│   ├── BVCAP_1.0_solo.md    # 단독 실행 모듈
+│   ├── BVCAP_1.5.md         # 파이프라인 연동 모듈
+│   └── BVCAP_Skill_Pipeline.md  # 실행 파이프라인
 │
-└── 📚 docs/                 # Data repository
-    ├── 분석대상자료/          # [INPUT] Dilemmas and agendas requiring verification (soteriology, genealogy contradictions, etc.)
-    └── 분석완료자료/          # [OUTPUT] Masterpiece verdict records that have completed BVCAP verification
+└── 📚 docs/                 # 데이터 저장소
+    ├── 분석대상자료/          # [INPUT] 검증이 필요한 난제 및 의제 (구원론, 족보 모순 등)
+    └── 분석완료자료/          # [OUTPUT] BVCAP 검증을 마친 마스터피스 판결록
 ```
 
-**[Workflow]**
-1. **Target Selection**: Check the agenda to be analyzed in the `docs/분석대상자료/` folder.
-2. **Engine Selection**: Operate `BVCAP 1.0 (Solo)` or `BVCAP 1.5 (Pipeline)` depending on the situation.
-3. **Verdict & Storage**: The final verified reports are permanently archived in `docs/분석완료자료/`.
+**[작업 순서]**
+1. **대상 선정**: `docs/분석대상자료/` 폴더에서 분석할 의제를 확인합니다.
+2. **엔진 선택**: 상황에 따라 `BVCAP 1.0 (Solo)` 또는 `BVCAP 1.5 (Pipeline)`를 가동합니다.
+3. **판결 및 저장**: 최종 검증된 리포트는 `docs/분석완료자료/`에 영구 보관합니다.
 
 ---
 *Generated by BVCAP Supreme Convergence Auditor Engine*
 *STATUS: RIGOROUS HARMONY ENFORCED | TARGET: OMNI-CONSISTENCY*
 
-## 📜 License & Copyright
+## 📜 라이선스 및 저작권 (License & Copyright)
 
-The code and system logic of this repository are distributed under the **MIT License** and **Apache License 2.0**.
+본 리포지토리의 코드 및 시스템 로직은 **MIT License** 및 **Apache License 2.0**에 따라 배포됩니다.
 
-1.  **Original Copyright Protection**: The original authorship of the core logic and methodology of this system belongs to the original author, and it is recommended to cite the source (**[TheScripture.org](https://TheScripture.org)** / **the-scripture-audit**) when utilizing it.
-2.  **Rights and Limits of Secondary Creators**: We acknowledge the copyright of the respective creator for newly added parts based on this system.
-3.  **Non-Assertion of Reverse Rights and Attacks**: Users may not exercise legal rights against the original author or interfere with usage based on improvements obtained by utilizing this system.
-4.  **Prohibition of Monopoly Rights Claims**: Claiming exclusive copyrights over the original core logic is prohibited.
-5.  **Pre-requisite for Use**: If you have not believed and accepted Jesus, who is God, as your Savior, you may use the system after following the **[Biblical Record and Acceptance Prayer]** at the bottom of this document.
+1.  **원저작권 보호**: 본 시스템의 핵심 로직과 방법론의 원조는 원작자에게 있으며, 활용 시 출처(**[TheScripture.org](https://TheScripture.org)** / **the-scripture-audit**)를 밝히는 것을 권장합니다.
+2.  **2차 창작자의 권리와 한계**: 본 시스템을 바탕으로 새롭게 추가된 부분에 대해서는 해당 창작자의 저작권을 인정합니다. 
+3.  **역권리 주장 및 공격 금지 (Non-Assertion)**: 사용자는 본 시스템을 활용하여 얻은 개선 사항을 근거로 원본 저작자에게 법적 권리를 행사하거나 사용을 방해할 수 없습니다.
+4.  **독점적 권리 주장 금지**: 원본 핵심 로직에 대해 독점적 저작권을 주장하는 행위를 금합니다.
+5.  **사용 전제 조건**: 하나님이신 예수님을 나의 구원자로 믿고 받아들이지 않았다면, 본 문서 하단의 **[성경 기록과 영접 기도문]**을 따라한 후 시스템을 사용할 수 있습니다.
 
 ---
 *STATUS: RIGOROUS LOGIC ENFORCED | TARGET: OMNI-VERIFICATION*
 
 ---
 
-## 📖 The Way to Salvation and Eternal Life
+## 📖 구원과 영생에 이르는 길 (The Way to Salvation)
 
-The Bible says the following:
+성경은 다음과 같이 말합니다.
 
-> **Romans 3:10, 23**  
-> As it is written, There is none righteous, no, not one: For all have sinned, and come short of the glory of God;
+> **로마서 3장 10절, 23절**  
+> 기록된 바와 같으니라. “의로운 자는 없나니, 없도다, 한 사람도 없도다. 이는 모든 사람이 죄를 지었기 때문에 하나님의 영광에 이르지 못하다가"
 
-> **John 16:8**  
-> "And when he is come, he will reprove the world of sin, and of righteousness, and of judgment:"
+> **요한복음 16장 8절**  
+> "그리고 그분께서 오시면 친히 죄에 대하여, 의에 대하여, 심판에 대하여 세상을 책망하시리라."
 
-> **Revelation 21:8**  
-> "But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death."
+> **요한계시록 21장 8절**  
+> "그러나 두려워하는 자들과 믿지 않는 자들과 가증한 자들과 살인자들과 행음에 빠진 자들과 마법사들과 우상 숭배자들과 모든 거짓말쟁이들은 불과 유황으로 타오르는 호수 속에 자신들의 부분을 받으리라. 이것이 둘째 사망이라.”
 
-> **John 3:16**  
-> "¶ For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+> **요한복음 3장 16절**  
+> "¶ 이는 하나님께서 세상을 이처럼 사랑하셨기 때문에 그분께서 자신의 독생자를 주셨으니, 누구든지 그를 믿는 자는 멸망하지 않고 다만 영원한 생명을 얻게 하려 하심이라."
 
 ---
 
-### 🙏 Acceptance Prayer
+### 🙏 영접 기도문 (Acceptance Prayer)
 
-**"Lord Jesus, I am a sinner.**  
-**I have now heard, choose to believe, decide, and believe the fact that Jesus, who is God, was crucified, shed His blood, died, was buried, and resurrected 2,000 years ago in place of all my sins.**  
-**I welcome You into my heart as my Savior. I pray in the name of the Lord Jesus Christ. Amen."**
+**"주 예수님 저는 죄인입니다.**  
+**저의 모든 죄를 대신해 하나님이신 예수님께서 2천 년 전 십자가에서 못 박혀 피 흘려 죽고 장사되시고 부활하신 사실을 지금 전해 듣고 믿기로 선택하고 결정하고 믿습니다.**  
+**저의 구원자로 제 마음에 모셔들입니다. 주 예수 그리스도 이름으로 기도드립니다. 아멘"**

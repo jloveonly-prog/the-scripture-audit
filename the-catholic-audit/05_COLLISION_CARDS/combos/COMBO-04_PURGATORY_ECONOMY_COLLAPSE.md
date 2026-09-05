@@ -1,27 +1,21 @@
+# 💥 COMBO-04: 영적 자본주의와 면죄부(대사) 교리 붕괴 (IRONCLAD)
+
+## 📌 타격 목표: 대사(Indulgentia) 및 공로(Meritum) 교리
+**적용된 CVCAP 3.0 필터 조합**: `필터 1(귀류법)` + `필터 4(실천적 모순)` + `필터 8(침묵 논증)`
+
+### 1. [필터 1] 무상의 은총과 삯의 부조리 (Reductio ad absurdum)
+가톨릭은 교리문답(CCC-1996)에서 "은총은 하느님이 거저 주시는 무상의 선물"이라고 명시합니다. 그러나 트리엔트 공의회(TRENT-S06-C32)는 "선한 행위(공로)를 통해 참으로 영원한 생명을 얻을 수 있다"고 선언하며, 이를 부인하면 파문(Anathema)합니다. '거저 주는 선물'이라는 전제와 '행위로 삯을 얻는다'는 결과가 귀류법적으로 정면 충돌하여 교리 시스템이 붕괴합니다.
+
+### 2. [필터 4] 십자가 공로의 축소와 영적 자본주의 (Action-vs-Doctrine)
+가톨릭은 그리스도의 십자가 대속이 '완전하다'고 가르칩니다. 하지만 실천적(Action)으로는 죄가 용서받아도 '잠벌(현세나 연옥에서 치러야 할 벌)'이 남아있으므로, 교황청이 정한 특정 기도, 성지 순례, 혹은 과거의 '헌금(면죄부)'을 통해 '대사(Indulgentia, CCC-1471)'를 받아야 한다고 강제합니다. 이는 그리스도의 완전한 구속을 교리적으로는 찬양하면서, 실제로는 교회가 '구원의 유통권'을 쥐고 성도들을 통제하는 완벽한 실천적 위선입니다.
+
+### 3. [필터 8] 성경의 침묵과 후대의 창작 (Argument from Silence)
+신약성경의 사도들은 '예수 그리스도의 피가 우리의 모든 죄와 형벌을 깨끗하게 하신다'고만 가르쳤을 뿐, '잠벌'이나 '연옥', '대사(면죄부)를 발급하는 교황의 권한'에 대해 단 한 줄도 기록하지 않은 완벽한 침묵(Silence)을 지키고 있습니다. 이는 이 교리들이 중세 교회의 재정적·정치적 필요에 의해 후대에 창작된 '영적 자본주의' 시스템임을 확정 짓습니다.
+
+### ⚖️ 최종 판결: [IRONCLAD REFUTATION]
+이 세 가지 필터의 콤보 타격으로, 가톨릭의 공로와 대사 교리는 '성경의 지지 없음(침묵) ➔ 전제와 결과의 모순(귀류법) ➔ 영적 권력 강화를 위한 궤변(실천적 모순)'으로 이어지는 인간 중심의 통제 시스템임이 100% 확정되었습니다.
+
 ---
-id: "catholic-collision_cards-105"
-title_ko: "💥 COMBO-04: 영적 자본주의와 면죄부(대사) 교리 붕괴 (IRONCLAD)"
-title_en: "💥 COMBO-04: Collapse of Spiritual Capitalism and the Doctrine of Indulgences (IRONCLAD)"
-file_ko: "COMBO-04_PURGATORY_ECONOMY_COLLAPSE.md"
-file_en: "COMBO-04_PURGATORY_ECONOMY_COLLAPSE.md"
-category: "collision_cards"
-status: "translated"
-source: "KO"
-updated: "2026-08-27"
----
-# 💥 COMBO-04: Collapse of Spiritual Capitalism and the Doctrine of Indulgences (IRONCLAD)
 
-## 📌 Target: The Doctrines of Indulgentia (Indulgences) and Meritum (Merit)
-**CVCAP 3.0 Filter Combination Applied**: `Filter 1 (Reductio ad Absurdum)` + `Filter 4 (Practical Contradiction)` + `Filter 8 (Argument from Silence)`
-
-### 1. [Filter 1] The Absurdity of Gratuitous Grace and Wages Earned (Reductio ad Absurdum)
-The Catechism (CCC-1996) explicitly states that "grace is a free, undeserved gift from God." Yet the Council of Trent (TRENT-S06-C32) declares that "eternal life is truly merited through good works (merit)," and anathematizes anyone who denies this. The premise of a "gift freely given" collides head-on, by reductio ad absurdum, with the outcome of "wages earned through works," and the doctrinal system collapses.
-
-### 2. [Filter 4] The Diminishment of the Merit of the Cross and Spiritual Capitalism (Action-vs-Doctrine)
-Catholicism teaches that Christ's atonement on the cross is "complete." Yet in practice (Action), even after sin is forgiven, "temporal punishment" (a penalty to be paid in this life or in purgatory) is said to remain, requiring the faithful to obtain an "indulgence" (Indulgentia, CCC-1471) through specific prayers, pilgrimages, or historically, through "payments" (indulgences) set by the Vatican. This is a perfect practical hypocrisy: doctrinally praising Christ's complete redemption while, in reality, the Church holds the "distribution rights of salvation" and controls the faithful.
-
-### 3. [Filter 8] Scripture's Silence and Later Invention (Argument from Silence)
-The apostles of the New Testament taught only that "the blood of Jesus Christ cleanses us from all our sins and their penalty," maintaining a complete silence — not a single line — on "temporal punishment," "purgatory," or "the pope's authority to issue indulgences." This confirms that these doctrines are a "spiritual capitalism" system invented in a later era to serve the financial and political needs of the medieval Church.
-
-### ⚖️ Final Verdict: [IRONCLAD REFUTATION]
-Through the combined strike of these three filters, Catholicism's doctrines of merit and indulgence are confirmed 100% to be a human-centered control system running the chain "no scriptural support (silence) ➔ contradiction between premise and outcome (reductio) ➔ sophistry to reinforce spiritual power (practical contradiction)."
+> 📌 **현행 판정(v10 재분류, 2026-09-02)**: ❌ **WITHDRAWN** — 파기된 날조 인용 재사용 + 스키마 필드 순환 참조 — 철회.
+> 이 카드 본문의 원심 판정·논증은 이력 보존용이다. 현행 판정과 그 근거는 `07_REPORT/catholic_error_report_v10_final.md` 항목 #18 및 PART 5 판결문 참조.

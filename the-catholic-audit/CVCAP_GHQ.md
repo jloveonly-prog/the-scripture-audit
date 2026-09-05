@@ -1,378 +1,401 @@
 > [!IMPORTANT]
-> ## 🏛️ GHQ (General Headquarters)
-> **What This Document Does**: defines strategy · role allocation · CD/CE-Code · verdict criteria · output format
-> **Companion Documents**: `CVCAP_Pipeline.md` (the tactical manual — OODA court execution procedure) · `CVCAP_3.0_METHODOLOGY.md` (the automation engine — automatic discovery of conflict candidates)
-> **Relationship**: GHQ defines "what war is being fought and why," the automation engine "discovers strike candidates," and the tactical manual "confirms them in court."
+> ## 🏛️ 사령부 (GHQ — General Headquarters)
+> **이 문서가 하는 일**: 전략 · 역할 배분 · CD/CE-Code · 판결 기준 · 출력 양식 정의
+> **짝꿍 문서**: `CVCAP_Pipeline.md` (전술 교범 — OODA 법정 실행 절차) · `CVCAP_3.0_METHODOLOGY.md` (자동화 엔진 — 충돌 후보 자동 발굴)
+> **관계**: 사령부가 "어떤 전쟁을 왜 하는가"를 정의하면, 자동화 엔진이 "타격 후보를 발굴"하고, 전술 교범이 "법정에서 확정"한다.
 
-# 🏛️ CVCAP 3.0 (the internal engine of the-catholic-audit)
+# 🏛️ CVCAP 3.0 (the-catholic-audit의 내부 엔진)
 ## Catholic Vault & Conciliar Audit Pipeline
-**"Supreme Catholic Auditor — a forensic pipeline for Catholic Magisterial literature"**
+**"Supreme Catholic Auditor — 가톨릭 교도권 문헌 포렌식 파이프라인"**
 
-> **Document Role**: 🏛️ **GHQ (determines overall strategy · verdict criteria · output format)**
-> **Version**: v3.0
-> **Status**: FINAL MASTER
-> **Core Philosophy**: **"Strike Catholicism with the sword of Catholicism (Implosion). Track logical contradictions solely within Catholicism's own literature (the CCC, councils, papal declarations, canon law, the Church Fathers), making the Magisterial system itself fall into self-contradiction — without any external logic (Protestant theology, debates over biblical interpretation)."**
+> **문서 역할**: 🏛️ **사령부 / GHQ (전체 전략 · 판결 기준 · 출력 양식 결정)**
+> **버전**: v3.0
+> **상태**: FINAL MASTER
+> **핵심 철학**: **"가톨릭의 검으로 가톨릭을 벤다 (Implosion). 가톨릭 자체 문헌(CCC, 공의회, 교황 선언, 교회법, 교부) 내부의 논리적 모순만을 추적하여, 외부 논리(개신교 신학·성경 해석 논쟁) 없이 교도권 시스템 자체가 자가당착에 빠지게 만든다."**
 
 ---
 
-## 🧭 Architecture Declaration — Complete Separation from Scriptural Verification (Separation Declaration)
+## 🧭 아키텍처 선언 — 성경 검증과의 완전 분리 (Separation Declaration)
 
 > [!IMPORTANT]
-> **CVCAP 3.0 does not perform scriptural verification.**
-> The old version's (v2.0) "BVCAP Import Dual-Track" structure has been deprecated.
-> This removes the load and document drift that arose from a single engine simultaneously running two courts,
-> so that each engine can dig to the extreme limit of its own specialized domain.
+> **CVCAP 3.0은 성경 검증을 수행하지 않는다.**
+> 구버전(v2.0)의 "BVCAP 임포트 듀얼트랙" 구조는 폐기되었다.
+> 한 엔진이 두 법정을 동시에 운영하며 발생하던 부하와 문서 표류를 제거하고,
+> 각 엔진이 자기 전문 영역만 극한으로 파고든다.
 
-| Domain | Responsible Engine | Location | Evidentiary Material |
+| 영역 | 담당 엔진 | 위치 | 증거 자료 |
 |:---|:---|:---|:---|
-| **The Scriptural Court** (Catholic doctrine vs. the biblical text) | BVCAP | `../the-scripture-audit/` | the KJV original text, Greek/Hebrew, textual criticism |
-| **The Document Court** (Catholic literature vs. Catholic literature) | **CVCAP (this engine)** | `the-catholic-audit/` | the CCC, councils, papal declarations, canon law, the CDF, patristic literature |
+| **성경 법정** (가톨릭 교리 vs 성경 원문) | BVCAP | `../the-scripture-audit/` | KJV 원문, 헬라어/히브리어, 사본학 |
+| **문헌 법정** (가톨릭 문헌 vs 가톨릭 문헌) | **CVCAP (본 엔진)** | `the-catholic-audit/` | CCC, 공의회, 교황 선언, 교회법, 신앙교리부, 교부 문헌 |
 
-> **🔗 The Integrated Interface (Report Merge Protocol)**:
-> Each engine produces its own completed report, and **the two reports are merged at the final content-production stage.**
-> - BVCAP report: `../the-scripture-audit/05_REPORT/catholic/`
-> - CVCAP report: `07_REPORT/`
-> - Merge ruling: when, for the same doctrine, both BVCAP's ❌ CONTRADICTION and CVCAP's 💥 IMPLOSION are confirmed,
->   the merged report may declare a 🔴 **CHECKMATE**. CHECKMATE is a ruling of the merge stage,
->   not a verdict this engine renders alone.
-> - Catholic-specialized scriptural weapons are stored in `03_QUIVER/CATHOLIC_TARGETED_WEAPONS.md` (a Catholic-specific asset, so it belongs in this folder).
->   However, since these cards are **weapons under the jurisdiction of the Scriptural Court (BVCAP)**, they are not deployed in Document Court arguments,
->   and are used only for BVCAP verification and final merged-content production.
-
----
-
-## 🧠 Core Philosophy Summary
-
-```
-Input: a Catholic doctrinal claim
-   │
-   ├─ PHASE 0: Doctrine deconstruction and jurisdictional ruling
-   │      └─ "Is this a debate over scriptural interpretation?" → transfer to the-scripture-audit (BVCAP). This engine terminates.
-   │         "Is this a claim about the Magisterium/tradition/literature?" → activate the Document Court
-   │
-   ├─ Automation Engine (CVCAP_3.0_METHODOLOGY.md)
-   │      └─ Cross-scan the doctrine-card DB → discover conflict candidates (machine-discovered, unconfirmed)
-   │
-   ├─ Document Court (CVCAP_Pipeline.md — an OODA 10-round exchange)
-   │      └─ how Catholicism's own internal literature (the CCC, councils, papal declarations) is itself self-contradictory
-   │
-   └─ PHASE FINAL: The Implosion verdict is confirmed
-          └─ not "it collides with Scripture,"
-             but "the Catholic Magisterial system itself has logically collapsed"
-```
+> **🔗 통합 인터페이스 (Report Merge Protocol)**:
+> 두 엔진은 각자 완성된 보고서를 산출하며, **최종 콘텐츠 제작 단계에서 두 보고서를 병합**한다.
+> - BVCAP 보고서: `../the-scripture-audit/05_REPORT(전과보고서)/catholic/`
+> - CVCAP 보고서: `07_REPORT/`
+> - 병합 판정: 같은 교리에 대해 BVCAP ❌ CONTRADICTION + CVCAP 💥 IMPLOSION 이 모두 확정되면
+>   통합 보고서에서 🔴 **CHECKMATE**(외통수)를 선언할 수 있다. CHECKMATE는 통합 단계의 판결이며
+>   본 엔진 단독 판결이 아니다.
+> - 가톨릭 특화 성경 무기는 `03_QUIVER/CATHOLIC_TARGETED_WEAPONS.md`에 보관한다 (가톨릭 전용 자산이므로 본 폴더 소속).
+>   단, 이 카드들은 **성경 법정(BVCAP) 관할 무기**이므로 문헌 법정 논증에는 투입하지 않고,
+>   BVCAP 검증 및 최종 병합 콘텐츠 제작 시에만 사용한다.
 
 ---
 
-## 🤖 The AI Role-Allocation System (Triple-Agent Collaboration)
+## 🧠 핵심 철학 요약 (Core Philosophy)
 
-### ⚔️ MODE C: Catholic Document Court Mode (Catholic Audit) — the Sole Mode
+```
+가톨릭 교리 주장 입력
+   │
+   ├─ PHASE 0: 교리 해체 및 관할 판정
+   │      └─ "성경 해석 논쟁인가?" → the-scripture-audit(BVCAP)로 이첩. 본 엔진 종료.
+   │         "교도권·전통·문헌 주장인가?" → 문헌 법정 가동
+   │
+   ├─ 자동화 엔진 (CVCAP_3.0_METHODOLOGY.md)
+   │      └─ 교리 카드 DB 교차 스캔 → 충돌 후보 발굴 (기계 발굴, 미확정)
+   │
+   ├─ 문헌 법정 (CVCAP_Pipeline.md — OODA 10라운드 공방전)
+   │      └─ 가톨릭 내부 문헌(CCC, 공의회, 교황 선언) 자체가 어떻게 자가당착인가
+   │
+   └─ PHASE 최종: Implosion 확정 판결
+          └─ "성경과 충돌한다"가 아닌
+             "가톨릭 교도권 시스템 자체가 논리적으로 붕괴했다"
+```
 
-| AI Role | Actual Assignment | Philosophical Position | Mission |
+---
+
+## 🤖 AI 역할 분담 체계 (Triple-Agent Collaboration)
+
+### ⚔️ MODE C: 가톨릭 문헌 법정 모드 (Catholic Audit) — 단일 모드
+
+| AI 역할 | 실제 담당 | 철학적 위치 | 임무 |
 |:---:|:---:|:---|:---|
-| 🔴 **Prosecutor** | **Attacks Internal Literature** | a dispassionate forensic auditor | tracks doctrinal contradiction using only Catholicism's own literature. Does not retreat, driven by the data. |
-| 🔵 **Catholic Apologist** (Defender) | **Simulates Catholic Apologetics** | a conservative die-hard: never concedes | defends using only orthodox Catholic apologetic arguments (Magisterium, the Fathers, tradition). Actively deploys evasion logic (CE-Code). |
-| ⚖️ **Arbiter** | **The Final Judge** | a fully neutral referee | compares both sides' arguments. Rules on whether Implosion is confirmed. |
+| 🔴 **검사** (Prosecutor) | **내부 문헌 공격** | 냉정한 포렌식 감사관 | 가톨릭 자체 문헌만으로 교리 모순을 추적. 데이터 기반으로 물러서지 않음. |
+| 🔵 **가톨릭 변증** (Defender) | **가톨릭 변증 시뮬** | 보수적 고집쟁이: 절대 인정 안함 | 가톨릭 정통 변증 논거(교도권, 교부, 전통)로만 방어. 회피논법(CE-Code) 적극 사용. |
+| ⚖️ **중재자** (Arbiter) | **최종 판결자** | 완전 중립 심판 | 양측 논거 비교. Implosion 확정 여부 판정. |
 
-> **⚖️ Core Rules of Proceeding**:
-> ① The Prosecutor does not use Protestant theology as an argument. It attacks using only Catholicism's own literature.
-> ② If the Defense flees to "this is what Scripture says," the court declares that scriptural-interpretation debate is outside this court's jurisdiction,
->    records a transfer to the-scripture-audit (BVCAP), and then counter-attacks **"the very claim that this interpretation is the exclusive prerogative of the Magisterium"**
->    using internal literature (DV 10, cases of magisterial self-conflict) — that is, the ball is passed back to the Document Court.
+> **⚖️ 핵심 소송 규칙**:
+> ① 검사는 개신교 신학을 논거로 사용하지 않는다. 오직 가톨릭 자체 문헌으로만 공격한다.
+> ② 변증이 "성경에 이렇게 쓰여 있다"로 도피하면, 성경 해석 논쟁은 본 법정의 관할이 아님을 선언하고
+>    the-scripture-audit(BVCAP) 이첩을 기록한 뒤, **"그 해석이 교도권의 독점 권한이라는 주장 자체"**를
+>    내부 문헌(DV 10, 교도권 상충 사례)으로 역공한다 — 즉 공은 다시 문헌 법정으로 돌아온다.
 
 ---
 
-## 📐 Defense-Response Matrix
+## 📐 변증 방식별 대응 결정표 (Defense-Response Matrix)
 
-| Catholic Method of Defense | Response | Applied Tool |
+| 가톨릭 변증 방식 | 대응 | 적용 도구 |
 |:---|:---:|:---|
-| "This is what Scripture says" | **Transfer to BVCAP** + counter-attack on the interpretive monopoly | Filter 6 (the Boomerang Argument) |
-| "The Magisterium interprets it this way" | **The Document Court** | OODA 10 Rounds, L-01~L-08 |
-| "The Fathers taught this too" | **Patristic Historical Forensics** | Rupture Card 6 (Reverse Cherry-Picking), Filter 8 (Argument from Silence) |
-| "This is a mystery of the faith" | **Immediate Dismissal** | detect and seal CE-05 (Flight to Mystery) |
-| "It is merely pastoral consideration, not a change of dogma" | **Verification of Practical Contradiction** | seal CE-09, Filter 4 |
+| "성경에 이렇게 쓰여 있습니다" | **BVCAP 이첩** + 해석 독점권 역공 | 필터 6 (부메랑 논증) |
+| "교도권이 그렇게 해석합니다" | **문헌 법정** | OODA 10라운드, L-01~L-08 |
+| "교부들도 이렇게 가르쳤습니다" | **교부 역사 포렌식** | 파탄 카드 6 (역체리피킹), 필터 8 (침묵 논증) |
+| "이것은 신앙의 신비입니다" | **즉각 기각** | CE-05 (신비 도피) 탐지·봉쇄 |
+| "사목적 배려일 뿐 교의 변경이 아닙니다" | **실천적 모순 검증** | CE-09 봉쇄, 필터 4 |
 
 ---
 
-## 🔍 The Catholic Doctrine Classification System (CD-Code — Catholic Doctrine Codes)
+## 🔍 가톨릭 교리 분류 체계 (CD-Code — Catholic Doctrine Codes)
 
-> Designed by substituting Catholic doctrine for QVCAP's D-Code (Quranic doctrine).
-> **Every verification point is a collision between pieces of Catholicism's own internal literature** (not a comparison against Scripture — that is BVCAP's jurisdiction).
+> QVCAP의 D-Code(꾸란 교리)를 가톨릭 교리로 치환하여 설계.
+> **검증 포인트는 전부 가톨릭 내부 문헌 간 충돌이다** (성경 대조 아님 — 그것은 BVCAP 관할).
 
-| Code | Doctrine | Core Definition | CVCAP Internal Verification Point |
+| 코드 | 교리명 | 핵심 정의 | CVCAP 내부 검증 포인트 |
 |:---:|:---|:---|:---|
-| **CD-01** | **Papal Infallibility** | the Pope cannot err when declaring on faith and morals ex cathedra | Honorius I's condemnation as a heretic (Third Council of Constantinople, 680) — an internal nuclear bomb in which an infallible council condemns an infallible pope |
-| **CD-02** | **Apostolic Succession** | apostolic authority is transmitted from Peter down to the present | the rupture of succession during the era of anti-popes (the Avignon Papacy · the Western Schism), and problems in the historical reconstruction of the roster of succession |
-| **CD-03** | **Sacred Tradition** | an apostolic tradition equal to Scripture is transmitted through the Magisterium | that "tradition" is entirely absent from 1st-3rd century patristic literature — the Law of First Mention (Filter 8) confirms it as a later invention |
-| **CD-04** | **Magisterial Authority** | only the Magisterium has the authority to correctly interpret revelation | the Magisterium itself conflicts across eras (Mirari Vos/the Syllabus vs. Dignitatis Humanae) |
-| **CD-05** | **Sacramental Theology** | the 7 sacraments are the essential channel of salvation and convey grace | internal tension between Trent's "baptism is required + anathema" (S07-C05) and CCC 847, 1260's "even those who do not know the gospel can be saved" |
-| **CD-06** | **Transubstantiation** | at the Mass, the bread and wine change into the actual body and blood of Christ | Augustine's Tractate 25 on John, "to believe is to eat" — an internal collision within the patristic court (Rupture Card 6) |
-| **CD-07** | **Marian Doctrine** | the Immaculate Conception, bodily Assumption, perpetual virginity, Co-Redemptrix | Irenaeus, Tertullian, and Origen's explicit statements that "Mary too was imperfect" vs. the 1854/1950 ex cathedra declarations — an 1800-year silence |
-| **CD-08** | **Purgatory** | one reaches salvation through a post-mortem purification process (Purgatory) | CCC 1030 (Purgatory certain) vs. the quiet abolition of Limbo (2007) — a double standard applied to the same logic of a "post-mortem intermediate state" (Filter 5) |
-| **CD-09** | **Intercession of the Saints** | Mary and the saints can mediate between God and man | CCC 970, "Mary's mediation flows from Christ's unique mediation" — a practical contradiction in operating a parallel mediation while affirming a unique mediation (Filter 4) |
-| **CD-10** | **Grace and Merit** | salvation is God's grace, but is maintained by merit and the sacraments | an internal deadlock among CCC 1996 (grace freely given), CCC 2010 (merit), and CCC 2068 (salvation through keeping the commandments) |
-| **CD-11** | **The Canonicity of the Apocrypha** | the canonical status of the 7 books of the Catholic Old Testament Apocrypha (the Deuterocanon) | the Vulgate's translator, Jerome (a doctor of the Church), himself distinguished the Apocrypha from the canon, vs. Trent's (1546) settling of the canon — an internal authority collision |
-| **CD-12** | **Dual Authority** | Scripture + Church Tradition = equal revelation from God | Dei Verbum 10, "the Magisterium is the servant of the Word," vs. the Magisterium's actual operational supremacy — a contradiction between self-declaration and practice |
+| **CD-01** | **교황 무류성** | 교황이 ex cathedra로 신앙·도덕 선포 시 오류 없음 | 호노리우스 1세 이단 파문(제3차 콘스탄티노폴리스, 680) — 무류한 교황을 무류한 공의회가 정죄한 내부 핵폭탄 |
+| **CD-02** | **사도 계승** | 베드로 → 현재까지 사도적 권위 계승 | 대립 교황 시대(아비뇽 유수·서방 대분열)의 계승 단절, 계승 명부의 역사적 재구성 문제 |
+| **CD-03** | **성전(전통)** | 성경과 동등한 사도적 전통이 교도권을 통해 전달됨 | 1~3세기 교부 문헌에 해당 '전통'이 전무 — 첫 언급의 법칙(필터 8)으로 후대 창작 확정 |
+| **CD-04** | **교도권 권위** | 교도권만이 계시를 올바르게 해석할 권한을 가짐 | 교도권 자체가 시대별로 상충 (Mirari Vos·Syllabus vs Dignitatis Humanae) |
+| **CD-05** | **성사론** | 7성사가 구원의 필수 채널이며 은총을 전달함 | 트렌트 "세례 필수 + 파문"(S07-C05) vs CCC 847·1260 "복음 모르는 자도 구원 가능" 내부 긴장 |
+| **CD-06** | **화체설** | 미사에서 빵과 포도주가 그리스도의 실제 살과 피로 변함 | 아우구스티누스 요한 강해 25 "믿는 것이 곧 먹는 것" — 교부 법정 내부 충돌 (파탄 카드 6) |
+| **CD-07** | **마리아 교리** | 무염시태·육체승천·평생동정·공동구속자 | 이레네오스·터툴리아누스·오리게네스의 "마리아도 불완전" 명시 vs 1854/1950 ex cathedra 선포 — 1800년 침묵 |
+| **CD-08** | **연옥론** | 사후 정화 과정(연옥)을 통해 구원에 이름 | CCC 1030(연옥 확실) vs 림보의 은근한 폐기(2007) — 같은 '사후 중간 상태' 논리의 이중 잣대 (필터 5) |
+| **CD-09** | **성인 전구** | 마리아·성인들이 하나님과 인간 사이에서 중보 가능 | CCC 970 "마리아의 중재는 그리스도의 유일한 중개에서 나옴" — 유일 중개를 인정하면서 병행 중개를 운용하는 실천적 모순 (필터 4) |
+| **CD-10** | **은총·공로론** | 구원은 하나님의 은총이지만 공로와 성사로 유지 | CCC 1996(무상 은총) vs CCC 2010(공로) vs CCC 2068(계명 준수로 구원) 내부 데드락 |
+| **CD-11** | **외경 정경성** | 가톨릭 구약 외경(제2경전) 7권의 정경 지위 | 불가타 역자 히에로니무스(교회 학자) 본인이 외경을 정경과 구분 vs 트렌트(1546)의 정경 확정 — 내부 권위 충돌 |
+| **CD-12** | **이중 권위** | 성경 + 교회 전통 = 동등한 하나님의 계시 | Dei Verbum 10 "교도권은 말씀의 종" vs 실제 운용의 교도권 우위 — 자기 선언과 실천의 모순 |
 
 ---
 
-## ⚔️ Sealing Off Catholic Evasion Tactics (CE-Code — Catholic Evasion Codes) — the Sole Formal Definition
+## ⚔️ 가톨릭 회피 전술 봉쇄 (CE-Code — Catholic Evasion Codes) — 단일 공식 정의
 
 > [!IMPORTANT]
-> This table is **the sole formal definition** of the CE-Codes. (The differing CE-04/05 definitions of the old `CVCAP_2.0.md`
-> have been absorbed and reassigned into CE-09/CE-10, resolving the conflict.)
+> CE-Code의 공식 정의는 **본 표가 유일하다.** (구 `CVCAP_2.0.md`의 상이한 CE-04/05 정의는
+> CE-09/CE-10으로 흡수·재배정되어 충돌이 해소되었다.)
 
-| Code | Catholic-Specialized Evasion Tactic | Typical Pattern | Seal |
+| 코드 | 가톨릭 특화 회피 전술 | 전형적 패턴 | 봉쇄 |
 |:---:|:---|:---|:---|
-| **CE-01** | **Appeal to Theological Development** | "This is not a contradiction between past and present, but the organic development of doctrine" | "Development is A → A+. A (no salvation) → Not-A (salvation possible) is a 'reversal.' Show the continuity with data" |
-| **CE-02** | **Appeal to Magisterial Authority** | "This is the Magisterium's sacred interpretive prerogative, which a layperson cannot judge" | "If that authority is infallible, why have popes and councils throughout history condemned one another as heretics?" |
-| **CE-03** | **Retroactive Apostolic Tradition** | "It existed from the early Church but was only formally proclaimed later" | "We have confirmed this doctrine is entirely absent from 1st-3rd century patristic literature. Present the data" |
-| **CE-04** | **The Fathers Package Deal** | "If you received the Trinity from the Fathers, you must also accept the Eucharistic doctrine" | "The standard for acceptance is not 'did a Father say it' but 'is it internally consistent among the Fathers.' The same Father left contrary testimony elsewhere (Rupture Card 6)" |
-| **CE-05** | **Flight to Mystery** | "This is a mystery of the faith, beyond human reason to comprehend" | "Abandoning reason = abandoning apologetics. The moment logical verification is refused, it forfeits any value as an apologetic. Checkmate" |
-| **CE-06** | **Counter-Cherry-Picking** | "You have quoted only part of the patristic literature" | "Deploying Augustine's Tractate 25 on John: 'to believe is to eat.' Why did you not quote this other passage from the same Father?" |
-| **CE-07** | **Reliance on Canonical Tradition** | "The list of biblical books, too, was decided by Church tradition" | "The councils did not decide Scripture — they merely confirmed a canon that already existed. Deciding and confirming are different. Moreover, the Vulgate's own translator, Jerome, himself distinguished the Apocrypha" |
-| **CE-08** | **The Ex Cathedra Shield** | "That is not an ex cathedra declaration, so the condition of infallibility does not apply" | "Then who determines what counts as ex cathedra? That determiner, too, must be infallible → infinite regress" |
-| **CE-09** | **The Pastoral-Consideration Shield** | "This is not a change of dogma, merely pastoral consideration" | "If pastoral consideration effectively nullifies a De Fide anathema clause, that is a change (Fiducia Supplicans vs. CCC 2357, Amoris Laetitia vs. Canon 915)" |
-| **CE-10** | **The Theological-Tier Shield** | "The two documents are of different doctrinal rank, so this is not a conflict" | "A difference in rank does not resolve A→Not-A. If a lower-tier document overturns a higher De Fide teaching in practice, the tier system itself has collapsed" |
+| **CE-01** | **신학적 발전 호소** | "과거와 현재의 모순이 아니라 교리의 유기적 발전이다" | "발전은 A → A+. A(구원 없음) → Not-A(구원 있음)는 '역전'이다. 데이터로 연속성을 보여라" |
+| **CE-02** | **교도권 권위 호소** | "이것은 교도권의 신성한 해석 권한이며 평신도가 판단할 수 없다" | "그 권위가 무류하다면 왜 역대 교황·공의회가 서로를 이단으로 정죄하는가?" |
+| **CE-03** | **사도적 전통 소급** | "초대 교회부터 있었으나 나중에 공식 선포되었을 뿐이다" | "1~3세기 교부 문헌에 해당 교리가 전무함을 확인했다. 데이터를 제시하라" |
+| **CE-04** | **교부 패키지 딜** | "삼위일체를 교부에게서 받았으면 성체 교리도 받아야 한다" | "수용 기준은 '교부가 말했는가'가 아니라 '교부들 사이에서도 정합적인가'다. 같은 교부가 반대 증언을 남겼다 (파탄 카드 6)" |
+| **CE-05** | **신비 도피** | "이것은 신앙의 신비이며 인간 이성으로 이해할 수 없다" | "이성 포기 = 변증 포기. 논리적 검증을 거부하는 순간 변증으로서의 가치를 상실. Checkmate" |
+| **CE-06** | **체리피킹 역공** | "당신은 교부 문헌의 일부만 인용했다" | "아우구스티누스 요한 강해 25편 투입: '믿는 것이 곧 먹는 것'. 같은 교부의 다른 구절을 왜 인용 안 하셨나?" |
+| **CE-07** | **정경 전통 의존** | "성경 목록도 교회 전통이 결정한 것이다" | "공의회는 성경을 결정한 것이 아니라 이미 있는 성경을 확인(confirm)했을 뿐. 결정과 확인은 다르다. 게다가 불가타 역자 히에로니무스 본인이 외경을 구분했다" |
+| **CE-08** | **ex cathedra 방패** | "그건 ex cathedra 선언이 아니므로 무류성 조건 해당 없다" | "그렇다면 누가 ex cathedra를 판정하는가? 그 판정자도 무류해야 한다 → 무한 후퇴" |
+| **CE-09** | **사목적 배려 방패** | "교의 변경이 아니라 사목적 배려일 뿐이다" | "사목적 배려가 De Fide 파문 조항을 사실상 무력화하면 그것은 변경이다 (Fiducia Supplicans vs CCC 2357, Amoris Laetitia vs 교회법 915)" |
+| **CE-10** | **신학적 등급 방패** | "두 문헌은 교의 등급이 다르므로 충돌이 아니다" | "등급이 다르다고 A→Not-A가 해소되지 않는다. 하위 등급 문헌이 상위 De Fide를 실천에서 뒤집으면 등급 체계 자체가 붕괴한 것이다" |
 
 ---
 
-## ⚖️ The Verdict System
+## ⚖️ 판결 체계 (Verdict System)
 
-### The Document Court's Verdict (This Engine's Final Ruling)
+### 문헌 법정 판결 (본 엔진의 최종 판결)
 
-| Verdict Code | Pronouncement | Condition |
+| 판결 코드 | 선고 | 조건 |
 |:---:|:---|:---|
-| 💥 **IMPLOSION** | **Internal Collapse Confirmed** | self-contradiction between pieces of Catholicism's own literature is logically confirmed (independent convergence of L-Codes + complete sealing of CE-Codes) |
-| ⚠️ **PARTIAL** | **Partial Collapse** | self-contradiction confirmed in some doctrinal area, total collapse not confirmed |
-| 🔄 **LOOP** | **Debate Continues** | the defense presents a new argument, and rebuttal remains possible |
+| 💥 **IMPLOSION** | **내부 붕괴 확정** | 가톨릭 자체 문헌 간 자가당착이 논리적으로 확정됨 (L-Code 독립 수렴 + CE-Code 전량 봉쇄) |
+| ⚠️ **PARTIAL** | **부분 붕괴** | 일부 교리 영역에서 자가당착 확인, 전체 붕괴 미확정 |
+| 🔄 **LOOP** | **논쟁 지속** | 방어자가 새로운 논거를 제시하며 반박 가능한 상태 — 실질 긴장은 실재하나 확정 불가 |
+| 🛡️ **DEFENDED** | **방어 성립** | 가톨릭 문헌 **자체에 조화 장치가 실재**함이 원문 대조로 확인됨 (예: CCC 1257의 범위 한정절, 트렌트 1547의 성모 예외) |
+| ❌ **WITHDRAWN** | **기소 철회** | **우리 측 근거의 결함**으로 기소가 성립하지 않음 — 코퍼스에 없는 인용, 삭제된 한정절, 문장 접합·도치, 순환 참조 등 |
+| ⛔ **OUT OF SCOPE** | **관할 밖** | 「문헌 A vs 문헌 B」 요건 미충족 (상대편이 가톨릭 문헌이 아님) — 이 법정이 판정할 사안이 아님 |
 
-### The Integrated-Content-Stage Verdict (Not Under This Engine's Jurisdiction — for Reference)
+> ⚠️ **PARTIAL 사용 제한 (2026-09-02 신설)**: `PARTIAL`을 "확정은 아닌 나머지 전부"의 기본값으로
+> 쓰지 말 것. v9까지 24건 중 23건이 이 한 칸에 몰려 판정이 정보를 잃었고, **"우리 기소가 틀렸다"와
+> "상대에게 진짜 문제가 남았다"가 같은 라벨을 공유**하는 상태가 됐다. 하향 사유가 *우리 측 근거
+> 결함*이면 `WITHDRAWN`, *상대 문헌의 조화 장치 확인*이면 `DEFENDED`, *양측 미확정*이면 `LOOP`,
+> *관할 요건 미충족*이면 `OUT OF SCOPE`로 분류한다.
 
-| Rating | Pronouncement | Condition |
+### 통합 콘텐츠 단계 판결 (본 엔진 관할 아님 — 참조용)
+
+| 등급 | 선고 | 조건 |
 |:---:|:---|:---|
-| 🔴 **CHECKMATE** | **Checkmate Confirmed** | BVCAP's ❌ CONTRADICTION + CVCAP's 💥 IMPLOSION both confirmed simultaneously (when the two reports are merged) |
-| 🟡 **SIEGE** | **Siege Complete** | collapse confirmed in only one engine |
-| 🟢 **ENGAGED** | **Engagement Ongoing** | neither side confirmed |
+| 🔴 **CHECKMATE** | **외통수 확정** | BVCAP ❌ CONTRADICTION + CVCAP 💥 IMPLOSION 동시 확정 (두 보고서 병합 시) |
+| 🟡 **SIEGE** | **포위 완료** | 한쪽 엔진에서만 붕괴 확정 |
+| 🟢 **ENGAGED** | **교전 중** | 양쪽 모두 미확정 |
 
 ---
 
-## 🗺️ The Full Pipeline Flowchart (The Strategic Map)
+## 🗺️ 전체 파이프라인 흐름도 (The Strategic Map)
 
 ```
-[Input: a Catholic doctrinal claim]
+[가톨릭 교리 주장 입력]
          │
          ▼
 ┌─────────────────────────────────────────┐
-│  PHASE 0: Doctrine deconstruction and     │
-│  jurisdictional ruling                    │
-│  - CD-Code classification (CD-01~CD-12)  │
-│  - Scriptural-interpretation debate →     │
-│    record transfer to BVCAP               │
-│  - Internal-literature issue →            │
-│    activate the Document Court            │
+│  PHASE 0: 교리 해체 및 관할 판정          │
+│  - CD-Code 분류 (CD-01~CD-12)           │
+│  - 성경 해석 논쟁 → BVCAP 이첩 기록       │
+│  - 내부 문헌 쟁점 → 문헌 법정 가동        │
 └────────────────┬────────────────────────┘
                  │
                  ▼
 ┌─────────────────────────────────────────┐
-│  Automation Engine (an optional           │
-│  preceding stage)                         │
-│  CVCAP_3.0_METHODOLOGY.md                │
-│  - cross-scan 04_DOCTRINE_DB              │
-│  - conflict-candidate CSV + combo tagging │
-│  - LLM secondary review (candidate →      │
-│    strong candidate)                      │
+│  자동화 엔진 (선택적 선행 단계)           │
+│  CVCAP_3.0_METHODOLOGY.md               │
+│  - 04_DOCTRINE_DB 교차 스캔              │
+│  - 충돌 후보 CSV + 콤보 태깅             │
+│  - LLM 2차 심사 (후보 → 유력 후보)       │
 └────────────────┬────────────────────────┘
                  │
                  ▼
 ┌─────────────────────────────────────────┐
-│  The Document Court (CVCAP_Pipeline.md)  │
-│  - an OODA 10-round exchange              │
-│  - the L-01~L-08 logical weapons          │
-│  - the CE-01~CE-10 evasion seals          │
-│  - deployment of Rupture Cards 1-6        │
-│    (03_QUIVER)                            │
+│  문헌 법정 (CVCAP_Pipeline.md)           │
+│  - OODA 10라운드 공방전                  │
+│  - L-01~L-08 논리 무기                   │
+│  - CE-01~CE-10 회피 봉쇄                 │
+│  - 파탄 카드 1~6 투입 (03_QUIVER)        │
 └────────────────┬────────────────────────┘
                  │
                  ▼
 ┌─────────────────────────────────────────┐
-│  PHASE FINAL: the Implosion ruling +      │
-│  the report                               │
-│  - Verdict: IMPLOSION / PARTIAL / LOOP    │
-│  - output the Masterpiece report          │
-│  - save to the 07_REPORT folder           │
-│  - confirmed collision →                  │
-│    register in 05_COLLISION_CARDS         │
+│  PHASE 최종: Implosion 판정 + 보고서      │
+│  - 판결: IMPLOSION / PARTIAL / LOOP     │
+│  - 마스터피스 보고서 출력                 │
+│  - 07_REPORT 폴더 저장                   │
+│  - 확정 충돌 → 05_COLLISION_CARDS 등록   │
 └─────────────────────────────────────────┘
 ```
 
 ---
 
-## 📋 The Final Output Format — the CVCAP v3.0 Masterpiece Report
+## 🗣️ 쉬운 말 원칙 (Plain Language Rule) — 2026-08-29 신설, 의무
+
+> `the-sermon-audit/SVAP_GHQ.md`의 D-1B 원칙을 CVCAP에 이식한 것이다. SVAP는 "설교자 한 명의 주장 하나"가 그럴듯한지 평가하는 구조라 "왜 그럴듯하게 들리는가"가 성립하지만, **CVCAP은 애초에 전제가 둘(문헌 A·문헌 B, 둘 다 가톨릭 자신의 공식 문헌)이라 "이게 그럴듯한가"를 물을 단일 대상이 없다.** 따라서 CVCAP의 쉬운 말 해설은 SVAP와 다른 5단 구조를 쓴다.
+
+**쉬운 설명판 고정 구조** (OODA 10라운드 본문과 별도로, 각 항목 맨 앞에 배치):
+```
+### [N]. [교리명] — 쉬운 설명
+
+**A는 뭐라고 하나**: [문헌 A를 신학 용어 없이 1~3문장으로]
+**B는 뭐라고 하나**: [문헌 B를 신학 용어 없이 1~3문장으로]
+**왜 무너지는가**: [A와 B가 왜 동시에 참일 수 없는지, 쉬운 말로 2~4문장]
+**쉬운 비유**: [신학 용어 없이 이해할 수 있는 일상 비유 1개]
+**판정**: [💥 IMPLOSION / ⚠️ PARTIAL — 한 문장 이유]
+```
+
+**금지 어휘 예시**(발견 시 D-1B 치환표 방식으로 풀어쓸 것): De Fide, ex cathedra, anathema sit(파문), 무염시태, 화체설, 열망세례(votum baptismi), 이신칭의, 훈령, 교도권, 통상적/비상적 수단.
+**치환 예**: "ex cathedra 선언" → "교황이 교회 전체를 향해 공식적으로 못 박아 말할 때", "파문(anathema sit)" → "그렇게 믿으면 안 된다고 못 박아 정죄함", "무염시태" → "마리아는 태어날 때부터 원죄가 없었다는 교리".
+
+저장 전 `[쉬운 말 스캔] — 발견 N건 / 전부 치환 완료 [☐]`를 기록한다 (SVAP D-1B와 동일 관례).
+
+---
+
+## 📋 최종 출력 양식 — CVCAP v3.0 Masterpiece Report
 
 ````markdown
-# [Catholic Doctrine Name] — a CVCAP 3.0 Forensic Audit Report
-**— "[a one-line summary of the core issue]" a CVCAP v3.0 Implosion Report —**
+# [가톨릭 교리명] — CVCAP 3.0 포렌식 감사 보고서
+**— "[핵심 쟁점 한 줄 요약]" CVCAP v3.0 Implosion 보고서 —**
 
-> **STATUS**: Verification Complete | VERDICT: [💥 IMPLOSION / ⚠️ PARTIAL / 🔄 LOOP]
-> **CD-Code**: [applicable code | e.g., CD-06 Transubstantiation]
-> **Analysis Tools Applied**: [L-Code combination + logic filter (1-8) combination]
-> **BVCAP Transfer Status**: [record of transfer if a scriptural-interpretation issue arose / none]
-
----
-
-## ⚙️ PHASE 0: Doctrine Deconstruction and Jurisdictional Ruling
-
-### Summary of the Catholic Claim
-### CD-Code Classification and Jurisdictional Ruling
+> **STATUS**: 검증 완료 | VERDICT: [💥 IMPLOSION / 🔄 LOOP / 🛡️ DEFENDED / ❌ WITHDRAWN / ⛔ OUT OF SCOPE / (⚠️ PARTIAL — 사용 제한 규범 참조)]
+> **CD-Code**: [해당 코드 | 예: CD-06 화체설]
+> **적용 분석 도구**: [L-Code 조합 + 논리 필터(1~8) 조합]
+> **BVCAP 이첩 여부**: [성경 해석 쟁점 발생 시 이첩 기록 / 없음]
 
 ---
 
-## 💣 The Document Court (OODA 10 Rounds)
+## ⚙️ PHASE 0: 교리 해체 및 관할 판정
 
-### 🎯 Target Catholic Literature
-> [CCC article number / conciliar document name / papal declaration / patristic literature]
+### 가톨릭 주장 요약
+### CD-Code 분류 및 관할 판정
 
-### 📊 Applied Logical Weapons
-| L-Code Applied | Reason for Selection | Expected Destructive Force |
+---
+
+## 💣 문헌 법정 (OODA 10라운드)
+
+### 🎯 타격 대상 가톨릭 문헌
+> [CCC 조항 번호 / 공의회 문헌명 / 교황 선언문 / 교부 문헌]
+
+### 📊 적용 논리 무기
+| 적용 L-Code | 선택 이유 | 기대 파괴력 |
 |:---:|:---|:---:|
-| [combination name] | [explanation] | 🔥🔥🔥 |
+| [조합명] | [설명] | 🔥🔥🔥 |
 
-### Round 1 - Round 10 [NO COMPRESSION]
-**(Each round: Observe → Orient → Decide → Act)**
+### Round 1 ~ Round 10 [NO COMPRESSION]
+**(각 라운드: Observe → Orient → Decide → Act)**
 
-#### Round 1: [Issue Name]
-**🔴 Attack (Prosecutor)**:
-> [the argument — grounded only in Catholicism's own literature]
+#### Round 1: [쟁점명]
+**🔴 공격 (검사)**:
+> [논증 — 가톨릭 자체 문헌만 근거로]
 
-**🔵 Defense (Catholic Apologist)**:
-> [orthodox Catholic rebuttal]
+**🔵 방어 (가톨릭 변증)**:
+> [가톨릭 정통 반박]
 
-**⚖️ Ruling (Arbiter)**:
-> [win/loss ruling + immediate sealing upon detection of a CE-Code]
+**⚖️ 중재 (판결)**:
+> [승패 판정 + CE-Code 탐지 시 즉각 봉쇄]
 
-... (Rounds 2-10, described in full)
+... (Round 2~10 전수 기술)
 
 ---
 
-## 🛡️ Pre-emptive Sealing of CE-Codes (Pre-emptive Evasion Block)
+## 🛡️ CE-Code 선제 봉쇄 (Pre-emptive Evasion Block)
 
-> Pre-block every evasion route Catholicism could use (substitute CE-01~CE-10 in full)
+> 가톨릭이 사용할 수 있는 모든 회피 경로를 사전 차단 (CE-01~CE-10 전수 대입)
 
-| Evasion Tactic | CE-Code | Seal |
+| 회피 전술 | CE-Code | 봉쇄 |
 |:---|:---:|:---|
-| [anticipated evasive statement] | CE-0X | [sealing argument] |
+| [예상 회피 문장] | CE-0X | [봉쇄 논거] |
 
 ---
 
-## 📊 The Final Verdict (Arbiter's Verdict)
+## 📊 최종 판결 (Arbiter's Verdict)
 
-### Document Court Result: [💥 IMPLOSION / ⚠️ PARTIAL / 🔄 LOOP]
-> **CD-Code Confirmed Collapsed**: [CD-0X]
-> **How Checkmate Was Reached**: [2-3 lines of core logic]
-> **Level of Scholarly Consensus**: [🟢 / 🟡 / 🔴]
+### 문헌 법정 결과: [💥 IMPLOSION / ⚠️ PARTIAL / 🔄 LOOP]
+> **붕괴 확정 CD-Code**: [CD-0X]
+> **외통수 도달 경위**: [핵심 논리 2~3줄]
+> **학술 합의 수준**: [🟢 / 🟡 / 🔴]
 
-### 🔴 Core Declaration:
-> "It is confirmed by [L-Code combination] that Catholicism's own literature [A] and [B] cannot both be true simultaneously regarding [doctrine name].
->  Internal system collapse (Implosion) is complete, with no need for external logic."
+### 🔴 핵심 선언:
+> "가톨릭 [교리명]은 가톨릭 자체 문헌 [A]와 [B]가 동시에 참일 수 없음이
+>  [L-Code 조합]으로 확정된다. 외부 논리 없이 시스템 내부 붕괴(Implosion)가 완성된다."
 
-### 🔗 Linked Integrated Report
-> the corresponding BVCAP-side doctrinal report: [../the-scripture-audit/05_REPORT/catholic/... / none]
-> whether the integrated-stage CHECKMATE holds: [holds if both sides confirmed / pending]
+### 🔗 통합 보고서 연동
+> BVCAP 측 동일 교리 보고서: [../the-scripture-audit/05_REPORT(전과보고서)/catholic/... / 없음]
+> 통합 단계 CHECKMATE 성립 여부: [양측 확정 시 성립 / 대기]
 
 ---
 
-## 🔗 Related Reports and Reference Materials
+## 🔗 연관 보고서 및 참고 자료
 
-| Item | Link |
+| 항목 | 링크 |
 |:---|:---|
-| [related report name] | [relative path] |
+| [관련 보고서명] | [상대 경로] |
 ````
 
 ---
 
-## 🚀 System Run: Trigger / Unified Pipeline (Engine Boot Protocol)
+## 🚀 System Run: Trigger / Unified Pipeline (엔진 부팅 프로토콜)
 
 > [!IMPORTANT]
-> **The Integrated Engine Execution Protocol**
-> This document (`CVCAP_GHQ.md`) is both the **GHQ** and the **Presentation Layer**,
-> and actual operational logic follows the two layers below:
-> - **Court Procedure**: `CVCAP_Pipeline.md` (OODA 10 Rounds)
-> - **Automatic Discovery**: `CVCAP_3.0_METHODOLOGY.md` (doctrine-DB scan + combos + LLM review)
+> **통합 엔진 실행 프로토콜**
+> 이 문서(`CVCAP_GHQ.md`)는 **사령부(GHQ)**이자 **출력 양식(Presentation Layer)**이며,
+> 실제 작전 수행 로직은 다음 두 계층을 따른다:
+> - **법정 절차**: `CVCAP_Pipeline.md` (OODA 10라운드)
+> - **자동 발굴**: `CVCAP_3.0_METHODOLOGY.md` (교리 DB 스캔 + 콤보 + LLM 심사)
 
-When the user inputs a Catholic doctrine or apologetic topic, the AI must immediately activate the following procedure:
+사용자가 가톨릭 교리 또는 변증 주제를 입력하면, AI는 즉각 다음 절차를 가동하라:
 
-**STEP 0. Boot Sequence**
+**STEP 0. 엔진 부팅 시퀀스 (Boot Sequence)**
 
 > [!CAUTION]
-> **Do not enter analysis if the boot is incomplete.**
-> The number of cards/documents is not hardcoded — it is measured and reported at boot time.
+> **부팅 미완료 시 분석 진입 금지.**
+> 카드·문헌 수는 하드코딩하지 않는다 — 부팅 시점에 실측하여 보고한다.
 
-| Order | Load Target | Verification Criterion |
+| 순서 | 로드 대상 | 검증 기준 |
 |:---:|:---|:---|
-| 0-1 | `CVCAP_GHQ.md` (this document) | recognition of CD-Code, CE-Code (CE-01~10), verdict criteria |
-| 0-2 | `CVCAP_Pipeline.md` (the tactical manual) | recognition of the OODA 10-round procedure, L-01~L-08 |
-| 0-3 | `CVCAP_3.0_METHODOLOGY.md` (the automation engine) | recognition of the 8 major logic filters, conflict tiers Level 1-5, the script system |
-| 0-4 | `01_MANDATE/MANDATE.md` | recognition of operational rules and prohibitions |
-| 0-5 | `02_TACTICS/TACTICS.md` + `02_TACTICS/CATHOLIC_VAULT.md` | loading of Catholic-literature tactics and DB |
-| 0-6 | `03_QUIVER/QVCAP_WEAPONS.md` | loading of Implosion Rupture Cards 1-6 |
-| 0-7 | `04_DOCTRINE_DB/` | a full scan of the doctrine-card DB (the input source for `scripts/conflict_detector.py`) |
-| 0-8 | `05_COLLISION_CARDS/confirmed/` + `combos/` | confirmation of confirmed collision cards and combo cards |
-| 0-9 | `06_ZERO_DAY/scan_targets.md` | confirmation of zero-day scan candidates |
-| 0-10 | `07_REPORT/REPORT_INDEX.md` | confirmation of the current state of existing reports |
+| 0-1 | `CVCAP_GHQ.md` (본 문서) | CD-Code, CE-Code(CE-01~10), 판결 기준 인식 |
+| 0-2 | `CVCAP_Pipeline.md` (전술 교범) | OODA 10라운드 절차, L-01~L-08 인식 |
+| 0-3 | `CVCAP_3.0_METHODOLOGY.md` (자동화 엔진) | 8대 논리 필터, 충돌 등급 Level 1~5, 스크립트 체계 인식 |
+| 0-4 | `01_MANDATE/MANDATE.md` | 작전 수칙·금기 사항 인식 |
+| 0-5 | `02_TACTICS/TACTICS.md` + `02_TACTICS/CATHOLIC_VAULT.md` | 가톨릭 문헌 전술·DB 장착 |
+| 0-6 | `03_QUIVER/QVCAP_WEAPONS.md` | Implosion 파탄 카드 1~6 장착 |
+| 0-7 | `04_DOCTRINE_DB/` | 교리 카드 DB 전수 스캔 (`scripts/conflict_detector.py` 입력 소스) |
+| 0-8 | `05_COLLISION_CARDS/confirmed/` + `combos/` | 확정 충돌 카드 및 콤보 카드 확인 |
+| 0-9 | `06_ZERO_DAY/scan_targets.md` | 제로데이 스캔 후보 확인 |
+| 0-10 | `07_REPORT/REPORT_INDEX.md` | 기존 보고서 현황 확인 |
 
-**Boot Completion Declaration:**
+**부팅 완료 선언:**
 ```
 ✅ CVCAP 3.0 BOOT COMPLETE
-- GHQ: load complete (CD-01~12, CE-01~10, verdict criteria)
-- Pipeline: load complete (OODA 10 Rounds, L-01~L-08)
-- Methodology: load complete (8 logic filters, Level 1-5)
-- Catholic Vault: N documents of ammunition loaded
-- QVCAP Weapons: N Rupture Cards equipped
-- Doctrine DB: N doctrine cards confirmed (measured from 04_DOCTRINE_DB)
-- Collision Cards: N confirmed / N combos confirmed
-- Existing Reports: N confirmed (07_REPORT)
-→ Document Court ready for operation. Proceeding to STEP 1.
+- GHQ: 로드 완료 (CD-01~12, CE-01~10, 판결 기준)
+- Pipeline: 로드 완료 (OODA 10라운드, L-01~L-08)
+- Methodology: 로드 완료 (논리 필터 8종, Level 1~5)
+- Catholic Vault: N개 문헌 탄약 장전 완료
+- QVCAP Weapons: 파탄 카드 N종 장착
+- Doctrine DB: N개 교리 카드 확인 (04_DOCTRINE_DB 실측)
+- Collision Cards: 확정 N건 / 콤보 N건 확인
+- 기존 보고서: N건 확인 (07_REPORT)
+→ 문헌 법정 가동 준비 완료. STEP 1 진입.
 ```
 
-**STEP 1. Jurisdictional Ruling (PHASE 0)**
-- CD-Code classification
-- for a scriptural-interpretation issue → record a transfer to BVCAP, then adopt only the internal-literature issue
+**STEP 1. 관할 판정 (PHASE 0)**
+- CD-Code 분류
+- 성경 해석 쟁점 → BVCAP 이첩 기록 후, 내부 문헌 쟁점만 채택
 
-**STEP 2. Reference the Automation Engine (Optional)**
-- check `07_REPORT/auto_conflict_results.csv` · `cvcap_combo_results.csv` for candidates related to the applicable CD-Code
-- cite candidates only in the status of "machine-discovered, unconfirmed"
+**STEP 2. 자동화 엔진 참조 (선택)**
+- `07_REPORT/auto_conflict_results.csv` · `cvcap_combo_results.csv`에서 해당 CD-Code 관련 후보 확인
+- 후보는 "기계 발굴 미확정" 상태로만 인용
 
-**STEP 3. Activate the Document Court (CVCAP_Pipeline.md OODA 10 Rounds)**
-- deploy Catholicism's internal literature, unfold the L-Code logical exchange
-- seal evasion via CE-Code (01-10)
-- rule on whether Implosion is confirmed
+**STEP 3. 문헌 법정 가동 (CVCAP_Pipeline.md OODA 10라운드)**
+- 가톨릭 내부 문헌 투입, L-Code 논리 공방전 전개
+- CE-Code(01~10) 회피 봉쇄
+- Implosion 확정 여부 판정
 
-**STEP 4. Output the Masterpiece Report (This Document's Format)**
-- pronounce the verdict (IMPLOSION / PARTIAL / LOOP)
-- save the report → `07_REPORT/`; register a confirmed collision → `05_COLLISION_CARDS/`
-- record integration information if a corresponding BVCAP-side report exists
+**STEP 4. 마스터피스 보고서 출력 (본 문서 양식)**
+- 판결 (IMPLOSION / PARTIAL / LOOP) 선고
+- 보고서 → `07_REPORT/` 저장, 확정 충돌 → `05_COLLISION_CARDS/` 등록
+- BVCAP 측 보고서 존재 시 통합 연동 정보 기재
 
 > [!WARNING]
-> **The Anti-Bias Principle**: the Prosecutor does not presuppose "Protestantism is correct."
-> The Arbiter does not predetermine "Catholicism is wrong" as its conclusion.
-> Automated-detection figures are labeled only as "filter hits/candidate count," never exaggerated as "the confirmed number of contradictions."
-> **Follow only where the text (Catholicism's own literature) leads.**
+> **편향 금지 원칙**: 검사는 "개신교가 옳다"를 전제하지 않는다.
+> 중재자는 "가톨릭은 틀렸다"를 미리 결론으로 정하지 않는다.
+> 자동 탐지 수치는 "필터 히트/후보 건수"로만 표기하며 "확정 모순 수"로 과장하지 않는다.
+> **오직 텍스트(가톨릭 자체 문헌)가 이끄는 곳으로 따라간다.**
 
 ---
 
-## 📌 Mapping the Relationship Between CVCAP, BVCAP, and SVAP
+## 📌 CVCAP vs BVCAP vs SVAP 관계 매핑
 
-| Item | BVCAP (Verse Audit) | SVAP (Sermon Audit) | CVCAP (Catholic Audit) |
+| 항목 | BVCAP (구절 감사) | SVAP (설교 감사) | CVCAP (가톨릭 감사) |
 |:---|:---|:---|:---|
-| **Audit Target** | biblical hard sayings | a preacher's doctrinal claims | the Catholic Magisterial literature system |
-| **Core Engine** | BVCAP (native) | BVCAP import | **an independent engine** (the QVCAP method + an automation layer) |
-| **Evidentiary Material** | the KJV original text/manuscripts | Scripture + sermon transcripts | Catholic internal literature exclusively |
-| **Unique Addition** | — | GATE -1 (claim extraction), GATE 6 (synthesis) | CD-Code, CE-Code, the OODA court, automatic conflict detection |
-| **Final Verdict** | CONSISTENT / UNRESOLVED / CONTRADICTION | SOUND / CAUTION / ALERT | IMPLOSION / PARTIAL / LOOP |
-| **Interrelation** | handles the scriptural verification of Catholic doctrine | — | merges reports with BVCAP (an integrated CHECKMATE) |
+| **감사 대상** | 성경 난제 | 설교자 교리 주장 | 가톨릭 교도권 문헌 체계 |
+| **핵심 엔진** | BVCAP (자체) | BVCAP 임포트 | **독립 엔진** (QVCAP 방식 + 자동화 계층) |
+| **증거 자료** | KJV 원문·사본 | 성경 + 설교문 | 가톨릭 내부 문헌 전용 |
+| **고유 추가** | — | GATE -1(주장 추출), GATE 6(종합) | CD-Code, CE-Code, OODA 법정, 자동 충돌 탐지 |
+| **최종 판결** | CONSISTENT / UNRESOLVED / CONTRADICTION | SOUND / CAUTION / ALERT | IMPLOSION / PARTIAL / LOOP |
+| **상호 관계** | 가톨릭 교리의 성경 검증 담당 | — | BVCAP와 보고서 병합 (통합 CHECKMATE) |
 
 ---
 *Generated by CVCAP 3.0 (Catholic Vault & Conciliar Audit Pipeline)*
 *Architecture: Internal-Documents-Only Single-Track + Automation Layer*
-*Court Procedure: CVCAP_Pipeline.md | Automatic Discovery: CVCAP_3.0_METHODOLOGY.md | Presentation: this document*
+*  법정 절차: CVCAP_Pipeline.md | 자동 발굴: CVCAP_3.0_METHODOLOGY.md | Presentation: 본 문서*
 *STATUS: RIGOROUS NEUTRALITY ENFORCED | INTERNAL FORENSICS ONLY | TARGET: EVIDENCE-BASED IMPLOSION*
