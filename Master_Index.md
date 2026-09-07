@@ -1,14 +1,14 @@
 # Master Index
 
-**Generated**: 2026-08-30 18:09
-**Total Managed Documents**: 161
-**KO Repository**: D:\01.TheScriptureAudit_ko\
-**EN Repository**: D:\01.TheScriptureAudit\
+**Generated**: 2026-09-07 20:37
+**Total Managed Documents**: 164
+**KO Repository**: D:\01.TheScriptureAudit\
+**EN Repository**: D:\01.TheScriptureAudit-en\
 
 > Each document carries a single-line header `<!-- doc_no: YYYYMMDD_NNNN | ver: YYYYMMDD_HHmm -->` at the very top (KO and EN share the same `doc_no`; each side's `ver` is independent). `doc_no` is the sole matching key between KO and EN -- never the filename.
 > This file is generated. To refresh it: `python scripts/rebuild_master_index.py`.
 
-## the-scripture-audit (156)
+## the-scripture-audit (157)
 
 | doc_no | file_nm | file_nm_ko | 번역유무 | 줄수 | 마지막update |
 |---|---|---|:---:|---:|---|
@@ -168,8 +168,15 @@
 | 20260829_0209 | [AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md | [AB+AR+AS+AT+AU+E+AC]_멜키세덱_첫번째세상_민족형성.md | Y | 3371 | 20260829_0942 |
 | 20260829_0210 | [A]_Ahaziah_42vs22.md | [A]_아하지야_42vs22.md | Y | 125 | 20260829_0942 |
 | 20260829_0211 | [B]_Resurrection_Morning_Tomb_Event_Chronological_Integration.md | [B]_무덤사건_부활아침_순차통합.md | Y | 548 | 20260829_0942 |
+| 20260907_0001 | README.md | README.md | Y | 942 | 20260907_2017 |
 
-## the-sermon-audit (5)
+## the-catholic-audit (1)
+
+| doc_no | file_nm | file_nm_ko | 번역유무 | 줄수 | 마지막update |
+|---|---|---|:---:|---:|---|
+| 20260907_0004 | catholic_audit_public_edition.md | catholic_audit_public_edition.md | Y | 429 | 20260907_2017 |
+
+## the-sermon-audit (6)
 
 | doc_no | file_nm | file_nm_ko | 번역유무 | 줄수 | 마지막update |
 |---|---|---|:---:|---:|---|
@@ -178,4 +185,11 @@
 | 20260829_0207 | SVAP_GHQ.md | SVAP_GHQ.md | Y | 870 | 20260829_0942 |
 | 20260829_0208 | SVAP_Pipeline.md | SVAP_Pipeline.md | Y | 1267 | 20260829_0942 |
 | 20260829_0217 | README.md | README.md | Y | 22 | 20260829_1145 |
+| 20260907_0002 | README.md | README.md | Y | 26 | 20260907_2017 |
+
+## ⚠️ Orphaned doc_no (present on only one side) — 1
+
+> These have a doc_no header on one side but no matching pair on the other. Check whether the EN translation is missing, or the doc_no was mistyped.
+
+- `PENDING_0003` (the-catholic-audit) — EN only
 
