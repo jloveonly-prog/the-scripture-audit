@@ -1,7 +1,7 @@
 # Master Index
 
-**Generated**: 2026-09-07 20:37
-**Total Managed Documents**: 164
+**Generated**: 2026-09-07 21:22
+**Total Managed Documents**: 165
 **KO Repository**: D:\01.TheScriptureAudit\
 **EN Repository**: D:\01.TheScriptureAudit-en\
 
@@ -170,10 +170,11 @@
 | 20260829_0211 | [B]_Resurrection_Morning_Tomb_Event_Chronological_Integration.md | [B]_무덤사건_부활아침_순차통합.md | Y | 548 | 20260829_0942 |
 | 20260907_0001 | README.md | README.md | Y | 942 | 20260907_2017 |
 
-## the-catholic-audit (1)
+## the-catholic-audit (2)
 
 | doc_no | file_nm | file_nm_ko | 번역유무 | 줄수 | 마지막update |
 |---|---|---|:---:|---:|---|
+| 20260907_0003 | catholic_error_report_v10_final.md | catholic_error_report_v10_final.md | Y | 5348 | 20260907_2121 |
 | 20260907_0004 | catholic_audit_public_edition.md | catholic_audit_public_edition.md | Y | 429 | 20260907_2017 |
 
 ## the-sermon-audit (6)
@@ -186,10 +187,4 @@
 | 20260829_0208 | SVAP_Pipeline.md | SVAP_Pipeline.md | Y | 1267 | 20260829_0942 |
 | 20260829_0217 | README.md | README.md | Y | 22 | 20260829_1145 |
 | 20260907_0002 | README.md | README.md | Y | 26 | 20260907_2017 |
-
-## ⚠️ Orphaned doc_no (present on only one side) — 1
-
-> These have a doc_no header on one side but no matching pair on the other. Check whether the EN translation is missing, or the doc_no was mistyped.
-
-- `PENDING_0003` (the-catholic-audit) — EN only
 

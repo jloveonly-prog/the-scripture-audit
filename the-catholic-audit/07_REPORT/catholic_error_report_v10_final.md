@@ -1,3 +1,4 @@
+<!-- doc_no: 20260907_0003 | ver: 20260905_1053 -->
 # 가톨릭 공식 문헌 내부 정합성 감사 — CVCAP 3.0 최종 통합본 (v10)
 **부제: The Catholic Audit — Reclassified Edition (판정 코드 재분류판)**
 
