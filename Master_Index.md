@@ -1,14 +1,14 @@
 # Master Index
 
-**Generated**: 2026-09-09 18:17
-**Total Managed Documents**: 166
+**Generated**: 2026-09-10 07:29
+**Total Managed Documents**: 167
 **KO Repository**: D:\01.TheScriptureAudit\
 **EN Repository**: D:\01.TheScriptureAudit-en\
 
 > Each document carries a single-line header `<!-- doc_no: YYYYMMDD_NNNN | ver: YYYYMMDD_HHmm -->` at the very top (KO and EN share the same `doc_no`; each side's `ver` is independent). `doc_no` is the sole matching key between KO and EN -- never the filename.
 > This file is generated. To refresh it: `python scripts/rebuild_master_index.py`.
 
-## the-scripture-audit (158)
+## the-scripture-audit (159)
 
 | doc_no | file_nm | file_nm_ko | 번역유무 | 줄수 | 마지막update |
 |---|---|---|:---:|---:|---|
@@ -170,6 +170,7 @@
 | 20260907_0001 | README.md | README.md | Y | 942 | 20260907_2017 |
 | 20260908_0001 | REPORT_Ahaziah_22vs42_Strong.md | REPORT_아하지야_22세vs42세_유력.md | Y | 300 | 20260909_1816 |
 | 20260909_0002 | [A+C+G+AC]_Ahaziah_22vs42_OmrideEra.md | [A+C+G+AC]_아하지야_22세vs42세_오므리왕조력.md | Y | 92 | 20260909_1816 |
+| 20260910_0001 | REPORT_Matthew16_28_NotTasteDeath_Transfiguration_Confirmed.md | REPORT_마태16장28절_죽음을맛보지않을자_변화산_확정.md | Y | 205 | 20260910_0727 |
 
 ## the-catholic-audit (2)
 
