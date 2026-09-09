@@ -1,7 +1,7 @@
 # ⚖️ TheScriptureAudit
 **Official Home: [TheScripture.org](https://TheScripture.org)**  
 **Core Engine: `the-scripture-audit`**
-> en **English Repository(영어 전용 저장소)**: [the-scripture-audit](https://github.com/jloveonly-prog/the-scripture-audit)
+> en **English Repository(영어 전용 저장소)**: [the-scripture-audit-en](https://github.com/jloveonly-prog/the-scripture-audit-en)
 
 
 > **"대저 여호와의 말씀은 정직하며 그 행사는 다 진실하시도다." (시 33:4)**  

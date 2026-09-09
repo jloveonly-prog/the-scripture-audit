@@ -1,6 +1,6 @@
 ---
 name: sync-translate
-description: origin/main에 push된 KO 문서 중 아직 EN으로 번역 안 됐거나 KO가 더 최신인 문서를 찾아 Claude가 직접 번역해서 01.TheScriptureAudit(EN)에 반영하고 Master_Index.md를 갱신한다.
+description: origin/main에 push된 KO 문서 중 아직 EN으로 번역 안 됐거나 KO가 더 최신인 문서를 찾아 Claude가 직접 번역해서 01.TheScriptureAudit-en(EN)에 반영하고 Master_Index.md를 갱신한다.
 ---
 
 # KO → EN 번역 동기화 스킬
@@ -20,9 +20,11 @@ description: origin/main에 push된 KO 문서 중 아직 EN으로 번역 안 됐
 
 ### 0. 경로
 
+> ⚠️ 2026-09-05 재편 이후 이 저장소(접미사 없는 `01.TheScriptureAudit`)가 활성 KO 작업 저장소이며, 실제 EN 목적지 폴더명은 언더스코어(`_en`)가 아니라 **하이픈(`-en`)**이다 (`01.TheScriptureAudit-ko`도 마찬가지로 하이픈 — 동결된 과거 이력 보관소이며 번역 대상 아님).
+
 ```
-KO_ROOT = 이 스킬이 실행되는 저장소 루트 (D:\01.TheScriptureAudit_ko)
-EN_ROOT = KO_ROOT에서 "_ko" 제거 (D:\01.TheScriptureAudit)
+KO_ROOT = 이 스킬이 실행되는 저장소 루트 (D:\01.TheScriptureAudit, 접미사 없음)
+EN_ROOT = KO_ROOT + "-en" (D:\01.TheScriptureAudit-en)
 PROJECTS = the-scripture-audit, the-catholic-audit, the-sermon-audit
 ```
 

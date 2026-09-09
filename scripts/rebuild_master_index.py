@@ -18,8 +18,8 @@ import re
 from datetime import datetime
 
 SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-KO_ROOT = os.path.dirname(SCRIPT_DIR)              # D:\01.TheScriptureAudit_ko
-EN_ROOT = KO_ROOT.replace('_ko', '')                # D:\01.TheScriptureAudit
+KO_ROOT = os.path.dirname(SCRIPT_DIR)              # D:\01.TheScriptureAudit (접미사 없음, 2026-09-05부터 활성 KO)
+EN_ROOT = KO_ROOT + '-en'                           # D:\01.TheScriptureAudit-en (신규 EN 번역 목적지)
 
 PROJECTS = ['the-scripture-audit', 'the-catholic-audit', 'the-sermon-audit']
 SKIP_DIR_NAMES = {'.git', 'backup', '검토필요', '_Legacy_Engines_back'}
