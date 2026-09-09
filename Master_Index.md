@@ -1,14 +1,14 @@
 # Master Index
 
-**Generated**: 2026-09-07 21:22
-**Total Managed Documents**: 165
+**Generated**: 2026-09-09 17:41
+**Total Managed Documents**: 166
 **KO Repository**: D:\01.TheScriptureAudit\
 **EN Repository**: D:\01.TheScriptureAudit-en\
 
 > Each document carries a single-line header `<!-- doc_no: YYYYMMDD_NNNN | ver: YYYYMMDD_HHmm -->` at the very top (KO and EN share the same `doc_no`; each side's `ver` is independent). `doc_no` is the sole matching key between KO and EN -- never the filename.
 > This file is generated. To refresh it: `python scripts/rebuild_master_index.py`.
 
-## the-scripture-audit (157)
+## the-scripture-audit (158)
 
 | doc_no | file_nm | file_nm_ko | 번역유무 | 줄수 | 마지막update |
 |---|---|---|:---:|---:|---|
@@ -166,9 +166,10 @@
 | 20260829_0154 | BVCAP_Pipeline.md | BVCAP_Pipeline.md | Y | 1098 | 20260829_0942 |
 | 20260829_0156 | BVCAP_User_Guide.md | BVCAP_사용자_가이드.md | Y | 589 | 20260829_0942 |
 | 20260829_0209 | [AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md | [AB+AR+AS+AT+AU+E+AC]_멜키세덱_첫번째세상_민족형성.md | Y | 3371 | 20260829_0942 |
-| 20260829_0210 | [A]_Ahaziah_42vs22.md | [A]_아하지야_42vs22.md | Y | 125 | 20260829_0942 |
+| 20260829_0210 | [A]_Ahaziah_42vs22.md | [A]_아하지야_42vs22.md | Y | 128 | 20260909_1735 |
 | 20260829_0211 | [B]_Resurrection_Morning_Tomb_Event_Chronological_Integration.md | [B]_무덤사건_부활아침_순차통합.md | Y | 548 | 20260829_0942 |
 | 20260907_0001 | README.md | README.md | Y | 942 | 20260907_2017 |
+| 20260908_0001 | REPORT_Ahaziah_22vs42_Strong.md | REPORT_아하지야_22세vs42세_유력.md | Y | 300 | 20260909_1735 |
 
 ## the-catholic-audit (2)
 
