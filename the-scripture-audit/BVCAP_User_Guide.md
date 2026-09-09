@@ -170,7 +170,7 @@ The folder structure of this repository is not a simple file classification. It 
 | **[F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdom** | F+E+G+N+P+I+T+S | 7-fold typology + COMBO-SF11 (θέλω blocker) → IRONCLAD | ✅✅✅ |
 | **[G+H+I]_1John_Comma** | G + H + I | Greek Gender collapse (G) + 4 independent sources reversal (H) + 22-word design (I) | ✅ Tentative |
 | **[O+P+Q]_Millennium_LittleSeason** | O + P + Q | Physical marker absence + Retorsion + Language quantification constraint 3-fold defense | ✅ |
-| **[A]_Ahaziah_42vs22** | A + E | 32+8+2=42 serial reverse calc, Ben idiom | ✅ |
+| **[A+C+G+AC]_Ahaziah_22vs42_OmrideEra** | A + C + G + AC (+E elimination, +K biology) | 69−27=42 dynastic-era reverse calc, 32+8=40 father wall, grammatical subject fixed, 16 hypotheses CP-SAT infeasible | ✅✅ Strong |
 | **[A]_Terah_AbramBirth** | A + D | 205-75=130 reverse calc, Hebrew genealogy formula | ✅ |
 | **[B]_Saul_Damascus** | B | 7-stage utterance sequence reconstruction | ✅ |
 | **[B+E]_PassionWeek_Timeline** | B + E | Separation of two Sabbaths, spice purchase gap verified | ✅ |
@@ -346,9 +346,9 @@ The precision forensic weapons loaded as `TYPE-*.md` files in the actual `QUIVER
 | Grade | Definition | Relevant Precedent |
 |:---:|:---|:---|
 | **S** | Highest complexity precedent that improved the entire system — derived new weapons/types | **[B]_TombIncident_ResurrectionMorning** |
-| **A** | Activation of 3+ complex TYPEs + High-level original language verification | [G+H+I]_1John_Comma, [F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdom |
+| **A** | Activation of 3+ complex TYPEs + High-level original language verification | [G+H+I]_1John_Comma, [F+E+G+N+P+I+T+S]_Peter_CalvaryMartyrdom, [A+C+G+AC]_Ahaziah_22vs42_OmrideEra |
 | **B** | Activation of 2 complex TYPEs | [B+E]_PassionWeek_Timeline, [D+G]_Timna_Genealogy |
-| **C** | Single TYPE precedent | [A]_Ahaziah_42vs22, [C]_Solomon_Stalls, [J]_Thomas_Silla |
+| **C** | Single TYPE precedent | [C]_Solomon_Stalls, [J]_Thomas_Silla |
 
 > **AI Instruction**: Judge the complexity of the new case first, and refer to CHRONICLE precedents of the same grade as a quality standard. For S-grade cases (CASE-MULTI), you must strictly follow the CASE-MULTI protocol below.
 

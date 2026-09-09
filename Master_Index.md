@@ -1,6 +1,6 @@
 # Master Index
 
-**Generated**: 2026-09-09 17:41
+**Generated**: 2026-09-09 18:17
 **Total Managed Documents**: 166
 **KO Repository**: D:\01.TheScriptureAudit\
 **EN Repository**: D:\01.TheScriptureAudit-en\
@@ -14,10 +14,10 @@
 |---|---|---|:---:|---:|---|
 | 20260829_0001 | CREED_Override.md | CREED_Override.md | Y | 218 | 20260829_0942 |
 | 20260829_0002 | IDENTITY_Scribe42.md | IDENTITY_Scribe42.md | Y | 171 | 20260829_0942 |
-| 20260829_0003 | MANDATE_Agent.md | MANDATE_Agent.md | Y | 89 | 20260829_0942 |
-| 20260829_0004 | ANALOGY_Modern.md | ANALOGY_Modern.md | Y | 67 | 20260829_0942 |
-| 20260829_0005 | ANCHOR_ThirdData.md | ANCHOR_ThirdData.md | Y | 390 | 20260829_0942 |
-| 20260829_0006 | DEOVERLAP_Serial.md | DEOVERLAP_Serial.md | Y | 172 | 20260829_0942 |
+| 20260829_0003 | MANDATE_Agent.md | MANDATE_Agent.md | Y | 92 | 20260909_1816 |
+| 20260829_0004 | ANALOGY_Modern.md | ANALOGY_Modern.md | Y | 67 | 20260909_1816 |
+| 20260829_0005 | ANCHOR_ThirdData.md | ANCHOR_ThirdData.md | Y | 400 | 20260909_1816 |
+| 20260829_0006 | DEOVERLAP_Serial.md | DEOVERLAP_Serial.md | Y | 180 | 20260909_1816 |
 | 20260829_0007 | HERMENEUTICS_Hillel_7.md | HERMENEUTICS_Hillel_7.md | Y | 61 | 20260829_0942 |
 | 20260829_0008 | LEXICON_Bible.md | LEXICON_Bible.md | Y | 294 | 20260829_0942 |
 | 20260829_0009 | TACTIC_Auto_Grill.md | TACTIC_Auto_Grill.md | Y | 51 | 20260829_0942 |
@@ -67,7 +67,7 @@
 | 20260829_0053 | TYPE-AW_DeedWordDiscrepancy.md | TYPE-AW_DeedWordDiscrepancy.md | Y | 152 | 20260829_0942 |
 | 20260829_0054 | TYPE-AX_CuiBono.md | TYPE-AX_CuiBono.md | Y | 155 | 20260829_0942 |
 | 20260829_0055 | TYPE-AY_DemandHierarchy.md | TYPE-AY_DemandHierarchy.md | Y | 159 | 20260829_0942 |
-| 20260829_0056 | TYPE-A_Chronological.md | TYPE-A_Chronological.md | Y | 65 | 20260829_0942 |
+| 20260829_0056 | TYPE-A_Chronological.md | TYPE-A_Chronological.md | Y | 96 | 20260909_1816 |
 | 20260829_0057 | TYPE-B-pi_PerceptionFilter.md | TYPE-B-pi_PerceptionFilter.md | Y | 135 | 20260829_0942 |
 | 20260829_0058 | TYPE-B_Sequential.md | TYPE-B_Sequential.md | Y | 155 | 20260829_0942 |
 | 20260829_0059 | TYPE-C_Functional.md | TYPE-C_Functional.md | Y | 62 | 20260829_0942 |
@@ -163,13 +163,13 @@
 | 20260829_0149 | Isaiah_Easter_KJV.md | 이사야_이스터_kjv.md | Y | 98 | 20260829_0942 |
 | 20260829_0150 | REPORT_WMSCOG_Doctrinal_Contradictions_Integrated_Audit_Masterpiece.md | REPORT_하나님의교회_교리모순_통합감사_Masterpiece.md | Y | 100 | 20260829_0942 |
 | 20260829_0153 | BVCAP_GHQ.md | BVCAP_GHQ.md | Y | 487 | 20260829_0942 |
-| 20260829_0154 | BVCAP_Pipeline.md | BVCAP_Pipeline.md | Y | 1098 | 20260829_0942 |
-| 20260829_0156 | BVCAP_User_Guide.md | BVCAP_사용자_가이드.md | Y | 589 | 20260829_0942 |
+| 20260829_0154 | BVCAP_Pipeline.md | BVCAP_Pipeline.md | Y | 1099 | 20260909_1816 |
+| 20260829_0156 | BVCAP_User_Guide.md | BVCAP_사용자_가이드.md | Y | 589 | 20260909_1816 |
 | 20260829_0209 | [AB+AR+AS+AT+AU+E+AC]_Melchizedek_FirstWorld_NationFormation.md | [AB+AR+AS+AT+AU+E+AC]_멜키세덱_첫번째세상_민족형성.md | Y | 3371 | 20260829_0942 |
-| 20260829_0210 | [A]_Ahaziah_42vs22.md | [A]_아하지야_42vs22.md | Y | 128 | 20260909_1735 |
 | 20260829_0211 | [B]_Resurrection_Morning_Tomb_Event_Chronological_Integration.md | [B]_무덤사건_부활아침_순차통합.md | Y | 548 | 20260829_0942 |
 | 20260907_0001 | README.md | README.md | Y | 942 | 20260907_2017 |
-| 20260908_0001 | REPORT_Ahaziah_22vs42_Strong.md | REPORT_아하지야_22세vs42세_유력.md | Y | 300 | 20260909_1735 |
+| 20260908_0001 | REPORT_Ahaziah_22vs42_Strong.md | REPORT_아하지야_22세vs42세_유력.md | Y | 300 | 20260909_1816 |
+| 20260909_0002 | [A+C+G+AC]_Ahaziah_22vs42_OmrideEra.md | [A+C+G+AC]_아하지야_22세vs42세_오므리왕조력.md | Y | 92 | 20260909_1816 |
 
 ## the-catholic-audit (2)
 
